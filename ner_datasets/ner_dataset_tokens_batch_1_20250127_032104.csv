@@ -1,0 +1,1077 @@
+sentence_id,text,token,ner_tag
+0,"After undergoing emergency angioplasty, the patient was given 20mg Aspirin and 100mg Clopidogrel for 7 days due to हृदय रोग and स्ट्रोक का खतरा.",After,O
+0,"After undergoing emergency angioplasty, the patient was given 20mg Aspirin and 100mg Clopidogrel for 7 days due to हृदय रोग and स्ट्रोक का खतरा.",undergoing,O
+0,"After undergoing emergency angioplasty, the patient was given 20mg Aspirin and 100mg Clopidogrel for 7 days due to हृदय रोग and स्ट्रोक का खतरा.",emergency,O
+0,"After undergoing emergency angioplasty, the patient was given 20mg Aspirin and 100mg Clopidogrel for 7 days due to हृदय रोग and स्ट्रोक का खतरा.",angioplasty,B-PROCEDURE
+0,"After undergoing emergency angioplasty, the patient was given 20mg Aspirin and 100mg Clopidogrel for 7 days due to हृदय रोग and स्ट्रोक का खतरा.",",",O
+0,"After undergoing emergency angioplasty, the patient was given 20mg Aspirin and 100mg Clopidogrel for 7 days due to हृदय रोग and स्ट्रोक का खतरा.",the,O
+0,"After undergoing emergency angioplasty, the patient was given 20mg Aspirin and 100mg Clopidogrel for 7 days due to हृदय रोग and स्ट्रोक का खतरा.",patient,O
+0,"After undergoing emergency angioplasty, the patient was given 20mg Aspirin and 100mg Clopidogrel for 7 days due to हृदय रोग and स्ट्रोक का खतरा.",was,O
+0,"After undergoing emergency angioplasty, the patient was given 20mg Aspirin and 100mg Clopidogrel for 7 days due to हृदय रोग and स्ट्रोक का खतरा.",given,O
+0,"After undergoing emergency angioplasty, the patient was given 20mg Aspirin and 100mg Clopidogrel for 7 days due to हृदय रोग and स्ट्रोक का खतरा.",20mg,B-DOSAGE
+0,"After undergoing emergency angioplasty, the patient was given 20mg Aspirin and 100mg Clopidogrel for 7 days due to हृदय रोग and स्ट्रोक का खतरा.",Aspirin,B-MEDICATION
+0,"After undergoing emergency angioplasty, the patient was given 20mg Aspirin and 100mg Clopidogrel for 7 days due to हृदय रोग and स्ट्रोक का खतरा.",and,O
+0,"After undergoing emergency angioplasty, the patient was given 20mg Aspirin and 100mg Clopidogrel for 7 days due to हृदय रोग and स्ट्रोक का खतरा.",100mg,B-DOSAGE
+0,"After undergoing emergency angioplasty, the patient was given 20mg Aspirin and 100mg Clopidogrel for 7 days due to हृदय रोग and स्ट्रोक का खतरा.",Clopidogrel,B-MEDICATION
+0,"After undergoing emergency angioplasty, the patient was given 20mg Aspirin and 100mg Clopidogrel for 7 days due to हृदय रोग and स्ट्रोक का खतरा.",for,O
+0,"After undergoing emergency angioplasty, the patient was given 20mg Aspirin and 100mg Clopidogrel for 7 days due to हृदय रोग and स्ट्रोक का खतरा.",7,B-DOSAGE
+0,"After undergoing emergency angioplasty, the patient was given 20mg Aspirin and 100mg Clopidogrel for 7 days due to हृदय रोग and स्ट्रोक का खतरा.",days,O
+0,"After undergoing emergency angioplasty, the patient was given 20mg Aspirin and 100mg Clopidogrel for 7 days due to हृदय रोग and स्ट्रोक का खतरा.",due,O
+0,"After undergoing emergency angioplasty, the patient was given 20mg Aspirin and 100mg Clopidogrel for 7 days due to हृदय रोग and स्ट्रोक का खतरा.",to,O
+0,"After undergoing emergency angioplasty, the patient was given 20mg Aspirin and 100mg Clopidogrel for 7 days due to हृदय रोग and स्ट्रोक का खतरा.",हृदय रोग,B-CONDITION
+0,"After undergoing emergency angioplasty, the patient was given 20mg Aspirin and 100mg Clopidogrel for 7 days due to हृदय रोग and स्ट्रोक का खतरा.",और,O
+0,"After undergoing emergency angioplasty, the patient was given 20mg Aspirin and 100mg Clopidogrel for 7 days due to हृदय रोग and स्ट्रोक का खतरा.",स्ट्रोक का खतरा,B-CONDITION
+0,"After undergoing emergency angioplasty, the patient was given 20mg Aspirin and 100mg Clopidogrel for 7 days due to हृदय रोग and स्ट्रोक का खतरा.",.,O
+1,"मुझे दो दिन पहले पेट में तेज़ दर्द और उल्टी हुआ था, इसलिए डॉक्टर ने मुझे एंटीबायोटिक्स कोर्स के लिए भेजा जिसमें प्रतिदिन 500mg Amoxicillin लेना था।",मुझे,O
+1,"मुझे दो दिन पहले पेट में तेज़ दर्द और उल्टी हुआ था, इसलिए डॉक्टर ने मुझे एंटीबायोटिक्स कोर्स के लिए भेजा जिसमें प्रतिदिन 500mg Amoxicillin लेना था।",दो,O
+1,"मुझे दो दिन पहले पेट में तेज़ दर्द और उल्टी हुआ था, इसलिए डॉक्टर ने मुझे एंटीबायोटिक्स कोर्स के लिए भेजा जिसमें प्रतिदिन 500mg Amoxicillin लेना था।",दिन,O
+1,"मुझे दो दिन पहले पेट में तेज़ दर्द और उल्टी हुआ था, इसलिए डॉक्टर ने मुझे एंटीबायोटिक्स कोर्स के लिए भेजा जिसमें प्रतिदिन 500mg Amoxicillin लेना था।",पहले,O
+1,"मुझे दो दिन पहले पेट में तेज़ दर्द और उल्टी हुआ था, इसलिए डॉक्टर ने मुझे एंटीबायोटिक्स कोर्स के लिए भेजा जिसमें प्रतिदिन 500mg Amoxicillin लेना था।",पेट,O
+1,"मुझे दो दिन पहले पेट में तेज़ दर्द और उल्टी हुआ था, इसलिए डॉक्टर ने मुझे एंटीबायोटिक्स कोर्स के लिए भेजा जिसमें प्रतिदिन 500mg Amoxicillin लेना था।",में,O
+1,"मुझे दो दिन पहले पेट में तेज़ दर्द और उल्टी हुआ था, इसलिए डॉक्टर ने मुझे एंटीबायोटिक्स कोर्स के लिए भेजा जिसमें प्रतिदिन 500mg Amoxicillin लेना था।",तेज़ दर्द,B-SYMPTOM
+1,"मुझे दो दिन पहले पेट में तेज़ दर्द और उल्टी हुआ था, इसलिए डॉक्टर ने मुझे एंटीबायोटिक्स कोर्स के लिए भेजा जिसमें प्रतिदिन 500mg Amoxicillin लेना था।",और,O
+1,"मुझे दो दिन पहले पेट में तेज़ दर्द और उल्टी हुआ था, इसलिए डॉक्टर ने मुझे एंटीबायोटिक्स कोर्स के लिए भेजा जिसमें प्रतिदिन 500mg Amoxicillin लेना था।",उल्टी,B-SYMPTOM
+1,"मुझे दो दिन पहले पेट में तेज़ दर्द और उल्टी हुआ था, इसलिए डॉक्टर ने मुझे एंटीबायोटिक्स कोर्स के लिए भेजा जिसमें प्रतिदिन 500mg Amoxicillin लेना था।",हुआ,O
+1,"मुझे दो दिन पहले पेट में तेज़ दर्द और उल्टी हुआ था, इसलिए डॉक्टर ने मुझे एंटीबायोटिक्स कोर्स के लिए भेजा जिसमें प्रतिदिन 500mg Amoxicillin लेना था।",था,O
+1,"मुझे दो दिन पहले पेट में तेज़ दर्द और उल्टी हुआ था, इसलिए डॉक्टर ने मुझे एंटीबायोटिक्स कोर्स के लिए भेजा जिसमें प्रतिदिन 500mg Amoxicillin लेना था।",इसलिए,O
+1,"मुझे दो दिन पहले पेट में तेज़ दर्द और उल्टी हुआ था, इसलिए डॉक्टर ने मुझे एंटीबायोटिक्स कोर्स के लिए भेजा जिसमें प्रतिदिन 500mg Amoxicillin लेना था।",डॉक्टर,O
+1,"मुझे दो दिन पहले पेट में तेज़ दर्द और उल्टी हुआ था, इसलिए डॉक्टर ने मुझे एंटीबायोटिक्स कोर्स के लिए भेजा जिसमें प्रतिदिन 500mg Amoxicillin लेना था।",ने,O
+1,"मुझे दो दिन पहले पेट में तेज़ दर्द और उल्टी हुआ था, इसलिए डॉक्टर ने मुझे एंटीबायोटिक्स कोर्स के लिए भेजा जिसमें प्रतिदिन 500mg Amoxicillin लेना था।",मुझे,O
+1,"मुझे दो दिन पहले पेट में तेज़ दर्द और उल्टी हुआ था, इसलिए डॉक्टर ने मुझे एंटीबायोटिक्स कोर्स के लिए भेजा जिसमें प्रतिदिन 500mg Amoxicillin लेना था।",एंटीबायोटिक्स,B-PROCEDURE
+1,"मुझे दो दिन पहले पेट में तेज़ दर्द और उल्टी हुआ था, इसलिए डॉक्टर ने मुझे एंटीबायोटिक्स कोर्स के लिए भेजा जिसमें प्रतिदिन 500mg Amoxicillin लेना था।",कोर्स,O
+1,"मुझे दो दिन पहले पेट में तेज़ दर्द और उल्टी हुआ था, इसलिए डॉक्टर ने मुझे एंटीबायोटिक्स कोर्स के लिए भेजा जिसमें प्रतिदिन 500mg Amoxicillin लेना था।",के,O
+1,"मुझे दो दिन पहले पेट में तेज़ दर्द और उल्टी हुआ था, इसलिए डॉक्टर ने मुझे एंटीबायोटिक्स कोर्स के लिए भेजा जिसमें प्रतिदिन 500mg Amoxicillin लेना था।",लिए,O
+1,"मुझे दो दिन पहले पेट में तेज़ दर्द और उल्टी हुआ था, इसलिए डॉक्टर ने मुझे एंटीबायोटिक्स कोर्स के लिए भेजा जिसमें प्रतिदिन 500mg Amoxicillin लेना था।",भेजा,O
+1,"मुझे दो दिन पहले पेट में तेज़ दर्द और उल्टी हुआ था, इसलिए डॉक्टर ने मुझे एंटीबायोटिक्स कोर्स के लिए भेजा जिसमें प्रतिदिन 500mg Amoxicillin लेना था।",जिसमें,O
+1,"मुझे दो दिन पहले पेट में तेज़ दर्द और उल्टी हुआ था, इसलिए डॉक्टर ने मुझे एंटीबायोटिक्स कोर्स के लिए भेजा जिसमें प्रतिदिन 500mg Amoxicillin लेना था।",प्रतिदिन,O
+1,"मुझे दो दिन पहले पेट में तेज़ दर्द और उल्टी हुआ था, इसलिए डॉक्टर ने मुझे एंटीबायोटिक्स कोर्स के लिए भेजा जिसमें प्रतिदिन 500mg Amoxicillin लेना था।",500mg,B-DOSAGE
+1,"मुझे दो दिन पहले पेट में तेज़ दर्द और उल्टी हुआ था, इसलिए डॉक्टर ने मुझे एंटीबायोटिक्स कोर्स के लिए भेजा जिसमें प्रतिदिन 500mg Amoxicillin लेना था।",Amoxicillin,B-MEDICATION
+1,"मुझे दो दिन पहले पेट में तेज़ दर्द और उल्टी हुआ था, इसलिए डॉक्टर ने मुझे एंटीबायोटिक्स कोर्स के लिए भेजा जिसमें प्रतिदिन 500mg Amoxicillin लेना था।",लेना,O
+1,"मुझे दो दिन पहले पेट में तेज़ दर्द और उल्टी हुआ था, इसलिए डॉक्टर ने मुझे एंटीबायोटिक्स कोर्स के लिए भेजा जिसमें प्रतिदिन 500mg Amoxicillin लेना था।",था,O
+1,"मुझे दो दिन पहले पेट में तेज़ दर्द और उल्टी हुआ था, इसलिए डॉक्टर ने मुझे एंटीबायोटिक्स कोर्स के लिए भेजा जिसमें प्रतिदिन 500mg Amoxicillin लेना था।",.,O
+2,"The patient with severe टीबी (TB) was experiencing severe chest pain and shortness of breath, thus underwent an urgent ट्रांसक्यूप डायलिसिस (Transcatheter Dialysis) procedure.",The,O
+2,"The patient with severe टीबी (TB) was experiencing severe chest pain and shortness of breath, thus underwent an urgent ट्रांसक्यूप डायलिसिस (Transcatheter Dialysis) procedure.",patient,O
+2,"The patient with severe टीबी (TB) was experiencing severe chest pain and shortness of breath, thus underwent an urgent ट्रांसक्यूप डायलिसिस (Transcatheter Dialysis) procedure.",with,O
+2,"The patient with severe टीबी (TB) was experiencing severe chest pain and shortness of breath, thus underwent an urgent ट्रांसक्यूप डायलिसिस (Transcatheter Dialysis) procedure.",severe,O
+2,"The patient with severe टीबी (TB) was experiencing severe chest pain and shortness of breath, thus underwent an urgent ट्रांसक्यूप डायलिसिस (Transcatheter Dialysis) procedure.",टीबी,B-CONDITION
+2,"The patient with severe टीबी (TB) was experiencing severe chest pain and shortness of breath, thus underwent an urgent ट्रांसक्यूप डायलिसिस (Transcatheter Dialysis) procedure.",was,O
+2,"The patient with severe टीबी (TB) was experiencing severe chest pain and shortness of breath, thus underwent an urgent ट्रांसक्यूप डायलिसिस (Transcatheter Dialysis) procedure.",experiencing,O
+2,"The patient with severe टीबी (TB) was experiencing severe chest pain and shortness of breath, thus underwent an urgent ट्रांसक्यूप डायलिसिस (Transcatheter Dialysis) procedure.",severe,O
+2,"The patient with severe टीबी (TB) was experiencing severe chest pain and shortness of breath, thus underwent an urgent ट्रांसक्यूप डायलिसिस (Transcatheter Dialysis) procedure.",chest,O
+2,"The patient with severe टीबी (TB) was experiencing severe chest pain and shortness of breath, thus underwent an urgent ट्रांसक्यूप डायलिसिस (Transcatheter Dialysis) procedure.",pain,O
+2,"The patient with severe टीबी (TB) was experiencing severe chest pain and shortness of breath, thus underwent an urgent ट्रांसक्यूप डायलिसिस (Transcatheter Dialysis) procedure.",and,O
+2,"The patient with severe टीबी (TB) was experiencing severe chest pain and shortness of breath, thus underwent an urgent ट्रांसक्यूप डायलिसिस (Transcatheter Dialysis) procedure.",shortness,O
+2,"The patient with severe टीबी (TB) was experiencing severe chest pain and shortness of breath, thus underwent an urgent ट्रांसक्यूप डायलिसिस (Transcatheter Dialysis) procedure.",of,O
+2,"The patient with severe टीबी (TB) was experiencing severe chest pain and shortness of breath, thus underwent an urgent ट्रांसक्यूप डायलिसिस (Transcatheter Dialysis) procedure.",breath,O
+2,"The patient with severe टीबी (TB) was experiencing severe chest pain and shortness of breath, thus underwent an urgent ट्रांसक्यूप डायलिसिस (Transcatheter Dialysis) procedure.",thus,O
+2,"The patient with severe टीबी (TB) was experiencing severe chest pain and shortness of breath, thus underwent an urgent ट्रांसक्यूप डायलिसिस (Transcatheter Dialysis) procedure.",underwent,O
+2,"The patient with severe टीबी (TB) was experiencing severe chest pain and shortness of breath, thus underwent an urgent ट्रांसक्यूप डायलिसिस (Transcatheter Dialysis) procedure.",an,O
+2,"The patient with severe टीबी (TB) was experiencing severe chest pain and shortness of breath, thus underwent an urgent ट्रांसक्यूप डायलिसिस (Transcatheter Dialysis) procedure.",urgent,O
+2,"The patient with severe टीबी (TB) was experiencing severe chest pain and shortness of breath, thus underwent an urgent ट्रांसक्यूप डायलिसिस (Transcatheter Dialysis) procedure.",ट्रांसक्यूप डायलिसिस,B-PROCEDURE
+2,"The patient with severe टीबी (TB) was experiencing severe chest pain and shortness of breath, thus underwent an urgent ट्रांसक्यूप डायलिसिस (Transcatheter Dialysis) procedure.",procedure,I-PROCEDURE
+2,"The patient with severe टीबी (TB) was experiencing severe chest pain and shortness of breath, thus underwent an urgent ट्रांसक्यूप डायलिसिस (Transcatheter Dialysis) procedure.",.,O
+3,महिला को गंभीर हृदय रोग के कारण कार्डियक सर्जरी के बाद स्टेंट की आवश्यकता थी और डॉक्टर ने उसे एंटीबायोटिक्स दिए।,महिला,O
+3,महिला को गंभीर हृदय रोग के कारण कार्डियक सर्जरी के बाद स्टेंट की आवश्यकता थी और डॉक्टर ने उसे एंटीबायोटिक्स दिए।,को,O
+3,महिला को गंभीर हृदय रोग के कारण कार्डियक सर्जरी के बाद स्टेंट की आवश्यकता थी और डॉक्टर ने उसे एंटीबायोटिक्स दिए।,गंभीर,O
+3,महिला को गंभीर हृदय रोग के कारण कार्डियक सर्जरी के बाद स्टेंट की आवश्यकता थी और डॉक्टर ने उसे एंटीबायोटिक्स दिए।,हृदय रोग,B-CONDITION
+3,महिला को गंभीर हृदय रोग के कारण कार्डियक सर्जरी के बाद स्टेंट की आवश्यकता थी और डॉक्टर ने उसे एंटीबायोटिक्स दिए।,के,O
+3,महिला को गंभीर हृदय रोग के कारण कार्डियक सर्जरी के बाद स्टेंट की आवश्यकता थी और डॉक्टर ने उसे एंटीबायोटिक्स दिए।,कारण,O
+3,महिला को गंभीर हृदय रोग के कारण कार्डियक सर्जरी के बाद स्टेंट की आवश्यकता थी और डॉक्टर ने उसे एंटीबायोटिक्स दिए।,कार्डियक,B-PROCEDURE
+3,महिला को गंभीर हृदय रोग के कारण कार्डियक सर्जरी के बाद स्टेंट की आवश्यकता थी और डॉक्टर ने उसे एंटीबायोटिक्स दिए।,सर्जरी,I-PROCEDURE
+3,महिला को गंभीर हृदय रोग के कारण कार्डियक सर्जरी के बाद स्टेंट की आवश्यकता थी और डॉक्टर ने उसे एंटीबायोटिक्स दिए।,के,O
+3,महिला को गंभीर हृदय रोग के कारण कार्डियक सर्जरी के बाद स्टेंट की आवश्यकता थी और डॉक्टर ने उसे एंटीबायोटिक्स दिए।,बाद,O
+3,महिला को गंभीर हृदय रोग के कारण कार्डियक सर्जरी के बाद स्टेंट की आवश्यकता थी और डॉक्टर ने उसे एंटीबायोटिक्स दिए।,स्टेंट,B-PROCEDURE
+3,महिला को गंभीर हृदय रोग के कारण कार्डियक सर्जरी के बाद स्टेंट की आवश्यकता थी और डॉक्टर ने उसे एंटीबायोटिक्स दिए।,की,O
+3,महिला को गंभीर हृदय रोग के कारण कार्डियक सर्जरी के बाद स्टेंट की आवश्यकता थी और डॉक्टर ने उसे एंटीबायोटिक्स दिए।,आवश्यकता,O
+3,महिला को गंभीर हृदय रोग के कारण कार्डियक सर्जरी के बाद स्टेंट की आवश्यकता थी और डॉक्टर ने उसे एंटीबायोटिक्स दिए।,थी,O
+3,महिला को गंभीर हृदय रोग के कारण कार्डियक सर्जरी के बाद स्टेंट की आवश्यकता थी और डॉक्टर ने उसे एंटीबायोटिक्स दिए।,और,O
+3,महिला को गंभीर हृदय रोग के कारण कार्डियक सर्जरी के बाद स्टेंट की आवश्यकता थी और डॉक्टर ने उसे एंटीबायोटिक्स दिए।,डॉक्टर,O
+3,महिला को गंभीर हृदय रोग के कारण कार्डियक सर्जरी के बाद स्टेंट की आवश्यकता थी और डॉक्टर ने उसे एंटीबायोटिक्स दिए।,ने,O
+3,महिला को गंभीर हृदय रोग के कारण कार्डियक सर्जरी के बाद स्टेंट की आवश्यकता थी और डॉक्टर ने उसे एंटीबायोटिक्स दिए।,उसे,O
+3,महिला को गंभीर हृदय रोग के कारण कार्डियक सर्जरी के बाद स्टेंट की आवश्यकता थी और डॉक्टर ने उसे एंटीबायोटिक्स दिए।,एंटीबायोटिक्स,B-MEDICATION
+3,महिला को गंभीर हृदय रोग के कारण कार्डियक सर्जरी के बाद स्टेंट की आवश्यकता थी और डॉक्टर ने उसे एंटीबायोटिक्स दिए।,दिए,O
+3,महिला को गंभीर हृदय रोग के कारण कार्डियक सर्जरी के बाद स्टेंट की आवश्यकता थी और डॉक्टर ने उसे एंटीबायोटिक्स दिए।,।,O
+4,"Emergency doctors called for a team to perform an emergency angioplasty on a 45-year-old patient experiencing severe chest pain, high blood pressure, and a history of hypertension and डायबिटीज़. They ordered a blood test to check for elevatedTroponin levels.",Emergency,O
+4,"Emergency doctors called for a team to perform an emergency angioplasty on a 45-year-old patient experiencing severe chest pain, high blood pressure, and a history of hypertension and डायबिटीज़. They ordered a blood test to check for elevatedTroponin levels.",doctors,O
+4,"Emergency doctors called for a team to perform an emergency angioplasty on a 45-year-old patient experiencing severe chest pain, high blood pressure, and a history of hypertension and डायबिटीज़. They ordered a blood test to check for elevatedTroponin levels.",called,O
+4,"Emergency doctors called for a team to perform an emergency angioplasty on a 45-year-old patient experiencing severe chest pain, high blood pressure, and a history of hypertension and डायबिटीज़. They ordered a blood test to check for elevatedTroponin levels.",for,O
+4,"Emergency doctors called for a team to perform an emergency angioplasty on a 45-year-old patient experiencing severe chest pain, high blood pressure, and a history of hypertension and डायबिटीज़. They ordered a blood test to check for elevatedTroponin levels.",a,O
+4,"Emergency doctors called for a team to perform an emergency angioplasty on a 45-year-old patient experiencing severe chest pain, high blood pressure, and a history of hypertension and डायबिटीज़. They ordered a blood test to check for elevatedTroponin levels.",team,O
+4,"Emergency doctors called for a team to perform an emergency angioplasty on a 45-year-old patient experiencing severe chest pain, high blood pressure, and a history of hypertension and डायबिटीज़. They ordered a blood test to check for elevatedTroponin levels.",to,O
+4,"Emergency doctors called for a team to perform an emergency angioplasty on a 45-year-old patient experiencing severe chest pain, high blood pressure, and a history of hypertension and डायबिटीज़. They ordered a blood test to check for elevatedTroponin levels.",perform,O
+4,"Emergency doctors called for a team to perform an emergency angioplasty on a 45-year-old patient experiencing severe chest pain, high blood pressure, and a history of hypertension and डायबिटीज़. They ordered a blood test to check for elevatedTroponin levels.",an,O
+4,"Emergency doctors called for a team to perform an emergency angioplasty on a 45-year-old patient experiencing severe chest pain, high blood pressure, and a history of hypertension and डायबिटीज़. They ordered a blood test to check for elevatedTroponin levels.",emergency,O
+4,"Emergency doctors called for a team to perform an emergency angioplasty on a 45-year-old patient experiencing severe chest pain, high blood pressure, and a history of hypertension and डायबिटीज़. They ordered a blood test to check for elevatedTroponin levels.",angioplasty,B-PROCEDURE
+4,"Emergency doctors called for a team to perform an emergency angioplasty on a 45-year-old patient experiencing severe chest pain, high blood pressure, and a history of hypertension and डायबिटीज़. They ordered a blood test to check for elevatedTroponin levels.",on,O
+4,"Emergency doctors called for a team to perform an emergency angioplasty on a 45-year-old patient experiencing severe chest pain, high blood pressure, and a history of hypertension and डायबिटीज़. They ordered a blood test to check for elevatedTroponin levels.",a,O
+4,"Emergency doctors called for a team to perform an emergency angioplasty on a 45-year-old patient experiencing severe chest pain, high blood pressure, and a history of hypertension and डायबिटीज़. They ordered a blood test to check for elevatedTroponin levels.",45-year-old,O
+4,"Emergency doctors called for a team to perform an emergency angioplasty on a 45-year-old patient experiencing severe chest pain, high blood pressure, and a history of hypertension and डायबिटीज़. They ordered a blood test to check for elevatedTroponin levels.",patient,O
+4,"Emergency doctors called for a team to perform an emergency angioplasty on a 45-year-old patient experiencing severe chest pain, high blood pressure, and a history of hypertension and डायबिटीज़. They ordered a blood test to check for elevatedTroponin levels.",experiencing,O
+4,"Emergency doctors called for a team to perform an emergency angioplasty on a 45-year-old patient experiencing severe chest pain, high blood pressure, and a history of hypertension and डायबिटीज़. They ordered a blood test to check for elevatedTroponin levels.",severe,O
+4,"Emergency doctors called for a team to perform an emergency angioplasty on a 45-year-old patient experiencing severe chest pain, high blood pressure, and a history of hypertension and डायबिटीज़. They ordered a blood test to check for elevatedTroponin levels.",chest,O
+4,"Emergency doctors called for a team to perform an emergency angioplasty on a 45-year-old patient experiencing severe chest pain, high blood pressure, and a history of hypertension and डायबिटीज़. They ordered a blood test to check for elevatedTroponin levels.",pain,B-SYMPTOM
+4,"Emergency doctors called for a team to perform an emergency angioplasty on a 45-year-old patient experiencing severe chest pain, high blood pressure, and a history of hypertension and डायबिटीज़. They ordered a blood test to check for elevatedTroponin levels.",high,O
+4,"Emergency doctors called for a team to perform an emergency angioplasty on a 45-year-old patient experiencing severe chest pain, high blood pressure, and a history of hypertension and डायबिटीज़. They ordered a blood test to check for elevatedTroponin levels.",blood,O
+4,"Emergency doctors called for a team to perform an emergency angioplasty on a 45-year-old patient experiencing severe chest pain, high blood pressure, and a history of hypertension and डायबिटीज़. They ordered a blood test to check for elevatedTroponin levels.",pressure,B-SYMPTOM
+4,"Emergency doctors called for a team to perform an emergency angioplasty on a 45-year-old patient experiencing severe chest pain, high blood pressure, and a history of hypertension and डायबिटीज़. They ordered a blood test to check for elevatedTroponin levels.",and,O
+4,"Emergency doctors called for a team to perform an emergency angioplasty on a 45-year-old patient experiencing severe chest pain, high blood pressure, and a history of hypertension and डायबिटीज़. They ordered a blood test to check for elevatedTroponin levels.",a,O
+4,"Emergency doctors called for a team to perform an emergency angioplasty on a 45-year-old patient experiencing severe chest pain, high blood pressure, and a history of hypertension and डायबिटीज़. They ordered a blood test to check for elevatedTroponin levels.",history,O
+4,"Emergency doctors called for a team to perform an emergency angioplasty on a 45-year-old patient experiencing severe chest pain, high blood pressure, and a history of hypertension and डायबिटीज़. They ordered a blood test to check for elevatedTroponin levels.",of,O
+4,"Emergency doctors called for a team to perform an emergency angioplasty on a 45-year-old patient experiencing severe chest pain, high blood pressure, and a history of hypertension and डायबिटीज़. They ordered a blood test to check for elevatedTroponin levels.",hypertension,B-CONDITION
+4,"Emergency doctors called for a team to perform an emergency angioplasty on a 45-year-old patient experiencing severe chest pain, high blood pressure, and a history of hypertension and डायबिटीज़. They ordered a blood test to check for elevatedTroponin levels.",and,O
+4,"Emergency doctors called for a team to perform an emergency angioplasty on a 45-year-old patient experiencing severe chest pain, high blood pressure, and a history of hypertension and डायबिटीज़. They ordered a blood test to check for elevatedTroponin levels.",डायबिटीज़,B-CONDITION
+4,"Emergency doctors called for a team to perform an emergency angioplasty on a 45-year-old patient experiencing severe chest pain, high blood pressure, and a history of hypertension and डायबिटीज़. They ordered a blood test to check for elevatedTroponin levels.",They,O
+4,"Emergency doctors called for a team to perform an emergency angioplasty on a 45-year-old patient experiencing severe chest pain, high blood pressure, and a history of hypertension and डायबिटीज़. They ordered a blood test to check for elevatedTroponin levels.",ordered,O
+4,"Emergency doctors called for a team to perform an emergency angioplasty on a 45-year-old patient experiencing severe chest pain, high blood pressure, and a history of hypertension and डायबिटीज़. They ordered a blood test to check for elevatedTroponin levels.",a,O
+4,"Emergency doctors called for a team to perform an emergency angioplasty on a 45-year-old patient experiencing severe chest pain, high blood pressure, and a history of hypertension and डायबिटीज़. They ordered a blood test to check for elevatedTroponin levels.",blood,B-TEST
+4,"Emergency doctors called for a team to perform an emergency angioplasty on a 45-year-old patient experiencing severe chest pain, high blood pressure, and a history of hypertension and डायबिटीज़. They ordered a blood test to check for elevatedTroponin levels.",test,I-TEST
+4,"Emergency doctors called for a team to perform an emergency angioplasty on a 45-year-old patient experiencing severe chest pain, high blood pressure, and a history of hypertension and डायबिटीज़. They ordered a blood test to check for elevatedTroponin levels.",to,O
+4,"Emergency doctors called for a team to perform an emergency angioplasty on a 45-year-old patient experiencing severe chest pain, high blood pressure, and a history of hypertension and डायबिटीज़. They ordered a blood test to check for elevatedTroponin levels.",check,O
+4,"Emergency doctors called for a team to perform an emergency angioplasty on a 45-year-old patient experiencing severe chest pain, high blood pressure, and a history of hypertension and डायबिटीज़. They ordered a blood test to check for elevatedTroponin levels.",for,O
+4,"Emergency doctors called for a team to perform an emergency angioplasty on a 45-year-old patient experiencing severe chest pain, high blood pressure, and a history of hypertension and डायबिटीज़. They ordered a blood test to check for elevatedTroponin levels.",elevated,O
+4,"Emergency doctors called for a team to perform an emergency angioplasty on a 45-year-old patient experiencing severe chest pain, high blood pressure, and a history of hypertension and डायबिटीज़. They ordered a blood test to check for elevatedTroponin levels.",Troponin,O
+4,"Emergency doctors called for a team to perform an emergency angioplasty on a 45-year-old patient experiencing severe chest pain, high blood pressure, and a history of hypertension and डायबिटीज़. They ordered a blood test to check for elevatedTroponin levels.",levels,O
+4,"Emergency doctors called for a team to perform an emergency angioplasty on a 45-year-old patient experiencing severe chest pain, high blood pressure, and a history of hypertension and डायबिटीज़. They ordered a blood test to check for elevatedTroponin levels.",.,O
+5,अमर्यादित रक्तचाप (Hypertension) वाले मरीज़ को डॉक्टर ने एंजियोप्लास्टी करने का निर्णय लिया और पहले एक ECG और ब्लड टेस्ट करवाए। प्रारंभिक परिणाम सुझावित कर रहे थे कि मरीज़ की हृदय गति असामान्य थी और उन्हें ग्लूकोज इंजेक्शन देने की आवश्यकता हो सकती है।,अमर्यादित,O
+5,अमर्यादित रक्तचाप (Hypertension) वाले मरीज़ को डॉक्टर ने एंजियोप्लास्टी करने का निर्णय लिया और पहले एक ECG और ब्लड टेस्ट करवाए। प्रारंभिक परिणाम सुझावित कर रहे थे कि मरीज़ की हृदय गति असामान्य थी और उन्हें ग्लूकोज इंजेक्शन देने की आवश्यकता हो सकती है।,रक्तचाप,B-CONDITION
+5,अमर्यादित रक्तचाप (Hypertension) वाले मरीज़ को डॉक्टर ने एंजियोप्लास्टी करने का निर्णय लिया और पहले एक ECG और ब्लड टेस्ट करवाए। प्रारंभिक परिणाम सुझावित कर रहे थे कि मरीज़ की हृदय गति असामान्य थी और उन्हें ग्लूकोज इंजेक्शन देने की आवश्यकता हो सकती है।,वाले,O
+5,अमर्यादित रक्तचाप (Hypertension) वाले मरीज़ को डॉक्टर ने एंजियोप्लास्टी करने का निर्णय लिया और पहले एक ECG और ब्लड टेस्ट करवाए। प्रारंभिक परिणाम सुझावित कर रहे थे कि मरीज़ की हृदय गति असामान्य थी और उन्हें ग्लूकोज इंजेक्शन देने की आवश्यकता हो सकती है।,मरीज़,O
+5,अमर्यादित रक्तचाप (Hypertension) वाले मरीज़ को डॉक्टर ने एंजियोप्लास्टी करने का निर्णय लिया और पहले एक ECG और ब्लड टेस्ट करवाए। प्रारंभिक परिणाम सुझावित कर रहे थे कि मरीज़ की हृदय गति असामान्य थी और उन्हें ग्लूकोज इंजेक्शन देने की आवश्यकता हो सकती है।,को,O
+5,अमर्यादित रक्तचाप (Hypertension) वाले मरीज़ को डॉक्टर ने एंजियोप्लास्टी करने का निर्णय लिया और पहले एक ECG और ब्लड टेस्ट करवाए। प्रारंभिक परिणाम सुझावित कर रहे थे कि मरीज़ की हृदय गति असामान्य थी और उन्हें ग्लूकोज इंजेक्शन देने की आवश्यकता हो सकती है।,डॉक्टर,O
+5,अमर्यादित रक्तचाप (Hypertension) वाले मरीज़ को डॉक्टर ने एंजियोप्लास्टी करने का निर्णय लिया और पहले एक ECG और ब्लड टेस्ट करवाए। प्रारंभिक परिणाम सुझावित कर रहे थे कि मरीज़ की हृदय गति असामान्य थी और उन्हें ग्लूकोज इंजेक्शन देने की आवश्यकता हो सकती है।,ने,O
+5,अमर्यादित रक्तचाप (Hypertension) वाले मरीज़ को डॉक्टर ने एंजियोप्लास्टी करने का निर्णय लिया और पहले एक ECG और ब्लड टेस्ट करवाए। प्रारंभिक परिणाम सुझावित कर रहे थे कि मरीज़ की हृदय गति असामान्य थी और उन्हें ग्लूकोज इंजेक्शन देने की आवश्यकता हो सकती है।,एंजियोप्लास्टी,B-PROCEDURE
+5,अमर्यादित रक्तचाप (Hypertension) वाले मरीज़ को डॉक्टर ने एंजियोप्लास्टी करने का निर्णय लिया और पहले एक ECG और ब्लड टेस्ट करवाए। प्रारंभिक परिणाम सुझावित कर रहे थे कि मरीज़ की हृदय गति असामान्य थी और उन्हें ग्लूकोज इंजेक्शन देने की आवश्यकता हो सकती है।,करने,O
+5,अमर्यादित रक्तचाप (Hypertension) वाले मरीज़ को डॉक्टर ने एंजियोप्लास्टी करने का निर्णय लिया और पहले एक ECG और ब्लड टेस्ट करवाए। प्रारंभिक परिणाम सुझावित कर रहे थे कि मरीज़ की हृदय गति असामान्य थी और उन्हें ग्लूकोज इंजेक्शन देने की आवश्यकता हो सकती है।,का,O
+5,अमर्यादित रक्तचाप (Hypertension) वाले मरीज़ को डॉक्टर ने एंजियोप्लास्टी करने का निर्णय लिया और पहले एक ECG और ब्लड टेस्ट करवाए। प्रारंभिक परिणाम सुझावित कर रहे थे कि मरीज़ की हृदय गति असामान्य थी और उन्हें ग्लूकोज इंजेक्शन देने की आवश्यकता हो सकती है।,निर्णय,O
+5,अमर्यादित रक्तचाप (Hypertension) वाले मरीज़ को डॉक्टर ने एंजियोप्लास्टी करने का निर्णय लिया और पहले एक ECG और ब्लड टेस्ट करवाए। प्रारंभिक परिणाम सुझावित कर रहे थे कि मरीज़ की हृदय गति असामान्य थी और उन्हें ग्लूकोज इंजेक्शन देने की आवश्यकता हो सकती है।,लिया,O
+5,अमर्यादित रक्तचाप (Hypertension) वाले मरीज़ को डॉक्टर ने एंजियोप्लास्टी करने का निर्णय लिया और पहले एक ECG और ब्लड टेस्ट करवाए। प्रारंभिक परिणाम सुझावित कर रहे थे कि मरीज़ की हृदय गति असामान्य थी और उन्हें ग्लूकोज इंजेक्शन देने की आवश्यकता हो सकती है।,और,O
+5,अमर्यादित रक्तचाप (Hypertension) वाले मरीज़ को डॉक्टर ने एंजियोप्लास्टी करने का निर्णय लिया और पहले एक ECG और ब्लड टेस्ट करवाए। प्रारंभिक परिणाम सुझावित कर रहे थे कि मरीज़ की हृदय गति असामान्य थी और उन्हें ग्लूकोज इंजेक्शन देने की आवश्यकता हो सकती है।,पहले,O
+5,अमर्यादित रक्तचाप (Hypertension) वाले मरीज़ को डॉक्टर ने एंजियोप्लास्टी करने का निर्णय लिया और पहले एक ECG और ब्लड टेस्ट करवाए। प्रारंभिक परिणाम सुझावित कर रहे थे कि मरीज़ की हृदय गति असामान्य थी और उन्हें ग्लूकोज इंजेक्शन देने की आवश्यकता हो सकती है।,एक,O
+5,अमर्यादित रक्तचाप (Hypertension) वाले मरीज़ को डॉक्टर ने एंजियोप्लास्टी करने का निर्णय लिया और पहले एक ECG और ब्लड टेस्ट करवाए। प्रारंभिक परिणाम सुझावित कर रहे थे कि मरीज़ की हृदय गति असामान्य थी और उन्हें ग्लूकोज इंजेक्शन देने की आवश्यकता हो सकती है।,ECG,B-TEST
+5,अमर्यादित रक्तचाप (Hypertension) वाले मरीज़ को डॉक्टर ने एंजियोप्लास्टी करने का निर्णय लिया और पहले एक ECG और ब्लड टेस्ट करवाए। प्रारंभिक परिणाम सुझावित कर रहे थे कि मरीज़ की हृदय गति असामान्य थी और उन्हें ग्लूकोज इंजेक्शन देने की आवश्यकता हो सकती है।,और,O
+5,अमर्यादित रक्तचाप (Hypertension) वाले मरीज़ को डॉक्टर ने एंजियोप्लास्टी करने का निर्णय लिया और पहले एक ECG और ब्लड टेस्ट करवाए। प्रारंभिक परिणाम सुझावित कर रहे थे कि मरीज़ की हृदय गति असामान्य थी और उन्हें ग्लूकोज इंजेक्शन देने की आवश्यकता हो सकती है।,ब्लड,B-TEST
+5,अमर्यादित रक्तचाप (Hypertension) वाले मरीज़ को डॉक्टर ने एंजियोप्लास्टी करने का निर्णय लिया और पहले एक ECG और ब्लड टेस्ट करवाए। प्रारंभिक परिणाम सुझावित कर रहे थे कि मरीज़ की हृदय गति असामान्य थी और उन्हें ग्लूकोज इंजेक्शन देने की आवश्यकता हो सकती है।,टेस्ट,I-TEST
+5,अमर्यादित रक्तचाप (Hypertension) वाले मरीज़ को डॉक्टर ने एंजियोप्लास्टी करने का निर्णय लिया और पहले एक ECG और ब्लड टेस्ट करवाए। प्रारंभिक परिणाम सुझावित कर रहे थे कि मरीज़ की हृदय गति असामान्य थी और उन्हें ग्लूकोज इंजेक्शन देने की आवश्यकता हो सकती है।,करवाए,O
+5,अमर्यादित रक्तचाप (Hypertension) वाले मरीज़ को डॉक्टर ने एंजियोप्लास्टी करने का निर्णय लिया और पहले एक ECG और ब्लड टेस्ट करवाए। प्रारंभिक परिणाम सुझावित कर रहे थे कि मरीज़ की हृदय गति असामान्य थी और उन्हें ग्लूकोज इंजेक्शन देने की आवश्यकता हो सकती है।,।,O
+5,अमर्यादित रक्तचाप (Hypertension) वाले मरीज़ को डॉक्टर ने एंजियोप्लास्टी करने का निर्णय लिया और पहले एक ECG और ब्लड टेस्ट करवाए। प्रारंभिक परिणाम सुझावित कर रहे थे कि मरीज़ की हृदय गति असामान्य थी और उन्हें ग्लूकोज इंजेक्शन देने की आवश्यकता हो सकती है।,प्रारंभिक,O
+5,अमर्यादित रक्तचाप (Hypertension) वाले मरीज़ को डॉक्टर ने एंजियोप्लास्टी करने का निर्णय लिया और पहले एक ECG और ब्लड टेस्ट करवाए। प्रारंभिक परिणाम सुझावित कर रहे थे कि मरीज़ की हृदय गति असामान्य थी और उन्हें ग्लूकोज इंजेक्शन देने की आवश्यकता हो सकती है।,परिणाम,O
+5,अमर्यादित रक्तचाप (Hypertension) वाले मरीज़ को डॉक्टर ने एंजियोप्लास्टी करने का निर्णय लिया और पहले एक ECG और ब्लड टेस्ट करवाए। प्रारंभिक परिणाम सुझावित कर रहे थे कि मरीज़ की हृदय गति असामान्य थी और उन्हें ग्लूकोज इंजेक्शन देने की आवश्यकता हो सकती है।,सुझावित,O
+5,अमर्यादित रक्तचाप (Hypertension) वाले मरीज़ को डॉक्टर ने एंजियोप्लास्टी करने का निर्णय लिया और पहले एक ECG और ब्लड टेस्ट करवाए। प्रारंभिक परिणाम सुझावित कर रहे थे कि मरीज़ की हृदय गति असामान्य थी और उन्हें ग्लूकोज इंजेक्शन देने की आवश्यकता हो सकती है।,कर,O
+5,अमर्यादित रक्तचाप (Hypertension) वाले मरीज़ को डॉक्टर ने एंजियोप्लास्टी करने का निर्णय लिया और पहले एक ECG और ब्लड टेस्ट करवाए। प्रारंभिक परिणाम सुझावित कर रहे थे कि मरीज़ की हृदय गति असामान्य थी और उन्हें ग्लूकोज इंजेक्शन देने की आवश्यकता हो सकती है।,रहे,O
+5,अमर्यादित रक्तचाप (Hypertension) वाले मरीज़ को डॉक्टर ने एंजियोप्लास्टी करने का निर्णय लिया और पहले एक ECG और ब्लड टेस्ट करवाए। प्रारंभिक परिणाम सुझावित कर रहे थे कि मरीज़ की हृदय गति असामान्य थी और उन्हें ग्लूकोज इंजेक्शन देने की आवश्यकता हो सकती है।,थे,O
+5,अमर्यादित रक्तचाप (Hypertension) वाले मरीज़ को डॉक्टर ने एंजियोप्लास्टी करने का निर्णय लिया और पहले एक ECG और ब्लड टेस्ट करवाए। प्रारंभिक परिणाम सुझावित कर रहे थे कि मरीज़ की हृदय गति असामान्य थी और उन्हें ग्लूकोज इंजेक्शन देने की आवश्यकता हो सकती है।,कि,O
+5,अमर्यादित रक्तचाप (Hypertension) वाले मरीज़ को डॉक्टर ने एंजियोप्लास्टी करने का निर्णय लिया और पहले एक ECG और ब्लड टेस्ट करवाए। प्रारंभिक परिणाम सुझावित कर रहे थे कि मरीज़ की हृदय गति असामान्य थी और उन्हें ग्लूकोज इंजेक्शन देने की आवश्यकता हो सकती है।,मरीज़,O
+5,अमर्यादित रक्तचाप (Hypertension) वाले मरीज़ को डॉक्टर ने एंजियोप्लास्टी करने का निर्णय लिया और पहले एक ECG और ब्लड टेस्ट करवाए। प्रारंभिक परिणाम सुझावित कर रहे थे कि मरीज़ की हृदय गति असामान्य थी और उन्हें ग्लूकोज इंजेक्शन देने की आवश्यकता हो सकती है।,की,O
+5,अमर्यादित रक्तचाप (Hypertension) वाले मरीज़ को डॉक्टर ने एंजियोप्लास्टी करने का निर्णय लिया और पहले एक ECG और ब्लड टेस्ट करवाए। प्रारंभिक परिणाम सुझावित कर रहे थे कि मरीज़ की हृदय गति असामान्य थी और उन्हें ग्लूकोज इंजेक्शन देने की आवश्यकता हो सकती है।,हृदय,O
+5,अमर्यादित रक्तचाप (Hypertension) वाले मरीज़ को डॉक्टर ने एंजियोप्लास्टी करने का निर्णय लिया और पहले एक ECG और ब्लड टेस्ट करवाए। प्रारंभिक परिणाम सुझावित कर रहे थे कि मरीज़ की हृदय गति असामान्य थी और उन्हें ग्लूकोज इंजेक्शन देने की आवश्यकता हो सकती है।,गति,O
+5,अमर्यादित रक्तचाप (Hypertension) वाले मरीज़ को डॉक्टर ने एंजियोप्लास्टी करने का निर्णय लिया और पहले एक ECG और ब्लड टेस्ट करवाए। प्रारंभिक परिणाम सुझावित कर रहे थे कि मरीज़ की हृदय गति असामान्य थी और उन्हें ग्लूकोज इंजेक्शन देने की आवश्यकता हो सकती है।,असामान्य,B-SYMPTOM
+5,अमर्यादित रक्तचाप (Hypertension) वाले मरीज़ को डॉक्टर ने एंजियोप्लास्टी करने का निर्णय लिया और पहले एक ECG और ब्लड टेस्ट करवाए। प्रारंभिक परिणाम सुझावित कर रहे थे कि मरीज़ की हृदय गति असामान्य थी और उन्हें ग्लूकोज इंजेक्शन देने की आवश्यकता हो सकती है।,थी,O
+5,अमर्यादित रक्तचाप (Hypertension) वाले मरीज़ को डॉक्टर ने एंजियोप्लास्टी करने का निर्णय लिया और पहले एक ECG और ब्लड टेस्ट करवाए। प्रारंभिक परिणाम सुझावित कर रहे थे कि मरीज़ की हृदय गति असामान्य थी और उन्हें ग्लूकोज इंजेक्शन देने की आवश्यकता हो सकती है।,और,O
+5,अमर्यादित रक्तचाप (Hypertension) वाले मरीज़ को डॉक्टर ने एंजियोप्लास्टी करने का निर्णय लिया और पहले एक ECG और ब्लड टेस्ट करवाए। प्रारंभिक परिणाम सुझावित कर रहे थे कि मरीज़ की हृदय गति असामान्य थी और उन्हें ग्लूकोज इंजेक्शन देने की आवश्यकता हो सकती है।,उन्हें,O
+5,अमर्यादित रक्तचाप (Hypertension) वाले मरीज़ को डॉक्टर ने एंजियोप्लास्टी करने का निर्णय लिया और पहले एक ECG और ब्लड टेस्ट करवाए। प्रारंभिक परिणाम सुझावित कर रहे थे कि मरीज़ की हृदय गति असामान्य थी और उन्हें ग्लूकोज इंजेक्शन देने की आवश्यकता हो सकती है।,ग्लूकोज,B-MEDICATION
+5,अमर्यादित रक्तचाप (Hypertension) वाले मरीज़ को डॉक्टर ने एंजियोप्लास्टी करने का निर्णय लिया और पहले एक ECG और ब्लड टेस्ट करवाए। प्रारंभिक परिणाम सुझावित कर रहे थे कि मरीज़ की हृदय गति असामान्य थी और उन्हें ग्लूकोज इंजेक्शन देने की आवश्यकता हो सकती है।,इंजेक्शन,B-PROCEDURE
+5,अमर्यादित रक्तचाप (Hypertension) वाले मरीज़ को डॉक्टर ने एंजियोप्लास्टी करने का निर्णय लिया और पहले एक ECG और ब्लड टेस्ट करवाए। प्रारंभिक परिणाम सुझावित कर रहे थे कि मरीज़ की हृदय गति असामान्य थी और उन्हें ग्लूकोज इंजेक्शन देने की आवश्यकता हो सकती है।,देने,O
+5,अमर्यादित रक्तचाप (Hypertension) वाले मरीज़ को डॉक्टर ने एंजियोप्लास्टी करने का निर्णय लिया और पहले एक ECG और ब्लड टेस्ट करवाए। प्रारंभिक परिणाम सुझावित कर रहे थे कि मरीज़ की हृदय गति असामान्य थी और उन्हें ग्लूकोज इंजेक्शन देने की आवश्यकता हो सकती है।,की,O
+5,अमर्यादित रक्तचाप (Hypertension) वाले मरीज़ को डॉक्टर ने एंजियोप्लास्टी करने का निर्णय लिया और पहले एक ECG और ब्लड टेस्ट करवाए। प्रारंभिक परिणाम सुझावित कर रहे थे कि मरीज़ की हृदय गति असामान्य थी और उन्हें ग्लूकोज इंजेक्शन देने की आवश्यकता हो सकती है।,आवश्यकता,O
+5,अमर्यादित रक्तचाप (Hypertension) वाले मरीज़ को डॉक्टर ने एंजियोप्लास्टी करने का निर्णय लिया और पहले एक ECG और ब्लड टेस्ट करवाए। प्रारंभिक परिणाम सुझावित कर रहे थे कि मरीज़ की हृदय गति असामान्य थी और उन्हें ग्लूकोज इंजेक्शन देने की आवश्यकता हो सकती है।,हो,O
+5,अमर्यादित रक्तचाप (Hypertension) वाले मरीज़ को डॉक्टर ने एंजियोप्लास्टी करने का निर्णय लिया और पहले एक ECG और ब्लड टेस्ट करवाए। प्रारंभिक परिणाम सुझावित कर रहे थे कि मरीज़ की हृदय गति असामान्य थी और उन्हें ग्लूकोज इंजेक्शन देने की आवश्यकता हो सकती है।,सकती,O
+5,अमर्यादित रक्तचाप (Hypertension) वाले मरीज़ को डॉक्टर ने एंजियोप्लास्टी करने का निर्णय लिया और पहले एक ECG और ब्लड टेस्ट करवाए। प्रारंभिक परिणाम सुझावित कर रहे थे कि मरीज़ की हृदय गति असामान्य थी और उन्हें ग्लूकोज इंजेक्शन देने की आवश्यकता हो सकती है।,है,O
+5,अमर्यादित रक्तचाप (Hypertension) वाले मरीज़ को डॉक्टर ने एंजियोप्लास्टी करने का निर्णय लिया और पहले एक ECG और ब्लड टेस्ट करवाए। प्रारंभिक परिणाम सुझावित कर रहे थे कि मरीज़ की हृदय गति असामान्य थी और उन्हें ग्लूकोज इंजेक्शन देने की आवश्यकता हो सकती है।,।,O
+6,The patient diagnosed with severe टीबी (TB) was prescribed 10mg Rifampicin twice daily after a positive स्पुतम सांस test and underwent an emergency Thoracotomy procedure.,The,O
+6,The patient diagnosed with severe टीबी (TB) was prescribed 10mg Rifampicin twice daily after a positive स्पुतम सांस test and underwent an emergency Thoracotomy procedure.,patient,O
+6,The patient diagnosed with severe टीबी (TB) was prescribed 10mg Rifampicin twice daily after a positive स्पुतम सांस test and underwent an emergency Thoracotomy procedure.,diagnosed,O
+6,The patient diagnosed with severe टीबी (TB) was prescribed 10mg Rifampicin twice daily after a positive स्पुतम सांस test and underwent an emergency Thoracotomy procedure.,with,O
+6,The patient diagnosed with severe टीबी (TB) was prescribed 10mg Rifampicin twice daily after a positive स्पुतम सांस test and underwent an emergency Thoracotomy procedure.,severe,O
+6,The patient diagnosed with severe टीबी (TB) was prescribed 10mg Rifampicin twice daily after a positive स्पुतम सांस test and underwent an emergency Thoracotomy procedure.,टीबी,B-CONDITION
+6,The patient diagnosed with severe टीबी (TB) was prescribed 10mg Rifampicin twice daily after a positive स्पुतम सांस test and underwent an emergency Thoracotomy procedure.,TB,I-CONDITION
+6,The patient diagnosed with severe टीबी (TB) was prescribed 10mg Rifampicin twice daily after a positive स्पुतम सांस test and underwent an emergency Thoracotomy procedure.,was,O
+6,The patient diagnosed with severe टीबी (TB) was prescribed 10mg Rifampicin twice daily after a positive स्पुतम सांस test and underwent an emergency Thoracotomy procedure.,prescribed,O
+6,The patient diagnosed with severe टीबी (TB) was prescribed 10mg Rifampicin twice daily after a positive स्पुतम सांस test and underwent an emergency Thoracotomy procedure.,10mg,B-DOSAGE
+6,The patient diagnosed with severe टीबी (TB) was prescribed 10mg Rifampicin twice daily after a positive स्पुतम सांस test and underwent an emergency Thoracotomy procedure.,Rifampicin,B-MEDICATION
+6,The patient diagnosed with severe टीबी (TB) was prescribed 10mg Rifampicin twice daily after a positive स्पुतम सांस test and underwent an emergency Thoracotomy procedure.,twice,O
+6,The patient diagnosed with severe टीबी (TB) was prescribed 10mg Rifampicin twice daily after a positive स्पुतम सांस test and underwent an emergency Thoracotomy procedure.,daily,O
+6,The patient diagnosed with severe टीबी (TB) was prescribed 10mg Rifampicin twice daily after a positive स्पुतम सांस test and underwent an emergency Thoracotomy procedure.,after,O
+6,The patient diagnosed with severe टीबी (TB) was prescribed 10mg Rifampicin twice daily after a positive स्पुतम सांस test and underwent an emergency Thoracotomy procedure.,a,O
+6,The patient diagnosed with severe टीबी (TB) was prescribed 10mg Rifampicin twice daily after a positive स्पुतम सांस test and underwent an emergency Thoracotomy procedure.,positive,O
+6,The patient diagnosed with severe टीबी (TB) was prescribed 10mg Rifampicin twice daily after a positive स्पुतम सांस test and underwent an emergency Thoracotomy procedure.,स्पुतम,B-SYMPTOM
+6,The patient diagnosed with severe टीबी (TB) was prescribed 10mg Rifampicin twice daily after a positive स्पुतम सांस test and underwent an emergency Thoracotomy procedure.,सांस,B-SYMPTOM
+6,The patient diagnosed with severe टीबी (TB) was prescribed 10mg Rifampicin twice daily after a positive स्पुतम सांस test and underwent an emergency Thoracotomy procedure.,test,O
+6,The patient diagnosed with severe टीबी (TB) was prescribed 10mg Rifampicin twice daily after a positive स्पुतम सांस test and underwent an emergency Thoracotomy procedure.,and,O
+6,The patient diagnosed with severe टीबी (TB) was prescribed 10mg Rifampicin twice daily after a positive स्पुतम सांस test and underwent an emergency Thoracotomy procedure.,underwent,O
+6,The patient diagnosed with severe टीबी (TB) was prescribed 10mg Rifampicin twice daily after a positive स्पुतम सांस test and underwent an emergency Thoracotomy procedure.,an,O
+6,The patient diagnosed with severe टीबी (TB) was prescribed 10mg Rifampicin twice daily after a positive स्पुतम सांस test and underwent an emergency Thoracotomy procedure.,emergency,O
+6,The patient diagnosed with severe टीबी (TB) was prescribed 10mg Rifampicin twice daily after a positive स्पुतम सांस test and underwent an emergency Thoracotomy procedure.,Thoracotomy,B-PROCEDURE
+6,The patient diagnosed with severe टीबी (TB) was prescribed 10mg Rifampicin twice daily after a positive स्पुतम सांस test and underwent an emergency Thoracotomy procedure.,procedure,I-PROCEDURE
+6,The patient diagnosed with severe टीबी (TB) was prescribed 10mg Rifampicin twice daily after a positive स्पुतम सांस test and underwent an emergency Thoracotomy procedure.,।,O
+7,The emergency department physician performed an immediate angioplasty procedure on the patient with acute coronary syndrome due to severe chest pain and elevated troponin levels.,The,O
+7,The emergency department physician performed an immediate angioplasty procedure on the patient with acute coronary syndrome due to severe chest pain and elevated troponin levels.,emergency,B-CONDITION
+7,The emergency department physician performed an immediate angioplasty procedure on the patient with acute coronary syndrome due to severe chest pain and elevated troponin levels.,department,O
+7,The emergency department physician performed an immediate angioplasty procedure on the patient with acute coronary syndrome due to severe chest pain and elevated troponin levels.,physician,O
+7,The emergency department physician performed an immediate angioplasty procedure on the patient with acute coronary syndrome due to severe chest pain and elevated troponin levels.,performed,O
+7,The emergency department physician performed an immediate angioplasty procedure on the patient with acute coronary syndrome due to severe chest pain and elevated troponin levels.,an,O
+7,The emergency department physician performed an immediate angioplasty procedure on the patient with acute coronary syndrome due to severe chest pain and elevated troponin levels.,immediate,O
+7,The emergency department physician performed an immediate angioplasty procedure on the patient with acute coronary syndrome due to severe chest pain and elevated troponin levels.,angioplasty,B-PROCEDURE
+7,The emergency department physician performed an immediate angioplasty procedure on the patient with acute coronary syndrome due to severe chest pain and elevated troponin levels.,procedure,I-PROCEDURE
+7,The emergency department physician performed an immediate angioplasty procedure on the patient with acute coronary syndrome due to severe chest pain and elevated troponin levels.,on,O
+7,The emergency department physician performed an immediate angioplasty procedure on the patient with acute coronary syndrome due to severe chest pain and elevated troponin levels.,the,O
+7,The emergency department physician performed an immediate angioplasty procedure on the patient with acute coronary syndrome due to severe chest pain and elevated troponin levels.,patient,O
+7,The emergency department physician performed an immediate angioplasty procedure on the patient with acute coronary syndrome due to severe chest pain and elevated troponin levels.,with,O
+7,The emergency department physician performed an immediate angioplasty procedure on the patient with acute coronary syndrome due to severe chest pain and elevated troponin levels.,acute,O
+7,The emergency department physician performed an immediate angioplasty procedure on the patient with acute coronary syndrome due to severe chest pain and elevated troponin levels.,coronary,O
+7,The emergency department physician performed an immediate angioplasty procedure on the patient with acute coronary syndrome due to severe chest pain and elevated troponin levels.,syndrome,B-CONDITION
+7,The emergency department physician performed an immediate angioplasty procedure on the patient with acute coronary syndrome due to severe chest pain and elevated troponin levels.,due,O
+7,The emergency department physician performed an immediate angioplasty procedure on the patient with acute coronary syndrome due to severe chest pain and elevated troponin levels.,to,O
+7,The emergency department physician performed an immediate angioplasty procedure on the patient with acute coronary syndrome due to severe chest pain and elevated troponin levels.,severe,O
+7,The emergency department physician performed an immediate angioplasty procedure on the patient with acute coronary syndrome due to severe chest pain and elevated troponin levels.,chest,O
+7,The emergency department physician performed an immediate angioplasty procedure on the patient with acute coronary syndrome due to severe chest pain and elevated troponin levels.,pain,B-SYMPTOM
+7,The emergency department physician performed an immediate angioplasty procedure on the patient with acute coronary syndrome due to severe chest pain and elevated troponin levels.,and,O
+7,The emergency department physician performed an immediate angioplasty procedure on the patient with acute coronary syndrome due to severe chest pain and elevated troponin levels.,elevated,O
+7,The emergency department physician performed an immediate angioplasty procedure on the patient with acute coronary syndrome due to severe chest pain and elevated troponin levels.,troponin,B-TEST
+7,The emergency department physician performed an immediate angioplasty procedure on the patient with acute coronary syndrome due to severe chest pain and elevated troponin levels.,levels,I-TEST
+7,The emergency department physician performed an immediate angioplasty procedure on the patient with acute coronary syndrome due to severe chest pain and elevated troponin levels.,.,O
+8,The patient who had स्ट्रोक (stroke) was immediately given 300 mg of Alteplase intravenously after an abnormal CT scan.,The,O
+8,The patient who had स्ट्रोक (stroke) was immediately given 300 mg of Alteplase intravenously after an abnormal CT scan.,patient,O
+8,The patient who had स्ट्रोक (stroke) was immediately given 300 mg of Alteplase intravenously after an abnormal CT scan.,who,O
+8,The patient who had स्ट्रोक (stroke) was immediately given 300 mg of Alteplase intravenously after an abnormal CT scan.,had,O
+8,The patient who had स्ट्रोक (stroke) was immediately given 300 mg of Alteplase intravenously after an abnormal CT scan.,स्ट्रोक,B-CONDITION
+8,The patient who had स्ट्रोक (stroke) was immediately given 300 mg of Alteplase intravenously after an abnormal CT scan., (stroke),I-CONDITION
+8,The patient who had स्ट्रोक (stroke) was immediately given 300 mg of Alteplase intravenously after an abnormal CT scan.,was,O
+8,The patient who had स्ट्रोक (stroke) was immediately given 300 mg of Alteplase intravenously after an abnormal CT scan.,immediately,O
+8,The patient who had स्ट्रोक (stroke) was immediately given 300 mg of Alteplase intravenously after an abnormal CT scan.,given,O
+8,The patient who had स्ट्रोक (stroke) was immediately given 300 mg of Alteplase intravenously after an abnormal CT scan.,300 mg,B-DOSAGE
+8,The patient who had स्ट्रोक (stroke) was immediately given 300 mg of Alteplase intravenously after an abnormal CT scan.,of,O
+8,The patient who had स्ट्रोक (stroke) was immediately given 300 mg of Alteplase intravenously after an abnormal CT scan.,Alteplase,B-MEDICATION
+8,The patient who had स्ट्रोक (stroke) was immediately given 300 mg of Alteplase intravenously after an abnormal CT scan.,intravenously,B-PROCEDURE
+8,The patient who had स्ट्रोक (stroke) was immediately given 300 mg of Alteplase intravenously after an abnormal CT scan.,after,O
+8,The patient who had स्ट्रोक (stroke) was immediately given 300 mg of Alteplase intravenously after an abnormal CT scan.,an,O
+8,The patient who had स्ट्रोक (stroke) was immediately given 300 mg of Alteplase intravenously after an abnormal CT scan.,abnormal,O
+8,The patient who had स्ट्रोक (stroke) was immediately given 300 mg of Alteplase intravenously after an abnormal CT scan.,CT,B-TEST
+8,The patient who had स्ट्रोक (stroke) was immediately given 300 mg of Alteplase intravenously after an abnormal CT scan.,scan,O
+8,The patient who had स्ट्रोक (stroke) was immediately given 300 mg of Alteplase intravenously after an abnormal CT scan.,.,O
+9,Emergency room doctor performed an emergency craniotomy on the patient with severe head injury and ordered an urgent CT scan.,Emergency,B-PROCEDURE
+9,Emergency room doctor performed an emergency craniotomy on the patient with severe head injury and ordered an urgent CT scan.,room,O
+9,Emergency room doctor performed an emergency craniotomy on the patient with severe head injury and ordered an urgent CT scan.,doctor,O
+9,Emergency room doctor performed an emergency craniotomy on the patient with severe head injury and ordered an urgent CT scan.,performed,O
+9,Emergency room doctor performed an emergency craniotomy on the patient with severe head injury and ordered an urgent CT scan.,an,O
+9,Emergency room doctor performed an emergency craniotomy on the patient with severe head injury and ordered an urgent CT scan.,emergency,I-PROCEDURE
+9,Emergency room doctor performed an emergency craniotomy on the patient with severe head injury and ordered an urgent CT scan.,craniotomy,I-PROCEDURE
+9,Emergency room doctor performed an emergency craniotomy on the patient with severe head injury and ordered an urgent CT scan.,on,O
+9,Emergency room doctor performed an emergency craniotomy on the patient with severe head injury and ordered an urgent CT scan.,the,O
+9,Emergency room doctor performed an emergency craniotomy on the patient with severe head injury and ordered an urgent CT scan.,patient,O
+9,Emergency room doctor performed an emergency craniotomy on the patient with severe head injury and ordered an urgent CT scan.,with,O
+9,Emergency room doctor performed an emergency craniotomy on the patient with severe head injury and ordered an urgent CT scan.,severe,O
+9,Emergency room doctor performed an emergency craniotomy on the patient with severe head injury and ordered an urgent CT scan.,head,B-SYMPTOM
+9,Emergency room doctor performed an emergency craniotomy on the patient with severe head injury and ordered an urgent CT scan.,injury,I-SYMPTOM
+9,Emergency room doctor performed an emergency craniotomy on the patient with severe head injury and ordered an urgent CT scan.,and,O
+9,Emergency room doctor performed an emergency craniotomy on the patient with severe head injury and ordered an urgent CT scan.,ordered,O
+9,Emergency room doctor performed an emergency craniotomy on the patient with severe head injury and ordered an urgent CT scan.,an,O
+9,Emergency room doctor performed an emergency craniotomy on the patient with severe head injury and ordered an urgent CT scan.,urgent,O
+9,Emergency room doctor performed an emergency craniotomy on the patient with severe head injury and ordered an urgent CT scan.,CT,B-TEST
+9,Emergency room doctor performed an emergency craniotomy on the patient with severe head injury and ordered an urgent CT scan.,scan,I-TEST
+9,Emergency room doctor performed an emergency craniotomy on the patient with severe head injury and ordered an urgent CT scan.,.,O
+10,患有严重心脏病（心脏病）的64岁男性患者在接受了紧急胸部X光检查（胸部X光）和电解质测试（血液检查）后，接受了急诊手术（心脏手术）在全麻状态下进行，医生开出Dolol-650止痛片（腹泻止痛药）和Paracetamol止痛片（止痛药）给病人服用。 ,患有,O
+10,患有严重心脏病（心脏病）的64岁男性患者在接受了紧急胸部X光检查（胸部X光）和电解质测试（血液检查）后，接受了急诊手术（心脏手术）在全麻状态下进行，医生开出Dolol-650止痛片（腹泻止痛药）和Paracetamol止痛片（止痛药）给病人服用。 ,严重,O
+10,患有严重心脏病（心脏病）的64岁男性患者在接受了紧急胸部X光检查（胸部X光）和电解质测试（血液检查）后，接受了急诊手术（心脏手术）在全麻状态下进行，医生开出Dolol-650止痛片（腹泻止痛药）和Paracetamol止痛片（止痛药）给病人服用。 ,心脏病,B-CONDITION
+10,患有严重心脏病（心脏病）的64岁男性患者在接受了紧急胸部X光检查（胸部X光）和电解质测试（血液检查）后，接受了急诊手术（心脏手术）在全麻状态下进行，医生开出Dolol-650止痛片（腹泻止痛药）和Paracetamol止痛片（止痛药）给病人服用。 ,的,O
+10,患有严重心脏病（心脏病）的64岁男性患者在接受了紧急胸部X光检查（胸部X光）和电解质测试（血液检查）后，接受了急诊手术（心脏手术）在全麻状态下进行，医生开出Dolol-650止痛片（腹泻止痛药）和Paracetamol止痛片（止痛药）给病人服用。 ,64岁,O
+10,患有严重心脏病（心脏病）的64岁男性患者在接受了紧急胸部X光检查（胸部X光）和电解质测试（血液检查）后，接受了急诊手术（心脏手术）在全麻状态下进行，医生开出Dolol-650止痛片（腹泻止痛药）和Paracetamol止痛片（止痛药）给病人服用。 ,男性,O
+10,患有严重心脏病（心脏病）的64岁男性患者在接受了紧急胸部X光检查（胸部X光）和电解质测试（血液检查）后，接受了急诊手术（心脏手术）在全麻状态下进行，医生开出Dolol-650止痛片（腹泻止痛药）和Paracetamol止痛片（止痛药）给病人服用。 ,患者,O
+10,患有严重心脏病（心脏病）的64岁男性患者在接受了紧急胸部X光检查（胸部X光）和电解质测试（血液检查）后，接受了急诊手术（心脏手术）在全麻状态下进行，医生开出Dolol-650止痛片（腹泻止痛药）和Paracetamol止痛片（止痛药）给病人服用。 ,在,O
+10,患有严重心脏病（心脏病）的64岁男性患者在接受了紧急胸部X光检查（胸部X光）和电解质测试（血液检查）后，接受了急诊手术（心脏手术）在全麻状态下进行，医生开出Dolol-650止痛片（腹泻止痛药）和Paracetamol止痛片（止痛药）给病人服用。 ,接受了,O
+10,患有严重心脏病（心脏病）的64岁男性患者在接受了紧急胸部X光检查（胸部X光）和电解质测试（血液检查）后，接受了急诊手术（心脏手术）在全麻状态下进行，医生开出Dolol-650止痛片（腹泻止痛药）和Paracetamol止痛片（止痛药）给病人服用。 ,紧急胸部X光,B-TEST
+10,患有严重心脏病（心脏病）的64岁男性患者在接受了紧急胸部X光检查（胸部X光）和电解质测试（血液检查）后，接受了急诊手术（心脏手术）在全麻状态下进行，医生开出Dolol-650止痛片（腹泻止痛药）和Paracetamol止痛片（止痛药）给病人服用。 ,检查,I-TEST
+10,患有严重心脏病（心脏病）的64岁男性患者在接受了紧急胸部X光检查（胸部X光）和电解质测试（血液检查）后，接受了急诊手术（心脏手术）在全麻状态下进行，医生开出Dolol-650止痛片（腹泻止痛药）和Paracetamol止痛片（止痛药）给病人服用。 ,和,O
+10,患有严重心脏病（心脏病）的64岁男性患者在接受了紧急胸部X光检查（胸部X光）和电解质测试（血液检查）后，接受了急诊手术（心脏手术）在全麻状态下进行，医生开出Dolol-650止痛片（腹泻止痛药）和Paracetamol止痛片（止痛药）给病人服用。 ,电解质,O
+10,患有严重心脏病（心脏病）的64岁男性患者在接受了紧急胸部X光检查（胸部X光）和电解质测试（血液检查）后，接受了急诊手术（心脏手术）在全麻状态下进行，医生开出Dolol-650止痛片（腹泻止痛药）和Paracetamol止痛片（止痛药）给病人服用。 ,测试,B-TEST
+10,患有严重心脏病（心脏病）的64岁男性患者在接受了紧急胸部X光检查（胸部X光）和电解质测试（血液检查）后，接受了急诊手术（心脏手术）在全麻状态下进行，医生开出Dolol-650止痛片（腹泻止痛药）和Paracetamol止痛片（止痛药）给病人服用。 ,（,O
+10,患有严重心脏病（心脏病）的64岁男性患者在接受了紧急胸部X光检查（胸部X光）和电解质测试（血液检查）后，接受了急诊手术（心脏手术）在全麻状态下进行，医生开出Dolol-650止痛片（腹泻止痛药）和Paracetamol止痛片（止痛药）给病人服用。 ,血液,O
+10,患有严重心脏病（心脏病）的64岁男性患者在接受了紧急胸部X光检查（胸部X光）和电解质测试（血液检查）后，接受了急诊手术（心脏手术）在全麻状态下进行，医生开出Dolol-650止痛片（腹泻止痛药）和Paracetamol止痛片（止痛药）给病人服用。 ,检查,I-TEST
+10,患有严重心脏病（心脏病）的64岁男性患者在接受了紧急胸部X光检查（胸部X光）和电解质测试（血液检查）后，接受了急诊手术（心脏手术）在全麻状态下进行，医生开出Dolol-650止痛片（腹泻止痛药）和Paracetamol止痛片（止痛药）给病人服用。 ,）,O
+10,患有严重心脏病（心脏病）的64岁男性患者在接受了紧急胸部X光检查（胸部X光）和电解质测试（血液检查）后，接受了急诊手术（心脏手术）在全麻状态下进行，医生开出Dolol-650止痛片（腹泻止痛药）和Paracetamol止痛片（止痛药）给病人服用。 ,后，,O
+10,患有严重心脏病（心脏病）的64岁男性患者在接受了紧急胸部X光检查（胸部X光）和电解质测试（血液检查）后，接受了急诊手术（心脏手术）在全麻状态下进行，医生开出Dolol-650止痛片（腹泻止痛药）和Paracetamol止痛片（止痛药）给病人服用。 ,接受了,O
+10,患有严重心脏病（心脏病）的64岁男性患者在接受了紧急胸部X光检查（胸部X光）和电解质测试（血液检查）后，接受了急诊手术（心脏手术）在全麻状态下进行，医生开出Dolol-650止痛片（腹泻止痛药）和Paracetamol止痛片（止痛药）给病人服用。 ,急诊手术,B-PROCEDURE
+10,患有严重心脏病（心脏病）的64岁男性患者在接受了紧急胸部X光检查（胸部X光）和电解质测试（血液检查）后，接受了急诊手术（心脏手术）在全麻状态下进行，医生开出Dolol-650止痛片（腹泻止痛药）和Paracetamol止痛片（止痛药）给病人服用。 ,（,O
+10,患有严重心脏病（心脏病）的64岁男性患者在接受了紧急胸部X光检查（胸部X光）和电解质测试（血液检查）后，接受了急诊手术（心脏手术）在全麻状态下进行，医生开出Dolol-650止痛片（腹泻止痛药）和Paracetamol止痛片（止痛药）给病人服用。 ,心脏手术,I-PROCEDURE
+10,患有严重心脏病（心脏病）的64岁男性患者在接受了紧急胸部X光检查（胸部X光）和电解质测试（血液检查）后，接受了急诊手术（心脏手术）在全麻状态下进行，医生开出Dolol-650止痛片（腹泻止痛药）和Paracetamol止痛片（止痛药）给病人服用。 ,）,O
+10,患有严重心脏病（心脏病）的64岁男性患者在接受了紧急胸部X光检查（胸部X光）和电解质测试（血液检查）后，接受了急诊手术（心脏手术）在全麻状态下进行，医生开出Dolol-650止痛片（腹泻止痛药）和Paracetamol止痛片（止痛药）给病人服用。 ,在,O
+10,患有严重心脏病（心脏病）的64岁男性患者在接受了紧急胸部X光检查（胸部X光）和电解质测试（血液检查）后，接受了急诊手术（心脏手术）在全麻状态下进行，医生开出Dolol-650止痛片（腹泻止痛药）和Paracetamol止痛片（止痛药）给病人服用。 ,全麻,O
+10,患有严重心脏病（心脏病）的64岁男性患者在接受了紧急胸部X光检查（胸部X光）和电解质测试（血液检查）后，接受了急诊手术（心脏手术）在全麻状态下进行，医生开出Dolol-650止痛片（腹泻止痛药）和Paracetamol止痛片（止痛药）给病人服用。 ,状态下,O
+10,患有严重心脏病（心脏病）的64岁男性患者在接受了紧急胸部X光检查（胸部X光）和电解质测试（血液检查）后，接受了急诊手术（心脏手术）在全麻状态下进行，医生开出Dolol-650止痛片（腹泻止痛药）和Paracetamol止痛片（止痛药）给病人服用。 ,进行,O
+10,患有严重心脏病（心脏病）的64岁男性患者在接受了紧急胸部X光检查（胸部X光）和电解质测试（血液检查）后，接受了急诊手术（心脏手术）在全麻状态下进行，医生开出Dolol-650止痛片（腹泻止痛药）和Paracetamol止痛片（止痛药）给病人服用。 ,，,O
+10,患有严重心脏病（心脏病）的64岁男性患者在接受了紧急胸部X光检查（胸部X光）和电解质测试（血液检查）后，接受了急诊手术（心脏手术）在全麻状态下进行，医生开出Dolol-650止痛片（腹泻止痛药）和Paracetamol止痛片（止痛药）给病人服用。 ,医生,O
+10,患有严重心脏病（心脏病）的64岁男性患者在接受了紧急胸部X光检查（胸部X光）和电解质测试（血液检查）后，接受了急诊手术（心脏手术）在全麻状态下进行，医生开出Dolol-650止痛片（腹泻止痛药）和Paracetamol止痛片（止痛药）给病人服用。 ,开出,O
+10,患有严重心脏病（心脏病）的64岁男性患者在接受了紧急胸部X光检查（胸部X光）和电解质测试（血液检查）后，接受了急诊手术（心脏手术）在全麻状态下进行，医生开出Dolol-650止痛片（腹泻止痛药）和Paracetamol止痛片（止痛药）给病人服用。 ,Dolol-650,B-MEDICATION
+10,患有严重心脏病（心脏病）的64岁男性患者在接受了紧急胸部X光检查（胸部X光）和电解质测试（血液检查）后，接受了急诊手术（心脏手术）在全麻状态下进行，医生开出Dolol-650止痛片（腹泻止痛药）和Paracetamol止痛片（止痛药）给病人服用。 ,止痛片,I-MEDICATION
+10,患有严重心脏病（心脏病）的64岁男性患者在接受了紧急胸部X光检查（胸部X光）和电解质测试（血液检查）后，接受了急诊手术（心脏手术）在全麻状态下进行，医生开出Dolol-650止痛片（腹泻止痛药）和Paracetamol止痛片（止痛药）给病人服用。 ,（,O
+10,患有严重心脏病（心脏病）的64岁男性患者在接受了紧急胸部X光检查（胸部X光）和电解质测试（血液检查）后，接受了急诊手术（心脏手术）在全麻状态下进行，医生开出Dolol-650止痛片（腹泻止痛药）和Paracetamol止痛片（止痛药）给病人服用。 ,腹泻止痛药,I-MEDICATION
+10,患有严重心脏病（心脏病）的64岁男性患者在接受了紧急胸部X光检查（胸部X光）和电解质测试（血液检查）后，接受了急诊手术（心脏手术）在全麻状态下进行，医生开出Dolol-650止痛片（腹泻止痛药）和Paracetamol止痛片（止痛药）给病人服用。 ,）,O
+10,患有严重心脏病（心脏病）的64岁男性患者在接受了紧急胸部X光检查（胸部X光）和电解质测试（血液检查）后，接受了急诊手术（心脏手术）在全麻状态下进行，医生开出Dolol-650止痛片（腹泻止痛药）和Paracetamol止痛片（止痛药）给病人服用。 ,和,O
+10,患有严重心脏病（心脏病）的64岁男性患者在接受了紧急胸部X光检查（胸部X光）和电解质测试（血液检查）后，接受了急诊手术（心脏手术）在全麻状态下进行，医生开出Dolol-650止痛片（腹泻止痛药）和Paracetamol止痛片（止痛药）给病人服用。 ,Paracetamol,B-MEDICATION
+10,患有严重心脏病（心脏病）的64岁男性患者在接受了紧急胸部X光检查（胸部X光）和电解质测试（血液检查）后，接受了急诊手术（心脏手术）在全麻状态下进行，医生开出Dolol-650止痛片（腹泻止痛药）和Paracetamol止痛片（止痛药）给病人服用。 ,止痛片,I-MEDICATION
+10,患有严重心脏病（心脏病）的64岁男性患者在接受了紧急胸部X光检查（胸部X光）和电解质测试（血液检查）后，接受了急诊手术（心脏手术）在全麻状态下进行，医生开出Dolol-650止痛片（腹泻止痛药）和Paracetamol止痛片（止痛药）给病人服用。 ,给,O
+10,患有严重心脏病（心脏病）的64岁男性患者在接受了紧急胸部X光检查（胸部X光）和电解质测试（血液检查）后，接受了急诊手术（心脏手术）在全麻状态下进行，医生开出Dolol-650止痛片（腹泻止痛药）和Paracetamol止痛片（止痛药）给病人服用。 ,病人,O
+10,患有严重心脏病（心脏病）的64岁男性患者在接受了紧急胸部X光检查（胸部X光）和电解质测试（血液检查）后，接受了急诊手术（心脏手术）在全麻状态下进行，医生开出Dolol-650止痛片（腹泻止痛药）和Paracetamol止痛片（止痛药）给病人服用。 ,服用,O
+10,患有严重心脏病（心脏病）的64岁男性患者在接受了紧急胸部X光检查（胸部X光）和电解质测试（血液检查）后，接受了急诊手术（心脏手术）在全麻状态下进行，医生开出Dolol-650止痛片（腹泻止痛药）和Paracetamol止痛片（止痛药）给病人服用。 ,。,O
+11,The patient with severe हृदय रोग ( heart disease ) was taken to OT for Angioplasty and given IV fluids and antibiotics.,The,O
+11,The patient with severe हृदय रोग ( heart disease ) was taken to OT for Angioplasty and given IV fluids and antibiotics.,patient,O
+11,The patient with severe हृदय रोग ( heart disease ) was taken to OT for Angioplasty and given IV fluids and antibiotics.,with,O
+11,The patient with severe हृदय रोग ( heart disease ) was taken to OT for Angioplasty and given IV fluids and antibiotics.,severe,O
+11,The patient with severe हृदय रोग ( heart disease ) was taken to OT for Angioplasty and given IV fluids and antibiotics.,हृदय रोग,B-CONDITION
+11,The patient with severe हृदय रोग ( heart disease ) was taken to OT for Angioplasty and given IV fluids and antibiotics.,(,O
+11,The patient with severe हृदय रोग ( heart disease ) was taken to OT for Angioplasty and given IV fluids and antibiotics.,heart disease,I-CONDITION
+11,The patient with severe हृदय रोग ( heart disease ) was taken to OT for Angioplasty and given IV fluids and antibiotics.,),O
+11,The patient with severe हृदय रोग ( heart disease ) was taken to OT for Angioplasty and given IV fluids and antibiotics.,was,O
+11,The patient with severe हृदय रोग ( heart disease ) was taken to OT for Angioplasty and given IV fluids and antibiotics.,taken,O
+11,The patient with severe हृदय रोग ( heart disease ) was taken to OT for Angioplasty and given IV fluids and antibiotics.,to,O
+11,The patient with severe हृदय रोग ( heart disease ) was taken to OT for Angioplasty and given IV fluids and antibiotics.,OT,B-PROCEDURE
+11,The patient with severe हृदय रोग ( heart disease ) was taken to OT for Angioplasty and given IV fluids and antibiotics.,for,O
+11,The patient with severe हृदय रोग ( heart disease ) was taken to OT for Angioplasty and given IV fluids and antibiotics.,Angioplasty,B-PROCEDURE
+11,The patient with severe हृदय रोग ( heart disease ) was taken to OT for Angioplasty and given IV fluids and antibiotics.,and,O
+11,The patient with severe हृदय रोग ( heart disease ) was taken to OT for Angioplasty and given IV fluids and antibiotics.,given,O
+11,The patient with severe हृदय रोग ( heart disease ) was taken to OT for Angioplasty and given IV fluids and antibiotics.,IV,B-ALLERGEN
+11,The patient with severe हृदय रोग ( heart disease ) was taken to OT for Angioplasty and given IV fluids and antibiotics.,fluids,O
+11,The patient with severe हृदय रोग ( heart disease ) was taken to OT for Angioplasty and given IV fluids and antibiotics.,and,O
+11,The patient with severe हृदय रोग ( heart disease ) was taken to OT for Angioplasty and given IV fluids and antibiotics.,antibiotics,B-MEDICATION
+11,The patient with severe हृदय रोग ( heart disease ) was taken to OT for Angioplasty and given IV fluids and antibiotics.,.,O
+12,"पेशेंट को एंटीबायोटिक्स के साथ-साथ उच्च रक्तचाप के इलाज के लिए 100mg Losartan दिया जाता है, उसके बाद एक नियमित ब्लड टेस्ट और स्कैन की सलाह दी जाती है।",पेशेंट,O
+12,"पेशेंट को एंटीबायोटिक्स के साथ-साथ उच्च रक्तचाप के इलाज के लिए 100mg Losartan दिया जाता है, उसके बाद एक नियमित ब्लड टेस्ट और स्कैन की सलाह दी जाती है।",को,O
+12,"पेशेंट को एंटीबायोटिक्स के साथ-साथ उच्च रक्तचाप के इलाज के लिए 100mg Losartan दिया जाता है, उसके बाद एक नियमित ब्लड टेस्ट और स्कैन की सलाह दी जाती है।",एंटीबायोटिक्स,O
+12,"पेशेंट को एंटीबायोटिक्स के साथ-साथ उच्च रक्तचाप के इलाज के लिए 100mg Losartan दिया जाता है, उसके बाद एक नियमित ब्लड टेस्ट और स्कैन की सलाह दी जाती है।",के,O
+12,"पेशेंट को एंटीबायोटिक्स के साथ-साथ उच्च रक्तचाप के इलाज के लिए 100mg Losartan दिया जाता है, उसके बाद एक नियमित ब्लड टेस्ट और स्कैन की सलाह दी जाती है।",साथ-साथ,O
+12,"पेशेंट को एंटीबायोटिक्स के साथ-साथ उच्च रक्तचाप के इलाज के लिए 100mg Losartan दिया जाता है, उसके बाद एक नियमित ब्लड टेस्ट और स्कैन की सलाह दी जाती है।",उच्च रक्तचाप,B-CONDITION
+12,"पेशेंट को एंटीबायोटिक्स के साथ-साथ उच्च रक्तचाप के इलाज के लिए 100mg Losartan दिया जाता है, उसके बाद एक नियमित ब्लड टेस्ट और स्कैन की सलाह दी जाती है।",के,O
+12,"पेशेंट को एंटीबायोटिक्स के साथ-साथ उच्च रक्तचाप के इलाज के लिए 100mg Losartan दिया जाता है, उसके बाद एक नियमित ब्लड टेस्ट और स्कैन की सलाह दी जाती है।",इलाज,O
+12,"पेशेंट को एंटीबायोटिक्स के साथ-साथ उच्च रक्तचाप के इलाज के लिए 100mg Losartan दिया जाता है, उसके बाद एक नियमित ब्लड टेस्ट और स्कैन की सलाह दी जाती है।",के,O
+12,"पेशेंट को एंटीबायोटिक्स के साथ-साथ उच्च रक्तचाप के इलाज के लिए 100mg Losartan दिया जाता है, उसके बाद एक नियमित ब्लड टेस्ट और स्कैन की सलाह दी जाती है।",लिए,O
+12,"पेशेंट को एंटीबायोटिक्स के साथ-साथ उच्च रक्तचाप के इलाज के लिए 100mg Losartan दिया जाता है, उसके बाद एक नियमित ब्लड टेस्ट और स्कैन की सलाह दी जाती है।",100mg,B-DOSAGE
+12,"पेशेंट को एंटीबायोटिक्स के साथ-साथ उच्च रक्तचाप के इलाज के लिए 100mg Losartan दिया जाता है, उसके बाद एक नियमित ब्लड टेस्ट और स्कैन की सलाह दी जाती है।",Losartan,B-MEDICATION
+12,"पेशेंट को एंटीबायोटिक्स के साथ-साथ उच्च रक्तचाप के इलाज के लिए 100mg Losartan दिया जाता है, उसके बाद एक नियमित ब्लड टेस्ट और स्कैन की सलाह दी जाती है।",दिया,O
+12,"पेशेंट को एंटीबायोटिक्स के साथ-साथ उच्च रक्तचाप के इलाज के लिए 100mg Losartan दिया जाता है, उसके बाद एक नियमित ब्लड टेस्ट और स्कैन की सलाह दी जाती है।",जाता,O
+12,"पेशेंट को एंटीबायोटिक्स के साथ-साथ उच्च रक्तचाप के इलाज के लिए 100mg Losartan दिया जाता है, उसके बाद एक नियमित ब्लड टेस्ट और स्कैन की सलाह दी जाती है।",है,O
+12,"पेशेंट को एंटीबायोटिक्स के साथ-साथ उच्च रक्तचाप के इलाज के लिए 100mg Losartan दिया जाता है, उसके बाद एक नियमित ब्लड टेस्ट और स्कैन की सलाह दी जाती है।",उसके,O
+12,"पेशेंट को एंटीबायोटिक्स के साथ-साथ उच्च रक्तचाप के इलाज के लिए 100mg Losartan दिया जाता है, उसके बाद एक नियमित ब्लड टेस्ट और स्कैन की सलाह दी जाती है।",बाद,O
+12,"पेशेंट को एंटीबायोटिक्स के साथ-साथ उच्च रक्तचाप के इलाज के लिए 100mg Losartan दिया जाता है, उसके बाद एक नियमित ब्लड टेस्ट और स्कैन की सलाह दी जाती है।",एक,O
+12,"पेशेंट को एंटीबायोटिक्स के साथ-साथ उच्च रक्तचाप के इलाज के लिए 100mg Losartan दिया जाता है, उसके बाद एक नियमित ब्लड टेस्ट और स्कैन की सलाह दी जाती है।",नियमित,O
+12,"पेशेंट को एंटीबायोटिक्स के साथ-साथ उच्च रक्तचाप के इलाज के लिए 100mg Losartan दिया जाता है, उसके बाद एक नियमित ब्लड टेस्ट और स्कैन की सलाह दी जाती है।",ब्लड,O
+12,"पेशेंट को एंटीबायोटिक्स के साथ-साथ उच्च रक्तचाप के इलाज के लिए 100mg Losartan दिया जाता है, उसके बाद एक नियमित ब्लड टेस्ट और स्कैन की सलाह दी जाती है।",टेस्ट,B-TEST
+12,"पेशेंट को एंटीबायोटिक्स के साथ-साथ उच्च रक्तचाप के इलाज के लिए 100mg Losartan दिया जाता है, उसके बाद एक नियमित ब्लड टेस्ट और स्कैन की सलाह दी जाती है।",और,O
+12,"पेशेंट को एंटीबायोटिक्स के साथ-साथ उच्च रक्तचाप के इलाज के लिए 100mg Losartan दिया जाता है, उसके बाद एक नियमित ब्लड टेस्ट और स्कैन की सलाह दी जाती है।",स्कैन,B-TEST
+12,"पेशेंट को एंटीबायोटिक्स के साथ-साथ उच्च रक्तचाप के इलाज के लिए 100mg Losartan दिया जाता है, उसके बाद एक नियमित ब्लड टेस्ट और स्कैन की सलाह दी जाती है।",की,O
+12,"पेशेंट को एंटीबायोटिक्स के साथ-साथ उच्च रक्तचाप के इलाज के लिए 100mg Losartan दिया जाता है, उसके बाद एक नियमित ब्लड टेस्ट और स्कैन की सलाह दी जाती है।",सलाह,O
+12,"पेशेंट को एंटीबायोटिक्स के साथ-साथ उच्च रक्तचाप के इलाज के लिए 100mg Losartan दिया जाता है, उसके बाद एक नियमित ब्लड टेस्ट और स्कैन की सलाह दी जाती है।",दी,O
+12,"पेशेंट को एंटीबायोटिक्स के साथ-साथ उच्च रक्तचाप के इलाज के लिए 100mg Losartan दिया जाता है, उसके बाद एक नियमित ब्लड टेस्ट और स्कैन की सलाह दी जाती है।",जाती,O
+12,"पेशेंट को एंटीबायोटिक्स के साथ-साथ उच्च रक्तचाप के इलाज के लिए 100mg Losartan दिया जाता है, उसके बाद एक नियमित ब्लड टेस्ट और स्कैन की सलाह दी जाती है।",है,O
+13,मुख्य डॉक्टर ने ओपीडी में पत्रकार को पहली बार डायबिटीज हृदय रोग से पीड़ित मरीज़ को Angioplasty सर्जरी द्वारा 9mm stent लगाने का सुझाव दिया।,मुख्य,O
+13,मुख्य डॉक्टर ने ओपीडी में पत्रकार को पहली बार डायबिटीज हृदय रोग से पीड़ित मरीज़ को Angioplasty सर्जरी द्वारा 9mm stent लगाने का सुझाव दिया।,डॉक्टर,O
+13,मुख्य डॉक्टर ने ओपीडी में पत्रकार को पहली बार डायबिटीज हृदय रोग से पीड़ित मरीज़ को Angioplasty सर्जरी द्वारा 9mm stent लगाने का सुझाव दिया।,ने,O
+13,मुख्य डॉक्टर ने ओपीडी में पत्रकार को पहली बार डायबिटीज हृदय रोग से पीड़ित मरीज़ को Angioplasty सर्जरी द्वारा 9mm stent लगाने का सुझाव दिया।,ओपीडी,O
+13,मुख्य डॉक्टर ने ओपीडी में पत्रकार को पहली बार डायबिटीज हृदय रोग से पीड़ित मरीज़ को Angioplasty सर्जरी द्वारा 9mm stent लगाने का सुझाव दिया।,में,O
+13,मुख्य डॉक्टर ने ओपीडी में पत्रकार को पहली बार डायबिटीज हृदय रोग से पीड़ित मरीज़ को Angioplasty सर्जरी द्वारा 9mm stent लगाने का सुझाव दिया।,पत्रकार,O
+13,मुख्य डॉक्टर ने ओपीडी में पत्रकार को पहली बार डायबिटीज हृदय रोग से पीड़ित मरीज़ को Angioplasty सर्जरी द्वारा 9mm stent लगाने का सुझाव दिया।,को,O
+13,मुख्य डॉक्टर ने ओपीडी में पत्रकार को पहली बार डायबिटीज हृदय रोग से पीड़ित मरीज़ को Angioplasty सर्जरी द्वारा 9mm stent लगाने का सुझाव दिया।,पहली,O
+13,मुख्य डॉक्टर ने ओपीडी में पत्रकार को पहली बार डायबिटीज हृदय रोग से पीड़ित मरीज़ को Angioplasty सर्जरी द्वारा 9mm stent लगाने का सुझाव दिया।,बार,O
+13,मुख्य डॉक्टर ने ओपीडी में पत्रकार को पहली बार डायबिटीज हृदय रोग से पीड़ित मरीज़ को Angioplasty सर्जरी द्वारा 9mm stent लगाने का सुझाव दिया।,डायबिटीज,O
+13,मुख्य डॉक्टर ने ओपीडी में पत्रकार को पहली बार डायबिटीज हृदय रोग से पीड़ित मरीज़ को Angioplasty सर्जरी द्वारा 9mm stent लगाने का सुझाव दिया।,हृदय,B-CONDITION
+13,मुख्य डॉक्टर ने ओपीडी में पत्रकार को पहली बार डायबिटीज हृदय रोग से पीड़ित मरीज़ को Angioplasty सर्जरी द्वारा 9mm stent लगाने का सुझाव दिया।,रोग,I-CONDITION
+13,मुख्य डॉक्टर ने ओपीडी में पत्रकार को पहली बार डायबिटीज हृदय रोग से पीड़ित मरीज़ को Angioplasty सर्जरी द्वारा 9mm stent लगाने का सुझाव दिया।,से,O
+13,मुख्य डॉक्टर ने ओपीडी में पत्रकार को पहली बार डायबिटीज हृदय रोग से पीड़ित मरीज़ को Angioplasty सर्जरी द्वारा 9mm stent लगाने का सुझाव दिया।,पीड़ित,O
+13,मुख्य डॉक्टर ने ओपीडी में पत्रकार को पहली बार डायबिटीज हृदय रोग से पीड़ित मरीज़ को Angioplasty सर्जरी द्वारा 9mm stent लगाने का सुझाव दिया।,मरीज़,O
+13,मुख्य डॉक्टर ने ओपीडी में पत्रकार को पहली बार डायबिटीज हृदय रोग से पीड़ित मरीज़ को Angioplasty सर्जरी द्वारा 9mm stent लगाने का सुझाव दिया।,को,O
+13,मुख्य डॉक्टर ने ओपीडी में पत्रकार को पहली बार डायबिटीज हृदय रोग से पीड़ित मरीज़ को Angioplasty सर्जरी द्वारा 9mm stent लगाने का सुझाव दिया।,Angioplasty,B-PROCEDURE
+13,मुख्य डॉक्टर ने ओपीडी में पत्रकार को पहली बार डायबिटीज हृदय रोग से पीड़ित मरीज़ को Angioplasty सर्जरी द्वारा 9mm stent लगाने का सुझाव दिया।,सर्जरी,I-PROCEDURE
+13,मुख्य डॉक्टर ने ओपीडी में पत्रकार को पहली बार डायबिटीज हृदय रोग से पीड़ित मरीज़ को Angioplasty सर्जरी द्वारा 9mm stent लगाने का सुझाव दिया।,द्वारा,O
+13,मुख्य डॉक्टर ने ओपीडी में पत्रकार को पहली बार डायबिटीज हृदय रोग से पीड़ित मरीज़ को Angioplasty सर्जरी द्वारा 9mm stent लगाने का सुझाव दिया।,9mm,B-DOSAGE
+13,मुख्य डॉक्टर ने ओपीडी में पत्रकार को पहली बार डायबिटीज हृदय रोग से पीड़ित मरीज़ को Angioplasty सर्जरी द्वारा 9mm stent लगाने का सुझाव दिया।,stent,B-PROCEDURE
+13,मुख्य डॉक्टर ने ओपीडी में पत्रकार को पहली बार डायबिटीज हृदय रोग से पीड़ित मरीज़ को Angioplasty सर्जरी द्वारा 9mm stent लगाने का सुझाव दिया।,लगाने,O
+13,मुख्य डॉक्टर ने ओपीडी में पत्रकार को पहली बार डायबिटीज हृदय रोग से पीड़ित मरीज़ को Angioplasty सर्जरी द्वारा 9mm stent लगाने का सुझाव दिया।,का,O
+13,मुख्य डॉक्टर ने ओपीडी में पत्रकार को पहली बार डायबिटीज हृदय रोग से पीड़ित मरीज़ को Angioplasty सर्जरी द्वारा 9mm stent लगाने का सुझाव दिया।,सुझाव,O
+13,मुख्य डॉक्टर ने ओपीडी में पत्रकार को पहली बार डायबिटीज हृदय रोग से पीड़ित मरीज़ को Angioplasty सर्जरी द्वारा 9mm stent लगाने का सुझाव दिया।,दिया,O
+13,मुख्य डॉक्टर ने ओपीडी में पत्रकार को पहली बार डायबिटीज हृदय रोग से पीड़ित मरीज़ को Angioplasty सर्जरी द्वारा 9mm stent लगाने का सुझाव दिया।,।,O
+14,"The emergency room doctor performed an urgent blood transfusion on the patient with severe TB and a high fever, who was experiencing chest pain and had a history of penicillin allergy.",The,O
+14,"The emergency room doctor performed an urgent blood transfusion on the patient with severe TB and a high fever, who was experiencing chest pain and had a history of penicillin allergy.",emergency,O
+14,"The emergency room doctor performed an urgent blood transfusion on the patient with severe TB and a high fever, who was experiencing chest pain and had a history of penicillin allergy.",room,O
+14,"The emergency room doctor performed an urgent blood transfusion on the patient with severe TB and a high fever, who was experiencing chest pain and had a history of penicillin allergy.",doctor,O
+14,"The emergency room doctor performed an urgent blood transfusion on the patient with severe TB and a high fever, who was experiencing chest pain and had a history of penicillin allergy.",performed,O
+14,"The emergency room doctor performed an urgent blood transfusion on the patient with severe TB and a high fever, who was experiencing chest pain and had a history of penicillin allergy.",an,O
+14,"The emergency room doctor performed an urgent blood transfusion on the patient with severe TB and a high fever, who was experiencing chest pain and had a history of penicillin allergy.",urgent,O
+14,"The emergency room doctor performed an urgent blood transfusion on the patient with severe TB and a high fever, who was experiencing chest pain and had a history of penicillin allergy.",blood,O
+14,"The emergency room doctor performed an urgent blood transfusion on the patient with severe TB and a high fever, who was experiencing chest pain and had a history of penicillin allergy.",transfusion,B-PROCEDURE
+14,"The emergency room doctor performed an urgent blood transfusion on the patient with severe TB and a high fever, who was experiencing chest pain and had a history of penicillin allergy.",on,O
+14,"The emergency room doctor performed an urgent blood transfusion on the patient with severe TB and a high fever, who was experiencing chest pain and had a history of penicillin allergy.",the,O
+14,"The emergency room doctor performed an urgent blood transfusion on the patient with severe TB and a high fever, who was experiencing chest pain and had a history of penicillin allergy.",patient,O
+14,"The emergency room doctor performed an urgent blood transfusion on the patient with severe TB and a high fever, who was experiencing chest pain and had a history of penicillin allergy.",with,O
+14,"The emergency room doctor performed an urgent blood transfusion on the patient with severe TB and a high fever, who was experiencing chest pain and had a history of penicillin allergy.",severe,O
+14,"The emergency room doctor performed an urgent blood transfusion on the patient with severe TB and a high fever, who was experiencing chest pain and had a history of penicillin allergy.",TB,B-CONDITION
+14,"The emergency room doctor performed an urgent blood transfusion on the patient with severe TB and a high fever, who was experiencing chest pain and had a history of penicillin allergy.",and,O
+14,"The emergency room doctor performed an urgent blood transfusion on the patient with severe TB and a high fever, who was experiencing chest pain and had a history of penicillin allergy.",a,O
+14,"The emergency room doctor performed an urgent blood transfusion on the patient with severe TB and a high fever, who was experiencing chest pain and had a history of penicillin allergy.",high,O
+14,"The emergency room doctor performed an urgent blood transfusion on the patient with severe TB and a high fever, who was experiencing chest pain and had a history of penicillin allergy.",fever,B-SYMPTOM
+14,"The emergency room doctor performed an urgent blood transfusion on the patient with severe TB and a high fever, who was experiencing chest pain and had a history of penicillin allergy.",who,O
+14,"The emergency room doctor performed an urgent blood transfusion on the patient with severe TB and a high fever, who was experiencing chest pain and had a history of penicillin allergy.",was,O
+14,"The emergency room doctor performed an urgent blood transfusion on the patient with severe TB and a high fever, who was experiencing chest pain and had a history of penicillin allergy.",experiencing,O
+14,"The emergency room doctor performed an urgent blood transfusion on the patient with severe TB and a high fever, who was experiencing chest pain and had a history of penicillin allergy.",chest,O
+14,"The emergency room doctor performed an urgent blood transfusion on the patient with severe TB and a high fever, who was experiencing chest pain and had a history of penicillin allergy.",pain,B-SYMPTOM
+14,"The emergency room doctor performed an urgent blood transfusion on the patient with severe TB and a high fever, who was experiencing chest pain and had a history of penicillin allergy.",and,O
+14,"The emergency room doctor performed an urgent blood transfusion on the patient with severe TB and a high fever, who was experiencing chest pain and had a history of penicillin allergy.",had,O
+14,"The emergency room doctor performed an urgent blood transfusion on the patient with severe TB and a high fever, who was experiencing chest pain and had a history of penicillin allergy.",a,O
+14,"The emergency room doctor performed an urgent blood transfusion on the patient with severe TB and a high fever, who was experiencing chest pain and had a history of penicillin allergy.",history,O
+14,"The emergency room doctor performed an urgent blood transfusion on the patient with severe TB and a high fever, who was experiencing chest pain and had a history of penicillin allergy.",of,O
+14,"The emergency room doctor performed an urgent blood transfusion on the patient with severe TB and a high fever, who was experiencing chest pain and had a history of penicillin allergy.",penicillin,B-ALLERGEN
+14,"The emergency room doctor performed an urgent blood transfusion on the patient with severe TB and a high fever, who was experiencing chest pain and had a history of penicillin allergy.",allergy,I-ALLERGEN
+14,"The emergency room doctor performed an urgent blood transfusion on the patient with severe TB and a high fever, who was experiencing chest pain and had a history of penicillin allergy.",.,O
+15,Doctor ने patient को कहा कि वह Cardiologist से मिले चाहिए क्योंकि उन्हें severe Chest pain और rapid heart rate है।,Doctor,O
+15,Doctor ने patient को कहा कि वह Cardiologist से मिले चाहिए क्योंकि उन्हें severe Chest pain और rapid heart rate है।,ने,O
+15,Doctor ने patient को कहा कि वह Cardiologist से मिले चाहिए क्योंकि उन्हें severe Chest pain और rapid heart rate है।,patient,O
+15,Doctor ने patient को कहा कि वह Cardiologist से मिले चाहिए क्योंकि उन्हें severe Chest pain और rapid heart rate है।,को,O
+15,Doctor ने patient को कहा कि वह Cardiologist से मिले चाहिए क्योंकि उन्हें severe Chest pain और rapid heart rate है।,कहा,O
+15,Doctor ने patient को कहा कि वह Cardiologist से मिले चाहिए क्योंकि उन्हें severe Chest pain और rapid heart rate है।,कि,O
+15,Doctor ने patient को कहा कि वह Cardiologist से मिले चाहिए क्योंकि उन्हें severe Chest pain और rapid heart rate है।,वह,O
+15,Doctor ने patient को कहा कि वह Cardiologist से मिले चाहिए क्योंकि उन्हें severe Chest pain और rapid heart rate है।,Cardiologist,B-CONDITION
+15,Doctor ने patient को कहा कि वह Cardiologist से मिले चाहिए क्योंकि उन्हें severe Chest pain और rapid heart rate है।,से,O
+15,Doctor ने patient को कहा कि वह Cardiologist से मिले चाहिए क्योंकि उन्हें severe Chest pain और rapid heart rate है।,मिले,O
+15,Doctor ने patient को कहा कि वह Cardiologist से मिले चाहिए क्योंकि उन्हें severe Chest pain और rapid heart rate है।,चाहिए,O
+15,Doctor ने patient को कहा कि वह Cardiologist से मिले चाहिए क्योंकि उन्हें severe Chest pain और rapid heart rate है।,क्योंकि,O
+15,Doctor ने patient को कहा कि वह Cardiologist से मिले चाहिए क्योंकि उन्हें severe Chest pain और rapid heart rate है।,उन्हें,O
+15,Doctor ने patient को कहा कि वह Cardiologist से मिले चाहिए क्योंकि उन्हें severe Chest pain और rapid heart rate है।,severe,O
+15,Doctor ने patient को कहा कि वह Cardiologist से मिले चाहिए क्योंकि उन्हें severe Chest pain और rapid heart rate है।,Chest pain,B-SYMPTOM
+15,Doctor ने patient को कहा कि वह Cardiologist से मिले चाहिए क्योंकि उन्हें severe Chest pain और rapid heart rate है।,और,O
+15,Doctor ने patient को कहा कि वह Cardiologist से मिले चाहिए क्योंकि उन्हें severe Chest pain और rapid heart rate है।,rapid heart rate,B-SYMPTOM
+15,Doctor ने patient को कहा कि वह Cardiologist से मिले चाहिए क्योंकि उन्हें severe Chest pain और rapid heart rate है।,है,O
+15,Doctor ने patient को कहा कि वह Cardiologist से मिले चाहिए क्योंकि उन्हें severe Chest pain और rapid heart rate है।,।,O
+16,Patient ko तेज़ बुखार और सीने में दर्द के कारण डॉक्टर ने आक्सीजन थेरेपी और एंटीबायोटिक्स प्रिस्क्राइब किए।,Patient,O
+16,Patient ko तेज़ बुखार और सीने में दर्द के कारण डॉक्टर ने आक्सीजन थेरेपी और एंटीबायोटिक्स प्रिस्क्राइब किए।,को,O
+16,Patient ko तेज़ बुखार और सीने में दर्द के कारण डॉक्टर ने आक्सीजन थेरेपी और एंटीबायोटिक्स प्रिस्क्राइब किए।,तेज़,O
+16,Patient ko तेज़ बुखार और सीने में दर्द के कारण डॉक्टर ने आक्सीजन थेरेपी और एंटीबायोटिक्स प्रिस्क्राइब किए।,बुखार,B-SYMPTOM
+16,Patient ko तेज़ बुखार और सीने में दर्द के कारण डॉक्टर ने आक्सीजन थेरेपी और एंटीबायोटिक्स प्रिस्क्राइब किए।,और,O
+16,Patient ko तेज़ बुखार और सीने में दर्द के कारण डॉक्टर ने आक्सीजन थेरेपी और एंटीबायोटिक्स प्रिस्क्राइब किए।,सीने,O
+16,Patient ko तेज़ बुखार और सीने में दर्द के कारण डॉक्टर ने आक्सीजन थेरेपी और एंटीबायोटिक्स प्रिस्क्राइब किए।,में,O
+16,Patient ko तेज़ बुखार और सीने में दर्द के कारण डॉक्टर ने आक्सीजन थेरेपी और एंटीबायोटिक्स प्रिस्क्राइब किए।,दर्द,B-SYMPTOM
+16,Patient ko तेज़ बुखार और सीने में दर्द के कारण डॉक्टर ने आक्सीजन थेरेपी और एंटीबायोटिक्स प्रिस्क्राइब किए।,के,O
+16,Patient ko तेज़ बुखार और सीने में दर्द के कारण डॉक्टर ने आक्सीजन थेरेपी और एंटीबायोटिक्स प्रिस्क्राइब किए।,कारण,O
+16,Patient ko तेज़ बुखार और सीने में दर्द के कारण डॉक्टर ने आक्सीजन थेरेपी और एंटीबायोटिक्स प्रिस्क्राइब किए।,डॉक्टर,O
+16,Patient ko तेज़ बुखार और सीने में दर्द के कारण डॉक्टर ने आक्सीजन थेरेपी और एंटीबायोटिक्स प्रिस्क्राइब किए।,ने,O
+16,Patient ko तेज़ बुखार और सीने में दर्द के कारण डॉक्टर ने आक्सीजन थेरेपी और एंटीबायोटिक्स प्रिस्क्राइब किए।,आक्सीजन,O
+16,Patient ko तेज़ बुखार और सीने में दर्द के कारण डॉक्टर ने आक्सीजन थेरेपी और एंटीबायोटिक्स प्रिस्क्राइब किए।,थेरेपी,B-PROCEDURE
+16,Patient ko तेज़ बुखार और सीने में दर्द के कारण डॉक्टर ने आक्सीजन थेरेपी और एंटीबायोटिक्स प्रिस्क्राइब किए।,और,O
+16,Patient ko तेज़ बुखार और सीने में दर्द के कारण डॉक्टर ने आक्सीजन थेरेपी और एंटीबायोटिक्स प्रिस्क्राइब किए।,एंटीबायोटिक्स,B-MEDICATION
+16,Patient ko तेज़ बुखार और सीने में दर्द के कारण डॉक्टर ने आक्सीजन थेरेपी और एंटीबायोटिक्स प्रिस्क्राइब किए।,प्रिस्क्राइब,O
+16,Patient ko तेज़ बुखार और सीने में दर्द के कारण डॉक्टर ने आक्सीजन थेरेपी और एंटीबायोटिक्स प्रिस्क्राइब किए।,किए,O
+16,Patient ko तेज़ बुखार और सीने में दर्द के कारण डॉक्टर ने आक्सीजन थेरेपी और एंटीबायोटिक्स प्रिस्क्राइब किए।,.,O
+17,The patient who suffered from severe Thunderstorm asthma was admitted to ICU after he experienced severe shortness of breath and high fever.,The,O
+17,The patient who suffered from severe Thunderstorm asthma was admitted to ICU after he experienced severe shortness of breath and high fever.,patient,O
+17,The patient who suffered from severe Thunderstorm asthma was admitted to ICU after he experienced severe shortness of breath and high fever.,who,O
+17,The patient who suffered from severe Thunderstorm asthma was admitted to ICU after he experienced severe shortness of breath and high fever.,suffered,O
+17,The patient who suffered from severe Thunderstorm asthma was admitted to ICU after he experienced severe shortness of breath and high fever.,from,O
+17,The patient who suffered from severe Thunderstorm asthma was admitted to ICU after he experienced severe shortness of breath and high fever.,severe,O
+17,The patient who suffered from severe Thunderstorm asthma was admitted to ICU after he experienced severe shortness of breath and high fever.,Thunderstorm,B-CONDITION
+17,The patient who suffered from severe Thunderstorm asthma was admitted to ICU after he experienced severe shortness of breath and high fever.,asthma,I-CONDITION
+17,The patient who suffered from severe Thunderstorm asthma was admitted to ICU after he experienced severe shortness of breath and high fever.,was,O
+17,The patient who suffered from severe Thunderstorm asthma was admitted to ICU after he experienced severe shortness of breath and high fever.,admitted,O
+17,The patient who suffered from severe Thunderstorm asthma was admitted to ICU after he experienced severe shortness of breath and high fever.,to,O
+17,The patient who suffered from severe Thunderstorm asthma was admitted to ICU after he experienced severe shortness of breath and high fever.,ICU,B-PROCEDURE
+17,The patient who suffered from severe Thunderstorm asthma was admitted to ICU after he experienced severe shortness of breath and high fever.,after,O
+17,The patient who suffered from severe Thunderstorm asthma was admitted to ICU after he experienced severe shortness of breath and high fever.,he,O
+17,The patient who suffered from severe Thunderstorm asthma was admitted to ICU after he experienced severe shortness of breath and high fever.,experienced,O
+17,The patient who suffered from severe Thunderstorm asthma was admitted to ICU after he experienced severe shortness of breath and high fever.,severe,O
+17,The patient who suffered from severe Thunderstorm asthma was admitted to ICU after he experienced severe shortness of breath and high fever.,shortness,O
+17,The patient who suffered from severe Thunderstorm asthma was admitted to ICU after he experienced severe shortness of breath and high fever.,of,O
+17,The patient who suffered from severe Thunderstorm asthma was admitted to ICU after he experienced severe shortness of breath and high fever.,breath,B-SYMPTOM
+17,The patient who suffered from severe Thunderstorm asthma was admitted to ICU after he experienced severe shortness of breath and high fever.,and,O
+17,The patient who suffered from severe Thunderstorm asthma was admitted to ICU after he experienced severe shortness of breath and high fever.,high,O
+17,The patient who suffered from severe Thunderstorm asthma was admitted to ICU after he experienced severe shortness of breath and high fever.,fever,B-SYMPTOM
+17,The patient who suffered from severe Thunderstorm asthma was admitted to ICU after he experienced severe shortness of breath and high fever.,.,O
+18,A 25-year-old patient with a history of पैनक्रियाटिक कैंसर (pancreatic cancer) underwent successful Whipple's surgery at Mayo Clinic and was prescribed Chemotherapy as follow-up treatment.,A,O
+18,A 25-year-old patient with a history of पैनक्रियाटिक कैंसर (pancreatic cancer) underwent successful Whipple's surgery at Mayo Clinic and was prescribed Chemotherapy as follow-up treatment.,25-year-old,O
+18,A 25-year-old patient with a history of पैनक्रियाटिक कैंसर (pancreatic cancer) underwent successful Whipple's surgery at Mayo Clinic and was prescribed Chemotherapy as follow-up treatment.,patient,O
+18,A 25-year-old patient with a history of पैनक्रियाटिक कैंसर (pancreatic cancer) underwent successful Whipple's surgery at Mayo Clinic and was prescribed Chemotherapy as follow-up treatment.,with,O
+18,A 25-year-old patient with a history of पैनक्रियाटिक कैंसर (pancreatic cancer) underwent successful Whipple's surgery at Mayo Clinic and was prescribed Chemotherapy as follow-up treatment.,a,O
+18,A 25-year-old patient with a history of पैनक्रियाटिक कैंसर (pancreatic cancer) underwent successful Whipple's surgery at Mayo Clinic and was prescribed Chemotherapy as follow-up treatment.,history,O
+18,A 25-year-old patient with a history of पैनक्रियाटिक कैंसर (pancreatic cancer) underwent successful Whipple's surgery at Mayo Clinic and was prescribed Chemotherapy as follow-up treatment.,of,O
+18,A 25-year-old patient with a history of पैनक्रियाटिक कैंसर (pancreatic cancer) underwent successful Whipple's surgery at Mayo Clinic and was prescribed Chemotherapy as follow-up treatment.,पैनक्रियाटिक,B-CONDITION
+18,A 25-year-old patient with a history of पैनक्रियाटिक कैंसर (pancreatic cancer) underwent successful Whipple's surgery at Mayo Clinic and was prescribed Chemotherapy as follow-up treatment.,कैंसर,I-CONDITION
+18,A 25-year-old patient with a history of पैनक्रियाटिक कैंसर (pancreatic cancer) underwent successful Whipple's surgery at Mayo Clinic and was prescribed Chemotherapy as follow-up treatment.,(pancreatic,B-CONDITION
+18,A 25-year-old patient with a history of पैनक्रियाटिक कैंसर (pancreatic cancer) underwent successful Whipple's surgery at Mayo Clinic and was prescribed Chemotherapy as follow-up treatment.,cancer),O
+18,A 25-year-old patient with a history of पैनक्रियाटिक कैंसर (pancreatic cancer) underwent successful Whipple's surgery at Mayo Clinic and was prescribed Chemotherapy as follow-up treatment.,underwent,O
+18,A 25-year-old patient with a history of पैनक्रियाटिक कैंसर (pancreatic cancer) underwent successful Whipple's surgery at Mayo Clinic and was prescribed Chemotherapy as follow-up treatment.,successful,O
+18,A 25-year-old patient with a history of पैनक्रियाटिक कैंसर (pancreatic cancer) underwent successful Whipple's surgery at Mayo Clinic and was prescribed Chemotherapy as follow-up treatment.,Whipple's,B-PROCEDURE
+18,A 25-year-old patient with a history of पैनक्रियाटिक कैंसर (pancreatic cancer) underwent successful Whipple's surgery at Mayo Clinic and was prescribed Chemotherapy as follow-up treatment.,surgery,I-PROCEDURE
+18,A 25-year-old patient with a history of पैनक्रियाटिक कैंसर (pancreatic cancer) underwent successful Whipple's surgery at Mayo Clinic and was prescribed Chemotherapy as follow-up treatment.,at,O
+18,A 25-year-old patient with a history of पैनक्रियाटिक कैंसर (pancreatic cancer) underwent successful Whipple's surgery at Mayo Clinic and was prescribed Chemotherapy as follow-up treatment.,Mayo,O
+18,A 25-year-old patient with a history of पैनक्रियाटिक कैंसर (pancreatic cancer) underwent successful Whipple's surgery at Mayo Clinic and was prescribed Chemotherapy as follow-up treatment.,Clinic,O
+18,A 25-year-old patient with a history of पैनक्रियाटिक कैंसर (pancreatic cancer) underwent successful Whipple's surgery at Mayo Clinic and was prescribed Chemotherapy as follow-up treatment.,and,O
+18,A 25-year-old patient with a history of पैनक्रियाटिक कैंसर (pancreatic cancer) underwent successful Whipple's surgery at Mayo Clinic and was prescribed Chemotherapy as follow-up treatment.,was,O
+18,A 25-year-old patient with a history of पैनक्रियाटिक कैंसर (pancreatic cancer) underwent successful Whipple's surgery at Mayo Clinic and was prescribed Chemotherapy as follow-up treatment.,prescribed,O
+18,A 25-year-old patient with a history of पैनक्रियाटिक कैंसर (pancreatic cancer) underwent successful Whipple's surgery at Mayo Clinic and was prescribed Chemotherapy as follow-up treatment.,Chemotherapy,B-MEDICATION
+18,A 25-year-old patient with a history of पैनक्रियाटिक कैंसर (pancreatic cancer) underwent successful Whipple's surgery at Mayo Clinic and was prescribed Chemotherapy as follow-up treatment.,as,O
+18,A 25-year-old patient with a history of पैनक्रियाटिक कैंसर (pancreatic cancer) underwent successful Whipple's surgery at Mayo Clinic and was prescribed Chemotherapy as follow-up treatment.,follow-up,O
+18,A 25-year-old patient with a history of पैनक्रियाटिक कैंसर (pancreatic cancer) underwent successful Whipple's surgery at Mayo Clinic and was prescribed Chemotherapy as follow-up treatment.,treatment,O
+19,The patient undergoing severe Hemorrhagic Stroke was administered 2 units of packed RBCs and given Dexamethasone 4mg thrice daily for blood clotting after an MRI scan showed severe damage to the brain.,The,O
+19,The patient undergoing severe Hemorrhagic Stroke was administered 2 units of packed RBCs and given Dexamethasone 4mg thrice daily for blood clotting after an MRI scan showed severe damage to the brain.,patient,O
+19,The patient undergoing severe Hemorrhagic Stroke was administered 2 units of packed RBCs and given Dexamethasone 4mg thrice daily for blood clotting after an MRI scan showed severe damage to the brain.,undergoing,O
+19,The patient undergoing severe Hemorrhagic Stroke was administered 2 units of packed RBCs and given Dexamethasone 4mg thrice daily for blood clotting after an MRI scan showed severe damage to the brain.,severe,O
+19,The patient undergoing severe Hemorrhagic Stroke was administered 2 units of packed RBCs and given Dexamethasone 4mg thrice daily for blood clotting after an MRI scan showed severe damage to the brain.,Hemorrhagic Stroke,B-CONDITION
+19,The patient undergoing severe Hemorrhagic Stroke was administered 2 units of packed RBCs and given Dexamethasone 4mg thrice daily for blood clotting after an MRI scan showed severe damage to the brain.,was,O
+19,The patient undergoing severe Hemorrhagic Stroke was administered 2 units of packed RBCs and given Dexamethasone 4mg thrice daily for blood clotting after an MRI scan showed severe damage to the brain.,administered,O
+19,The patient undergoing severe Hemorrhagic Stroke was administered 2 units of packed RBCs and given Dexamethasone 4mg thrice daily for blood clotting after an MRI scan showed severe damage to the brain.,2,B-DOSAGE
+19,The patient undergoing severe Hemorrhagic Stroke was administered 2 units of packed RBCs and given Dexamethasone 4mg thrice daily for blood clotting after an MRI scan showed severe damage to the brain.,units,O
+19,The patient undergoing severe Hemorrhagic Stroke was administered 2 units of packed RBCs and given Dexamethasone 4mg thrice daily for blood clotting after an MRI scan showed severe damage to the brain.,of,O
+19,The patient undergoing severe Hemorrhagic Stroke was administered 2 units of packed RBCs and given Dexamethasone 4mg thrice daily for blood clotting after an MRI scan showed severe damage to the brain.,packed,O
+19,The patient undergoing severe Hemorrhagic Stroke was administered 2 units of packed RBCs and given Dexamethasone 4mg thrice daily for blood clotting after an MRI scan showed severe damage to the brain.,RBCs,O
+19,The patient undergoing severe Hemorrhagic Stroke was administered 2 units of packed RBCs and given Dexamethasone 4mg thrice daily for blood clotting after an MRI scan showed severe damage to the brain.,and,O
+19,The patient undergoing severe Hemorrhagic Stroke was administered 2 units of packed RBCs and given Dexamethasone 4mg thrice daily for blood clotting after an MRI scan showed severe damage to the brain.,given,O
+19,The patient undergoing severe Hemorrhagic Stroke was administered 2 units of packed RBCs and given Dexamethasone 4mg thrice daily for blood clotting after an MRI scan showed severe damage to the brain.,Dexamethasone,B-MEDICATION
+19,The patient undergoing severe Hemorrhagic Stroke was administered 2 units of packed RBCs and given Dexamethasone 4mg thrice daily for blood clotting after an MRI scan showed severe damage to the brain.,4mg,B-DOSAGE
+19,The patient undergoing severe Hemorrhagic Stroke was administered 2 units of packed RBCs and given Dexamethasone 4mg thrice daily for blood clotting after an MRI scan showed severe damage to the brain.,thrice,O
+19,The patient undergoing severe Hemorrhagic Stroke was administered 2 units of packed RBCs and given Dexamethasone 4mg thrice daily for blood clotting after an MRI scan showed severe damage to the brain.,daily,O
+19,The patient undergoing severe Hemorrhagic Stroke was administered 2 units of packed RBCs and given Dexamethasone 4mg thrice daily for blood clotting after an MRI scan showed severe damage to the brain.,for,O
+19,The patient undergoing severe Hemorrhagic Stroke was administered 2 units of packed RBCs and given Dexamethasone 4mg thrice daily for blood clotting after an MRI scan showed severe damage to the brain.,blood,O
+19,The patient undergoing severe Hemorrhagic Stroke was administered 2 units of packed RBCs and given Dexamethasone 4mg thrice daily for blood clotting after an MRI scan showed severe damage to the brain.,clotting,O
+19,The patient undergoing severe Hemorrhagic Stroke was administered 2 units of packed RBCs and given Dexamethasone 4mg thrice daily for blood clotting after an MRI scan showed severe damage to the brain.,after,O
+19,The patient undergoing severe Hemorrhagic Stroke was administered 2 units of packed RBCs and given Dexamethasone 4mg thrice daily for blood clotting after an MRI scan showed severe damage to the brain.,an,O
+19,The patient undergoing severe Hemorrhagic Stroke was administered 2 units of packed RBCs and given Dexamethasone 4mg thrice daily for blood clotting after an MRI scan showed severe damage to the brain.,MRI,B-TEST
+19,The patient undergoing severe Hemorrhagic Stroke was administered 2 units of packed RBCs and given Dexamethasone 4mg thrice daily for blood clotting after an MRI scan showed severe damage to the brain.,scan,O
+19,The patient undergoing severe Hemorrhagic Stroke was administered 2 units of packed RBCs and given Dexamethasone 4mg thrice daily for blood clotting after an MRI scan showed severe damage to the brain.,showed,O
+19,The patient undergoing severe Hemorrhagic Stroke was administered 2 units of packed RBCs and given Dexamethasone 4mg thrice daily for blood clotting after an MRI scan showed severe damage to the brain.,severe,O
+19,The patient undergoing severe Hemorrhagic Stroke was administered 2 units of packed RBCs and given Dexamethasone 4mg thrice daily for blood clotting after an MRI scan showed severe damage to the brain.,damage,O
+19,The patient undergoing severe Hemorrhagic Stroke was administered 2 units of packed RBCs and given Dexamethasone 4mg thrice daily for blood clotting after an MRI scan showed severe damage to the brain.,to,O
+19,The patient undergoing severe Hemorrhagic Stroke was administered 2 units of packed RBCs and given Dexamethasone 4mg thrice daily for blood clotting after an MRI scan showed severe damage to the brain.,the,O
+19,The patient undergoing severe Hemorrhagic Stroke was administered 2 units of packed RBCs and given Dexamethasone 4mg thrice daily for blood clotting after an MRI scan showed severe damage to the brain.,brain,O
+19,The patient undergoing severe Hemorrhagic Stroke was administered 2 units of packed RBCs and given Dexamethasone 4mg thrice daily for blood clotting after an MRI scan showed severe damage to the brain.,.,O
+20,"The patient exhibited severe symptoms of मिर्गी, high blood pressure, and was administered 1mg of Ivermectin for स्काबी संक्रमण after an abnormal X-ray.",The,O
+20,"The patient exhibited severe symptoms of मिर्गी, high blood pressure, and was administered 1mg of Ivermectin for स्काबी संक्रमण after an abnormal X-ray.",patient,O
+20,"The patient exhibited severe symptoms of मिर्गी, high blood pressure, and was administered 1mg of Ivermectin for स्काबी संक्रमण after an abnormal X-ray.",exhibited,O
+20,"The patient exhibited severe symptoms of मिर्गी, high blood pressure, and was administered 1mg of Ivermectin for स्काबी संक्रमण after an abnormal X-ray.",severe,O
+20,"The patient exhibited severe symptoms of मिर्गी, high blood pressure, and was administered 1mg of Ivermectin for स्काबी संक्रमण after an abnormal X-ray.",symptoms,O
+20,"The patient exhibited severe symptoms of मिर्गी, high blood pressure, and was administered 1mg of Ivermectin for स्काबी संक्रमण after an abnormal X-ray.",of,O
+20,"The patient exhibited severe symptoms of मिर्गी, high blood pressure, and was administered 1mg of Ivermectin for स्काबी संक्रमण after an abnormal X-ray.",मिर्गी,B-CONDITION
+20,"The patient exhibited severe symptoms of मिर्गी, high blood pressure, and was administered 1mg of Ivermectin for स्काबी संक्रमण after an abnormal X-ray.",high,O
+20,"The patient exhibited severe symptoms of मिर्गी, high blood pressure, and was administered 1mg of Ivermectin for स्काबी संक्रमण after an abnormal X-ray.",blood,O
+20,"The patient exhibited severe symptoms of मिर्गी, high blood pressure, and was administered 1mg of Ivermectin for स्काबी संक्रमण after an abnormal X-ray.",pressure,O
+20,"The patient exhibited severe symptoms of मिर्गी, high blood pressure, and was administered 1mg of Ivermectin for स्काबी संक्रमण after an abnormal X-ray.",and,O
+20,"The patient exhibited severe symptoms of मिर्गी, high blood pressure, and was administered 1mg of Ivermectin for स्काबी संक्रमण after an abnormal X-ray.",was,O
+20,"The patient exhibited severe symptoms of मिर्गी, high blood pressure, and was administered 1mg of Ivermectin for स्काबी संक्रमण after an abnormal X-ray.",administered,O
+20,"The patient exhibited severe symptoms of मिर्गी, high blood pressure, and was administered 1mg of Ivermectin for स्काबी संक्रमण after an abnormal X-ray.",1mg,B-DOSAGE
+20,"The patient exhibited severe symptoms of मिर्गी, high blood pressure, and was administered 1mg of Ivermectin for स्काबी संक्रमण after an abnormal X-ray.",of,O
+20,"The patient exhibited severe symptoms of मिर्गी, high blood pressure, and was administered 1mg of Ivermectin for स्काबी संक्रमण after an abnormal X-ray.",Ivermectin,B-MEDICATION
+20,"The patient exhibited severe symptoms of मिर्गी, high blood pressure, and was administered 1mg of Ivermectin for स्काबी संक्रमण after an abnormal X-ray.",for,O
+20,"The patient exhibited severe symptoms of मिर्गी, high blood pressure, and was administered 1mg of Ivermectin for स्काबी संक्रमण after an abnormal X-ray.",स्काबी,B-ALLERGEN
+20,"The patient exhibited severe symptoms of मिर्गी, high blood pressure, and was administered 1mg of Ivermectin for स्काबी संक्रमण after an abnormal X-ray.",संक्रमण,B-CONDITION
+20,"The patient exhibited severe symptoms of मिर्गी, high blood pressure, and was administered 1mg of Ivermectin for स्काबी संक्रमण after an abnormal X-ray.",after,O
+20,"The patient exhibited severe symptoms of मिर्गी, high blood pressure, and was administered 1mg of Ivermectin for स्काबी संक्रमण after an abnormal X-ray.",an,O
+20,"The patient exhibited severe symptoms of मिर्गी, high blood pressure, and was administered 1mg of Ivermectin for स्काबी संक्रमण after an abnormal X-ray.",abnormal,O
+20,"The patient exhibited severe symptoms of मिर्गी, high blood pressure, and was administered 1mg of Ivermectin for स्काबी संक्रमण after an abnormal X-ray.",X-ray,B-TEST
+20,"The patient exhibited severe symptoms of मिर्गी, high blood pressure, and was administered 1mg of Ivermectin for स्काबी संक्रमण after an abnormal X-ray.",.,O
+21,"A 40-year-old patient presented with severe chest pain and shortness of breath while on a flight to हैदराबाद, where he was immediately put on 5mg O2 supplement and given IV aspirin injection.",A,O
+21,"A 40-year-old patient presented with severe chest pain and shortness of breath while on a flight to हैदराबाद, where he was immediately put on 5mg O2 supplement and given IV aspirin injection.",40-year-old,O
+21,"A 40-year-old patient presented with severe chest pain and shortness of breath while on a flight to हैदराबाद, where he was immediately put on 5mg O2 supplement and given IV aspirin injection.",patient,O
+21,"A 40-year-old patient presented with severe chest pain and shortness of breath while on a flight to हैदराबाद, where he was immediately put on 5mg O2 supplement and given IV aspirin injection.",presented,O
+21,"A 40-year-old patient presented with severe chest pain and shortness of breath while on a flight to हैदराबाद, where he was immediately put on 5mg O2 supplement and given IV aspirin injection.",with,O
+21,"A 40-year-old patient presented with severe chest pain and shortness of breath while on a flight to हैदराबाद, where he was immediately put on 5mg O2 supplement and given IV aspirin injection.",severe,O
+21,"A 40-year-old patient presented with severe chest pain and shortness of breath while on a flight to हैदराबाद, where he was immediately put on 5mg O2 supplement and given IV aspirin injection.",chest,O
+21,"A 40-year-old patient presented with severe chest pain and shortness of breath while on a flight to हैदराबाद, where he was immediately put on 5mg O2 supplement and given IV aspirin injection.",pain,B-SYMPTOM
+21,"A 40-year-old patient presented with severe chest pain and shortness of breath while on a flight to हैदराबाद, where he was immediately put on 5mg O2 supplement and given IV aspirin injection.",and,O
+21,"A 40-year-old patient presented with severe chest pain and shortness of breath while on a flight to हैदराबाद, where he was immediately put on 5mg O2 supplement and given IV aspirin injection.",shortness,O
+21,"A 40-year-old patient presented with severe chest pain and shortness of breath while on a flight to हैदराबाद, where he was immediately put on 5mg O2 supplement and given IV aspirin injection.",of,O
+21,"A 40-year-old patient presented with severe chest pain and shortness of breath while on a flight to हैदराबाद, where he was immediately put on 5mg O2 supplement and given IV aspirin injection.",breath,B-SYMPTOM
+21,"A 40-year-old patient presented with severe chest pain and shortness of breath while on a flight to हैदराबाद, where he was immediately put on 5mg O2 supplement and given IV aspirin injection.",while,O
+21,"A 40-year-old patient presented with severe chest pain and shortness of breath while on a flight to हैदराबाद, where he was immediately put on 5mg O2 supplement and given IV aspirin injection.",on,O
+21,"A 40-year-old patient presented with severe chest pain and shortness of breath while on a flight to हैदराबाद, where he was immediately put on 5mg O2 supplement and given IV aspirin injection.",a,O
+21,"A 40-year-old patient presented with severe chest pain and shortness of breath while on a flight to हैदराबाद, where he was immediately put on 5mg O2 supplement and given IV aspirin injection.",flight,O
+21,"A 40-year-old patient presented with severe chest pain and shortness of breath while on a flight to हैदराबाद, where he was immediately put on 5mg O2 supplement and given IV aspirin injection.",to,O
+21,"A 40-year-old patient presented with severe chest pain and shortness of breath while on a flight to हैदराबाद, where he was immediately put on 5mg O2 supplement and given IV aspirin injection.",हैदराबाद,O
+21,"A 40-year-old patient presented with severe chest pain and shortness of breath while on a flight to हैदराबाद, where he was immediately put on 5mg O2 supplement and given IV aspirin injection.",where,O
+21,"A 40-year-old patient presented with severe chest pain and shortness of breath while on a flight to हैदराबाद, where he was immediately put on 5mg O2 supplement and given IV aspirin injection.",he,O
+21,"A 40-year-old patient presented with severe chest pain and shortness of breath while on a flight to हैदराबाद, where he was immediately put on 5mg O2 supplement and given IV aspirin injection.",was,O
+21,"A 40-year-old patient presented with severe chest pain and shortness of breath while on a flight to हैदराबाद, where he was immediately put on 5mg O2 supplement and given IV aspirin injection.",immediately,O
+21,"A 40-year-old patient presented with severe chest pain and shortness of breath while on a flight to हैदराबाद, where he was immediately put on 5mg O2 supplement and given IV aspirin injection.",put,O
+21,"A 40-year-old patient presented with severe chest pain and shortness of breath while on a flight to हैदराबाद, where he was immediately put on 5mg O2 supplement and given IV aspirin injection.",on,O
+21,"A 40-year-old patient presented with severe chest pain and shortness of breath while on a flight to हैदराबाद, where he was immediately put on 5mg O2 supplement and given IV aspirin injection.",5mg,B-DOSAGE
+21,"A 40-year-old patient presented with severe chest pain and shortness of breath while on a flight to हैदराबाद, where he was immediately put on 5mg O2 supplement and given IV aspirin injection.",O2,B-ALLERGEN
+21,"A 40-year-old patient presented with severe chest pain and shortness of breath while on a flight to हैदराबाद, where he was immediately put on 5mg O2 supplement and given IV aspirin injection.",supplement,O
+21,"A 40-year-old patient presented with severe chest pain and shortness of breath while on a flight to हैदराबाद, where he was immediately put on 5mg O2 supplement and given IV aspirin injection.",and,O
+21,"A 40-year-old patient presented with severe chest pain and shortness of breath while on a flight to हैदराबाद, where he was immediately put on 5mg O2 supplement and given IV aspirin injection.",given,O
+21,"A 40-year-old patient presented with severe chest pain and shortness of breath while on a flight to हैदराबाद, where he was immediately put on 5mg O2 supplement and given IV aspirin injection.",IV,O
+21,"A 40-year-old patient presented with severe chest pain and shortness of breath while on a flight to हैदराबाद, where he was immediately put on 5mg O2 supplement and given IV aspirin injection.",aspirin,B-MEDICATION
+21,"A 40-year-old patient presented with severe chest pain and shortness of breath while on a flight to हैदराबाद, where he was immediately put on 5mg O2 supplement and given IV aspirin injection.",injection,O
+21,"A 40-year-old patient presented with severe chest pain and shortness of breath while on a flight to हैदराबाद, where he was immediately put on 5mg O2 supplement and given IV aspirin injection.",.,O
+22,अखिला को कोरोना वायरस के लिए मुफ्त वैक्सीन दी गई और उसे तेज़ सिर दर्द और जोड़ों में दर्द के लक्षणों से निपटने के लिए 500mg वार्फारिन दिया गया।,अखिला,O
+22,अखिला को कोरोना वायरस के लिए मुफ्त वैक्सीन दी गई और उसे तेज़ सिर दर्द और जोड़ों में दर्द के लक्षणों से निपटने के लिए 500mg वार्फारिन दिया गया।,को,O
+22,अखिला को कोरोना वायरस के लिए मुफ्त वैक्सीन दी गई और उसे तेज़ सिर दर्द और जोड़ों में दर्द के लक्षणों से निपटने के लिए 500mg वार्फारिन दिया गया।,कोरोना वायरस,B-CONDITION
+22,अखिला को कोरोना वायरस के लिए मुफ्त वैक्सीन दी गई और उसे तेज़ सिर दर्द और जोड़ों में दर्द के लक्षणों से निपटने के लिए 500mg वार्फारिन दिया गया।,के,O
+22,अखिला को कोरोना वायरस के लिए मुफ्त वैक्सीन दी गई और उसे तेज़ सिर दर्द और जोड़ों में दर्द के लक्षणों से निपटने के लिए 500mg वार्फारिन दिया गया।,लिए,O
+22,अखिला को कोरोना वायरस के लिए मुफ्त वैक्सीन दी गई और उसे तेज़ सिर दर्द और जोड़ों में दर्द के लक्षणों से निपटने के लिए 500mg वार्फारिन दिया गया।,मुफ्त,O
+22,अखिला को कोरोना वायरस के लिए मुफ्त वैक्सीन दी गई और उसे तेज़ सिर दर्द और जोड़ों में दर्द के लक्षणों से निपटने के लिए 500mg वार्फारिन दिया गया।,वैक्सीन,B-MEDICATION
+22,अखिला को कोरोना वायरस के लिए मुफ्त वैक्सीन दी गई और उसे तेज़ सिर दर्द और जोड़ों में दर्द के लक्षणों से निपटने के लिए 500mg वार्फारिन दिया गया।,दी,O
+22,अखिला को कोरोना वायरस के लिए मुफ्त वैक्सीन दी गई और उसे तेज़ सिर दर्द और जोड़ों में दर्द के लक्षणों से निपटने के लिए 500mg वार्फारिन दिया गया।,गई,O
+22,अखिला को कोरोना वायरस के लिए मुफ्त वैक्सीन दी गई और उसे तेज़ सिर दर्द और जोड़ों में दर्द के लक्षणों से निपटने के लिए 500mg वार्फारिन दिया गया।,और,O
+22,अखिला को कोरोना वायरस के लिए मुफ्त वैक्सीन दी गई और उसे तेज़ सिर दर्द और जोड़ों में दर्द के लक्षणों से निपटने के लिए 500mg वार्फारिन दिया गया।,उसे,O
+22,अखिला को कोरोना वायरस के लिए मुफ्त वैक्सीन दी गई और उसे तेज़ सिर दर्द और जोड़ों में दर्द के लक्षणों से निपटने के लिए 500mg वार्फारिन दिया गया।,तेज़,O
+22,अखिला को कोरोना वायरस के लिए मुफ्त वैक्सीन दी गई और उसे तेज़ सिर दर्द और जोड़ों में दर्द के लक्षणों से निपटने के लिए 500mg वार्फारिन दिया गया।,सिर दर्द,B-SYMPTOM
+22,अखिला को कोरोना वायरस के लिए मुफ्त वैक्सीन दी गई और उसे तेज़ सिर दर्द और जोड़ों में दर्द के लक्षणों से निपटने के लिए 500mg वार्फारिन दिया गया।,और,O
+22,अखिला को कोरोना वायरस के लिए मुफ्त वैक्सीन दी गई और उसे तेज़ सिर दर्द और जोड़ों में दर्द के लक्षणों से निपटने के लिए 500mg वार्फारिन दिया गया।,जोड़ों में दर्द,B-SYMPTOM
+22,अखिला को कोरोना वायरस के लिए मुफ्त वैक्सीन दी गई और उसे तेज़ सिर दर्द और जोड़ों में दर्द के लक्षणों से निपटने के लिए 500mg वार्फारिन दिया गया।,के,O
+22,अखिला को कोरोना वायरस के लिए मुफ्त वैक्सीन दी गई और उसे तेज़ सिर दर्द और जोड़ों में दर्द के लक्षणों से निपटने के लिए 500mg वार्फारिन दिया गया।,लक्षणों,O
+22,अखिला को कोरोना वायरस के लिए मुफ्त वैक्सीन दी गई और उसे तेज़ सिर दर्द और जोड़ों में दर्द के लक्षणों से निपटने के लिए 500mg वार्फारिन दिया गया।,से,O
+22,अखिला को कोरोना वायरस के लिए मुफ्त वैक्सीन दी गई और उसे तेज़ सिर दर्द और जोड़ों में दर्द के लक्षणों से निपटने के लिए 500mg वार्फारिन दिया गया।,निपटने,O
+22,अखिला को कोरोना वायरस के लिए मुफ्त वैक्सीन दी गई और उसे तेज़ सिर दर्द और जोड़ों में दर्द के लक्षणों से निपटने के लिए 500mg वार्फारिन दिया गया।,के,O
+22,अखिला को कोरोना वायरस के लिए मुफ्त वैक्सीन दी गई और उसे तेज़ सिर दर्द और जोड़ों में दर्द के लक्षणों से निपटने के लिए 500mg वार्फारिन दिया गया।,लिए,O
+22,अखिला को कोरोना वायरस के लिए मुफ्त वैक्सीन दी गई और उसे तेज़ सिर दर्द और जोड़ों में दर्द के लक्षणों से निपटने के लिए 500mg वार्फारिन दिया गया।,500mg,B-DOSAGE
+22,अखिला को कोरोना वायरस के लिए मुफ्त वैक्सीन दी गई और उसे तेज़ सिर दर्द और जोड़ों में दर्द के लक्षणों से निपटने के लिए 500mg वार्फारिन दिया गया।,वार्फारिन,B-MEDICATION
+22,अखिला को कोरोना वायरस के लिए मुफ्त वैक्सीन दी गई और उसे तेज़ सिर दर्द और जोड़ों में दर्द के लक्षणों से निपटने के लिए 500mg वार्फारिन दिया गया।,दिया,O
+22,अखिला को कोरोना वायरस के लिए मुफ्त वैक्सीन दी गई और उसे तेज़ सिर दर्द और जोड़ों में दर्द के लक्षणों से निपटने के लिए 500mg वार्फारिन दिया गया।,गया,O
+22,अखिला को कोरोना वायरस के लिए मुफ्त वैक्सीन दी गई और उसे तेज़ सिर दर्द और जोड़ों में दर्द के लक्षणों से निपटने के लिए 500mg वार्फारिन दिया गया।,।,O
+23,"The patient को emergency room में गई जब उसे acute TB संक्रमण के साथ severe सांस की तकलीफ, high fever, और chest दर्द हुआ। डॉक्टर ने intravenous की दी जिससे उसकी सांस की तकलीफ कम हुई।",The,O
+23,"The patient को emergency room में गई जब उसे acute TB संक्रमण के साथ severe सांस की तकलीफ, high fever, और chest दर्द हुआ। डॉक्टर ने intravenous की दी जिससे उसकी सांस की तकलीफ कम हुई।",patient,O
+23,"The patient को emergency room में गई जब उसे acute TB संक्रमण के साथ severe सांस की तकलीफ, high fever, और chest दर्द हुआ। डॉक्टर ने intravenous की दी जिससे उसकी सांस की तकलीफ कम हुई।",को,O
+23,"The patient को emergency room में गई जब उसे acute TB संक्रमण के साथ severe सांस की तकलीफ, high fever, और chest दर्द हुआ। डॉक्टर ने intravenous की दी जिससे उसकी सांस की तकलीफ कम हुई।",emergency,O
+23,"The patient को emergency room में गई जब उसे acute TB संक्रमण के साथ severe सांस की तकलीफ, high fever, और chest दर्द हुआ। डॉक्टर ने intravenous की दी जिससे उसकी सांस की तकलीफ कम हुई।",room,O
+23,"The patient को emergency room में गई जब उसे acute TB संक्रमण के साथ severe सांस की तकलीफ, high fever, और chest दर्द हुआ। डॉक्टर ने intravenous की दी जिससे उसकी सांस की तकलीफ कम हुई।",में,O
+23,"The patient को emergency room में गई जब उसे acute TB संक्रमण के साथ severe सांस की तकलीफ, high fever, और chest दर्द हुआ। डॉक्टर ने intravenous की दी जिससे उसकी सांस की तकलीफ कम हुई।",गई,O
+23,"The patient को emergency room में गई जब उसे acute TB संक्रमण के साथ severe सांस की तकलीफ, high fever, और chest दर्द हुआ। डॉक्टर ने intravenous की दी जिससे उसकी सांस की तकलीफ कम हुई।",जब,O
+23,"The patient को emergency room में गई जब उसे acute TB संक्रमण के साथ severe सांस की तकलीफ, high fever, और chest दर्द हुआ। डॉक्टर ने intravenous की दी जिससे उसकी सांस की तकलीफ कम हुई।",उसे,O
+23,"The patient को emergency room में गई जब उसे acute TB संक्रमण के साथ severe सांस की तकलीफ, high fever, और chest दर्द हुआ। डॉक्टर ने intravenous की दी जिससे उसकी सांस की तकलीफ कम हुई।",acute,O
+23,"The patient को emergency room में गई जब उसे acute TB संक्रमण के साथ severe सांस की तकलीफ, high fever, और chest दर्द हुआ। डॉक्टर ने intravenous की दी जिससे उसकी सांस की तकलीफ कम हुई।",TB,B-CONDITION
+23,"The patient को emergency room में गई जब उसे acute TB संक्रमण के साथ severe सांस की तकलीफ, high fever, और chest दर्द हुआ। डॉक्टर ने intravenous की दी जिससे उसकी सांस की तकलीफ कम हुई।",संक्रमण,I-CONDITION
+23,"The patient को emergency room में गई जब उसे acute TB संक्रमण के साथ severe सांस की तकलीफ, high fever, और chest दर्द हुआ। डॉक्टर ने intravenous की दी जिससे उसकी सांस की तकलीफ कम हुई।",के,O
+23,"The patient को emergency room में गई जब उसे acute TB संक्रमण के साथ severe सांस की तकलीफ, high fever, और chest दर्द हुआ। डॉक्टर ने intravenous की दी जिससे उसकी सांस की तकलीफ कम हुई।",साथ,O
+23,"The patient को emergency room में गई जब उसे acute TB संक्रमण के साथ severe सांस की तकलीफ, high fever, और chest दर्द हुआ। डॉक्टर ने intravenous की दी जिससे उसकी सांस की तकलीफ कम हुई।",severe,O
+23,"The patient को emergency room में गई जब उसे acute TB संक्रमण के साथ severe सांस की तकलीफ, high fever, और chest दर्द हुआ। डॉक्टर ने intravenous की दी जिससे उसकी सांस की तकलीफ कम हुई।",सांस,O
+23,"The patient को emergency room में गई जब उसे acute TB संक्रमण के साथ severe सांस की तकलीफ, high fever, और chest दर्द हुआ। डॉक्टर ने intravenous की दी जिससे उसकी सांस की तकलीफ कम हुई।",की,O
+23,"The patient को emergency room में गई जब उसे acute TB संक्रमण के साथ severe सांस की तकलीफ, high fever, और chest दर्द हुआ। डॉक्टर ने intravenous की दी जिससे उसकी सांस की तकलीफ कम हुई।",तकलीफ,B-SYMPTOM
+23,"The patient को emergency room में गई जब उसे acute TB संक्रमण के साथ severe सांस की तकलीफ, high fever, और chest दर्द हुआ। डॉक्टर ने intravenous की दी जिससे उसकी सांस की तकलीफ कम हुई।",high,O
+23,"The patient को emergency room में गई जब उसे acute TB संक्रमण के साथ severe सांस की तकलीफ, high fever, और chest दर्द हुआ। डॉक्टर ने intravenous की दी जिससे उसकी सांस की तकलीफ कम हुई।",fever,B-SYMPTOM
+23,"The patient को emergency room में गई जब उसे acute TB संक्रमण के साथ severe सांस की तकलीफ, high fever, और chest दर्द हुआ। डॉक्टर ने intravenous की दी जिससे उसकी सांस की तकलीफ कम हुई।",और,O
+23,"The patient को emergency room में गई जब उसे acute TB संक्रमण के साथ severe सांस की तकलीफ, high fever, और chest दर्द हुआ। डॉक्टर ने intravenous की दी जिससे उसकी सांस की तकलीफ कम हुई।",chest,O
+23,"The patient को emergency room में गई जब उसे acute TB संक्रमण के साथ severe सांस की तकलीफ, high fever, और chest दर्द हुआ। डॉक्टर ने intravenous की दी जिससे उसकी सांस की तकलीफ कम हुई।",दर्द,B-SYMPTOM
+23,"The patient को emergency room में गई जब उसे acute TB संक्रमण के साथ severe सांस की तकलीफ, high fever, और chest दर्द हुआ। डॉक्टर ने intravenous की दी जिससे उसकी सांस की तकलीफ कम हुई।",हुआ,O
+23,"The patient को emergency room में गई जब उसे acute TB संक्रमण के साथ severe सांस की तकलीफ, high fever, और chest दर्द हुआ। डॉक्टर ने intravenous की दी जिससे उसकी सांस की तकलीफ कम हुई।",डॉक्टर,O
+23,"The patient को emergency room में गई जब उसे acute TB संक्रमण के साथ severe सांस की तकलीफ, high fever, और chest दर्द हुआ। डॉक्टर ने intravenous की दी जिससे उसकी सांस की तकलीफ कम हुई।",ने,O
+23,"The patient को emergency room में गई जब उसे acute TB संक्रमण के साथ severe सांस की तकलीफ, high fever, और chest दर्द हुआ। डॉक्टर ने intravenous की दी जिससे उसकी सांस की तकलीफ कम हुई।",intravenous,B-MEDICATION
+23,"The patient को emergency room में गई जब उसे acute TB संक्रमण के साथ severe सांस की तकलीफ, high fever, और chest दर्द हुआ। डॉक्टर ने intravenous की दी जिससे उसकी सांस की तकलीफ कम हुई।",की,O
+23,"The patient को emergency room में गई जब उसे acute TB संक्रमण के साथ severe सांस की तकलीफ, high fever, और chest दर्द हुआ। डॉक्टर ने intravenous की दी जिससे उसकी सांस की तकलीफ कम हुई।",दी,O
+23,"The patient को emergency room में गई जब उसे acute TB संक्रमण के साथ severe सांस की तकलीफ, high fever, और chest दर्द हुआ। डॉक्टर ने intravenous की दी जिससे उसकी सांस की तकलीफ कम हुई।",जिससे,O
+23,"The patient को emergency room में गई जब उसे acute TB संक्रमण के साथ severe सांस की तकलीफ, high fever, और chest दर्द हुआ। डॉक्टर ने intravenous की दी जिससे उसकी सांस की तकलीफ कम हुई।",उसकी,O
+23,"The patient को emergency room में गई जब उसे acute TB संक्रमण के साथ severe सांस की तकलीफ, high fever, और chest दर्द हुआ। डॉक्टर ने intravenous की दी जिससे उसकी सांस की तकलीफ कम हुई।",सांस,O
+23,"The patient को emergency room में गई जब उसे acute TB संक्रमण के साथ severe सांस की तकलीफ, high fever, और chest दर्द हुआ। डॉक्टर ने intravenous की दी जिससे उसकी सांस की तकलीफ कम हुई।",की,O
+23,"The patient को emergency room में गई जब उसे acute TB संक्रमण के साथ severe सांस की तकलीफ, high fever, और chest दर्द हुआ। डॉक्टर ने intravenous की दी जिससे उसकी सांस की तकलीफ कम हुई।",तकलीफ,B-SYMPTOM
+23,"The patient को emergency room में गई जब उसे acute TB संक्रमण के साथ severe सांस की तकलीफ, high fever, और chest दर्द हुआ। डॉक्टर ने intravenous की दी जिससे उसकी सांस की तकलीफ कम हुई।",कम,O
+23,"The patient को emergency room में गई जब उसे acute TB संक्रमण के साथ severe सांस की तकलीफ, high fever, और chest दर्द हुआ। डॉक्टर ने intravenous की दी जिससे उसकी सांस की तकलीफ कम हुई।",हुई,O
+23,"The patient को emergency room में गई जब उसे acute TB संक्रमण के साथ severe सांस की तकलीफ, high fever, और chest दर्द हुआ। डॉक्टर ने intravenous की दी जिससे उसकी सांस की तकलीफ कम हुई।",.,O
+24,"The patient with severe टीबी (TB) showed high fever, cough, and difficulty breathing after undergoing Thoracocentesis procedure at the hospital.",The,O
+24,"The patient with severe टीबी (TB) showed high fever, cough, and difficulty breathing after undergoing Thoracocentesis procedure at the hospital.",patient,O
+24,"The patient with severe टीबी (TB) showed high fever, cough, and difficulty breathing after undergoing Thoracocentesis procedure at the hospital.",with,O
+24,"The patient with severe टीबी (TB) showed high fever, cough, and difficulty breathing after undergoing Thoracocentesis procedure at the hospital.",severe,O
+24,"The patient with severe टीबी (TB) showed high fever, cough, and difficulty breathing after undergoing Thoracocentesis procedure at the hospital.",टीबी,B-CONDITION
+24,"The patient with severe टीबी (TB) showed high fever, cough, and difficulty breathing after undergoing Thoracocentesis procedure at the hospital.",(TB),I-CONDITION
+24,"The patient with severe टीबी (TB) showed high fever, cough, and difficulty breathing after undergoing Thoracocentesis procedure at the hospital.",showed,O
+24,"The patient with severe टीबी (TB) showed high fever, cough, and difficulty breathing after undergoing Thoracocentesis procedure at the hospital.",high,O
+24,"The patient with severe टीबी (TB) showed high fever, cough, and difficulty breathing after undergoing Thoracocentesis procedure at the hospital.",fever,B-SYMPTOM
+24,"The patient with severe टीबी (TB) showed high fever, cough, and difficulty breathing after undergoing Thoracocentesis procedure at the hospital.",",",O
+24,"The patient with severe टीबी (TB) showed high fever, cough, and difficulty breathing after undergoing Thoracocentesis procedure at the hospital.",cough,B-SYMPTOM
+24,"The patient with severe टीबी (TB) showed high fever, cough, and difficulty breathing after undergoing Thoracocentesis procedure at the hospital.",",",O
+24,"The patient with severe टीबी (TB) showed high fever, cough, and difficulty breathing after undergoing Thoracocentesis procedure at the hospital.",and,O
+24,"The patient with severe टीबी (TB) showed high fever, cough, and difficulty breathing after undergoing Thoracocentesis procedure at the hospital.",difficulty,O
+24,"The patient with severe टीबी (TB) showed high fever, cough, and difficulty breathing after undergoing Thoracocentesis procedure at the hospital.",breathing,B-SYMPTOM
+24,"The patient with severe टीबी (TB) showed high fever, cough, and difficulty breathing after undergoing Thoracocentesis procedure at the hospital.",after,O
+24,"The patient with severe टीबी (TB) showed high fever, cough, and difficulty breathing after undergoing Thoracocentesis procedure at the hospital.",undergoing,O
+24,"The patient with severe टीबी (TB) showed high fever, cough, and difficulty breathing after undergoing Thoracocentesis procedure at the hospital.",Thoracocentesis,B-PROCEDURE
+24,"The patient with severe टीबी (TB) showed high fever, cough, and difficulty breathing after undergoing Thoracocentesis procedure at the hospital.",procedure,I-PROCEDURE
+24,"The patient with severe टीबी (TB) showed high fever, cough, and difficulty breathing after undergoing Thoracocentesis procedure at the hospital.",at,O
+24,"The patient with severe टीबी (TB) showed high fever, cough, and difficulty breathing after undergoing Thoracocentesis procedure at the hospital.",the,O
+24,"The patient with severe टीबी (TB) showed high fever, cough, and difficulty breathing after undergoing Thoracocentesis procedure at the hospital.",hospital,O
+24,"The patient with severe टीबी (TB) showed high fever, cough, and difficulty breathing after undergoing Thoracocentesis procedure at the hospital.",.,O
+25,"Emergency services were called after a patient with गंभीर दिल का दौरा suddenly experienced severe Chest pain, shortness of breath and tachycardia during an MRI test.",Emergency,O
+25,"Emergency services were called after a patient with गंभीर दिल का दौरा suddenly experienced severe Chest pain, shortness of breath and tachycardia during an MRI test.",services,O
+25,"Emergency services were called after a patient with गंभीर दिल का दौरा suddenly experienced severe Chest pain, shortness of breath and tachycardia during an MRI test.",were,O
+25,"Emergency services were called after a patient with गंभीर दिल का दौरा suddenly experienced severe Chest pain, shortness of breath and tachycardia during an MRI test.",called,O
+25,"Emergency services were called after a patient with गंभीर दिल का दौरा suddenly experienced severe Chest pain, shortness of breath and tachycardia during an MRI test.",after,O
+25,"Emergency services were called after a patient with गंभीर दिल का दौरा suddenly experienced severe Chest pain, shortness of breath and tachycardia during an MRI test.",a,O
+25,"Emergency services were called after a patient with गंभीर दिल का दौरा suddenly experienced severe Chest pain, shortness of breath and tachycardia during an MRI test.",patient,O
+25,"Emergency services were called after a patient with गंभीर दिल का दौरा suddenly experienced severe Chest pain, shortness of breath and tachycardia during an MRI test.",with,O
+25,"Emergency services were called after a patient with गंभीर दिल का दौरा suddenly experienced severe Chest pain, shortness of breath and tachycardia during an MRI test.",गंभीर,B-CONDITION
+25,"Emergency services were called after a patient with गंभीर दिल का दौरा suddenly experienced severe Chest pain, shortness of breath and tachycardia during an MRI test.",दिल,B-CONDITION
+25,"Emergency services were called after a patient with गंभीर दिल का दौरा suddenly experienced severe Chest pain, shortness of breath and tachycardia during an MRI test.",का,O
+25,"Emergency services were called after a patient with गंभीर दिल का दौरा suddenly experienced severe Chest pain, shortness of breath and tachycardia during an MRI test.",दौरा,B-CONDITION
+25,"Emergency services were called after a patient with गंभीर दिल का दौरा suddenly experienced severe Chest pain, shortness of breath and tachycardia during an MRI test.",suddenly,O
+25,"Emergency services were called after a patient with गंभीर दिल का दौरा suddenly experienced severe Chest pain, shortness of breath and tachycardia during an MRI test.",experienced,O
+25,"Emergency services were called after a patient with गंभीर दिल का दौरा suddenly experienced severe Chest pain, shortness of breath and tachycardia during an MRI test.",severe,O
+25,"Emergency services were called after a patient with गंभीर दिल का दौरा suddenly experienced severe Chest pain, shortness of breath and tachycardia during an MRI test.",Chest,B-SYMPTOM
+25,"Emergency services were called after a patient with गंभीर दिल का दौरा suddenly experienced severe Chest pain, shortness of breath and tachycardia during an MRI test.",pain,I-SYMPTOM
+25,"Emergency services were called after a patient with गंभीर दिल का दौरा suddenly experienced severe Chest pain, shortness of breath and tachycardia during an MRI test.",shortness,O
+25,"Emergency services were called after a patient with गंभीर दिल का दौरा suddenly experienced severe Chest pain, shortness of breath and tachycardia during an MRI test.",of,O
+25,"Emergency services were called after a patient with गंभीर दिल का दौरा suddenly experienced severe Chest pain, shortness of breath and tachycardia during an MRI test.",breath,O
+25,"Emergency services were called after a patient with गंभीर दिल का दौरा suddenly experienced severe Chest pain, shortness of breath and tachycardia during an MRI test.",and,O
+25,"Emergency services were called after a patient with गंभीर दिल का दौरा suddenly experienced severe Chest pain, shortness of breath and tachycardia during an MRI test.",tachycardia,B-SYMPTOM
+25,"Emergency services were called after a patient with गंभीर दिल का दौरा suddenly experienced severe Chest pain, shortness of breath and tachycardia during an MRI test.",during,O
+25,"Emergency services were called after a patient with गंभीर दिल का दौरा suddenly experienced severe Chest pain, shortness of breath and tachycardia during an MRI test.",an,O
+25,"Emergency services were called after a patient with गंभीर दिल का दौरा suddenly experienced severe Chest pain, shortness of breath and tachycardia during an MRI test.",MRI,B-TEST
+25,"Emergency services were called after a patient with गंभीर दिल का दौरा suddenly experienced severe Chest pain, shortness of breath and tachycardia during an MRI test.",test,I-TEST
+25,"Emergency services were called after a patient with गंभीर दिल का दौरा suddenly experienced severe Chest pain, shortness of breath and tachycardia during an MRI test.",.,O
+26,"The patient suddenly experienced severe chest pain and was rushed to the hospital for cardiac arrest, where she underwent emergency angioplasty.",The,O
+26,"The patient suddenly experienced severe chest pain and was rushed to the hospital for cardiac arrest, where she underwent emergency angioplasty.",patient,O
+26,"The patient suddenly experienced severe chest pain and was rushed to the hospital for cardiac arrest, where she underwent emergency angioplasty.",suddenly,O
+26,"The patient suddenly experienced severe chest pain and was rushed to the hospital for cardiac arrest, where she underwent emergency angioplasty.",experienced,O
+26,"The patient suddenly experienced severe chest pain and was rushed to the hospital for cardiac arrest, where she underwent emergency angioplasty.",severe,O
+26,"The patient suddenly experienced severe chest pain and was rushed to the hospital for cardiac arrest, where she underwent emergency angioplasty.",chest,O
+26,"The patient suddenly experienced severe chest pain and was rushed to the hospital for cardiac arrest, where she underwent emergency angioplasty.",pain,B-SYMPTOM
+26,"The patient suddenly experienced severe chest pain and was rushed to the hospital for cardiac arrest, where she underwent emergency angioplasty.",and,O
+26,"The patient suddenly experienced severe chest pain and was rushed to the hospital for cardiac arrest, where she underwent emergency angioplasty.",was,O
+26,"The patient suddenly experienced severe chest pain and was rushed to the hospital for cardiac arrest, where she underwent emergency angioplasty.",rushed,O
+26,"The patient suddenly experienced severe chest pain and was rushed to the hospital for cardiac arrest, where she underwent emergency angioplasty.",to,O
+26,"The patient suddenly experienced severe chest pain and was rushed to the hospital for cardiac arrest, where she underwent emergency angioplasty.",the,O
+26,"The patient suddenly experienced severe chest pain and was rushed to the hospital for cardiac arrest, where she underwent emergency angioplasty.",hospital,O
+26,"The patient suddenly experienced severe chest pain and was rushed to the hospital for cardiac arrest, where she underwent emergency angioplasty.",for,O
+26,"The patient suddenly experienced severe chest pain and was rushed to the hospital for cardiac arrest, where she underwent emergency angioplasty.",cardiac,O
+26,"The patient suddenly experienced severe chest pain and was rushed to the hospital for cardiac arrest, where she underwent emergency angioplasty.",arrest,B-CONDITION
+26,"The patient suddenly experienced severe chest pain and was rushed to the hospital for cardiac arrest, where she underwent emergency angioplasty.",",",O
+26,"The patient suddenly experienced severe chest pain and was rushed to the hospital for cardiac arrest, where she underwent emergency angioplasty.",where,O
+26,"The patient suddenly experienced severe chest pain and was rushed to the hospital for cardiac arrest, where she underwent emergency angioplasty.",she,O
+26,"The patient suddenly experienced severe chest pain and was rushed to the hospital for cardiac arrest, where she underwent emergency angioplasty.",underwent,O
+26,"The patient suddenly experienced severe chest pain and was rushed to the hospital for cardiac arrest, where she underwent emergency angioplasty.",emergency,O
+26,"The patient suddenly experienced severe chest pain and was rushed to the hospital for cardiac arrest, where she underwent emergency angioplasty.",angioplasty,B-PROCEDURE
+27,The patient was put on ventilator support and received 2 units of packed red blood cells due to severe दिल का दौरा ( myocardial infarction ) after a long ECG monitor.,The,O
+27,The patient was put on ventilator support and received 2 units of packed red blood cells due to severe दिल का दौरा ( myocardial infarction ) after a long ECG monitor.,patient,O
+27,The patient was put on ventilator support and received 2 units of packed red blood cells due to severe दिल का दौरा ( myocardial infarction ) after a long ECG monitor.,was,O
+27,The patient was put on ventilator support and received 2 units of packed red blood cells due to severe दिल का दौरा ( myocardial infarction ) after a long ECG monitor.,put,O
+27,The patient was put on ventilator support and received 2 units of packed red blood cells due to severe दिल का दौरा ( myocardial infarction ) after a long ECG monitor.,on,O
+27,The patient was put on ventilator support and received 2 units of packed red blood cells due to severe दिल का दौरा ( myocardial infarction ) after a long ECG monitor.,ventilator,B-PROCEDURE
+27,The patient was put on ventilator support and received 2 units of packed red blood cells due to severe दिल का दौरा ( myocardial infarction ) after a long ECG monitor.,support,O
+27,The patient was put on ventilator support and received 2 units of packed red blood cells due to severe दिल का दौरा ( myocardial infarction ) after a long ECG monitor.,and,O
+27,The patient was put on ventilator support and received 2 units of packed red blood cells due to severe दिल का दौरा ( myocardial infarction ) after a long ECG monitor.,received,O
+27,The patient was put on ventilator support and received 2 units of packed red blood cells due to severe दिल का दौरा ( myocardial infarction ) after a long ECG monitor.,2,B-DOSAGE
+27,The patient was put on ventilator support and received 2 units of packed red blood cells due to severe दिल का दौरा ( myocardial infarction ) after a long ECG monitor.,units,O
+27,The patient was put on ventilator support and received 2 units of packed red blood cells due to severe दिल का दौरा ( myocardial infarction ) after a long ECG monitor.,of,O
+27,The patient was put on ventilator support and received 2 units of packed red blood cells due to severe दिल का दौरा ( myocardial infarction ) after a long ECG monitor.,packed,O
+27,The patient was put on ventilator support and received 2 units of packed red blood cells due to severe दिल का दौरा ( myocardial infarction ) after a long ECG monitor.,red,O
+27,The patient was put on ventilator support and received 2 units of packed red blood cells due to severe दिल का दौरा ( myocardial infarction ) after a long ECG monitor.,blood,O
+27,The patient was put on ventilator support and received 2 units of packed red blood cells due to severe दिल का दौरा ( myocardial infarction ) after a long ECG monitor.,cells,B-MEDICATION
+27,The patient was put on ventilator support and received 2 units of packed red blood cells due to severe दिल का दौरा ( myocardial infarction ) after a long ECG monitor.,due,O
+27,The patient was put on ventilator support and received 2 units of packed red blood cells due to severe दिल का दौरा ( myocardial infarction ) after a long ECG monitor.,to,O
+27,The patient was put on ventilator support and received 2 units of packed red blood cells due to severe दिल का दौरा ( myocardial infarction ) after a long ECG monitor.,severe,O
+27,The patient was put on ventilator support and received 2 units of packed red blood cells due to severe दिल का दौरा ( myocardial infarction ) after a long ECG monitor.,दिल का दौरा,B-CONDITION
+27,The patient was put on ventilator support and received 2 units of packed red blood cells due to severe दिल का दौरा ( myocardial infarction ) after a long ECG monitor.,(,O
+27,The patient was put on ventilator support and received 2 units of packed red blood cells due to severe दिल का दौरा ( myocardial infarction ) after a long ECG monitor.,myocardial,I-CONDITION
+27,The patient was put on ventilator support and received 2 units of packed red blood cells due to severe दिल का दौरा ( myocardial infarction ) after a long ECG monitor.,infarction,I-CONDITION
+27,The patient was put on ventilator support and received 2 units of packed red blood cells due to severe दिल का दौरा ( myocardial infarction ) after a long ECG monitor.,) ,O
+27,The patient was put on ventilator support and received 2 units of packed red blood cells due to severe दिल का दौरा ( myocardial infarction ) after a long ECG monitor.,after,O
+27,The patient was put on ventilator support and received 2 units of packed red blood cells due to severe दिल का दौरा ( myocardial infarction ) after a long ECG monitor.,a,O
+27,The patient was put on ventilator support and received 2 units of packed red blood cells due to severe दिल का दौरा ( myocardial infarction ) after a long ECG monitor.,long,O
+27,The patient was put on ventilator support and received 2 units of packed red blood cells due to severe दिल का दौरा ( myocardial infarction ) after a long ECG monitor.,ECG,B-TEST
+27,The patient was put on ventilator support and received 2 units of packed red blood cells due to severe दिल का दौरा ( myocardial infarction ) after a long ECG monitor.,monitor,O
+27,The patient was put on ventilator support and received 2 units of packed red blood cells due to severe दिल का दौरा ( myocardial infarction ) after a long ECG monitor.,.,O
+28,मरीज़ के लिए Emergency स्थिति में Heart Attack के लक्षणों का पता लगाने के लिए ECG और Echo किया गया और फिर Angioplasty की सलाह दी गई है।,मरीज़,O
+28,मरीज़ के लिए Emergency स्थिति में Heart Attack के लक्षणों का पता लगाने के लिए ECG और Echo किया गया और फिर Angioplasty की सलाह दी गई है।,के,O
+28,मरीज़ के लिए Emergency स्थिति में Heart Attack के लक्षणों का पता लगाने के लिए ECG और Echo किया गया और फिर Angioplasty की सलाह दी गई है।,लिए,O
+28,मरीज़ के लिए Emergency स्थिति में Heart Attack के लक्षणों का पता लगाने के लिए ECG और Echo किया गया और फिर Angioplasty की सलाह दी गई है।,Emergency,B-CONDITION
+28,मरीज़ के लिए Emergency स्थिति में Heart Attack के लक्षणों का पता लगाने के लिए ECG और Echo किया गया और फिर Angioplasty की सलाह दी गई है।,स्थिति,I-CONDITION
+28,मरीज़ के लिए Emergency स्थिति में Heart Attack के लक्षणों का पता लगाने के लिए ECG और Echo किया गया और फिर Angioplasty की सलाह दी गई है।,में,O
+28,मरीज़ के लिए Emergency स्थिति में Heart Attack के लक्षणों का पता लगाने के लिए ECG और Echo किया गया और फिर Angioplasty की सलाह दी गई है।,Heart Attack,B-SYMPTOM
+28,मरीज़ के लिए Emergency स्थिति में Heart Attack के लक्षणों का पता लगाने के लिए ECG और Echo किया गया और फिर Angioplasty की सलाह दी गई है।,के,O
+28,मरीज़ के लिए Emergency स्थिति में Heart Attack के लक्षणों का पता लगाने के लिए ECG और Echo किया गया और फिर Angioplasty की सलाह दी गई है।,लक्षणों,O
+28,मरीज़ के लिए Emergency स्थिति में Heart Attack के लक्षणों का पता लगाने के लिए ECG और Echo किया गया और फिर Angioplasty की सलाह दी गई है।,का,O
+28,मरीज़ के लिए Emergency स्थिति में Heart Attack के लक्षणों का पता लगाने के लिए ECG और Echo किया गया और फिर Angioplasty की सलाह दी गई है।,पता,O
+28,मरीज़ के लिए Emergency स्थिति में Heart Attack के लक्षणों का पता लगाने के लिए ECG और Echo किया गया और फिर Angioplasty की सलाह दी गई है।,लगाने,O
+28,मरीज़ के लिए Emergency स्थिति में Heart Attack के लक्षणों का पता लगाने के लिए ECG और Echo किया गया और फिर Angioplasty की सलाह दी गई है।,के,O
+28,मरीज़ के लिए Emergency स्थिति में Heart Attack के लक्षणों का पता लगाने के लिए ECG और Echo किया गया और फिर Angioplasty की सलाह दी गई है।,लिए,O
+28,मरीज़ के लिए Emergency स्थिति में Heart Attack के लक्षणों का पता लगाने के लिए ECG और Echo किया गया और फिर Angioplasty की सलाह दी गई है।,ECG,B-TEST
+28,मरीज़ के लिए Emergency स्थिति में Heart Attack के लक्षणों का पता लगाने के लिए ECG और Echo किया गया और फिर Angioplasty की सलाह दी गई है।,और,O
+28,मरीज़ के लिए Emergency स्थिति में Heart Attack के लक्षणों का पता लगाने के लिए ECG और Echo किया गया और फिर Angioplasty की सलाह दी गई है।,Echo,B-TEST
+28,मरीज़ के लिए Emergency स्थिति में Heart Attack के लक्षणों का पता लगाने के लिए ECG और Echo किया गया और फिर Angioplasty की सलाह दी गई है।,किया,O
+28,मरीज़ के लिए Emergency स्थिति में Heart Attack के लक्षणों का पता लगाने के लिए ECG और Echo किया गया और फिर Angioplasty की सलाह दी गई है।,गया,O
+28,मरीज़ के लिए Emergency स्थिति में Heart Attack के लक्षणों का पता लगाने के लिए ECG और Echo किया गया और फिर Angioplasty की सलाह दी गई है।,और,O
+28,मरीज़ के लिए Emergency स्थिति में Heart Attack के लक्षणों का पता लगाने के लिए ECG और Echo किया गया और फिर Angioplasty की सलाह दी गई है।,फिर,O
+28,मरीज़ के लिए Emergency स्थिति में Heart Attack के लक्षणों का पता लगाने के लिए ECG और Echo किया गया और फिर Angioplasty की सलाह दी गई है।,Angioplasty,B-PROCEDURE
+28,मरीज़ के लिए Emergency स्थिति में Heart Attack के लक्षणों का पता लगाने के लिए ECG और Echo किया गया और फिर Angioplasty की सलाह दी गई है।,की,O
+28,मरीज़ के लिए Emergency स्थिति में Heart Attack के लक्षणों का पता लगाने के लिए ECG और Echo किया गया और फिर Angioplasty की सलाह दी गई है।,सलाह,O
+28,मरीज़ के लिए Emergency स्थिति में Heart Attack के लक्षणों का पता लगाने के लिए ECG और Echo किया गया और फिर Angioplasty की सलाह दी गई है।,दी,O
+28,मरीज़ के लिए Emergency स्थिति में Heart Attack के लक्षणों का पता लगाने के लिए ECG और Echo किया गया और फिर Angioplasty की सलाह दी गई है।,गई,O
+28,मरीज़ के लिए Emergency स्थिति में Heart Attack के लक्षणों का पता लगाने के लिए ECG और Echo किया गया और फिर Angioplasty की सलाह दी गई है।,है,O
+28,मरीज़ के लिए Emergency स्थिति में Heart Attack के लक्षणों का पता लगाने के लिए ECG और Echo किया गया और फिर Angioplasty की सलाह दी गई है।,।,O
+29,"During the emergency room visit, the doctor ordered a rapid antigen test for COVID-19 after seeing the patient के तेज़ बुखार and सांस फूलने की शिकायत.",During,O
+29,"During the emergency room visit, the doctor ordered a rapid antigen test for COVID-19 after seeing the patient के तेज़ बुखार and सांस फूलने की शिकायत.",the,O
+29,"During the emergency room visit, the doctor ordered a rapid antigen test for COVID-19 after seeing the patient के तेज़ बुखार and सांस फूलने की शिकायत.",emergency,B-PROCEDURE
+29,"During the emergency room visit, the doctor ordered a rapid antigen test for COVID-19 after seeing the patient के तेज़ बुखार and सांस फूलने की शिकायत.",room,I-PROCEDURE
+29,"During the emergency room visit, the doctor ordered a rapid antigen test for COVID-19 after seeing the patient के तेज़ बुखार and सांस फूलने की शिकायत.",visit,I-PROCEDURE
+29,"During the emergency room visit, the doctor ordered a rapid antigen test for COVID-19 after seeing the patient के तेज़ बुखार and सांस फूलने की शिकायत.",",",O
+29,"During the emergency room visit, the doctor ordered a rapid antigen test for COVID-19 after seeing the patient के तेज़ बुखार and सांस फूलने की शिकायत.",the,O
+29,"During the emergency room visit, the doctor ordered a rapid antigen test for COVID-19 after seeing the patient के तेज़ बुखार and सांस फूलने की शिकायत.",doctor,O
+29,"During the emergency room visit, the doctor ordered a rapid antigen test for COVID-19 after seeing the patient के तेज़ बुखार and सांस फूलने की शिकायत.",ordered,O
+29,"During the emergency room visit, the doctor ordered a rapid antigen test for COVID-19 after seeing the patient के तेज़ बुखार and सांस फूलने की शिकायत.",a,O
+29,"During the emergency room visit, the doctor ordered a rapid antigen test for COVID-19 after seeing the patient के तेज़ बुखार and सांस फूलने की शिकायत.",rapid,O
+29,"During the emergency room visit, the doctor ordered a rapid antigen test for COVID-19 after seeing the patient के तेज़ बुखार and सांस फूलने की शिकायत.",antigen,O
+29,"During the emergency room visit, the doctor ordered a rapid antigen test for COVID-19 after seeing the patient के तेज़ बुखार and सांस फूलने की शिकायत.",test,B-TEST
+29,"During the emergency room visit, the doctor ordered a rapid antigen test for COVID-19 after seeing the patient के तेज़ बुखार and सांस फूलने की शिकायत.",for,O
+29,"During the emergency room visit, the doctor ordered a rapid antigen test for COVID-19 after seeing the patient के तेज़ बुखार and सांस फूलने की शिकायत.",COVID-19,B- CONDITION
+29,"During the emergency room visit, the doctor ordered a rapid antigen test for COVID-19 after seeing the patient के तेज़ बुखार and सांस फूलने की शिकायत.",after,O
+29,"During the emergency room visit, the doctor ordered a rapid antigen test for COVID-19 after seeing the patient के तेज़ बुखार and सांस फूलने की शिकायत.",seeing,O
+29,"During the emergency room visit, the doctor ordered a rapid antigen test for COVID-19 after seeing the patient के तेज़ बुखार and सांस फूलने की शिकायत.",the,O
+29,"During the emergency room visit, the doctor ordered a rapid antigen test for COVID-19 after seeing the patient के तेज़ बुखार and सांस फूलने की शिकायत.",patient,O
+29,"During the emergency room visit, the doctor ordered a rapid antigen test for COVID-19 after seeing the patient के तेज़ बुखार and सांस फूलने की शिकायत.",के,O
+29,"During the emergency room visit, the doctor ordered a rapid antigen test for COVID-19 after seeing the patient के तेज़ बुखार and सांस फूलने की शिकायत.",तेज़,O
+29,"During the emergency room visit, the doctor ordered a rapid antigen test for COVID-19 after seeing the patient के तेज़ बुखार and सांस फूलने की शिकायत.",बुखार,B-SYMPTOM
+29,"During the emergency room visit, the doctor ordered a rapid antigen test for COVID-19 after seeing the patient के तेज़ बुखार and सांस फूलने की शिकायत.",and,O
+29,"During the emergency room visit, the doctor ordered a rapid antigen test for COVID-19 after seeing the patient के तेज़ बुखार and सांस फूलने की शिकायत.",सांस,B-SYMPTOM
+29,"During the emergency room visit, the doctor ordered a rapid antigen test for COVID-19 after seeing the patient के तेज़ बुखार and सांस फूलने की शिकायत.",फूलने,I-SYMPTOM
+29,"During the emergency room visit, the doctor ordered a rapid antigen test for COVID-19 after seeing the patient के तेज़ बुखार and सांस फूलने की शिकायत.",की,O
+29,"During the emergency room visit, the doctor ordered a rapid antigen test for COVID-19 after seeing the patient के तेज़ बुखार and सांस फूलने की शिकायत.",शिकायत,I-SYMPTOM
+29,"During the emergency room visit, the doctor ordered a rapid antigen test for COVID-19 after seeing the patient के तेज़ बुखार and सांस फूलने की शिकायत.",.,O
+30,"A 45-year-old patient with suspected Cardiac Arrest was given Epinephrine injection of 1mg/kg body weight during CPR, but the situation worsened after an abnormal Electrocardiogram (ECG) test.",A,O
+30,"A 45-year-old patient with suspected Cardiac Arrest was given Epinephrine injection of 1mg/kg body weight during CPR, but the situation worsened after an abnormal Electrocardiogram (ECG) test.",45-year-old,O
+30,"A 45-year-old patient with suspected Cardiac Arrest was given Epinephrine injection of 1mg/kg body weight during CPR, but the situation worsened after an abnormal Electrocardiogram (ECG) test.",patient,O
+30,"A 45-year-old patient with suspected Cardiac Arrest was given Epinephrine injection of 1mg/kg body weight during CPR, but the situation worsened after an abnormal Electrocardiogram (ECG) test.",with,O
+30,"A 45-year-old patient with suspected Cardiac Arrest was given Epinephrine injection of 1mg/kg body weight during CPR, but the situation worsened after an abnormal Electrocardiogram (ECG) test.",suspected,O
+30,"A 45-year-old patient with suspected Cardiac Arrest was given Epinephrine injection of 1mg/kg body weight during CPR, but the situation worsened after an abnormal Electrocardiogram (ECG) test.",Cardiac Arrest,B-CONDITION
+30,"A 45-year-old patient with suspected Cardiac Arrest was given Epinephrine injection of 1mg/kg body weight during CPR, but the situation worsened after an abnormal Electrocardiogram (ECG) test.",was,O
+30,"A 45-year-old patient with suspected Cardiac Arrest was given Epinephrine injection of 1mg/kg body weight during CPR, but the situation worsened after an abnormal Electrocardiogram (ECG) test.",given,O
+30,"A 45-year-old patient with suspected Cardiac Arrest was given Epinephrine injection of 1mg/kg body weight during CPR, but the situation worsened after an abnormal Electrocardiogram (ECG) test.",Epinephrine,B-MEDICATION
+30,"A 45-year-old patient with suspected Cardiac Arrest was given Epinephrine injection of 1mg/kg body weight during CPR, but the situation worsened after an abnormal Electrocardiogram (ECG) test.",injection,O
+30,"A 45-year-old patient with suspected Cardiac Arrest was given Epinephrine injection of 1mg/kg body weight during CPR, but the situation worsened after an abnormal Electrocardiogram (ECG) test.",of,O
+30,"A 45-year-old patient with suspected Cardiac Arrest was given Epinephrine injection of 1mg/kg body weight during CPR, but the situation worsened after an abnormal Electrocardiogram (ECG) test.",1mg/kg,B-DOSAGE
+30,"A 45-year-old patient with suspected Cardiac Arrest was given Epinephrine injection of 1mg/kg body weight during CPR, but the situation worsened after an abnormal Electrocardiogram (ECG) test.",body,O
+30,"A 45-year-old patient with suspected Cardiac Arrest was given Epinephrine injection of 1mg/kg body weight during CPR, but the situation worsened after an abnormal Electrocardiogram (ECG) test.",weight,O
+30,"A 45-year-old patient with suspected Cardiac Arrest was given Epinephrine injection of 1mg/kg body weight during CPR, but the situation worsened after an abnormal Electrocardiogram (ECG) test.",during,O
+30,"A 45-year-old patient with suspected Cardiac Arrest was given Epinephrine injection of 1mg/kg body weight during CPR, but the situation worsened after an abnormal Electrocardiogram (ECG) test.",CPR,B-PROCEDURE
+30,"A 45-year-old patient with suspected Cardiac Arrest was given Epinephrine injection of 1mg/kg body weight during CPR, but the situation worsened after an abnormal Electrocardiogram (ECG) test.",but,O
+30,"A 45-year-old patient with suspected Cardiac Arrest was given Epinephrine injection of 1mg/kg body weight during CPR, but the situation worsened after an abnormal Electrocardiogram (ECG) test.",the,O
+30,"A 45-year-old patient with suspected Cardiac Arrest was given Epinephrine injection of 1mg/kg body weight during CPR, but the situation worsened after an abnormal Electrocardiogram (ECG) test.",situation,O
+30,"A 45-year-old patient with suspected Cardiac Arrest was given Epinephrine injection of 1mg/kg body weight during CPR, but the situation worsened after an abnormal Electrocardiogram (ECG) test.",worsened,O
+30,"A 45-year-old patient with suspected Cardiac Arrest was given Epinephrine injection of 1mg/kg body weight during CPR, but the situation worsened after an abnormal Electrocardiogram (ECG) test.",after,O
+30,"A 45-year-old patient with suspected Cardiac Arrest was given Epinephrine injection of 1mg/kg body weight during CPR, but the situation worsened after an abnormal Electrocardiogram (ECG) test.",an,O
+30,"A 45-year-old patient with suspected Cardiac Arrest was given Epinephrine injection of 1mg/kg body weight during CPR, but the situation worsened after an abnormal Electrocardiogram (ECG) test.",abnormal,O
+30,"A 45-year-old patient with suspected Cardiac Arrest was given Epinephrine injection of 1mg/kg body weight during CPR, but the situation worsened after an abnormal Electrocardiogram (ECG) test.",ECG,B-TEST
+30,"A 45-year-old patient with suspected Cardiac Arrest was given Epinephrine injection of 1mg/kg body weight during CPR, but the situation worsened after an abnormal Electrocardiogram (ECG) test.",test,O
+30,"A 45-year-old patient with suspected Cardiac Arrest was given Epinephrine injection of 1mg/kg body weight during CPR, but the situation worsened after an abnormal Electrocardiogram (ECG) test.",.,O
+31,The doctor diagnosed a 35-year-old woman with severe TB and prescribed 500mg Isoniazid twice daily after a positive sputum smear test and chest X-ray.,The,O
+31,The doctor diagnosed a 35-year-old woman with severe TB and prescribed 500mg Isoniazid twice daily after a positive sputum smear test and chest X-ray.,doctor,O
+31,The doctor diagnosed a 35-year-old woman with severe TB and prescribed 500mg Isoniazid twice daily after a positive sputum smear test and chest X-ray.,diagnosed,O
+31,The doctor diagnosed a 35-year-old woman with severe TB and prescribed 500mg Isoniazid twice daily after a positive sputum smear test and chest X-ray.,a,O
+31,The doctor diagnosed a 35-year-old woman with severe TB and prescribed 500mg Isoniazid twice daily after a positive sputum smear test and chest X-ray.,35-year-old,O
+31,The doctor diagnosed a 35-year-old woman with severe TB and prescribed 500mg Isoniazid twice daily after a positive sputum smear test and chest X-ray.,woman,O
+31,The doctor diagnosed a 35-year-old woman with severe TB and prescribed 500mg Isoniazid twice daily after a positive sputum smear test and chest X-ray.,with,O
+31,The doctor diagnosed a 35-year-old woman with severe TB and prescribed 500mg Isoniazid twice daily after a positive sputum smear test and chest X-ray.,severe,O
+31,The doctor diagnosed a 35-year-old woman with severe TB and prescribed 500mg Isoniazid twice daily after a positive sputum smear test and chest X-ray.,TB,B-CONDITION
+31,The doctor diagnosed a 35-year-old woman with severe TB and prescribed 500mg Isoniazid twice daily after a positive sputum smear test and chest X-ray.,and,O
+31,The doctor diagnosed a 35-year-old woman with severe TB and prescribed 500mg Isoniazid twice daily after a positive sputum smear test and chest X-ray.,prescribed,O
+31,The doctor diagnosed a 35-year-old woman with severe TB and prescribed 500mg Isoniazid twice daily after a positive sputum smear test and chest X-ray.,500mg,B-DOSAGE
+31,The doctor diagnosed a 35-year-old woman with severe TB and prescribed 500mg Isoniazid twice daily after a positive sputum smear test and chest X-ray.,Isoniazid,B-MEDICATION
+31,The doctor diagnosed a 35-year-old woman with severe TB and prescribed 500mg Isoniazid twice daily after a positive sputum smear test and chest X-ray.,twice,O
+31,The doctor diagnosed a 35-year-old woman with severe TB and prescribed 500mg Isoniazid twice daily after a positive sputum smear test and chest X-ray.,daily,O
+31,The doctor diagnosed a 35-year-old woman with severe TB and prescribed 500mg Isoniazid twice daily after a positive sputum smear test and chest X-ray.,after,O
+31,The doctor diagnosed a 35-year-old woman with severe TB and prescribed 500mg Isoniazid twice daily after a positive sputum smear test and chest X-ray.,a,O
+31,The doctor diagnosed a 35-year-old woman with severe TB and prescribed 500mg Isoniazid twice daily after a positive sputum smear test and chest X-ray.,positive,O
+31,The doctor diagnosed a 35-year-old woman with severe TB and prescribed 500mg Isoniazid twice daily after a positive sputum smear test and chest X-ray.,sputum,O
+31,The doctor diagnosed a 35-year-old woman with severe TB and prescribed 500mg Isoniazid twice daily after a positive sputum smear test and chest X-ray.,smear,O
+31,The doctor diagnosed a 35-year-old woman with severe TB and prescribed 500mg Isoniazid twice daily after a positive sputum smear test and chest X-ray.,test,B-TEST
+31,The doctor diagnosed a 35-year-old woman with severe TB and prescribed 500mg Isoniazid twice daily after a positive sputum smear test and chest X-ray.,and,O
+31,The doctor diagnosed a 35-year-old woman with severe TB and prescribed 500mg Isoniazid twice daily after a positive sputum smear test and chest X-ray.,chest,O
+31,The doctor diagnosed a 35-year-old woman with severe TB and prescribed 500mg Isoniazid twice daily after a positive sputum smear test and chest X-ray.,X-ray,B-PROCEDURE
+31,The doctor diagnosed a 35-year-old woman with severe TB and prescribed 500mg Isoniazid twice daily after a positive sputum smear test and chest X-ray.,.,O
+32,"An emergency doctor administered 20mg of Adrenaline (Epinephrine) via intravenous (IV) injection after patient experienced severe, तेज़ सांस लेना symptoms due to suspected Cardiac Arrest.",An,O
+32,"An emergency doctor administered 20mg of Adrenaline (Epinephrine) via intravenous (IV) injection after patient experienced severe, तेज़ सांस लेना symptoms due to suspected Cardiac Arrest.",emergency,O
+32,"An emergency doctor administered 20mg of Adrenaline (Epinephrine) via intravenous (IV) injection after patient experienced severe, तेज़ सांस लेना symptoms due to suspected Cardiac Arrest.",doctor,O
+32,"An emergency doctor administered 20mg of Adrenaline (Epinephrine) via intravenous (IV) injection after patient experienced severe, तेज़ सांस लेना symptoms due to suspected Cardiac Arrest.",administered,O
+32,"An emergency doctor administered 20mg of Adrenaline (Epinephrine) via intravenous (IV) injection after patient experienced severe, तेज़ सांस लेना symptoms due to suspected Cardiac Arrest.",20mg,B-DOSAGE
+32,"An emergency doctor administered 20mg of Adrenaline (Epinephrine) via intravenous (IV) injection after patient experienced severe, तेज़ सांस लेना symptoms due to suspected Cardiac Arrest.",of,O
+32,"An emergency doctor administered 20mg of Adrenaline (Epinephrine) via intravenous (IV) injection after patient experienced severe, तेज़ सांस लेना symptoms due to suspected Cardiac Arrest.",Adrenaline,B-MEDICATION
+32,"An emergency doctor administered 20mg of Adrenaline (Epinephrine) via intravenous (IV) injection after patient experienced severe, तेज़ सांस लेना symptoms due to suspected Cardiac Arrest.",(,O
+32,"An emergency doctor administered 20mg of Adrenaline (Epinephrine) via intravenous (IV) injection after patient experienced severe, तेज़ सांस लेना symptoms due to suspected Cardiac Arrest.",Epinephrine,B-MEDICATION
+32,"An emergency doctor administered 20mg of Adrenaline (Epinephrine) via intravenous (IV) injection after patient experienced severe, तेज़ सांस लेना symptoms due to suspected Cardiac Arrest.",),O
+32,"An emergency doctor administered 20mg of Adrenaline (Epinephrine) via intravenous (IV) injection after patient experienced severe, तेज़ सांस लेना symptoms due to suspected Cardiac Arrest.",via,O
+32,"An emergency doctor administered 20mg of Adrenaline (Epinephrine) via intravenous (IV) injection after patient experienced severe, तेज़ सांस लेना symptoms due to suspected Cardiac Arrest.",intravenous,O
+32,"An emergency doctor administered 20mg of Adrenaline (Epinephrine) via intravenous (IV) injection after patient experienced severe, तेज़ सांस लेना symptoms due to suspected Cardiac Arrest.",(,O
+32,"An emergency doctor administered 20mg of Adrenaline (Epinephrine) via intravenous (IV) injection after patient experienced severe, तेज़ सांस लेना symptoms due to suspected Cardiac Arrest.",IV,B-PROCEDURE
+32,"An emergency doctor administered 20mg of Adrenaline (Epinephrine) via intravenous (IV) injection after patient experienced severe, तेज़ सांस लेना symptoms due to suspected Cardiac Arrest.",),O
+32,"An emergency doctor administered 20mg of Adrenaline (Epinephrine) via intravenous (IV) injection after patient experienced severe, तेज़ सांस लेना symptoms due to suspected Cardiac Arrest.",injection,B-PROCEDURE
+32,"An emergency doctor administered 20mg of Adrenaline (Epinephrine) via intravenous (IV) injection after patient experienced severe, तेज़ सांस लेना symptoms due to suspected Cardiac Arrest.",after,O
+32,"An emergency doctor administered 20mg of Adrenaline (Epinephrine) via intravenous (IV) injection after patient experienced severe, तेज़ सांस लेना symptoms due to suspected Cardiac Arrest.",patient,O
+32,"An emergency doctor administered 20mg of Adrenaline (Epinephrine) via intravenous (IV) injection after patient experienced severe, तेज़ सांस लेना symptoms due to suspected Cardiac Arrest.",experienced,O
+32,"An emergency doctor administered 20mg of Adrenaline (Epinephrine) via intravenous (IV) injection after patient experienced severe, तेज़ सांस लेना symptoms due to suspected Cardiac Arrest.",severe,O
+32,"An emergency doctor administered 20mg of Adrenaline (Epinephrine) via intravenous (IV) injection after patient experienced severe, तेज़ सांस लेना symptoms due to suspected Cardiac Arrest.",",",O
+32,"An emergency doctor administered 20mg of Adrenaline (Epinephrine) via intravenous (IV) injection after patient experienced severe, तेज़ सांस लेना symptoms due to suspected Cardiac Arrest.",तेज़ सांस लेना,B-SYMPTOM
+32,"An emergency doctor administered 20mg of Adrenaline (Epinephrine) via intravenous (IV) injection after patient experienced severe, तेज़ सांस लेना symptoms due to suspected Cardiac Arrest.",symptoms,O
+32,"An emergency doctor administered 20mg of Adrenaline (Epinephrine) via intravenous (IV) injection after patient experienced severe, तेज़ सांस लेना symptoms due to suspected Cardiac Arrest.",due,O
+32,"An emergency doctor administered 20mg of Adrenaline (Epinephrine) via intravenous (IV) injection after patient experienced severe, तेज़ सांस लेना symptoms due to suspected Cardiac Arrest.",to,O
+32,"An emergency doctor administered 20mg of Adrenaline (Epinephrine) via intravenous (IV) injection after patient experienced severe, तेज़ सांस लेना symptoms due to suspected Cardiac Arrest.",suspected,O
+32,"An emergency doctor administered 20mg of Adrenaline (Epinephrine) via intravenous (IV) injection after patient experienced severe, तेज़ सांस लेना symptoms due to suspected Cardiac Arrest.",Cardiac,B-CONDITION
+32,"An emergency doctor administered 20mg of Adrenaline (Epinephrine) via intravenous (IV) injection after patient experienced severe, तेज़ सांस लेना symptoms due to suspected Cardiac Arrest.",Arrest,I-CONDITION
+32,"An emergency doctor administered 20mg of Adrenaline (Epinephrine) via intravenous (IV) injection after patient experienced severe, तेज़ सांस लेना symptoms due to suspected Cardiac Arrest.",.,O
+33,ौर्टोइम्यून हीमोलिटिक एनीमिया (एएचए) वाले मरीज़ को 2mg/Kg प्रतिदिन IVC डायलिसिस के साथ 1mg/Kg सेल ऑफ स्प्लीन (एसओएस) खुराक की सलाह दी गई थी।,ौर्टोइम्यून,B-CONDITION
+33,ौर्टोइम्यून हीमोलिटिक एनीमिया (एएचए) वाले मरीज़ को 2mg/Kg प्रतिदिन IVC डायलिसिस के साथ 1mg/Kg सेल ऑफ स्प्लीन (एसओएस) खुराक की सलाह दी गई थी।,हीमोलिटिक,I-CONDITION
+33,ौर्टोइम्यून हीमोलिटिक एनीमिया (एएचए) वाले मरीज़ को 2mg/Kg प्रतिदिन IVC डायलिसिस के साथ 1mg/Kg सेल ऑफ स्प्लीन (एसओएस) खुराक की सलाह दी गई थी।,एनीमिया,I-CONDITION
+33,ौर्टोइम्यून हीमोलिटिक एनीमिया (एएचए) वाले मरीज़ को 2mg/Kg प्रतिदिन IVC डायलिसिस के साथ 1mg/Kg सेल ऑफ स्प्लीन (एसओएस) खुराक की सलाह दी गई थी।,एएचए,I-CONDITION
+33,ौर्टोइम्यून हीमोलिटिक एनीमिया (एएचए) वाले मरीज़ को 2mg/Kg प्रतिदिन IVC डायलिसिस के साथ 1mg/Kg सेल ऑफ स्प्लीन (एसओएस) खुराक की सलाह दी गई थी।,वाले,O
+33,ौर्टोइम्यून हीमोलिटिक एनीमिया (एएचए) वाले मरीज़ को 2mg/Kg प्रतिदिन IVC डायलिसिस के साथ 1mg/Kg सेल ऑफ स्प्लीन (एसओएस) खुराक की सलाह दी गई थी।,मरीज़,O
+33,ौर्टोइम्यून हीमोलिटिक एनीमिया (एएचए) वाले मरीज़ को 2mg/Kg प्रतिदिन IVC डायलिसिस के साथ 1mg/Kg सेल ऑफ स्प्लीन (एसओएस) खुराक की सलाह दी गई थी।,को,O
+33,ौर्टोइम्यून हीमोलिटिक एनीमिया (एएचए) वाले मरीज़ को 2mg/Kg प्रतिदिन IVC डायलिसिस के साथ 1mg/Kg सेल ऑफ स्प्लीन (एसओएस) खुराक की सलाह दी गई थी।,2mg/Kg,B-DOSAGE
+33,ौर्टोइम्यून हीमोलिटिक एनीमिया (एएचए) वाले मरीज़ को 2mg/Kg प्रतिदिन IVC डायलिसिस के साथ 1mg/Kg सेल ऑफ स्प्लीन (एसओएस) खुराक की सलाह दी गई थी।,प्रतिदिन,O
+33,ौर्टोइम्यून हीमोलिटिक एनीमिया (एएचए) वाले मरीज़ को 2mg/Kg प्रतिदिन IVC डायलिसिस के साथ 1mg/Kg सेल ऑफ स्प्लीन (एसओएस) खुराक की सलाह दी गई थी।,IVC,B-PROCEDURE
+33,ौर्टोइम्यून हीमोलिटिक एनीमिया (एएचए) वाले मरीज़ को 2mg/Kg प्रतिदिन IVC डायलिसिस के साथ 1mg/Kg सेल ऑफ स्प्लीन (एसओएस) खुराक की सलाह दी गई थी।,डायलिसिस,I-PROCEDURE
+33,ौर्टोइम्यून हीमोलिटिक एनीमिया (एएचए) वाले मरीज़ को 2mg/Kg प्रतिदिन IVC डायलिसिस के साथ 1mg/Kg सेल ऑफ स्प्लीन (एसओएस) खुराक की सलाह दी गई थी।,के,O
+33,ौर्टोइम्यून हीमोलिटिक एनीमिया (एएचए) वाले मरीज़ को 2mg/Kg प्रतिदिन IVC डायलिसिस के साथ 1mg/Kg सेल ऑफ स्प्लीन (एसओएस) खुराक की सलाह दी गई थी।,साथ,O
+33,ौर्टोइम्यून हीमोलिटिक एनीमिया (एएचए) वाले मरीज़ को 2mg/Kg प्रतिदिन IVC डायलिसिस के साथ 1mg/Kg सेल ऑफ स्प्लीन (एसओएस) खुराक की सलाह दी गई थी।,1mg/Kg,B-DOSAGE
+33,ौर्टोइम्यून हीमोलिटिक एनीमिया (एएचए) वाले मरीज़ को 2mg/Kg प्रतिदिन IVC डायलिसिस के साथ 1mg/Kg सेल ऑफ स्प्लीन (एसओएस) खुराक की सलाह दी गई थी।,सेल ऑफ स्प्लीन,B-PROCEDURE
+33,ौर्टोइम्यून हीमोलिटिक एनीमिया (एएचए) वाले मरीज़ को 2mg/Kg प्रतिदिन IVC डायलिसिस के साथ 1mg/Kg सेल ऑफ स्प्लीन (एसओएस) खुराक की सलाह दी गई थी।,एसओएस,I-PROCEDURE
+33,ौर्टोइम्यून हीमोलिटिक एनीमिया (एएचए) वाले मरीज़ को 2mg/Kg प्रतिदिन IVC डायलिसिस के साथ 1mg/Kg सेल ऑफ स्प्लीन (एसओएस) खुराक की सलाह दी गई थी।,खुराक,O
+33,ौर्टोइम्यून हीमोलिटिक एनीमिया (एएचए) वाले मरीज़ को 2mg/Kg प्रतिदिन IVC डायलिसिस के साथ 1mg/Kg सेल ऑफ स्प्लीन (एसओएस) खुराक की सलाह दी गई थी।,की,O
+33,ौर्टोइम्यून हीमोलिटिक एनीमिया (एएचए) वाले मरीज़ को 2mg/Kg प्रतिदिन IVC डायलिसिस के साथ 1mg/Kg सेल ऑफ स्प्लीन (एसओएस) खुराक की सलाह दी गई थी।,सलाह,O
+33,ौर्टोइम्यून हीमोलिटिक एनीमिया (एएचए) वाले मरीज़ को 2mg/Kg प्रतिदिन IVC डायलिसिस के साथ 1mg/Kg सेल ऑफ स्प्लीन (एसओएस) खुराक की सलाह दी गई थी।,दी,O
+33,ौर्टोइम्यून हीमोलिटिक एनीमिया (एएचए) वाले मरीज़ को 2mg/Kg प्रतिदिन IVC डायलिसिस के साथ 1mg/Kg सेल ऑफ स्प्लीन (एसओएस) खुराक की सलाह दी गई थी।,गई,O
+33,ौर्टोइम्यून हीमोलिटिक एनीमिया (एएचए) वाले मरीज़ को 2mg/Kg प्रतिदिन IVC डायलिसिस के साथ 1mg/Kg सेल ऑफ स्प्लीन (एसओएस) खुराक की सलाह दी गई थी।,थी,O
+34,The emergency department doctor performed an immediate angioplasty on a 65-year-old patient suffering from severe chest pain and डायलिसिस निर्भरता.,The,O
+34,The emergency department doctor performed an immediate angioplasty on a 65-year-old patient suffering from severe chest pain and डायलिसिस निर्भरता.,emergency,O
+34,The emergency department doctor performed an immediate angioplasty on a 65-year-old patient suffering from severe chest pain and डायलिसिस निर्भरता.,department,O
+34,The emergency department doctor performed an immediate angioplasty on a 65-year-old patient suffering from severe chest pain and डायलिसिस निर्भरता.,doctor,O
+34,The emergency department doctor performed an immediate angioplasty on a 65-year-old patient suffering from severe chest pain and डायलिसिस निर्भरता.,performed,O
+34,The emergency department doctor performed an immediate angioplasty on a 65-year-old patient suffering from severe chest pain and डायलिसिस निर्भरता.,an,O
+34,The emergency department doctor performed an immediate angioplasty on a 65-year-old patient suffering from severe chest pain and डायलिसिस निर्भरता.,immediate,O
+34,The emergency department doctor performed an immediate angioplasty on a 65-year-old patient suffering from severe chest pain and डायलिसिस निर्भरता.,angioplasty,B-PROCEDURE
+34,The emergency department doctor performed an immediate angioplasty on a 65-year-old patient suffering from severe chest pain and डायलिसिस निर्भरता.,on,O
+34,The emergency department doctor performed an immediate angioplasty on a 65-year-old patient suffering from severe chest pain and डायलिसिस निर्भरता.,a,O
+34,The emergency department doctor performed an immediate angioplasty on a 65-year-old patient suffering from severe chest pain and डायलिसिस निर्भरता.,65-year-old,O
+34,The emergency department doctor performed an immediate angioplasty on a 65-year-old patient suffering from severe chest pain and डायलिसिस निर्भरता.,patient,O
+34,The emergency department doctor performed an immediate angioplasty on a 65-year-old patient suffering from severe chest pain and डायलिसिस निर्भरता.,suffering,O
+34,The emergency department doctor performed an immediate angioplasty on a 65-year-old patient suffering from severe chest pain and डायलिसिस निर्भरता.,from,O
+34,The emergency department doctor performed an immediate angioplasty on a 65-year-old patient suffering from severe chest pain and डायलिसिस निर्भरता.,severe,O
+34,The emergency department doctor performed an immediate angioplasty on a 65-year-old patient suffering from severe chest pain and डायलिसिस निर्भरता.,chest,O
+34,The emergency department doctor performed an immediate angioplasty on a 65-year-old patient suffering from severe chest pain and डायलिसिस निर्भरता.,pain,B-SYMPTOM
+34,The emergency department doctor performed an immediate angioplasty on a 65-year-old patient suffering from severe chest pain and डायलिसिस निर्भरता.,and,O
+34,The emergency department doctor performed an immediate angioplasty on a 65-year-old patient suffering from severe chest pain and डायलिसिस निर्भरता.,डाय,B-SYMPTOM
+34,The emergency department doctor performed an immediate angioplasty on a 65-year-old patient suffering from severe chest pain and डायलिसिस निर्भरता.,लिसिस,I-SYMPTOM
+34,The emergency department doctor performed an immediate angioplasty on a 65-year-old patient suffering from severe chest pain and डायलिसिस निर्भरता.,निर्भरता,I-SYMPTOM
+34,The emergency department doctor performed an immediate angioplasty on a 65-year-old patient suffering from severe chest pain and डायलिसिस निर्भरता.,.,O
+35,The patient with पैंफिसिटिस (Pleurisy) was under observation after an abnormal chest X-ray and took 500mg of Paracetamol thrice daily for तेज़ बुखार.,The,O
+35,The patient with पैंफिसिटिस (Pleurisy) was under observation after an abnormal chest X-ray and took 500mg of Paracetamol thrice daily for तेज़ बुखार.,patient,O
+35,The patient with पैंफिसिटिस (Pleurisy) was under observation after an abnormal chest X-ray and took 500mg of Paracetamol thrice daily for तेज़ बुखार.,with,O
+35,The patient with पैंफिसिटिस (Pleurisy) was under observation after an abnormal chest X-ray and took 500mg of Paracetamol thrice daily for तेज़ बुखार.,पैंफिसिटिस,B-CONDITION
+35,The patient with पैंफिसिटिस (Pleurisy) was under observation after an abnormal chest X-ray and took 500mg of Paracetamol thrice daily for तेज़ बुखार.,(,O
+35,The patient with पैंफिसिटिस (Pleurisy) was under observation after an abnormal chest X-ray and took 500mg of Paracetamol thrice daily for तेज़ बुखार.,Pleurisy,I-CONDITION
+35,The patient with पैंफिसिटिस (Pleurisy) was under observation after an abnormal chest X-ray and took 500mg of Paracetamol thrice daily for तेज़ बुखार.,),O
+35,The patient with पैंफिसिटिस (Pleurisy) was under observation after an abnormal chest X-ray and took 500mg of Paracetamol thrice daily for तेज़ बुखार.,was,O
+35,The patient with पैंफिसिटिस (Pleurisy) was under observation after an abnormal chest X-ray and took 500mg of Paracetamol thrice daily for तेज़ बुखार.,under,O
+35,The patient with पैंफिसिटिस (Pleurisy) was under observation after an abnormal chest X-ray and took 500mg of Paracetamol thrice daily for तेज़ बुखार.,observation,O
+35,The patient with पैंफिसिटिस (Pleurisy) was under observation after an abnormal chest X-ray and took 500mg of Paracetamol thrice daily for तेज़ बुखार.,after,O
+35,The patient with पैंफिसिटिस (Pleurisy) was under observation after an abnormal chest X-ray and took 500mg of Paracetamol thrice daily for तेज़ बुखार.,an,O
+35,The patient with पैंफिसिटिस (Pleurisy) was under observation after an abnormal chest X-ray and took 500mg of Paracetamol thrice daily for तेज़ बुखार.,abnormal,O
+35,The patient with पैंफिसिटिस (Pleurisy) was under observation after an abnormal chest X-ray and took 500mg of Paracetamol thrice daily for तेज़ बुखार.,chest,O
+35,The patient with पैंफिसिटिस (Pleurisy) was under observation after an abnormal chest X-ray and took 500mg of Paracetamol thrice daily for तेज़ बुखार.,X-ray,B-TEST
+35,The patient with पैंफिसिटिस (Pleurisy) was under observation after an abnormal chest X-ray and took 500mg of Paracetamol thrice daily for तेज़ बुखार.,and,O
+35,The patient with पैंफिसिटिस (Pleurisy) was under observation after an abnormal chest X-ray and took 500mg of Paracetamol thrice daily for तेज़ बुखार.,took,O
+35,The patient with पैंफिसिटिस (Pleurisy) was under observation after an abnormal chest X-ray and took 500mg of Paracetamol thrice daily for तेज़ बुखार.,500mg,B-DOSAGE
+35,The patient with पैंफिसिटिस (Pleurisy) was under observation after an abnormal chest X-ray and took 500mg of Paracetamol thrice daily for तेज़ बुखार.,of,O
+35,The patient with पैंफिसिटिस (Pleurisy) was under observation after an abnormal chest X-ray and took 500mg of Paracetamol thrice daily for तेज़ बुखार.,Paracetamol,B-MEDICATION
+35,The patient with पैंफिसिटिस (Pleurisy) was under observation after an abnormal chest X-ray and took 500mg of Paracetamol thrice daily for तेज़ बुखार.,thrice,O
+35,The patient with पैंफिसिटिस (Pleurisy) was under observation after an abnormal chest X-ray and took 500mg of Paracetamol thrice daily for तेज़ बुखार.,daily,O
+35,The patient with पैंफिसिटिस (Pleurisy) was under observation after an abnormal chest X-ray and took 500mg of Paracetamol thrice daily for तेज़ बुखार.,for,O
+35,The patient with पैंफिसिटिस (Pleurisy) was under observation after an abnormal chest X-ray and took 500mg of Paracetamol thrice daily for तेज़ बुखार.,तेज़,O
+35,The patient with पैंफिसिटिस (Pleurisy) was under observation after an abnormal chest X-ray and took 500mg of Paracetamol thrice daily for तेज़ बुखार.,बुखार,B-SYMPTOM
+35,The patient with पैंफिसिटिस (Pleurisy) was under observation after an abnormal chest X-ray and took 500mg of Paracetamol thrice daily for तेज़ बुखार.,.,O
+36,"शिशु में severe pneumonia का पता चला और DR. कुमार ने 10mg कोर्स की सलाह दी, इसके बाद X-ray पर सूजन का पता चला था।",शिशु,O
+36,"शिशु में severe pneumonia का पता चला और DR. कुमार ने 10mg कोर्स की सलाह दी, इसके बाद X-ray पर सूजन का पता चला था।",में,O
+36,"शिशु में severe pneumonia का पता चला और DR. कुमार ने 10mg कोर्स की सलाह दी, इसके बाद X-ray पर सूजन का पता चला था।",severe,O
+36,"शिशु में severe pneumonia का पता चला और DR. कुमार ने 10mg कोर्स की सलाह दी, इसके बाद X-ray पर सूजन का पता चला था।",pneumonia,B-CONDITION
+36,"शिशु में severe pneumonia का पता चला और DR. कुमार ने 10mg कोर्स की सलाह दी, इसके बाद X-ray पर सूजन का पता चला था।",का,O
+36,"शिशु में severe pneumonia का पता चला और DR. कुमार ने 10mg कोर्स की सलाह दी, इसके बाद X-ray पर सूजन का पता चला था।",पता,O
+36,"शिशु में severe pneumonia का पता चला और DR. कुमार ने 10mg कोर्स की सलाह दी, इसके बाद X-ray पर सूजन का पता चला था।",चला,O
+36,"शिशु में severe pneumonia का पता चला और DR. कुमार ने 10mg कोर्स की सलाह दी, इसके बाद X-ray पर सूजन का पता चला था।",और,O
+36,"शिशु में severe pneumonia का पता चला और DR. कुमार ने 10mg कोर्स की सलाह दी, इसके बाद X-ray पर सूजन का पता चला था।",DR.,O
+36,"शिशु में severe pneumonia का पता चला और DR. कुमार ने 10mg कोर्स की सलाह दी, इसके बाद X-ray पर सूजन का पता चला था।",कुमार,O
+36,"शिशु में severe pneumonia का पता चला और DR. कुमार ने 10mg कोर्स की सलाह दी, इसके बाद X-ray पर सूजन का पता चला था।",ने,O
+36,"शिशु में severe pneumonia का पता चला और DR. कुमार ने 10mg कोर्स की सलाह दी, इसके बाद X-ray पर सूजन का पता चला था।",10mg,B-DOSAGE
+36,"शिशु में severe pneumonia का पता चला और DR. कुमार ने 10mg कोर्स की सलाह दी, इसके बाद X-ray पर सूजन का पता चला था।",कोर्स,O
+36,"शिशु में severe pneumonia का पता चला और DR. कुमार ने 10mg कोर्स की सलाह दी, इसके बाद X-ray पर सूजन का पता चला था।",की,O
+36,"शिशु में severe pneumonia का पता चला और DR. कुमार ने 10mg कोर्स की सलाह दी, इसके बाद X-ray पर सूजन का पता चला था।",सलाह,O
+36,"शिशु में severe pneumonia का पता चला और DR. कुमार ने 10mg कोर्स की सलाह दी, इसके बाद X-ray पर सूजन का पता चला था।",दी,O
+36,"शिशु में severe pneumonia का पता चला और DR. कुमार ने 10mg कोर्स की सलाह दी, इसके बाद X-ray पर सूजन का पता चला था।",इस,O
+36,"शिशु में severe pneumonia का पता चला और DR. कुमार ने 10mg कोर्स की सलाह दी, इसके बाद X-ray पर सूजन का पता चला था।",के,O
+36,"शिशु में severe pneumonia का पता चला और DR. कुमार ने 10mg कोर्स की सलाह दी, इसके बाद X-ray पर सूजन का पता चला था।",बाद,O
+36,"शिशु में severe pneumonia का पता चला और DR. कुमार ने 10mg कोर्स की सलाह दी, इसके बाद X-ray पर सूजन का पता चला था।",X-ray,B-TEST
+36,"शिशु में severe pneumonia का पता चला और DR. कुमार ने 10mg कोर्स की सलाह दी, इसके बाद X-ray पर सूजन का पता चला था।",पर,O
+36,"शिशु में severe pneumonia का पता चला और DR. कुमार ने 10mg कोर्स की सलाह दी, इसके बाद X-ray पर सूजन का पता चला था।",सूजन,B-SYMPTOM
+36,"शिशु में severe pneumonia का पता चला और DR. कुमार ने 10mg कोर्स की सलाह दी, इसके बाद X-ray पर सूजन का पता चला था।",का,O
+36,"शिशु में severe pneumonia का पता चला और DR. कुमार ने 10mg कोर्स की सलाह दी, इसके बाद X-ray पर सूजन का पता चला था।",पता,O
+36,"शिशु में severe pneumonia का पता चला और DR. कुमार ने 10mg कोर्स की सलाह दी, इसके बाद X-ray पर सूजन का पता चला था।",चला,O
+36,"शिशु में severe pneumonia का पता चला और DR. कुमार ने 10mg कोर्स की सलाह दी, इसके बाद X-ray पर सूजन का पता चला था।",था,O
+36,"शिशु में severe pneumonia का पता चला और DR. कुमार ने 10mg कोर्स की सलाह दी, इसके बाद X-ray पर सूजन का पता चला था।",।,O
+37,The emergency room doctor administered 2 units of packed RBCs to the patient with severe hematemesis and ordered an urgent CT scan.,The,O
+37,The emergency room doctor administered 2 units of packed RBCs to the patient with severe hematemesis and ordered an urgent CT scan.,emergency,B-CONDITION
+37,The emergency room doctor administered 2 units of packed RBCs to the patient with severe hematemesis and ordered an urgent CT scan.,room,O
+37,The emergency room doctor administered 2 units of packed RBCs to the patient with severe hematemesis and ordered an urgent CT scan.,doctor,O
+37,The emergency room doctor administered 2 units of packed RBCs to the patient with severe hematemesis and ordered an urgent CT scan.,administered,O
+37,The emergency room doctor administered 2 units of packed RBCs to the patient with severe hematemesis and ordered an urgent CT scan.,2,B-DOSAGE
+37,The emergency room doctor administered 2 units of packed RBCs to the patient with severe hematemesis and ordered an urgent CT scan.,units,O
+37,The emergency room doctor administered 2 units of packed RBCs to the patient with severe hematemesis and ordered an urgent CT scan.,of,O
+37,The emergency room doctor administered 2 units of packed RBCs to the patient with severe hematemesis and ordered an urgent CT scan.,packed,O
+37,The emergency room doctor administered 2 units of packed RBCs to the patient with severe hematemesis and ordered an urgent CT scan.,RBCs,B-MEDICATION
+37,The emergency room doctor administered 2 units of packed RBCs to the patient with severe hematemesis and ordered an urgent CT scan.,to,O
+37,The emergency room doctor administered 2 units of packed RBCs to the patient with severe hematemesis and ordered an urgent CT scan.,the,O
+37,The emergency room doctor administered 2 units of packed RBCs to the patient with severe hematemesis and ordered an urgent CT scan.,patient,O
+37,The emergency room doctor administered 2 units of packed RBCs to the patient with severe hematemesis and ordered an urgent CT scan.,with,O
+37,The emergency room doctor administered 2 units of packed RBCs to the patient with severe hematemesis and ordered an urgent CT scan.,severe,O
+37,The emergency room doctor administered 2 units of packed RBCs to the patient with severe hematemesis and ordered an urgent CT scan.,hematemesis,B-SYMPTOM
+37,The emergency room doctor administered 2 units of packed RBCs to the patient with severe hematemesis and ordered an urgent CT scan.,and,O
+37,The emergency room doctor administered 2 units of packed RBCs to the patient with severe hematemesis and ordered an urgent CT scan.,ordered,O
+37,The emergency room doctor administered 2 units of packed RBCs to the patient with severe hematemesis and ordered an urgent CT scan.,an,O
+37,The emergency room doctor administered 2 units of packed RBCs to the patient with severe hematemesis and ordered an urgent CT scan.,urgent,O
+37,The emergency room doctor administered 2 units of packed RBCs to the patient with severe hematemesis and ordered an urgent CT scan.,CT,B-TEST
+37,The emergency room doctor administered 2 units of packed RBCs to the patient with severe hematemesis and ordered an urgent CT scan.,scan,O
+37,The emergency room doctor administered 2 units of packed RBCs to the patient with severe hematemesis and ordered an urgent CT scan.,.,O
+38,"Angioplasty was performed on 55-year-old patient after a severe Blocked coronary artery and high blood pressure were diagnosed following an abnormal Electrocardiogram (ECG), Lipid Profile, and Chest X-ray.",Angioplasty,B-PROCEDURE
+38,"Angioplasty was performed on 55-year-old patient after a severe Blocked coronary artery and high blood pressure were diagnosed following an abnormal Electrocardiogram (ECG), Lipid Profile, and Chest X-ray.",was,O
+38,"Angioplasty was performed on 55-year-old patient after a severe Blocked coronary artery and high blood pressure were diagnosed following an abnormal Electrocardiogram (ECG), Lipid Profile, and Chest X-ray.",performed,O
+38,"Angioplasty was performed on 55-year-old patient after a severe Blocked coronary artery and high blood pressure were diagnosed following an abnormal Electrocardiogram (ECG), Lipid Profile, and Chest X-ray.",on,O
+38,"Angioplasty was performed on 55-year-old patient after a severe Blocked coronary artery and high blood pressure were diagnosed following an abnormal Electrocardiogram (ECG), Lipid Profile, and Chest X-ray.",55-year-old,O
+38,"Angioplasty was performed on 55-year-old patient after a severe Blocked coronary artery and high blood pressure were diagnosed following an abnormal Electrocardiogram (ECG), Lipid Profile, and Chest X-ray.",patient,O
+38,"Angioplasty was performed on 55-year-old patient after a severe Blocked coronary artery and high blood pressure were diagnosed following an abnormal Electrocardiogram (ECG), Lipid Profile, and Chest X-ray.",after,O
+38,"Angioplasty was performed on 55-year-old patient after a severe Blocked coronary artery and high blood pressure were diagnosed following an abnormal Electrocardiogram (ECG), Lipid Profile, and Chest X-ray.",a,O
+38,"Angioplasty was performed on 55-year-old patient after a severe Blocked coronary artery and high blood pressure were diagnosed following an abnormal Electrocardiogram (ECG), Lipid Profile, and Chest X-ray.",severe,O
+38,"Angioplasty was performed on 55-year-old patient after a severe Blocked coronary artery and high blood pressure were diagnosed following an abnormal Electrocardiogram (ECG), Lipid Profile, and Chest X-ray.",Blocked,B-CONDITION
+38,"Angioplasty was performed on 55-year-old patient after a severe Blocked coronary artery and high blood pressure were diagnosed following an abnormal Electrocardiogram (ECG), Lipid Profile, and Chest X-ray.",coronary,O
+38,"Angioplasty was performed on 55-year-old patient after a severe Blocked coronary artery and high blood pressure were diagnosed following an abnormal Electrocardiogram (ECG), Lipid Profile, and Chest X-ray.",artery,O
+38,"Angioplasty was performed on 55-year-old patient after a severe Blocked coronary artery and high blood pressure were diagnosed following an abnormal Electrocardiogram (ECG), Lipid Profile, and Chest X-ray.",and,O
+38,"Angioplasty was performed on 55-year-old patient after a severe Blocked coronary artery and high blood pressure were diagnosed following an abnormal Electrocardiogram (ECG), Lipid Profile, and Chest X-ray.",high,O
+38,"Angioplasty was performed on 55-year-old patient after a severe Blocked coronary artery and high blood pressure were diagnosed following an abnormal Electrocardiogram (ECG), Lipid Profile, and Chest X-ray.",blood,O
+38,"Angioplasty was performed on 55-year-old patient after a severe Blocked coronary artery and high blood pressure were diagnosed following an abnormal Electrocardiogram (ECG), Lipid Profile, and Chest X-ray.",pressure,I-CONDITION
+38,"Angioplasty was performed on 55-year-old patient after a severe Blocked coronary artery and high blood pressure were diagnosed following an abnormal Electrocardiogram (ECG), Lipid Profile, and Chest X-ray.",were,O
+38,"Angioplasty was performed on 55-year-old patient after a severe Blocked coronary artery and high blood pressure were diagnosed following an abnormal Electrocardiogram (ECG), Lipid Profile, and Chest X-ray.",diagnosed,O
+38,"Angioplasty was performed on 55-year-old patient after a severe Blocked coronary artery and high blood pressure were diagnosed following an abnormal Electrocardiogram (ECG), Lipid Profile, and Chest X-ray.",following,O
+38,"Angioplasty was performed on 55-year-old patient after a severe Blocked coronary artery and high blood pressure were diagnosed following an abnormal Electrocardiogram (ECG), Lipid Profile, and Chest X-ray.",an,O
+38,"Angioplasty was performed on 55-year-old patient after a severe Blocked coronary artery and high blood pressure were diagnosed following an abnormal Electrocardiogram (ECG), Lipid Profile, and Chest X-ray.",abnormal,O
+38,"Angioplasty was performed on 55-year-old patient after a severe Blocked coronary artery and high blood pressure were diagnosed following an abnormal Electrocardiogram (ECG), Lipid Profile, and Chest X-ray.",ECG,B-TEST
+38,"Angioplasty was performed on 55-year-old patient after a severe Blocked coronary artery and high blood pressure were diagnosed following an abnormal Electrocardiogram (ECG), Lipid Profile, and Chest X-ray.",",",O
+38,"Angioplasty was performed on 55-year-old patient after a severe Blocked coronary artery and high blood pressure were diagnosed following an abnormal Electrocardiogram (ECG), Lipid Profile, and Chest X-ray.",Lipid,O
+38,"Angioplasty was performed on 55-year-old patient after a severe Blocked coronary artery and high blood pressure were diagnosed following an abnormal Electrocardiogram (ECG), Lipid Profile, and Chest X-ray.",Profile,B-TEST
+38,"Angioplasty was performed on 55-year-old patient after a severe Blocked coronary artery and high blood pressure were diagnosed following an abnormal Electrocardiogram (ECG), Lipid Profile, and Chest X-ray.",",",O
+38,"Angioplasty was performed on 55-year-old patient after a severe Blocked coronary artery and high blood pressure were diagnosed following an abnormal Electrocardiogram (ECG), Lipid Profile, and Chest X-ray.",and,O
+38,"Angioplasty was performed on 55-year-old patient after a severe Blocked coronary artery and high blood pressure were diagnosed following an abnormal Electrocardiogram (ECG), Lipid Profile, and Chest X-ray.",Chest,O
+38,"Angioplasty was performed on 55-year-old patient after a severe Blocked coronary artery and high blood pressure were diagnosed following an abnormal Electrocardiogram (ECG), Lipid Profile, and Chest X-ray.",X-ray,B-TEST
+38,"Angioplasty was performed on 55-year-old patient after a severe Blocked coronary artery and high blood pressure were diagnosed following an abnormal Electrocardiogram (ECG), Lipid Profile, and Chest X-ray.",.,O
+39,The 36-year-old patient with a known history of गुर्दे की विफलता (renal failure) was rushed to the ICU after experiencing severe कंपकंपी (chills) and बेचैनी (restlessness) due to a positive blood culture showing antibiotic-resistant MRSA.,The,O
+39,The 36-year-old patient with a known history of गुर्दे की विफलता (renal failure) was rushed to the ICU after experiencing severe कंपकंपी (chills) and बेचैनी (restlessness) due to a positive blood culture showing antibiotic-resistant MRSA.,36-year-old,O
+39,The 36-year-old patient with a known history of गुर्दे की विफलता (renal failure) was rushed to the ICU after experiencing severe कंपकंपी (chills) and बेचैनी (restlessness) due to a positive blood culture showing antibiotic-resistant MRSA.,patient,O
+39,The 36-year-old patient with a known history of गुर्दे की विफलता (renal failure) was rushed to the ICU after experiencing severe कंपकंपी (chills) and बेचैनी (restlessness) due to a positive blood culture showing antibiotic-resistant MRSA.,with,O
+39,The 36-year-old patient with a known history of गुर्दे की विफलता (renal failure) was rushed to the ICU after experiencing severe कंपकंपी (chills) and बेचैनी (restlessness) due to a positive blood culture showing antibiotic-resistant MRSA.,a,O
+39,The 36-year-old patient with a known history of गुर्दे की विफलता (renal failure) was rushed to the ICU after experiencing severe कंपकंपी (chills) and बेचैनी (restlessness) due to a positive blood culture showing antibiotic-resistant MRSA.,known,O
+39,The 36-year-old patient with a known history of गुर्दे की विफलता (renal failure) was rushed to the ICU after experiencing severe कंपकंपी (chills) and बेचैनी (restlessness) due to a positive blood culture showing antibiotic-resistant MRSA.,history,O
+39,The 36-year-old patient with a known history of गुर्दे की विफलता (renal failure) was rushed to the ICU after experiencing severe कंपकंपी (chills) and बेचैनी (restlessness) due to a positive blood culture showing antibiotic-resistant MRSA.,of,O
+39,The 36-year-old patient with a known history of गुर्दे की विफलता (renal failure) was rushed to the ICU after experiencing severe कंपकंपी (chills) and बेचैनी (restlessness) due to a positive blood culture showing antibiotic-resistant MRSA.,गुर्दे की विफलता,B-CONDITION
+39,The 36-year-old patient with a known history of गुर्दे की विफलता (renal failure) was rushed to the ICU after experiencing severe कंपकंपी (chills) and बेचैनी (restlessness) due to a positive blood culture showing antibiotic-resistant MRSA.,was,O
+39,The 36-year-old patient with a known history of गुर्दे की विफलता (renal failure) was rushed to the ICU after experiencing severe कंपकंपी (chills) and बेचैनी (restlessness) due to a positive blood culture showing antibiotic-resistant MRSA.,rushed,O
+39,The 36-year-old patient with a known history of गुर्दे की विफलता (renal failure) was rushed to the ICU after experiencing severe कंपकंपी (chills) and बेचैनी (restlessness) due to a positive blood culture showing antibiotic-resistant MRSA.,to,O
+39,The 36-year-old patient with a known history of गुर्दे की विफलता (renal failure) was rushed to the ICU after experiencing severe कंपकंपी (chills) and बेचैनी (restlessness) due to a positive blood culture showing antibiotic-resistant MRSA.,the,O
+39,The 36-year-old patient with a known history of गुर्दे की विफलता (renal failure) was rushed to the ICU after experiencing severe कंपकंपी (chills) and बेचैनी (restlessness) due to a positive blood culture showing antibiotic-resistant MRSA.,ICU,B-PROCEDURE
+39,The 36-year-old patient with a known history of गुर्दे की विफलता (renal failure) was rushed to the ICU after experiencing severe कंपकंपी (chills) and बेचैनी (restlessness) due to a positive blood culture showing antibiotic-resistant MRSA.,after,O
+39,The 36-year-old patient with a known history of गुर्दे की विफलता (renal failure) was rushed to the ICU after experiencing severe कंपकंपी (chills) and बेचैनी (restlessness) due to a positive blood culture showing antibiotic-resistant MRSA.,experiencing,O
+39,The 36-year-old patient with a known history of गुर्दे की विफलता (renal failure) was rushed to the ICU after experiencing severe कंपकंपी (chills) and बेचैनी (restlessness) due to a positive blood culture showing antibiotic-resistant MRSA.,severe,O
+39,The 36-year-old patient with a known history of गुर्दे की विफलता (renal failure) was rushed to the ICU after experiencing severe कंपकंपी (chills) and बेचैनी (restlessness) due to a positive blood culture showing antibiotic-resistant MRSA.,कंपकंपी,B-SYMPTOM
+39,The 36-year-old patient with a known history of गुर्दे की विफलता (renal failure) was rushed to the ICU after experiencing severe कंपकंपी (chills) and बेचैनी (restlessness) due to a positive blood culture showing antibiotic-resistant MRSA.,and,O
+39,The 36-year-old patient with a known history of गुर्दे की विफलता (renal failure) was rushed to the ICU after experiencing severe कंपकंपी (chills) and बेचैनी (restlessness) due to a positive blood culture showing antibiotic-resistant MRSA.,बेचैनी,B-SYMPTOM
+39,The 36-year-old patient with a known history of गुर्दे की विफलता (renal failure) was rushed to the ICU after experiencing severe कंपकंपी (chills) and बेचैनी (restlessness) due to a positive blood culture showing antibiotic-resistant MRSA.,due,O
+39,The 36-year-old patient with a known history of गुर्दे की विफलता (renal failure) was rushed to the ICU after experiencing severe कंपकंपी (chills) and बेचैनी (restlessness) due to a positive blood culture showing antibiotic-resistant MRSA.,to,O
+39,The 36-year-old patient with a known history of गुर्दे की विफलता (renal failure) was rushed to the ICU after experiencing severe कंपकंपी (chills) and बेचैनी (restlessness) due to a positive blood culture showing antibiotic-resistant MRSA.,a,O
+39,The 36-year-old patient with a known history of गुर्दे की विफलता (renal failure) was rushed to the ICU after experiencing severe कंपकंपी (chills) and बेचैनी (restlessness) due to a positive blood culture showing antibiotic-resistant MRSA.,positive,O
+39,The 36-year-old patient with a known history of गुर्दे की विफलता (renal failure) was rushed to the ICU after experiencing severe कंपकंपी (chills) and बेचैनी (restlessness) due to a positive blood culture showing antibiotic-resistant MRSA.,blood,O
+39,The 36-year-old patient with a known history of गुर्दे की विफलता (renal failure) was rushed to the ICU after experiencing severe कंपकंपी (chills) and बेचैनी (restlessness) due to a positive blood culture showing antibiotic-resistant MRSA.,culture,O
+39,The 36-year-old patient with a known history of गुर्दे की विफलता (renal failure) was rushed to the ICU after experiencing severe कंपकंपी (chills) and बेचैनी (restlessness) due to a positive blood culture showing antibiotic-resistant MRSA.,showing,O
+39,The 36-year-old patient with a known history of गुर्दे की विफलता (renal failure) was rushed to the ICU after experiencing severe कंपकंपी (chills) and बेचैनी (restlessness) due to a positive blood culture showing antibiotic-resistant MRSA.,antibiotic-resistant,O
+39,The 36-year-old patient with a known history of गुर्दे की विफलता (renal failure) was rushed to the ICU after experiencing severe कंपकंपी (chills) and बेचैनी (restlessness) due to a positive blood culture showing antibiotic-resistant MRSA.,MRSA,B-TEST
+39,The 36-year-old patient with a known history of गुर्दे की विफलता (renal failure) was rushed to the ICU after experiencing severe कंपकंपी (chills) and बेचैनी (restlessness) due to a positive blood culture showing antibiotic-resistant MRSA.,.,O

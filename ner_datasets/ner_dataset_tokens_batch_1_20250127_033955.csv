@@ -1,0 +1,209 @@
+sentence_id,text,token,ner_tag
+0,"After the diagnosis of TB, the patient was immediately started on a 400mg Catster tablets twice daily along with a Lipid Profile test.",After,O
+0,"After the diagnosis of TB, the patient was immediately started on a 400mg Catster tablets twice daily along with a Lipid Profile test.",the,O
+0,"After the diagnosis of TB, the patient was immediately started on a 400mg Catster tablets twice daily along with a Lipid Profile test.",diagnosis,B-PROCEDURE
+0,"After the diagnosis of TB, the patient was immediately started on a 400mg Catster tablets twice daily along with a Lipid Profile test.",of,O
+0,"After the diagnosis of TB, the patient was immediately started on a 400mg Catster tablets twice daily along with a Lipid Profile test.",TB,B-CONDITION
+0,"After the diagnosis of TB, the patient was immediately started on a 400mg Catster tablets twice daily along with a Lipid Profile test.",",",O
+0,"After the diagnosis of TB, the patient was immediately started on a 400mg Catster tablets twice daily along with a Lipid Profile test.",the,O
+0,"After the diagnosis of TB, the patient was immediately started on a 400mg Catster tablets twice daily along with a Lipid Profile test.",patient,O
+0,"After the diagnosis of TB, the patient was immediately started on a 400mg Catster tablets twice daily along with a Lipid Profile test.",was,O
+0,"After the diagnosis of TB, the patient was immediately started on a 400mg Catster tablets twice daily along with a Lipid Profile test.",immediately,O
+0,"After the diagnosis of TB, the patient was immediately started on a 400mg Catster tablets twice daily along with a Lipid Profile test.",started,O
+0,"After the diagnosis of TB, the patient was immediately started on a 400mg Catster tablets twice daily along with a Lipid Profile test.",on,O
+0,"After the diagnosis of TB, the patient was immediately started on a 400mg Catster tablets twice daily along with a Lipid Profile test.",a,O
+0,"After the diagnosis of TB, the patient was immediately started on a 400mg Catster tablets twice daily along with a Lipid Profile test.",400mg,B-DOSAGE
+0,"After the diagnosis of TB, the patient was immediately started on a 400mg Catster tablets twice daily along with a Lipid Profile test.",Catster,B-MEDICATION
+0,"After the diagnosis of TB, the patient was immediately started on a 400mg Catster tablets twice daily along with a Lipid Profile test.",tablets,I-MEDICATION
+0,"After the diagnosis of TB, the patient was immediately started on a 400mg Catster tablets twice daily along with a Lipid Profile test.",twice,B-DOSAGE
+0,"After the diagnosis of TB, the patient was immediately started on a 400mg Catster tablets twice daily along with a Lipid Profile test.",daily,I-DOSAGE
+0,"After the diagnosis of TB, the patient was immediately started on a 400mg Catster tablets twice daily along with a Lipid Profile test.",along,O
+0,"After the diagnosis of TB, the patient was immediately started on a 400mg Catster tablets twice daily along with a Lipid Profile test.",with,O
+0,"After the diagnosis of TB, the patient was immediately started on a 400mg Catster tablets twice daily along with a Lipid Profile test.",a,O
+0,"After the diagnosis of TB, the patient was immediately started on a 400mg Catster tablets twice daily along with a Lipid Profile test.",Lipid,B-TEST
+0,"After the diagnosis of TB, the patient was immediately started on a 400mg Catster tablets twice daily along with a Lipid Profile test.",Profile,I-TEST
+0,"After the diagnosis of TB, the patient was immediately started on a 400mg Catster tablets twice daily along with a Lipid Profile test.",test,I-TEST
+0,"After the diagnosis of TB, the patient was immediately started on a 400mg Catster tablets twice daily along with a Lipid Profile test.",.,O
+1,"The patient experienced severe chest pain and shortness of breath, so they were rushed to the hospital for an emergency angioplasty procedure.",The,O
+1,"The patient experienced severe chest pain and shortness of breath, so they were rushed to the hospital for an emergency angioplasty procedure.",patient,O
+1,"The patient experienced severe chest pain and shortness of breath, so they were rushed to the hospital for an emergency angioplasty procedure.",experienced,O
+1,"The patient experienced severe chest pain and shortness of breath, so they were rushed to the hospital for an emergency angioplasty procedure.",severe,B-SYMPTOM
+1,"The patient experienced severe chest pain and shortness of breath, so they were rushed to the hospital for an emergency angioplasty procedure.",chest pain,I-SYMPTOM
+1,"The patient experienced severe chest pain and shortness of breath, so they were rushed to the hospital for an emergency angioplasty procedure.",and,O
+1,"The patient experienced severe chest pain and shortness of breath, so they were rushed to the hospital for an emergency angioplasty procedure.",shortness,B-SYMPTOM
+1,"The patient experienced severe chest pain and shortness of breath, so they were rushed to the hospital for an emergency angioplasty procedure.",of breath,I-SYMPTOM
+1,"The patient experienced severe chest pain and shortness of breath, so they were rushed to the hospital for an emergency angioplasty procedure.",",",O
+1,"The patient experienced severe chest pain and shortness of breath, so they were rushed to the hospital for an emergency angioplasty procedure.",so,O
+1,"The patient experienced severe chest pain and shortness of breath, so they were rushed to the hospital for an emergency angioplasty procedure.",they,O
+1,"The patient experienced severe chest pain and shortness of breath, so they were rushed to the hospital for an emergency angioplasty procedure.",were,O
+1,"The patient experienced severe chest pain and shortness of breath, so they were rushed to the hospital for an emergency angioplasty procedure.",rushed,O
+1,"The patient experienced severe chest pain and shortness of breath, so they were rushed to the hospital for an emergency angioplasty procedure.",to,O
+1,"The patient experienced severe chest pain and shortness of breath, so they were rushed to the hospital for an emergency angioplasty procedure.",the,O
+1,"The patient experienced severe chest pain and shortness of breath, so they were rushed to the hospital for an emergency angioplasty procedure.",hospital,O
+1,"The patient experienced severe chest pain and shortness of breath, so they were rushed to the hospital for an emergency angioplasty procedure.",for,O
+1,"The patient experienced severe chest pain and shortness of breath, so they were rushed to the hospital for an emergency angioplasty procedure.",an,O
+1,"The patient experienced severe chest pain and shortness of breath, so they were rushed to the hospital for an emergency angioplasty procedure.",emergency,B-PROCEDURE
+1,"The patient experienced severe chest pain and shortness of breath, so they were rushed to the hospital for an emergency angioplasty procedure.",angioplasty,I-PROCEDURE
+1,"The patient experienced severe chest pain and shortness of breath, so they were rushed to the hospital for an emergency angioplasty procedure.",procedure,I-PROCEDURE
+1,"The patient experienced severe chest pain and shortness of breath, so they were rushed to the hospital for an emergency angioplasty procedure.",.,O
+2,The patient with severe asthma was administered a Nebulizer treatment and given Prednisolone 10mg after a positive Skin Prick test for dust mites.,The,O
+2,The patient with severe asthma was administered a Nebulizer treatment and given Prednisolone 10mg after a positive Skin Prick test for dust mites.,patient,O
+2,The patient with severe asthma was administered a Nebulizer treatment and given Prednisolone 10mg after a positive Skin Prick test for dust mites.,with,O
+2,The patient with severe asthma was administered a Nebulizer treatment and given Prednisolone 10mg after a positive Skin Prick test for dust mites.,severe,B-CONDITION
+2,The patient with severe asthma was administered a Nebulizer treatment and given Prednisolone 10mg after a positive Skin Prick test for dust mites.,asthma,I-CONDITION
+2,The patient with severe asthma was administered a Nebulizer treatment and given Prednisolone 10mg after a positive Skin Prick test for dust mites.,was,O
+2,The patient with severe asthma was administered a Nebulizer treatment and given Prednisolone 10mg after a positive Skin Prick test for dust mites.,administered,O
+2,The patient with severe asthma was administered a Nebulizer treatment and given Prednisolone 10mg after a positive Skin Prick test for dust mites.,a,O
+2,The patient with severe asthma was administered a Nebulizer treatment and given Prednisolone 10mg after a positive Skin Prick test for dust mites.,Nebulizer,B-PROCEDURE
+2,The patient with severe asthma was administered a Nebulizer treatment and given Prednisolone 10mg after a positive Skin Prick test for dust mites.,treatment,I-PROCEDURE
+2,The patient with severe asthma was administered a Nebulizer treatment and given Prednisolone 10mg after a positive Skin Prick test for dust mites.,and,O
+2,The patient with severe asthma was administered a Nebulizer treatment and given Prednisolone 10mg after a positive Skin Prick test for dust mites.,given,O
+2,The patient with severe asthma was administered a Nebulizer treatment and given Prednisolone 10mg after a positive Skin Prick test for dust mites.,Prednisolone,B-MEDICATION
+2,The patient with severe asthma was administered a Nebulizer treatment and given Prednisolone 10mg after a positive Skin Prick test for dust mites.,10mg,B-DOSAGE
+2,The patient with severe asthma was administered a Nebulizer treatment and given Prednisolone 10mg after a positive Skin Prick test for dust mites.,after,O
+2,The patient with severe asthma was administered a Nebulizer treatment and given Prednisolone 10mg after a positive Skin Prick test for dust mites.,a,O
+2,The patient with severe asthma was administered a Nebulizer treatment and given Prednisolone 10mg after a positive Skin Prick test for dust mites.,positive,O
+2,The patient with severe asthma was administered a Nebulizer treatment and given Prednisolone 10mg after a positive Skin Prick test for dust mites.,Skin Prick,B-TEST
+2,The patient with severe asthma was administered a Nebulizer treatment and given Prednisolone 10mg after a positive Skin Prick test for dust mites.,test,I-TEST
+2,The patient with severe asthma was administered a Nebulizer treatment and given Prednisolone 10mg after a positive Skin Prick test for dust mites.,for,O
+2,The patient with severe asthma was administered a Nebulizer treatment and given Prednisolone 10mg after a positive Skin Prick test for dust mites.,dust,B-ALLERGEN
+2,The patient with severe asthma was administered a Nebulizer treatment and given Prednisolone 10mg after a positive Skin Prick test for dust mites.,mites,I-ALLERGEN
+2,The patient with severe asthma was administered a Nebulizer treatment and given Prednisolone 10mg after a positive Skin Prick test for dust mites.,.,O
+3,"After a positive TB test, the patient was immediately started on a 400mg Rifampicin daily dosage and referred for a lung biopsy procedure.",After,O
+3,"After a positive TB test, the patient was immediately started on a 400mg Rifampicin daily dosage and referred for a lung biopsy procedure.",a,O
+3,"After a positive TB test, the patient was immediately started on a 400mg Rifampicin daily dosage and referred for a lung biopsy procedure.",positive,O
+3,"After a positive TB test, the patient was immediately started on a 400mg Rifampicin daily dosage and referred for a lung biopsy procedure.",TB,B-TEST
+3,"After a positive TB test, the patient was immediately started on a 400mg Rifampicin daily dosage and referred for a lung biopsy procedure.",test,O
+3,"After a positive TB test, the patient was immediately started on a 400mg Rifampicin daily dosage and referred for a lung biopsy procedure.",",",O
+3,"After a positive TB test, the patient was immediately started on a 400mg Rifampicin daily dosage and referred for a lung biopsy procedure.",the,O
+3,"After a positive TB test, the patient was immediately started on a 400mg Rifampicin daily dosage and referred for a lung biopsy procedure.",patient,O
+3,"After a positive TB test, the patient was immediately started on a 400mg Rifampicin daily dosage and referred for a lung biopsy procedure.",was,O
+3,"After a positive TB test, the patient was immediately started on a 400mg Rifampicin daily dosage and referred for a lung biopsy procedure.",immediately,O
+3,"After a positive TB test, the patient was immediately started on a 400mg Rifampicin daily dosage and referred for a lung biopsy procedure.",started,O
+3,"After a positive TB test, the patient was immediately started on a 400mg Rifampicin daily dosage and referred for a lung biopsy procedure.",on,O
+3,"After a positive TB test, the patient was immediately started on a 400mg Rifampicin daily dosage and referred for a lung biopsy procedure.",a,O
+3,"After a positive TB test, the patient was immediately started on a 400mg Rifampicin daily dosage and referred for a lung biopsy procedure.",400mg,B-DOSAGE
+3,"After a positive TB test, the patient was immediately started on a 400mg Rifampicin daily dosage and referred for a lung biopsy procedure.",Rifampicin,B-MEDICATION
+3,"After a positive TB test, the patient was immediately started on a 400mg Rifampicin daily dosage and referred for a lung biopsy procedure.",daily,B-DOSAGE
+3,"After a positive TB test, the patient was immediately started on a 400mg Rifampicin daily dosage and referred for a lung biopsy procedure.",dosage,O
+3,"After a positive TB test, the patient was immediately started on a 400mg Rifampicin daily dosage and referred for a lung biopsy procedure.",and,O
+3,"After a positive TB test, the patient was immediately started on a 400mg Rifampicin daily dosage and referred for a lung biopsy procedure.",referred,O
+3,"After a positive TB test, the patient was immediately started on a 400mg Rifampicin daily dosage and referred for a lung biopsy procedure.",for,O
+3,"After a positive TB test, the patient was immediately started on a 400mg Rifampicin daily dosage and referred for a lung biopsy procedure.",a,O
+3,"After a positive TB test, the patient was immediately started on a 400mg Rifampicin daily dosage and referred for a lung biopsy procedure.",lung,O
+3,"After a positive TB test, the patient was immediately started on a 400mg Rifampicin daily dosage and referred for a lung biopsy procedure.",biopsy,B-PROCEDURE
+3,"After a positive TB test, the patient was immediately started on a 400mg Rifampicin daily dosage and referred for a lung biopsy procedure.",procedure,O
+3,"After a positive TB test, the patient was immediately started on a 400mg Rifampicin daily dosage and referred for a lung biopsy procedure.",.,O
+4,The patient with chronic kidney disease was advised to undergo डायलिसिस three times a week after a positive creatinine test.,The,O
+4,The patient with chronic kidney disease was advised to undergo डायलिसिस three times a week after a positive creatinine test.,patient,O
+4,The patient with chronic kidney disease was advised to undergo डायलिसिस three times a week after a positive creatinine test.,with,O
+4,The patient with chronic kidney disease was advised to undergo डायलिसिस three times a week after a positive creatinine test.,chronic kidney,B-CONDITION
+4,The patient with chronic kidney disease was advised to undergo डायलिसिस three times a week after a positive creatinine test.,disease,I-CONDITION
+4,The patient with chronic kidney disease was advised to undergo डायलिसिस three times a week after a positive creatinine test.,was,O
+4,The patient with chronic kidney disease was advised to undergo डायलिसिस three times a week after a positive creatinine test.,advised,O
+4,The patient with chronic kidney disease was advised to undergo डायलिसिस three times a week after a positive creatinine test.,to,O
+4,The patient with chronic kidney disease was advised to undergo डायलिसिस three times a week after a positive creatinine test.,undergo,O
+4,The patient with chronic kidney disease was advised to undergo डायलिसिस three times a week after a positive creatinine test.,डायलिसिस,B-PROCEDURE
+4,The patient with chronic kidney disease was advised to undergo डायलिसिस three times a week after a positive creatinine test.,three,O
+4,The patient with chronic kidney disease was advised to undergo डायलिसिस three times a week after a positive creatinine test.,times,O
+4,The patient with chronic kidney disease was advised to undergo डायलिसिस three times a week after a positive creatinine test.,a,O
+4,The patient with chronic kidney disease was advised to undergo डायलिसिस three times a week after a positive creatinine test.,week,O
+4,The patient with chronic kidney disease was advised to undergo डायलिसिस three times a week after a positive creatinine test.,after,O
+4,The patient with chronic kidney disease was advised to undergo डायलिसिस three times a week after a positive creatinine test.,a,O
+4,The patient with chronic kidney disease was advised to undergo डायलिसिस three times a week after a positive creatinine test.,positive,O
+4,The patient with chronic kidney disease was advised to undergo डायलिसिस three times a week after a positive creatinine test.,creatinine,B-TEST
+4,The patient with chronic kidney disease was advised to undergo डायलिसिस three times a week after a positive creatinine test.,test,I-TEST
+4,The patient with chronic kidney disease was advised to undergo डायलिसिस three times a week after a positive creatinine test.,.,O
+5,"The patient experienced severe chest pain and shortness of breath before undergoing a bypass surgery, and was allergic to Penicillin.",The,O
+5,"The patient experienced severe chest pain and shortness of breath before undergoing a bypass surgery, and was allergic to Penicillin.",patient,O
+5,"The patient experienced severe chest pain and shortness of breath before undergoing a bypass surgery, and was allergic to Penicillin.",experienced,O
+5,"The patient experienced severe chest pain and shortness of breath before undergoing a bypass surgery, and was allergic to Penicillin.",severe,O
+5,"The patient experienced severe chest pain and shortness of breath before undergoing a bypass surgery, and was allergic to Penicillin.",chest,B-SYMPTOM
+5,"The patient experienced severe chest pain and shortness of breath before undergoing a bypass surgery, and was allergic to Penicillin.",pain,I-SYMPTOM
+5,"The patient experienced severe chest pain and shortness of breath before undergoing a bypass surgery, and was allergic to Penicillin.",and,O
+5,"The patient experienced severe chest pain and shortness of breath before undergoing a bypass surgery, and was allergic to Penicillin.",shortness,O
+5,"The patient experienced severe chest pain and shortness of breath before undergoing a bypass surgery, and was allergic to Penicillin.",of,O
+5,"The patient experienced severe chest pain and shortness of breath before undergoing a bypass surgery, and was allergic to Penicillin.",breath,B-SYMPTOM
+5,"The patient experienced severe chest pain and shortness of breath before undergoing a bypass surgery, and was allergic to Penicillin.",before,O
+5,"The patient experienced severe chest pain and shortness of breath before undergoing a bypass surgery, and was allergic to Penicillin.",undergoing,O
+5,"The patient experienced severe chest pain and shortness of breath before undergoing a bypass surgery, and was allergic to Penicillin.",a,O
+5,"The patient experienced severe chest pain and shortness of breath before undergoing a bypass surgery, and was allergic to Penicillin.",bypass,B-PROCEDURE
+5,"The patient experienced severe chest pain and shortness of breath before undergoing a bypass surgery, and was allergic to Penicillin.",surgery,I-PROCEDURE
+5,"The patient experienced severe chest pain and shortness of breath before undergoing a bypass surgery, and was allergic to Penicillin.",",",O
+5,"The patient experienced severe chest pain and shortness of breath before undergoing a bypass surgery, and was allergic to Penicillin.",and,O
+5,"The patient experienced severe chest pain and shortness of breath before undergoing a bypass surgery, and was allergic to Penicillin.",was,O
+5,"The patient experienced severe chest pain and shortness of breath before undergoing a bypass surgery, and was allergic to Penicillin.",allergic,B-ALLERGEN
+5,"The patient experienced severe chest pain and shortness of breath before undergoing a bypass surgery, and was allergic to Penicillin.",to,O
+5,"The patient experienced severe chest pain and shortness of breath before undergoing a bypass surgery, and was allergic to Penicillin.",Penicillin,I-ALLERGEN
+5,"The patient experienced severe chest pain and shortness of breath before undergoing a bypass surgery, and was allergic to Penicillin.",.,O
+6,"The patient had a severe allergic reaction to penicillin during a surgery for removing gallstones, resulting in 3 days of hospitalization.",The,O
+6,"The patient had a severe allergic reaction to penicillin during a surgery for removing gallstones, resulting in 3 days of hospitalization.",patient,O
+6,"The patient had a severe allergic reaction to penicillin during a surgery for removing gallstones, resulting in 3 days of hospitalization.",had,O
+6,"The patient had a severe allergic reaction to penicillin during a surgery for removing gallstones, resulting in 3 days of hospitalization.",a,O
+6,"The patient had a severe allergic reaction to penicillin during a surgery for removing gallstones, resulting in 3 days of hospitalization.",severe,O
+6,"The patient had a severe allergic reaction to penicillin during a surgery for removing gallstones, resulting in 3 days of hospitalization.",allergic,O
+6,"The patient had a severe allergic reaction to penicillin during a surgery for removing gallstones, resulting in 3 days of hospitalization.",reaction,O
+6,"The patient had a severe allergic reaction to penicillin during a surgery for removing gallstones, resulting in 3 days of hospitalization.",to,O
+6,"The patient had a severe allergic reaction to penicillin during a surgery for removing gallstones, resulting in 3 days of hospitalization.",penicillin,B-ALLERGEN
+6,"The patient had a severe allergic reaction to penicillin during a surgery for removing gallstones, resulting in 3 days of hospitalization.",during,O
+6,"The patient had a severe allergic reaction to penicillin during a surgery for removing gallstones, resulting in 3 days of hospitalization.",a,O
+6,"The patient had a severe allergic reaction to penicillin during a surgery for removing gallstones, resulting in 3 days of hospitalization.",surgery,B-PROCEDURE
+6,"The patient had a severe allergic reaction to penicillin during a surgery for removing gallstones, resulting in 3 days of hospitalization.",for,O
+6,"The patient had a severe allergic reaction to penicillin during a surgery for removing gallstones, resulting in 3 days of hospitalization.",removing,O
+6,"The patient had a severe allergic reaction to penicillin during a surgery for removing gallstones, resulting in 3 days of hospitalization.",gallstones,O
+6,"The patient had a severe allergic reaction to penicillin during a surgery for removing gallstones, resulting in 3 days of hospitalization.",",",O
+6,"The patient had a severe allergic reaction to penicillin during a surgery for removing gallstones, resulting in 3 days of hospitalization.",resulting,O
+6,"The patient had a severe allergic reaction to penicillin during a surgery for removing gallstones, resulting in 3 days of hospitalization.",in,O
+6,"The patient had a severe allergic reaction to penicillin during a surgery for removing gallstones, resulting in 3 days of hospitalization.",3 days,B-DOSAGE
+6,"The patient had a severe allergic reaction to penicillin during a surgery for removing gallstones, resulting in 3 days of hospitalization.",of,O
+6,"The patient had a severe allergic reaction to penicillin during a surgery for removing gallstones, resulting in 3 days of hospitalization.",hospitalization,O
+6,"The patient had a severe allergic reaction to penicillin during a surgery for removing gallstones, resulting in 3 days of hospitalization.",.,O
+7,"After detecting a malignant tumor in the lung through an X-ray, the oncologist recommended Chemotherapy as the primary treatment along with 500ml of fluid intake every day.",After,O
+7,"After detecting a malignant tumor in the lung through an X-ray, the oncologist recommended Chemotherapy as the primary treatment along with 500ml of fluid intake every day.",detecting,O
+7,"After detecting a malignant tumor in the lung through an X-ray, the oncologist recommended Chemotherapy as the primary treatment along with 500ml of fluid intake every day.",a,O
+7,"After detecting a malignant tumor in the lung through an X-ray, the oncologist recommended Chemotherapy as the primary treatment along with 500ml of fluid intake every day.",malignant,B-CONDITION
+7,"After detecting a malignant tumor in the lung through an X-ray, the oncologist recommended Chemotherapy as the primary treatment along with 500ml of fluid intake every day.",tumor,I-CONDITION
+7,"After detecting a malignant tumor in the lung through an X-ray, the oncologist recommended Chemotherapy as the primary treatment along with 500ml of fluid intake every day.",in,O
+7,"After detecting a malignant tumor in the lung through an X-ray, the oncologist recommended Chemotherapy as the primary treatment along with 500ml of fluid intake every day.",the,O
+7,"After detecting a malignant tumor in the lung through an X-ray, the oncologist recommended Chemotherapy as the primary treatment along with 500ml of fluid intake every day.",lung,B-PROCEDURE
+7,"After detecting a malignant tumor in the lung through an X-ray, the oncologist recommended Chemotherapy as the primary treatment along with 500ml of fluid intake every day.",through,O
+7,"After detecting a malignant tumor in the lung through an X-ray, the oncologist recommended Chemotherapy as the primary treatment along with 500ml of fluid intake every day.",an,O
+7,"After detecting a malignant tumor in the lung through an X-ray, the oncologist recommended Chemotherapy as the primary treatment along with 500ml of fluid intake every day.",X-ray,B-TEST
+7,"After detecting a malignant tumor in the lung through an X-ray, the oncologist recommended Chemotherapy as the primary treatment along with 500ml of fluid intake every day.",",",O
+7,"After detecting a malignant tumor in the lung through an X-ray, the oncologist recommended Chemotherapy as the primary treatment along with 500ml of fluid intake every day.",the,O
+7,"After detecting a malignant tumor in the lung through an X-ray, the oncologist recommended Chemotherapy as the primary treatment along with 500ml of fluid intake every day.",oncologist,O
+7,"After detecting a malignant tumor in the lung through an X-ray, the oncologist recommended Chemotherapy as the primary treatment along with 500ml of fluid intake every day.",recommended,O
+7,"After detecting a malignant tumor in the lung through an X-ray, the oncologist recommended Chemotherapy as the primary treatment along with 500ml of fluid intake every day.",Chemotherapy,B-TREATMENT
+7,"After detecting a malignant tumor in the lung through an X-ray, the oncologist recommended Chemotherapy as the primary treatment along with 500ml of fluid intake every day.",as,O
+7,"After detecting a malignant tumor in the lung through an X-ray, the oncologist recommended Chemotherapy as the primary treatment along with 500ml of fluid intake every day.",the,O
+7,"After detecting a malignant tumor in the lung through an X-ray, the oncologist recommended Chemotherapy as the primary treatment along with 500ml of fluid intake every day.",primary,O
+7,"After detecting a malignant tumor in the lung through an X-ray, the oncologist recommended Chemotherapy as the primary treatment along with 500ml of fluid intake every day.",treatment,O
+7,"After detecting a malignant tumor in the lung through an X-ray, the oncologist recommended Chemotherapy as the primary treatment along with 500ml of fluid intake every day.",along,O
+7,"After detecting a malignant tumor in the lung through an X-ray, the oncologist recommended Chemotherapy as the primary treatment along with 500ml of fluid intake every day.",with,O
+7,"After detecting a malignant tumor in the lung through an X-ray, the oncologist recommended Chemotherapy as the primary treatment along with 500ml of fluid intake every day.",500ml,B-DOSAGE
+7,"After detecting a malignant tumor in the lung through an X-ray, the oncologist recommended Chemotherapy as the primary treatment along with 500ml of fluid intake every day.",of,O
+7,"After detecting a malignant tumor in the lung through an X-ray, the oncologist recommended Chemotherapy as the primary treatment along with 500ml of fluid intake every day.",fluid,O
+7,"After detecting a malignant tumor in the lung through an X-ray, the oncologist recommended Chemotherapy as the primary treatment along with 500ml of fluid intake every day.",intake,O
+7,"After detecting a malignant tumor in the lung through an X-ray, the oncologist recommended Chemotherapy as the primary treatment along with 500ml of fluid intake every day.",every,O
+7,"After detecting a malignant tumor in the lung through an X-ray, the oncologist recommended Chemotherapy as the primary treatment along with 500ml of fluid intake every day.",day,O
+7,"After detecting a malignant tumor in the lung through an X-ray, the oncologist recommended Chemotherapy as the primary treatment along with 500ml of fluid intake every day.",.,O
+8,"In severe अस्थमा cases, patients are often advised to use Inhalers like Salbutamol and undergo regular स्पाइरोमीट्री टेस्टिंग.",In,O
+8,"In severe अस्थमा cases, patients are often advised to use Inhalers like Salbutamol and undergo regular स्पाइरोमीट्री टेस्टिंग.",severe,O
+8,"In severe अस्थमा cases, patients are often advised to use Inhalers like Salbutamol and undergo regular स्पाइरोमीट्री टेस्टिंग.",अस्थमा,B-CONDITION
+8,"In severe अस्थमा cases, patients are often advised to use Inhalers like Salbutamol and undergo regular स्पाइरोमीट्री टेस्टिंग.",cases,O
+8,"In severe अस्थमा cases, patients are often advised to use Inhalers like Salbutamol and undergo regular स्पाइरोमीट्री टेस्टिंग.",",",O
+8,"In severe अस्थमा cases, patients are often advised to use Inhalers like Salbutamol and undergo regular स्पाइरोमीट्री टेस्टिंग.",patients,O
+8,"In severe अस्थमा cases, patients are often advised to use Inhalers like Salbutamol and undergo regular स्पाइरोमीट्री टेस्टिंग.",are,O
+8,"In severe अस्थमा cases, patients are often advised to use Inhalers like Salbutamol and undergo regular स्पाइरोमीट्री टेस्टिंग.",often,O
+8,"In severe अस्थमा cases, patients are often advised to use Inhalers like Salbutamol and undergo regular स्पाइरोमीट्री टेस्टिंग.",advised,O
+8,"In severe अस्थमा cases, patients are often advised to use Inhalers like Salbutamol and undergo regular स्पाइरोमीट्री टेस्टिंग.",to,O
+8,"In severe अस्थमा cases, patients are often advised to use Inhalers like Salbutamol and undergo regular स्पाइरोमीट्री टेस्टिंग.",use,O
+8,"In severe अस्थमा cases, patients are often advised to use Inhalers like Salbutamol and undergo regular स्पाइरोमीट्री टेस्टिंग.",Inhalers,B-MEDICATION
+8,"In severe अस्थमा cases, patients are often advised to use Inhalers like Salbutamol and undergo regular स्पाइरोमीट्री टेस्टिंग.",like,O
+8,"In severe अस्थमा cases, patients are often advised to use Inhalers like Salbutamol and undergo regular स्पाइरोमीट्री टेस्टिंग.",Salbutamol,B-MEDICATION
+8,"In severe अस्थमा cases, patients are often advised to use Inhalers like Salbutamol and undergo regular स्पाइरोमीट्री टेस्टिंग.",and,O
+8,"In severe अस्थमा cases, patients are often advised to use Inhalers like Salbutamol and undergo regular स्पाइरोमीट्री टेस्टिंग.",undergo,O
+8,"In severe अस्थमा cases, patients are often advised to use Inhalers like Salbutamol and undergo regular स्पाइरोमीट्री टेस्टिंग.",regular,O
+8,"In severe अस्थमा cases, patients are often advised to use Inhalers like Salbutamol and undergo regular स्पाइरोमीट्री टेस्टिंग.",स्पाइरोमीट्री,B-TEST
+8,"In severe अस्थमा cases, patients are often advised to use Inhalers like Salbutamol and undergo regular स्पाइरोमीट्री टेस्टिंग.",टेस्टिंग,I-TEST
+8,"In severe अस्थमा cases, patients are often advised to use Inhalers like Salbutamol and undergo regular स्पाइरोमीट्री टेस्टिंग.",.,O

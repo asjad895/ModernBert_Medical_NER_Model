@@ -1,0 +1,413 @@
+sentence_id,text,token,ner_tag
+0,The patient was rushed to the ICU after suffering a cardiac arrest due to ventricular fibrillation and was administered 1mg Adrenaline IV after an ECG showed a cardiac rhythm disturbance.,The,O
+0,The patient was rushed to the ICU after suffering a cardiac arrest due to ventricular fibrillation and was administered 1mg Adrenaline IV after an ECG showed a cardiac rhythm disturbance.,patient,O
+0,The patient was rushed to the ICU after suffering a cardiac arrest due to ventricular fibrillation and was administered 1mg Adrenaline IV after an ECG showed a cardiac rhythm disturbance.,was,O
+0,The patient was rushed to the ICU after suffering a cardiac arrest due to ventricular fibrillation and was administered 1mg Adrenaline IV after an ECG showed a cardiac rhythm disturbance.,rushed,O
+0,The patient was rushed to the ICU after suffering a cardiac arrest due to ventricular fibrillation and was administered 1mg Adrenaline IV after an ECG showed a cardiac rhythm disturbance.,to,O
+0,The patient was rushed to the ICU after suffering a cardiac arrest due to ventricular fibrillation and was administered 1mg Adrenaline IV after an ECG showed a cardiac rhythm disturbance.,the,O
+0,The patient was rushed to the ICU after suffering a cardiac arrest due to ventricular fibrillation and was administered 1mg Adrenaline IV after an ECG showed a cardiac rhythm disturbance.,ICU,B-PROCEDURE
+0,The patient was rushed to the ICU after suffering a cardiac arrest due to ventricular fibrillation and was administered 1mg Adrenaline IV after an ECG showed a cardiac rhythm disturbance.,after,O
+0,The patient was rushed to the ICU after suffering a cardiac arrest due to ventricular fibrillation and was administered 1mg Adrenaline IV after an ECG showed a cardiac rhythm disturbance.,suffering,O
+0,The patient was rushed to the ICU after suffering a cardiac arrest due to ventricular fibrillation and was administered 1mg Adrenaline IV after an ECG showed a cardiac rhythm disturbance.,a,O
+0,The patient was rushed to the ICU after suffering a cardiac arrest due to ventricular fibrillation and was administered 1mg Adrenaline IV after an ECG showed a cardiac rhythm disturbance.,cardiac,B-SYMPTOM
+0,The patient was rushed to the ICU after suffering a cardiac arrest due to ventricular fibrillation and was administered 1mg Adrenaline IV after an ECG showed a cardiac rhythm disturbance.,arrest,O
+0,The patient was rushed to the ICU after suffering a cardiac arrest due to ventricular fibrillation and was administered 1mg Adrenaline IV after an ECG showed a cardiac rhythm disturbance.,due,O
+0,The patient was rushed to the ICU after suffering a cardiac arrest due to ventricular fibrillation and was administered 1mg Adrenaline IV after an ECG showed a cardiac rhythm disturbance.,to,O
+0,The patient was rushed to the ICU after suffering a cardiac arrest due to ventricular fibrillation and was administered 1mg Adrenaline IV after an ECG showed a cardiac rhythm disturbance.,ventricular,O
+0,The patient was rushed to the ICU after suffering a cardiac arrest due to ventricular fibrillation and was administered 1mg Adrenaline IV after an ECG showed a cardiac rhythm disturbance.,fibrillation,O
+0,The patient was rushed to the ICU after suffering a cardiac arrest due to ventricular fibrillation and was administered 1mg Adrenaline IV after an ECG showed a cardiac rhythm disturbance.,and,O
+0,The patient was rushed to the ICU after suffering a cardiac arrest due to ventricular fibrillation and was administered 1mg Adrenaline IV after an ECG showed a cardiac rhythm disturbance.,was,O
+0,The patient was rushed to the ICU after suffering a cardiac arrest due to ventricular fibrillation and was administered 1mg Adrenaline IV after an ECG showed a cardiac rhythm disturbance.,administered,O
+0,The patient was rushed to the ICU after suffering a cardiac arrest due to ventricular fibrillation and was administered 1mg Adrenaline IV after an ECG showed a cardiac rhythm disturbance.,1mg,B-DOSAGE
+0,The patient was rushed to the ICU after suffering a cardiac arrest due to ventricular fibrillation and was administered 1mg Adrenaline IV after an ECG showed a cardiac rhythm disturbance.,Adrenaline,B-MEDICATION
+0,The patient was rushed to the ICU after suffering a cardiac arrest due to ventricular fibrillation and was administered 1mg Adrenaline IV after an ECG showed a cardiac rhythm disturbance.,IV,B-PROCEDURE
+0,The patient was rushed to the ICU after suffering a cardiac arrest due to ventricular fibrillation and was administered 1mg Adrenaline IV after an ECG showed a cardiac rhythm disturbance.,after,O
+0,The patient was rushed to the ICU after suffering a cardiac arrest due to ventricular fibrillation and was administered 1mg Adrenaline IV after an ECG showed a cardiac rhythm disturbance.,an,O
+0,The patient was rushed to the ICU after suffering a cardiac arrest due to ventricular fibrillation and was administered 1mg Adrenaline IV after an ECG showed a cardiac rhythm disturbance.,ECG,B-TEST
+0,The patient was rushed to the ICU after suffering a cardiac arrest due to ventricular fibrillation and was administered 1mg Adrenaline IV after an ECG showed a cardiac rhythm disturbance.,showed,O
+0,The patient was rushed to the ICU after suffering a cardiac arrest due to ventricular fibrillation and was administered 1mg Adrenaline IV after an ECG showed a cardiac rhythm disturbance.,a,O
+0,The patient was rushed to the ICU after suffering a cardiac arrest due to ventricular fibrillation and was administered 1mg Adrenaline IV after an ECG showed a cardiac rhythm disturbance.,cardiac,B-SYMPTOM
+0,The patient was rushed to the ICU after suffering a cardiac arrest due to ventricular fibrillation and was administered 1mg Adrenaline IV after an ECG showed a cardiac rhythm disturbance.,rhythm,O
+0,The patient was rushed to the ICU after suffering a cardiac arrest due to ventricular fibrillation and was administered 1mg Adrenaline IV after an ECG showed a cardiac rhythm disturbance.,disturbance,O
+0,The patient was rushed to the ICU after suffering a cardiac arrest due to ventricular fibrillation and was administered 1mg Adrenaline IV after an ECG showed a cardiac rhythm disturbance.,.,O
+1,"The emergency doctor performed an urgent angioplasty on the 65-year-old मरीज़ with स्ट्रोक symptoms, administered 10mg of Alteplase medication, and further took a BNP test to confirm the diagnosis.",The,O
+1,"The emergency doctor performed an urgent angioplasty on the 65-year-old मरीज़ with स्ट्रोक symptoms, administered 10mg of Alteplase medication, and further took a BNP test to confirm the diagnosis.",emergency,O
+1,"The emergency doctor performed an urgent angioplasty on the 65-year-old मरीज़ with स्ट्रोक symptoms, administered 10mg of Alteplase medication, and further took a BNP test to confirm the diagnosis.",doctor,O
+1,"The emergency doctor performed an urgent angioplasty on the 65-year-old मरीज़ with स्ट्रोक symptoms, administered 10mg of Alteplase medication, and further took a BNP test to confirm the diagnosis.",performed,O
+1,"The emergency doctor performed an urgent angioplasty on the 65-year-old मरीज़ with स्ट्रोक symptoms, administered 10mg of Alteplase medication, and further took a BNP test to confirm the diagnosis.",an,O
+1,"The emergency doctor performed an urgent angioplasty on the 65-year-old मरीज़ with स्ट्रोक symptoms, administered 10mg of Alteplase medication, and further took a BNP test to confirm the diagnosis.",urgent,O
+1,"The emergency doctor performed an urgent angioplasty on the 65-year-old मरीज़ with स्ट्रोक symptoms, administered 10mg of Alteplase medication, and further took a BNP test to confirm the diagnosis.",angioplasty,B-PROCEDURE
+1,"The emergency doctor performed an urgent angioplasty on the 65-year-old मरीज़ with स्ट्रोक symptoms, administered 10mg of Alteplase medication, and further took a BNP test to confirm the diagnosis.",on,O
+1,"The emergency doctor performed an urgent angioplasty on the 65-year-old मरीज़ with स्ट्रोक symptoms, administered 10mg of Alteplase medication, and further took a BNP test to confirm the diagnosis.",the,O
+1,"The emergency doctor performed an urgent angioplasty on the 65-year-old मरीज़ with स्ट्रोक symptoms, administered 10mg of Alteplase medication, and further took a BNP test to confirm the diagnosis.",65-year-old,O
+1,"The emergency doctor performed an urgent angioplasty on the 65-year-old मरीज़ with स्ट्रोक symptoms, administered 10mg of Alteplase medication, and further took a BNP test to confirm the diagnosis.",मरीज़,O
+1,"The emergency doctor performed an urgent angioplasty on the 65-year-old मरीज़ with स्ट्रोक symptoms, administered 10mg of Alteplase medication, and further took a BNP test to confirm the diagnosis.",with,O
+1,"The emergency doctor performed an urgent angioplasty on the 65-year-old मरीज़ with स्ट्रोक symptoms, administered 10mg of Alteplase medication, and further took a BNP test to confirm the diagnosis.",स्ट्रोक,B-SYMPTOM
+1,"The emergency doctor performed an urgent angioplasty on the 65-year-old मरीज़ with स्ट्रोक symptoms, administered 10mg of Alteplase medication, and further took a BNP test to confirm the diagnosis.",symptoms,I-SYMPTOM
+1,"The emergency doctor performed an urgent angioplasty on the 65-year-old मरीज़ with स्ट्रोक symptoms, administered 10mg of Alteplase medication, and further took a BNP test to confirm the diagnosis.",administered,O
+1,"The emergency doctor performed an urgent angioplasty on the 65-year-old मरीज़ with स्ट्रोक symptoms, administered 10mg of Alteplase medication, and further took a BNP test to confirm the diagnosis.",10mg,B-DOSAGE
+1,"The emergency doctor performed an urgent angioplasty on the 65-year-old मरीज़ with स्ट्रोक symptoms, administered 10mg of Alteplase medication, and further took a BNP test to confirm the diagnosis.",of,O
+1,"The emergency doctor performed an urgent angioplasty on the 65-year-old मरीज़ with स्ट्रोक symptoms, administered 10mg of Alteplase medication, and further took a BNP test to confirm the diagnosis.",Alteplase,B-MEDICATION
+1,"The emergency doctor performed an urgent angioplasty on the 65-year-old मरीज़ with स्ट्रोक symptoms, administered 10mg of Alteplase medication, and further took a BNP test to confirm the diagnosis.",medication,I-MEDICATION
+1,"The emergency doctor performed an urgent angioplasty on the 65-year-old मरीज़ with स्ट्रोक symptoms, administered 10mg of Alteplase medication, and further took a BNP test to confirm the diagnosis.",and,O
+1,"The emergency doctor performed an urgent angioplasty on the 65-year-old मरीज़ with स्ट्रोक symptoms, administered 10mg of Alteplase medication, and further took a BNP test to confirm the diagnosis.",further,O
+1,"The emergency doctor performed an urgent angioplasty on the 65-year-old मरीज़ with स्ट्रोक symptoms, administered 10mg of Alteplase medication, and further took a BNP test to confirm the diagnosis.",took,O
+1,"The emergency doctor performed an urgent angioplasty on the 65-year-old मरीज़ with स्ट्रोक symptoms, administered 10mg of Alteplase medication, and further took a BNP test to confirm the diagnosis.",a,O
+1,"The emergency doctor performed an urgent angioplasty on the 65-year-old मरीज़ with स्ट्रोक symptoms, administered 10mg of Alteplase medication, and further took a BNP test to confirm the diagnosis.",BNP,B-TEST
+1,"The emergency doctor performed an urgent angioplasty on the 65-year-old मरीज़ with स्ट्रोक symptoms, administered 10mg of Alteplase medication, and further took a BNP test to confirm the diagnosis.",test,I-TEST
+1,"The emergency doctor performed an urgent angioplasty on the 65-year-old मरीज़ with स्ट्रोक symptoms, administered 10mg of Alteplase medication, and further took a BNP test to confirm the diagnosis.",to,O
+1,"The emergency doctor performed an urgent angioplasty on the 65-year-old मरीज़ with स्ट्रोक symptoms, administered 10mg of Alteplase medication, and further took a BNP test to confirm the diagnosis.",confirm,O
+1,"The emergency doctor performed an urgent angioplasty on the 65-year-old मरीज़ with स्ट्रोक symptoms, administered 10mg of Alteplase medication, and further took a BNP test to confirm the diagnosis.",the,O
+1,"The emergency doctor performed an urgent angioplasty on the 65-year-old मरीज़ with स्ट्रोक symptoms, administered 10mg of Alteplase medication, and further took a BNP test to confirm the diagnosis.",diagnosis,O
+1,"The emergency doctor performed an urgent angioplasty on the 65-year-old मरीज़ with स्ट्रोक symptoms, administered 10mg of Alteplase medication, and further took a BNP test to confirm the diagnosis.",.,O
+2,"The doctor prescribed 100mg Paracetamol for the patient's severe headache and fever, which was confirmed by a positive PCR test for COVID-19, and advised the patient to undergo a chest X-ray and take oxygen therapy for 5 days.",The,O
+2,"The doctor prescribed 100mg Paracetamol for the patient's severe headache and fever, which was confirmed by a positive PCR test for COVID-19, and advised the patient to undergo a chest X-ray and take oxygen therapy for 5 days.",doctor,O
+2,"The doctor prescribed 100mg Paracetamol for the patient's severe headache and fever, which was confirmed by a positive PCR test for COVID-19, and advised the patient to undergo a chest X-ray and take oxygen therapy for 5 days.",prescribed,O
+2,"The doctor prescribed 100mg Paracetamol for the patient's severe headache and fever, which was confirmed by a positive PCR test for COVID-19, and advised the patient to undergo a chest X-ray and take oxygen therapy for 5 days.",100mg,B-DOSAGE
+2,"The doctor prescribed 100mg Paracetamol for the patient's severe headache and fever, which was confirmed by a positive PCR test for COVID-19, and advised the patient to undergo a chest X-ray and take oxygen therapy for 5 days.",Paracetamol,B-MEDICATION
+2,"The doctor prescribed 100mg Paracetamol for the patient's severe headache and fever, which was confirmed by a positive PCR test for COVID-19, and advised the patient to undergo a chest X-ray and take oxygen therapy for 5 days.",for,O
+2,"The doctor prescribed 100mg Paracetamol for the patient's severe headache and fever, which was confirmed by a positive PCR test for COVID-19, and advised the patient to undergo a chest X-ray and take oxygen therapy for 5 days.",the,O
+2,"The doctor prescribed 100mg Paracetamol for the patient's severe headache and fever, which was confirmed by a positive PCR test for COVID-19, and advised the patient to undergo a chest X-ray and take oxygen therapy for 5 days.",patient's,O
+2,"The doctor prescribed 100mg Paracetamol for the patient's severe headache and fever, which was confirmed by a positive PCR test for COVID-19, and advised the patient to undergo a chest X-ray and take oxygen therapy for 5 days.",severe,O
+2,"The doctor prescribed 100mg Paracetamol for the patient's severe headache and fever, which was confirmed by a positive PCR test for COVID-19, and advised the patient to undergo a chest X-ray and take oxygen therapy for 5 days.",headache,B-SYMPTOM
+2,"The doctor prescribed 100mg Paracetamol for the patient's severe headache and fever, which was confirmed by a positive PCR test for COVID-19, and advised the patient to undergo a chest X-ray and take oxygen therapy for 5 days.",and,O
+2,"The doctor prescribed 100mg Paracetamol for the patient's severe headache and fever, which was confirmed by a positive PCR test for COVID-19, and advised the patient to undergo a chest X-ray and take oxygen therapy for 5 days.",fever,B-SYMPTOM
+2,"The doctor prescribed 100mg Paracetamol for the patient's severe headache and fever, which was confirmed by a positive PCR test for COVID-19, and advised the patient to undergo a chest X-ray and take oxygen therapy for 5 days.",which,O
+2,"The doctor prescribed 100mg Paracetamol for the patient's severe headache and fever, which was confirmed by a positive PCR test for COVID-19, and advised the patient to undergo a chest X-ray and take oxygen therapy for 5 days.",was,O
+2,"The doctor prescribed 100mg Paracetamol for the patient's severe headache and fever, which was confirmed by a positive PCR test for COVID-19, and advised the patient to undergo a chest X-ray and take oxygen therapy for 5 days.",confirmed,O
+2,"The doctor prescribed 100mg Paracetamol for the patient's severe headache and fever, which was confirmed by a positive PCR test for COVID-19, and advised the patient to undergo a chest X-ray and take oxygen therapy for 5 days.",by,O
+2,"The doctor prescribed 100mg Paracetamol for the patient's severe headache and fever, which was confirmed by a positive PCR test for COVID-19, and advised the patient to undergo a chest X-ray and take oxygen therapy for 5 days.",a,O
+2,"The doctor prescribed 100mg Paracetamol for the patient's severe headache and fever, which was confirmed by a positive PCR test for COVID-19, and advised the patient to undergo a chest X-ray and take oxygen therapy for 5 days.",positive,O
+2,"The doctor prescribed 100mg Paracetamol for the patient's severe headache and fever, which was confirmed by a positive PCR test for COVID-19, and advised the patient to undergo a chest X-ray and take oxygen therapy for 5 days.",PCR,B-TEST
+2,"The doctor prescribed 100mg Paracetamol for the patient's severe headache and fever, which was confirmed by a positive PCR test for COVID-19, and advised the patient to undergo a chest X-ray and take oxygen therapy for 5 days.",test,I-TEST
+2,"The doctor prescribed 100mg Paracetamol for the patient's severe headache and fever, which was confirmed by a positive PCR test for COVID-19, and advised the patient to undergo a chest X-ray and take oxygen therapy for 5 days.",for,O
+2,"The doctor prescribed 100mg Paracetamol for the patient's severe headache and fever, which was confirmed by a positive PCR test for COVID-19, and advised the patient to undergo a chest X-ray and take oxygen therapy for 5 days.",COVID-19,B-CONDITION
+2,"The doctor prescribed 100mg Paracetamol for the patient's severe headache and fever, which was confirmed by a positive PCR test for COVID-19, and advised the patient to undergo a chest X-ray and take oxygen therapy for 5 days.",and,O
+2,"The doctor prescribed 100mg Paracetamol for the patient's severe headache and fever, which was confirmed by a positive PCR test for COVID-19, and advised the patient to undergo a chest X-ray and take oxygen therapy for 5 days.",advised,O
+2,"The doctor prescribed 100mg Paracetamol for the patient's severe headache and fever, which was confirmed by a positive PCR test for COVID-19, and advised the patient to undergo a chest X-ray and take oxygen therapy for 5 days.",the,O
+2,"The doctor prescribed 100mg Paracetamol for the patient's severe headache and fever, which was confirmed by a positive PCR test for COVID-19, and advised the patient to undergo a chest X-ray and take oxygen therapy for 5 days.",patient,O
+2,"The doctor prescribed 100mg Paracetamol for the patient's severe headache and fever, which was confirmed by a positive PCR test for COVID-19, and advised the patient to undergo a chest X-ray and take oxygen therapy for 5 days.",to,O
+2,"The doctor prescribed 100mg Paracetamol for the patient's severe headache and fever, which was confirmed by a positive PCR test for COVID-19, and advised the patient to undergo a chest X-ray and take oxygen therapy for 5 days.",undergo,O
+2,"The doctor prescribed 100mg Paracetamol for the patient's severe headache and fever, which was confirmed by a positive PCR test for COVID-19, and advised the patient to undergo a chest X-ray and take oxygen therapy for 5 days.",a,O
+2,"The doctor prescribed 100mg Paracetamol for the patient's severe headache and fever, which was confirmed by a positive PCR test for COVID-19, and advised the patient to undergo a chest X-ray and take oxygen therapy for 5 days.",chest,O
+2,"The doctor prescribed 100mg Paracetamol for the patient's severe headache and fever, which was confirmed by a positive PCR test for COVID-19, and advised the patient to undergo a chest X-ray and take oxygen therapy for 5 days.",X-ray,B-TEST
+2,"The doctor prescribed 100mg Paracetamol for the patient's severe headache and fever, which was confirmed by a positive PCR test for COVID-19, and advised the patient to undergo a chest X-ray and take oxygen therapy for 5 days.",and,O
+2,"The doctor prescribed 100mg Paracetamol for the patient's severe headache and fever, which was confirmed by a positive PCR test for COVID-19, and advised the patient to undergo a chest X-ray and take oxygen therapy for 5 days.",take,O
+2,"The doctor prescribed 100mg Paracetamol for the patient's severe headache and fever, which was confirmed by a positive PCR test for COVID-19, and advised the patient to undergo a chest X-ray and take oxygen therapy for 5 days.",oxygen,O
+2,"The doctor prescribed 100mg Paracetamol for the patient's severe headache and fever, which was confirmed by a positive PCR test for COVID-19, and advised the patient to undergo a chest X-ray and take oxygen therapy for 5 days.",therapy,B-PROCEDURE
+2,"The doctor prescribed 100mg Paracetamol for the patient's severe headache and fever, which was confirmed by a positive PCR test for COVID-19, and advised the patient to undergo a chest X-ray and take oxygen therapy for 5 days.",for,O
+2,"The doctor prescribed 100mg Paracetamol for the patient's severe headache and fever, which was confirmed by a positive PCR test for COVID-19, and advised the patient to undergo a chest X-ray and take oxygen therapy for 5 days.",5,B-DOSAGE
+2,"The doctor prescribed 100mg Paracetamol for the patient's severe headache and fever, which was confirmed by a positive PCR test for COVID-19, and advised the patient to undergo a chest X-ray and take oxygen therapy for 5 days.",days,I-DOSAGE
+2,"The doctor prescribed 100mg Paracetamol for the patient's severe headache and fever, which was confirmed by a positive PCR test for COVID-19, and advised the patient to undergo a chest X-ray and take oxygen therapy for 5 days.",.,O
+3," During the cardiac arrest emergency, the doctors administered 1mg adrenaline IV followed by an immediate ECG, X-ray, and Blood Test to diagnose the cause of Cardiac Arrhythmia and Hypotension.",During,O
+3," During the cardiac arrest emergency, the doctors administered 1mg adrenaline IV followed by an immediate ECG, X-ray, and Blood Test to diagnose the cause of Cardiac Arrhythmia and Hypotension.",the,O
+3," During the cardiac arrest emergency, the doctors administered 1mg adrenaline IV followed by an immediate ECG, X-ray, and Blood Test to diagnose the cause of Cardiac Arrhythmia and Hypotension.",cardiac,O
+3," During the cardiac arrest emergency, the doctors administered 1mg adrenaline IV followed by an immediate ECG, X-ray, and Blood Test to diagnose the cause of Cardiac Arrhythmia and Hypotension.",arrest,O
+3," During the cardiac arrest emergency, the doctors administered 1mg adrenaline IV followed by an immediate ECG, X-ray, and Blood Test to diagnose the cause of Cardiac Arrhythmia and Hypotension.",emergency,O
+3," During the cardiac arrest emergency, the doctors administered 1mg adrenaline IV followed by an immediate ECG, X-ray, and Blood Test to diagnose the cause of Cardiac Arrhythmia and Hypotension.",",",O
+3," During the cardiac arrest emergency, the doctors administered 1mg adrenaline IV followed by an immediate ECG, X-ray, and Blood Test to diagnose the cause of Cardiac Arrhythmia and Hypotension.",the,O
+3," During the cardiac arrest emergency, the doctors administered 1mg adrenaline IV followed by an immediate ECG, X-ray, and Blood Test to diagnose the cause of Cardiac Arrhythmia and Hypotension.",doctors,O
+3," During the cardiac arrest emergency, the doctors administered 1mg adrenaline IV followed by an immediate ECG, X-ray, and Blood Test to diagnose the cause of Cardiac Arrhythmia and Hypotension.",administered,O
+3," During the cardiac arrest emergency, the doctors administered 1mg adrenaline IV followed by an immediate ECG, X-ray, and Blood Test to diagnose the cause of Cardiac Arrhythmia and Hypotension.",1mg,B-DOSAGE
+3," During the cardiac arrest emergency, the doctors administered 1mg adrenaline IV followed by an immediate ECG, X-ray, and Blood Test to diagnose the cause of Cardiac Arrhythmia and Hypotension.",adrenaline,B-MEDICATION
+3," During the cardiac arrest emergency, the doctors administered 1mg adrenaline IV followed by an immediate ECG, X-ray, and Blood Test to diagnose the cause of Cardiac Arrhythmia and Hypotension.",IV,B-PROCEDURE
+3," During the cardiac arrest emergency, the doctors administered 1mg adrenaline IV followed by an immediate ECG, X-ray, and Blood Test to diagnose the cause of Cardiac Arrhythmia and Hypotension.",followed,O
+3," During the cardiac arrest emergency, the doctors administered 1mg adrenaline IV followed by an immediate ECG, X-ray, and Blood Test to diagnose the cause of Cardiac Arrhythmia and Hypotension.",by,O
+3," During the cardiac arrest emergency, the doctors administered 1mg adrenaline IV followed by an immediate ECG, X-ray, and Blood Test to diagnose the cause of Cardiac Arrhythmia and Hypotension.",an,O
+3," During the cardiac arrest emergency, the doctors administered 1mg adrenaline IV followed by an immediate ECG, X-ray, and Blood Test to diagnose the cause of Cardiac Arrhythmia and Hypotension.",immediate,O
+3," During the cardiac arrest emergency, the doctors administered 1mg adrenaline IV followed by an immediate ECG, X-ray, and Blood Test to diagnose the cause of Cardiac Arrhythmia and Hypotension.",ECG,I-TEST
+3," During the cardiac arrest emergency, the doctors administered 1mg adrenaline IV followed by an immediate ECG, X-ray, and Blood Test to diagnose the cause of Cardiac Arrhythmia and Hypotension.",",",O
+3," During the cardiac arrest emergency, the doctors administered 1mg adrenaline IV followed by an immediate ECG, X-ray, and Blood Test to diagnose the cause of Cardiac Arrhythmia and Hypotension.",X-ray,B-TEST
+3," During the cardiac arrest emergency, the doctors administered 1mg adrenaline IV followed by an immediate ECG, X-ray, and Blood Test to diagnose the cause of Cardiac Arrhythmia and Hypotension.",",",O
+3," During the cardiac arrest emergency, the doctors administered 1mg adrenaline IV followed by an immediate ECG, X-ray, and Blood Test to diagnose the cause of Cardiac Arrhythmia and Hypotension.",and,O
+3," During the cardiac arrest emergency, the doctors administered 1mg adrenaline IV followed by an immediate ECG, X-ray, and Blood Test to diagnose the cause of Cardiac Arrhythmia and Hypotension.",Blood,B-TEST
+3," During the cardiac arrest emergency, the doctors administered 1mg adrenaline IV followed by an immediate ECG, X-ray, and Blood Test to diagnose the cause of Cardiac Arrhythmia and Hypotension.",Test,I-TEST
+3," During the cardiac arrest emergency, the doctors administered 1mg adrenaline IV followed by an immediate ECG, X-ray, and Blood Test to diagnose the cause of Cardiac Arrhythmia and Hypotension.",to,O
+3," During the cardiac arrest emergency, the doctors administered 1mg adrenaline IV followed by an immediate ECG, X-ray, and Blood Test to diagnose the cause of Cardiac Arrhythmia and Hypotension.",diagnose,O
+3," During the cardiac arrest emergency, the doctors administered 1mg adrenaline IV followed by an immediate ECG, X-ray, and Blood Test to diagnose the cause of Cardiac Arrhythmia and Hypotension.",the,O
+3," During the cardiac arrest emergency, the doctors administered 1mg adrenaline IV followed by an immediate ECG, X-ray, and Blood Test to diagnose the cause of Cardiac Arrhythmia and Hypotension.",cause,O
+3," During the cardiac arrest emergency, the doctors administered 1mg adrenaline IV followed by an immediate ECG, X-ray, and Blood Test to diagnose the cause of Cardiac Arrhythmia and Hypotension.",of,O
+3," During the cardiac arrest emergency, the doctors administered 1mg adrenaline IV followed by an immediate ECG, X-ray, and Blood Test to diagnose the cause of Cardiac Arrhythmia and Hypotension.",Cardiac,B-CONDITION
+3," During the cardiac arrest emergency, the doctors administered 1mg adrenaline IV followed by an immediate ECG, X-ray, and Blood Test to diagnose the cause of Cardiac Arrhythmia and Hypotension.",Arrhythmia,I-CONDITION
+3," During the cardiac arrest emergency, the doctors administered 1mg adrenaline IV followed by an immediate ECG, X-ray, and Blood Test to diagnose the cause of Cardiac Arrhythmia and Hypotension.",and,O
+3," During the cardiac arrest emergency, the doctors administered 1mg adrenaline IV followed by an immediate ECG, X-ray, and Blood Test to diagnose the cause of Cardiac Arrhythmia and Hypotension.",Hypotension,B-CONDITION
+3," During the cardiac arrest emergency, the doctors administered 1mg adrenaline IV followed by an immediate ECG, X-ray, and Blood Test to diagnose the cause of Cardiac Arrhythmia and Hypotension.",.,O
+4,"Patient ko तेज़ सिर दर्द था, जिसके बाद डॉक्टर ने मल्टीपल स्क्लेरोसिस का निदान किया और 20 mg ऑफिन B 10days के लिए दिया।",Patient,O
+4,"Patient ko तेज़ सिर दर्द था, जिसके बाद डॉक्टर ने मल्टीपल स्क्लेरोसिस का निदान किया और 20 mg ऑफिन B 10days के लिए दिया।","को, ",O
+4,"Patient ko तेज़ सिर दर्द था, जिसके बाद डॉक्टर ने मल्टीपल स्क्लेरोसिस का निदान किया और 20 mg ऑफिन B 10days के लिए दिया।",तेज़,B-SYMPTOM
+4,"Patient ko तेज़ सिर दर्द था, जिसके बाद डॉक्टर ने मल्टीपल स्क्लेरोसिस का निदान किया और 20 mg ऑफिन B 10days के लिए दिया।",सिर,B-SYMPTOM
+4,"Patient ko तेज़ सिर दर्द था, जिसके बाद डॉक्टर ने मल्टीपल स्क्लेरोसिस का निदान किया और 20 mg ऑफिन B 10days के लिए दिया।",दर्द,I-SYMPTOM
+4,"Patient ko तेज़ सिर दर्द था, जिसके बाद डॉक्टर ने मल्टीपल स्क्लेरोसिस का निदान किया और 20 mg ऑफिन B 10days के लिए दिया।",",",O
+4,"Patient ko तेज़ सिर दर्द था, जिसके बाद डॉक्टर ने मल्टीपल स्क्लेरोसिस का निदान किया और 20 mg ऑफिन B 10days के लिए दिया।",जिसके,O
+4,"Patient ko तेज़ सिर दर्द था, जिसके बाद डॉक्टर ने मल्टीपल स्क्लेरोसिस का निदान किया और 20 mg ऑफिन B 10days के लिए दिया।",बाद,O
+4,"Patient ko तेज़ सिर दर्द था, जिसके बाद डॉक्टर ने मल्टीपल स्क्लेरोसिस का निदान किया और 20 mg ऑफिन B 10days के लिए दिया।",डॉक्टर,O
+4,"Patient ko तेज़ सिर दर्द था, जिसके बाद डॉक्टर ने मल्टीपल स्क्लेरोसिस का निदान किया और 20 mg ऑफिन B 10days के लिए दिया।",ने,O
+4,"Patient ko तेज़ सिर दर्द था, जिसके बाद डॉक्टर ने मल्टीपल स्क्लेरोसिस का निदान किया और 20 mg ऑफिन B 10days के लिए दिया।",मल्टीपल,O
+4,"Patient ko तेज़ सिर दर्द था, जिसके बाद डॉक्टर ने मल्टीपल स्क्लेरोसिस का निदान किया और 20 mg ऑफिन B 10days के लिए दिया।",स्क्लेरोसिस,B-CONDITION
+4,"Patient ko तेज़ सिर दर्द था, जिसके बाद डॉक्टर ने मल्टीपल स्क्लेरोसिस का निदान किया और 20 mg ऑफिन B 10days के लिए दिया।",का,O
+4,"Patient ko तेज़ सिर दर्द था, जिसके बाद डॉक्टर ने मल्टीपल स्क्लेरोसिस का निदान किया और 20 mg ऑफिन B 10days के लिए दिया।",निदान,O
+4,"Patient ko तेज़ सिर दर्द था, जिसके बाद डॉक्टर ने मल्टीपल स्क्लेरोसिस का निदान किया और 20 mg ऑफिन B 10days के लिए दिया।",किया,O
+4,"Patient ko तेज़ सिर दर्द था, जिसके बाद डॉक्टर ने मल्टीपल स्क्लेरोसिस का निदान किया और 20 mg ऑफिन B 10days के लिए दिया।",और,O
+4,"Patient ko तेज़ सिर दर्द था, जिसके बाद डॉक्टर ने मल्टीपल स्क्लेरोसिस का निदान किया और 20 mg ऑफिन B 10days के लिए दिया।",20,O
+4,"Patient ko तेज़ सिर दर्द था, जिसके बाद डॉक्टर ने मल्टीपल स्क्लेरोसिस का निदान किया और 20 mg ऑफिन B 10days के लिए दिया।",mg,B-DOSAGE
+4,"Patient ko तेज़ सिर दर्द था, जिसके बाद डॉक्टर ने मल्टीपल स्क्लेरोसिस का निदान किया और 20 mg ऑफिन B 10days के लिए दिया।",ऑफिन,O
+4,"Patient ko तेज़ सिर दर्द था, जिसके बाद डॉक्टर ने मल्टीपल स्क्लेरोसिस का निदान किया और 20 mg ऑफिन B 10days के लिए दिया।",B,B-MEDICATION
+4,"Patient ko तेज़ सिर दर्द था, जिसके बाद डॉक्टर ने मल्टीपल स्क्लेरोसिस का निदान किया और 20 mg ऑफिन B 10days के लिए दिया।",10,O
+4,"Patient ko तेज़ सिर दर्द था, जिसके बाद डॉक्टर ने मल्टीपल स्क्लेरोसिस का निदान किया और 20 mg ऑफिन B 10days के लिए दिया।",days,B-DOSAGE
+4,"Patient ko तेज़ सिर दर्द था, जिसके बाद डॉक्टर ने मल्टीपल स्क्लेरोसिस का निदान किया और 20 mg ऑफिन B 10days के लिए दिया।",के,O
+4,"Patient ko तेज़ सिर दर्द था, जिसके बाद डॉक्टर ने मल्टीपल स्क्लेरोसिस का निदान किया और 20 mg ऑफिन B 10days के लिए दिया।",लिए,O
+4,"Patient ko तेज़ सिर दर्द था, जिसके बाद डॉक्टर ने मल्टीपल स्क्लेरोसिस का निदान किया और 20 mg ऑफिन B 10days के लिए दिया।",दिया,O
+4,"Patient ko तेज़ सिर दर्द था, जिसके बाद डॉक्टर ने मल्टीपल स्क्लेरोसिस का निदान किया और 20 mg ऑफिन B 10days के लिए दिया।",.,O
+5,यात्रा के बाद 5 दिनों में दुष्प्रभाव प्रकट होने पर डॉक्टर ने पेशाब की लंबी फिल्टर के लिए यूरिन का टेस्ट कराया और उच्च रक्तचाप के लिए Enalapril 5mg दिया।,यात्रा,O
+5,यात्रा के बाद 5 दिनों में दुष्प्रभाव प्रकट होने पर डॉक्टर ने पेशाब की लंबी फिल्टर के लिए यूरिन का टेस्ट कराया और उच्च रक्तचाप के लिए Enalapril 5mg दिया।,के,O
+5,यात्रा के बाद 5 दिनों में दुष्प्रभाव प्रकट होने पर डॉक्टर ने पेशाब की लंबी फिल्टर के लिए यूरिन का टेस्ट कराया और उच्च रक्तचाप के लिए Enalapril 5mg दिया।,बाद,O
+5,यात्रा के बाद 5 दिनों में दुष्प्रभाव प्रकट होने पर डॉक्टर ने पेशाब की लंबी फिल्टर के लिए यूरिन का टेस्ट कराया और उच्च रक्तचाप के लिए Enalapril 5mg दिया।,5 दिनों,B-DOSAGE
+5,यात्रा के बाद 5 दिनों में दुष्प्रभाव प्रकट होने पर डॉक्टर ने पेशाब की लंबी फिल्टर के लिए यूरिन का टेस्ट कराया और उच्च रक्तचाप के लिए Enalapril 5mg दिया।,में,O
+5,यात्रा के बाद 5 दिनों में दुष्प्रभाव प्रकट होने पर डॉक्टर ने पेशाब की लंबी फिल्टर के लिए यूरिन का टेस्ट कराया और उच्च रक्तचाप के लिए Enalapril 5mg दिया।,दुष्प्रभाव,B-SYMPTOM
+5,यात्रा के बाद 5 दिनों में दुष्प्रभाव प्रकट होने पर डॉक्टर ने पेशाब की लंबी फिल्टर के लिए यूरिन का टेस्ट कराया और उच्च रक्तचाप के लिए Enalapril 5mg दिया।,प्रकट,O
+5,यात्रा के बाद 5 दिनों में दुष्प्रभाव प्रकट होने पर डॉक्टर ने पेशाब की लंबी फिल्टर के लिए यूरिन का टेस्ट कराया और उच्च रक्तचाप के लिए Enalapril 5mg दिया।,होने,O
+5,यात्रा के बाद 5 दिनों में दुष्प्रभाव प्रकट होने पर डॉक्टर ने पेशाब की लंबी फिल्टर के लिए यूरिन का टेस्ट कराया और उच्च रक्तचाप के लिए Enalapril 5mg दिया।,पर,O
+5,यात्रा के बाद 5 दिनों में दुष्प्रभाव प्रकट होने पर डॉक्टर ने पेशाब की लंबी फिल्टर के लिए यूरिन का टेस्ट कराया और उच्च रक्तचाप के लिए Enalapril 5mg दिया।,डॉक्टर,O
+5,यात्रा के बाद 5 दिनों में दुष्प्रभाव प्रकट होने पर डॉक्टर ने पेशाब की लंबी फिल्टर के लिए यूरिन का टेस्ट कराया और उच्च रक्तचाप के लिए Enalapril 5mg दिया।,ने,O
+5,यात्रा के बाद 5 दिनों में दुष्प्रभाव प्रकट होने पर डॉक्टर ने पेशाब की लंबी फिल्टर के लिए यूरिन का टेस्ट कराया और उच्च रक्तचाप के लिए Enalapril 5mg दिया।,पेशाब,B-TEST
+5,यात्रा के बाद 5 दिनों में दुष्प्रभाव प्रकट होने पर डॉक्टर ने पेशाब की लंबी फिल्टर के लिए यूरिन का टेस्ट कराया और उच्च रक्तचाप के लिए Enalapril 5mg दिया।,की,O
+5,यात्रा के बाद 5 दिनों में दुष्प्रभाव प्रकट होने पर डॉक्टर ने पेशाब की लंबी फिल्टर के लिए यूरिन का टेस्ट कराया और उच्च रक्तचाप के लिए Enalapril 5mg दिया।,लंबी,O
+5,यात्रा के बाद 5 दिनों में दुष्प्रभाव प्रकट होने पर डॉक्टर ने पेशाब की लंबी फिल्टर के लिए यूरिन का टेस्ट कराया और उच्च रक्तचाप के लिए Enalapril 5mg दिया।,फिल्टर,B-PROCEDURE
+5,यात्रा के बाद 5 दिनों में दुष्प्रभाव प्रकट होने पर डॉक्टर ने पेशाब की लंबी फिल्टर के लिए यूरिन का टेस्ट कराया और उच्च रक्तचाप के लिए Enalapril 5mg दिया।,के,O
+5,यात्रा के बाद 5 दिनों में दुष्प्रभाव प्रकट होने पर डॉक्टर ने पेशाब की लंबी फिल्टर के लिए यूरिन का टेस्ट कराया और उच्च रक्तचाप के लिए Enalapril 5mg दिया।,लिए,O
+5,यात्रा के बाद 5 दिनों में दुष्प्रभाव प्रकट होने पर डॉक्टर ने पेशाब की लंबी फिल्टर के लिए यूरिन का टेस्ट कराया और उच्च रक्तचाप के लिए Enalapril 5mg दिया।,यूरिन,B-TEST
+5,यात्रा के बाद 5 दिनों में दुष्प्रभाव प्रकट होने पर डॉक्टर ने पेशाब की लंबी फिल्टर के लिए यूरिन का टेस्ट कराया और उच्च रक्तचाप के लिए Enalapril 5mg दिया।,का,O
+5,यात्रा के बाद 5 दिनों में दुष्प्रभाव प्रकट होने पर डॉक्टर ने पेशाब की लंबी फिल्टर के लिए यूरिन का टेस्ट कराया और उच्च रक्तचाप के लिए Enalapril 5mg दिया।,टेस्ट,I-TEST
+5,यात्रा के बाद 5 दिनों में दुष्प्रभाव प्रकट होने पर डॉक्टर ने पेशाब की लंबी फिल्टर के लिए यूरिन का टेस्ट कराया और उच्च रक्तचाप के लिए Enalapril 5mg दिया।,कराया,O
+5,यात्रा के बाद 5 दिनों में दुष्प्रभाव प्रकट होने पर डॉक्टर ने पेशाब की लंबी फिल्टर के लिए यूरिन का टेस्ट कराया और उच्च रक्तचाप के लिए Enalapril 5mg दिया।,और,O
+5,यात्रा के बाद 5 दिनों में दुष्प्रभाव प्रकट होने पर डॉक्टर ने पेशाब की लंबी फिल्टर के लिए यूरिन का टेस्ट कराया और उच्च रक्तचाप के लिए Enalapril 5mg दिया।,उच्च,B-SYMPTOM
+5,यात्रा के बाद 5 दिनों में दुष्प्रभाव प्रकट होने पर डॉक्टर ने पेशाब की लंबी फिल्टर के लिए यूरिन का टेस्ट कराया और उच्च रक्तचाप के लिए Enalapril 5mg दिया।,रक्तचाप,B-CONDITION
+5,यात्रा के बाद 5 दिनों में दुष्प्रभाव प्रकट होने पर डॉक्टर ने पेशाब की लंबी फिल्टर के लिए यूरिन का टेस्ट कराया और उच्च रक्तचाप के लिए Enalapril 5mg दिया।,के,O
+5,यात्रा के बाद 5 दिनों में दुष्प्रभाव प्रकट होने पर डॉक्टर ने पेशाब की लंबी फिल्टर के लिए यूरिन का टेस्ट कराया और उच्च रक्तचाप के लिए Enalapril 5mg दिया।,लिए,O
+5,यात्रा के बाद 5 दिनों में दुष्प्रभाव प्रकट होने पर डॉक्टर ने पेशाब की लंबी फिल्टर के लिए यूरिन का टेस्ट कराया और उच्च रक्तचाप के लिए Enalapril 5mg दिया।,Enalapril,B-MEDICATION
+5,यात्रा के बाद 5 दिनों में दुष्प्रभाव प्रकट होने पर डॉक्टर ने पेशाब की लंबी फिल्टर के लिए यूरिन का टेस्ट कराया और उच्च रक्तचाप के लिए Enalapril 5mg दिया।,5mg,B-DOSAGE
+5,यात्रा के बाद 5 दिनों में दुष्प्रभाव प्रकट होने पर डॉक्टर ने पेशाब की लंबी फिल्टर के लिए यूरिन का टेस्ट कराया और उच्च रक्तचाप के लिए Enalapril 5mg दिया।,दिया,O
+5,यात्रा के बाद 5 दिनों में दुष्प्रभाव प्रकट होने पर डॉक्टर ने पेशाब की लंबी फिल्टर के लिए यूरिन का टेस्ट कराया और उच्च रक्तचाप के लिए Enalapril 5mg दिया।,।,O
+6,"The patient, diagnosed with acute pancreatitis, underwent an emergency surgery, receiving 30 units of fresh frozen plasma and 10mg Ondansetron for severe vomiting.",The,O
+6,"The patient, diagnosed with acute pancreatitis, underwent an emergency surgery, receiving 30 units of fresh frozen plasma and 10mg Ondansetron for severe vomiting.",patient,O
+6,"The patient, diagnosed with acute pancreatitis, underwent an emergency surgery, receiving 30 units of fresh frozen plasma and 10mg Ondansetron for severe vomiting.",",",O
+6,"The patient, diagnosed with acute pancreatitis, underwent an emergency surgery, receiving 30 units of fresh frozen plasma and 10mg Ondansetron for severe vomiting.",diagnosed,O
+6,"The patient, diagnosed with acute pancreatitis, underwent an emergency surgery, receiving 30 units of fresh frozen plasma and 10mg Ondansetron for severe vomiting.",with,O
+6,"The patient, diagnosed with acute pancreatitis, underwent an emergency surgery, receiving 30 units of fresh frozen plasma and 10mg Ondansetron for severe vomiting.",acute,B-CONDITION
+6,"The patient, diagnosed with acute pancreatitis, underwent an emergency surgery, receiving 30 units of fresh frozen plasma and 10mg Ondansetron for severe vomiting.",pancreatitis,I-CONDITION
+6,"The patient, diagnosed with acute pancreatitis, underwent an emergency surgery, receiving 30 units of fresh frozen plasma and 10mg Ondansetron for severe vomiting.",",",O
+6,"The patient, diagnosed with acute pancreatitis, underwent an emergency surgery, receiving 30 units of fresh frozen plasma and 10mg Ondansetron for severe vomiting.",underwent,O
+6,"The patient, diagnosed with acute pancreatitis, underwent an emergency surgery, receiving 30 units of fresh frozen plasma and 10mg Ondansetron for severe vomiting.",an,O
+6,"The patient, diagnosed with acute pancreatitis, underwent an emergency surgery, receiving 30 units of fresh frozen plasma and 10mg Ondansetron for severe vomiting.",emergency,O
+6,"The patient, diagnosed with acute pancreatitis, underwent an emergency surgery, receiving 30 units of fresh frozen plasma and 10mg Ondansetron for severe vomiting.",surgery,B-PROCEDURE
+6,"The patient, diagnosed with acute pancreatitis, underwent an emergency surgery, receiving 30 units of fresh frozen plasma and 10mg Ondansetron for severe vomiting.",",",O
+6,"The patient, diagnosed with acute pancreatitis, underwent an emergency surgery, receiving 30 units of fresh frozen plasma and 10mg Ondansetron for severe vomiting.",receiving,O
+6,"The patient, diagnosed with acute pancreatitis, underwent an emergency surgery, receiving 30 units of fresh frozen plasma and 10mg Ondansetron for severe vomiting.",30,O
+6,"The patient, diagnosed with acute pancreatitis, underwent an emergency surgery, receiving 30 units of fresh frozen plasma and 10mg Ondansetron for severe vomiting.",units,O
+6,"The patient, diagnosed with acute pancreatitis, underwent an emergency surgery, receiving 30 units of fresh frozen plasma and 10mg Ondansetron for severe vomiting.",of,O
+6,"The patient, diagnosed with acute pancreatitis, underwent an emergency surgery, receiving 30 units of fresh frozen plasma and 10mg Ondansetron for severe vomiting.",fresh,O
+6,"The patient, diagnosed with acute pancreatitis, underwent an emergency surgery, receiving 30 units of fresh frozen plasma and 10mg Ondansetron for severe vomiting.",frozen,O
+6,"The patient, diagnosed with acute pancreatitis, underwent an emergency surgery, receiving 30 units of fresh frozen plasma and 10mg Ondansetron for severe vomiting.",plasma,B-TEST
+6,"The patient, diagnosed with acute pancreatitis, underwent an emergency surgery, receiving 30 units of fresh frozen plasma and 10mg Ondansetron for severe vomiting.",and,O
+6,"The patient, diagnosed with acute pancreatitis, underwent an emergency surgery, receiving 30 units of fresh frozen plasma and 10mg Ondansetron for severe vomiting.",10mg,B-DOSAGE
+6,"The patient, diagnosed with acute pancreatitis, underwent an emergency surgery, receiving 30 units of fresh frozen plasma and 10mg Ondansetron for severe vomiting.",Ondansetron,B-MEDICATION
+6,"The patient, diagnosed with acute pancreatitis, underwent an emergency surgery, receiving 30 units of fresh frozen plasma and 10mg Ondansetron for severe vomiting.",for,O
+6,"The patient, diagnosed with acute pancreatitis, underwent an emergency surgery, receiving 30 units of fresh frozen plasma and 10mg Ondansetron for severe vomiting.",severe,O
+6,"The patient, diagnosed with acute pancreatitis, underwent an emergency surgery, receiving 30 units of fresh frozen plasma and 10mg Ondansetron for severe vomiting.",vomiting,B-SYMPTOM
+6,"The patient, diagnosed with acute pancreatitis, underwent an emergency surgery, receiving 30 units of fresh frozen plasma and 10mg Ondansetron for severe vomiting.",.,O
+7,"Patient ko तेज़ बुखार, सांस लेने में कठिनाई और जोरदार ह्रदय गति तेजी के कारण ICU में डाला गया। फिर हालिया ब्लड टेस्ट में ग्लूकोज स्तर और क्रिएटिनिन स्तर 5.2 और 1.8 मिलीग्राम में पाया गया। डॉक्टर ने डायलिसिस शुरू करने के बाद 10mg Lisinopril की खुराक दी।
+",Patient,O
+7,"Patient ko तेज़ बुखार, सांस लेने में कठिनाई और जोरदार ह्रदय गति तेजी के कारण ICU में डाला गया। फिर हालिया ब्लड टेस्ट में ग्लूकोज स्तर और क्रिएटिनिन स्तर 5.2 और 1.8 मिलीग्राम में पाया गया। डॉक्टर ने डायलिसिस शुरू करने के बाद 10mg Lisinopril की खुराक दी।
+",ko,O
+7,"Patient ko तेज़ बुखार, सांस लेने में कठिनाई और जोरदार ह्रदय गति तेजी के कारण ICU में डाला गया। फिर हालिया ब्लड टेस्ट में ग्लूकोज स्तर और क्रिएटिनिन स्तर 5.2 और 1.8 मिलीग्राम में पाया गया। डॉक्टर ने डायलिसिस शुरू करने के बाद 10mg Lisinopril की खुराक दी।
+",तेज़,O
+7,"Patient ko तेज़ बुखार, सांस लेने में कठिनाई और जोरदार ह्रदय गति तेजी के कारण ICU में डाला गया। फिर हालिया ब्लड टेस्ट में ग्लूकोज स्तर और क्रिएटिनिन स्तर 5.2 और 1.8 मिलीग्राम में पाया गया। डॉक्टर ने डायलिसिस शुरू करने के बाद 10mg Lisinopril की खुराक दी।
+",बुखार,B-SYMPTOM
+7,"Patient ko तेज़ बुखार, सांस लेने में कठिनाई और जोरदार ह्रदय गति तेजी के कारण ICU में डाला गया। फिर हालिया ब्लड टेस्ट में ग्लूकोज स्तर और क्रिएटिनिन स्तर 5.2 और 1.8 मिलीग्राम में पाया गया। डॉक्टर ने डायलिसिस शुरू करने के बाद 10mg Lisinopril की खुराक दी।
+",",",O
+7,"Patient ko तेज़ बुखार, सांस लेने में कठिनाई और जोरदार ह्रदय गति तेजी के कारण ICU में डाला गया। फिर हालिया ब्लड टेस्ट में ग्लूकोज स्तर और क्रिएटिनिन स्तर 5.2 और 1.8 मिलीग्राम में पाया गया। डॉक्टर ने डायलिसिस शुरू करने के बाद 10mg Lisinopril की खुराक दी।
+",सांस,O
+7,"Patient ko तेज़ बुखार, सांस लेने में कठिनाई और जोरदार ह्रदय गति तेजी के कारण ICU में डाला गया। फिर हालिया ब्लड टेस्ट में ग्लूकोज स्तर और क्रिएटिनिन स्तर 5.2 और 1.8 मिलीग्राम में पाया गया। डॉक्टर ने डायलिसिस शुरू करने के बाद 10mg Lisinopril की खुराक दी।
+",लेने,O
+7,"Patient ko तेज़ बुखार, सांस लेने में कठिनाई और जोरदार ह्रदय गति तेजी के कारण ICU में डाला गया। फिर हालिया ब्लड टेस्ट में ग्लूकोज स्तर और क्रिएटिनिन स्तर 5.2 और 1.8 मिलीग्राम में पाया गया। डॉक्टर ने डायलिसिस शुरू करने के बाद 10mg Lisinopril की खुराक दी।
+",में,O
+7,"Patient ko तेज़ बुखार, सांस लेने में कठिनाई और जोरदार ह्रदय गति तेजी के कारण ICU में डाला गया। फिर हालिया ब्लड टेस्ट में ग्लूकोज स्तर और क्रिएटिनिन स्तर 5.2 और 1.8 मिलीग्राम में पाया गया। डॉक्टर ने डायलिसिस शुरू करने के बाद 10mg Lisinopril की खुराक दी।
+",कठिनाई,B-SYMPTOM
+7,"Patient ko तेज़ बुखार, सांस लेने में कठिनाई और जोरदार ह्रदय गति तेजी के कारण ICU में डाला गया। फिर हालिया ब्लड टेस्ट में ग्लूकोज स्तर और क्रिएटिनिन स्तर 5.2 और 1.8 मिलीग्राम में पाया गया। डॉक्टर ने डायलिसिस शुरू करने के बाद 10mg Lisinopril की खुराक दी।
+",और,O
+7,"Patient ko तेज़ बुखार, सांस लेने में कठिनाई और जोरदार ह्रदय गति तेजी के कारण ICU में डाला गया। फिर हालिया ब्लड टेस्ट में ग्लूकोज स्तर और क्रिएटिनिन स्तर 5.2 और 1.8 मिलीग्राम में पाया गया। डॉक्टर ने डायलिसिस शुरू करने के बाद 10mg Lisinopril की खुराक दी।
+",जोरदार,O
+7,"Patient ko तेज़ बुखार, सांस लेने में कठिनाई और जोरदार ह्रदय गति तेजी के कारण ICU में डाला गया। फिर हालिया ब्लड टेस्ट में ग्लूकोज स्तर और क्रिएटिनिन स्तर 5.2 और 1.8 मिलीग्राम में पाया गया। डॉक्टर ने डायलिसिस शुरू करने के बाद 10mg Lisinopril की खुराक दी।
+",ह्रदय,O
+7,"Patient ko तेज़ बुखार, सांस लेने में कठिनाई और जोरदार ह्रदय गति तेजी के कारण ICU में डाला गया। फिर हालिया ब्लड टेस्ट में ग्लूकोज स्तर और क्रिएटिनिन स्तर 5.2 और 1.8 मिलीग्राम में पाया गया। डॉक्टर ने डायलिसिस शुरू करने के बाद 10mg Lisinopril की खुराक दी।
+",गति,O
+7,"Patient ko तेज़ बुखार, सांस लेने में कठिनाई और जोरदार ह्रदय गति तेजी के कारण ICU में डाला गया। फिर हालिया ब्लड टेस्ट में ग्लूकोज स्तर और क्रिएटिनिन स्तर 5.2 और 1.8 मिलीग्राम में पाया गया। डॉक्टर ने डायलिसिस शुरू करने के बाद 10mg Lisinopril की खुराक दी।
+",तेजी,B-SYMPTOM
+7,"Patient ko तेज़ बुखार, सांस लेने में कठिनाई और जोरदार ह्रदय गति तेजी के कारण ICU में डाला गया। फिर हालिया ब्लड टेस्ट में ग्लूकोज स्तर और क्रिएटिनिन स्तर 5.2 और 1.8 मिलीग्राम में पाया गया। डॉक्टर ने डायलिसिस शुरू करने के बाद 10mg Lisinopril की खुराक दी।
+",के,O
+7,"Patient ko तेज़ बुखार, सांस लेने में कठिनाई और जोरदार ह्रदय गति तेजी के कारण ICU में डाला गया। फिर हालिया ब्लड टेस्ट में ग्लूकोज स्तर और क्रिएटिनिन स्तर 5.2 और 1.8 मिलीग्राम में पाया गया। डॉक्टर ने डायलिसिस शुरू करने के बाद 10mg Lisinopril की खुराक दी।
+",कारण,O
+7,"Patient ko तेज़ बुखार, सांस लेने में कठिनाई और जोरदार ह्रदय गति तेजी के कारण ICU में डाला गया। फिर हालिया ब्लड टेस्ट में ग्लूकोज स्तर और क्रिएटिनिन स्तर 5.2 और 1.8 मिलीग्राम में पाया गया। डॉक्टर ने डायलिसिस शुरू करने के बाद 10mg Lisinopril की खुराक दी।
+",ICU,O
+7,"Patient ko तेज़ बुखार, सांस लेने में कठिनाई और जोरदार ह्रदय गति तेजी के कारण ICU में डाला गया। फिर हालिया ब्लड टेस्ट में ग्लूकोज स्तर और क्रिएटिनिन स्तर 5.2 और 1.8 मिलीग्राम में पाया गया। डॉक्टर ने डायलिसिस शुरू करने के बाद 10mg Lisinopril की खुराक दी।
+",में,O
+7,"Patient ko तेज़ बुखार, सांस लेने में कठिनाई और जोरदार ह्रदय गति तेजी के कारण ICU में डाला गया। फिर हालिया ब्लड टेस्ट में ग्लूकोज स्तर और क्रिएटिनिन स्तर 5.2 और 1.8 मिलीग्राम में पाया गया। डॉक्टर ने डायलिसिस शुरू करने के बाद 10mg Lisinopril की खुराक दी।
+",डाला,O
+7,"Patient ko तेज़ बुखार, सांस लेने में कठिनाई और जोरदार ह्रदय गति तेजी के कारण ICU में डाला गया। फिर हालिया ब्लड टेस्ट में ग्लूकोज स्तर और क्रिएटिनिन स्तर 5.2 और 1.8 मिलीग्राम में पाया गया। डॉक्टर ने डायलिसिस शुरू करने के बाद 10mg Lisinopril की खुराक दी।
+",गया,O
+7,"Patient ko तेज़ बुखार, सांस लेने में कठिनाई और जोरदार ह्रदय गति तेजी के कारण ICU में डाला गया। फिर हालिया ब्लड टेस्ट में ग्लूकोज स्तर और क्रिएटिनिन स्तर 5.2 और 1.8 मिलीग्राम में पाया गया। डॉक्टर ने डायलिसिस शुरू करने के बाद 10mg Lisinopril की खुराक दी।
+",।,O
+7,"Patient ko तेज़ बुखार, सांस लेने में कठिनाई और जोरदार ह्रदय गति तेजी के कारण ICU में डाला गया। फिर हालिया ब्लड टेस्ट में ग्लूकोज स्तर और क्रिएटिनिन स्तर 5.2 और 1.8 मिलीग्राम में पाया गया। डॉक्टर ने डायलिसिस शुरू करने के बाद 10mg Lisinopril की खुराक दी।
+",फिर,O
+7,"Patient ko तेज़ बुखार, सांस लेने में कठिनाई और जोरदार ह्रदय गति तेजी के कारण ICU में डाला गया। फिर हालिया ब्लड टेस्ट में ग्लूकोज स्तर और क्रिएटिनिन स्तर 5.2 और 1.8 मिलीग्राम में पाया गया। डॉक्टर ने डायलिसिस शुरू करने के बाद 10mg Lisinopril की खुराक दी।
+",हालिया,O
+7,"Patient ko तेज़ बुखार, सांस लेने में कठिनाई और जोरदार ह्रदय गति तेजी के कारण ICU में डाला गया। फिर हालिया ब्लड टेस्ट में ग्लूकोज स्तर और क्रिएटिनिन स्तर 5.2 और 1.8 मिलीग्राम में पाया गया। डॉक्टर ने डायलिसिस शुरू करने के बाद 10mg Lisinopril की खुराक दी।
+",ब्लड,O
+7,"Patient ko तेज़ बुखार, सांस लेने में कठिनाई और जोरदार ह्रदय गति तेजी के कारण ICU में डाला गया। फिर हालिया ब्लड टेस्ट में ग्लूकोज स्तर और क्रिएटिनिन स्तर 5.2 और 1.8 मिलीग्राम में पाया गया। डॉक्टर ने डायलिसिस शुरू करने के बाद 10mg Lisinopril की खुराक दी।
+",टेस्ट,B-TEST
+7,"Patient ko तेज़ बुखार, सांस लेने में कठिनाई और जोरदार ह्रदय गति तेजी के कारण ICU में डाला गया। फिर हालिया ब्लड टेस्ट में ग्लूकोज स्तर और क्रिएटिनिन स्तर 5.2 और 1.8 मिलीग्राम में पाया गया। डॉक्टर ने डायलिसिस शुरू करने के बाद 10mg Lisinopril की खुराक दी।
+",में,O
+7,"Patient ko तेज़ बुखार, सांस लेने में कठिनाई और जोरदार ह्रदय गति तेजी के कारण ICU में डाला गया। फिर हालिया ब्लड टेस्ट में ग्लूकोज स्तर और क्रिएटिनिन स्तर 5.2 और 1.8 मिलीग्राम में पाया गया। डॉक्टर ने डायलिसिस शुरू करने के बाद 10mg Lisinopril की खुराक दी।
+",ग्लूकोज,O
+7,"Patient ko तेज़ बुखार, सांस लेने में कठिनाई और जोरदार ह्रदय गति तेजी के कारण ICU में डाला गया। फिर हालिया ब्लड टेस्ट में ग्लूकोज स्तर और क्रिएटिनिन स्तर 5.2 और 1.8 मिलीग्राम में पाया गया। डॉक्टर ने डायलिसिस शुरू करने के बाद 10mg Lisinopril की खुराक दी।
+",स्तर,O
+7,"Patient ko तेज़ बुखार, सांस लेने में कठिनाई और जोरदार ह्रदय गति तेजी के कारण ICU में डाला गया। फिर हालिया ब्लड टेस्ट में ग्लूकोज स्तर और क्रिएटिनिन स्तर 5.2 और 1.8 मिलीग्राम में पाया गया। डॉक्टर ने डायलिसिस शुरू करने के बाद 10mg Lisinopril की खुराक दी।
+",5,B-DOSAGE
+7,"Patient ko तेज़ बुखार, सांस लेने में कठिनाई और जोरदार ह्रदय गति तेजी के कारण ICU में डाला गया। फिर हालिया ब्लड टेस्ट में ग्लूकोज स्तर और क्रिएटिनिन स्तर 5.2 और 1.8 मिलीग्राम में पाया गया। डॉक्टर ने डायलिसिस शुरू करने के बाद 10mg Lisinopril की खुराक दी।
+",.,O
+7,"Patient ko तेज़ बुखार, सांस लेने में कठिनाई और जोरदार ह्रदय गति तेजी के कारण ICU में डाला गया। फिर हालिया ब्लड टेस्ट में ग्लूकोज स्तर और क्रिएटिनिन स्तर 5.2 और 1.8 मिलीग्राम में पाया गया। डॉक्टर ने डायलिसिस शुरू करने के बाद 10mg Lisinopril की खुराक दी।
+",2,B-DOSAGE
+7,"Patient ko तेज़ बुखार, सांस लेने में कठिनाई और जोरदार ह्रदय गति तेजी के कारण ICU में डाला गया। फिर हालिया ब्लड टेस्ट में ग्लूकोज स्तर और क्रिएटिनिन स्तर 5.2 और 1.8 मिलीग्राम में पाया गया। डॉक्टर ने डायलिसिस शुरू करने के बाद 10mg Lisinopril की खुराक दी।
+",मिलीग्राम,O
+7,"Patient ko तेज़ बुखार, सांस लेने में कठिनाई और जोरदार ह्रदय गति तेजी के कारण ICU में डाला गया। फिर हालिया ब्लड टेस्ट में ग्लूकोज स्तर और क्रिएटिनिन स्तर 5.2 और 1.8 मिलीग्राम में पाया गया। डॉक्टर ने डायलिसिस शुरू करने के बाद 10mg Lisinopril की खुराक दी।
+",में,O
+7,"Patient ko तेज़ बुखार, सांस लेने में कठिनाई और जोरदार ह्रदय गति तेजी के कारण ICU में डाला गया। फिर हालिया ब्लड टेस्ट में ग्लूकोज स्तर और क्रिएटिनिन स्तर 5.2 और 1.8 मिलीग्राम में पाया गया। डॉक्टर ने डायलिसिस शुरू करने के बाद 10mg Lisinopril की खुराक दी।
+",पाया,O
+7,"Patient ko तेज़ बुखार, सांस लेने में कठिनाई और जोरदार ह्रदय गति तेजी के कारण ICU में डाला गया। फिर हालिया ब्लड टेस्ट में ग्लूकोज स्तर और क्रिएटिनिन स्तर 5.2 और 1.8 मिलीग्राम में पाया गया। डॉक्टर ने डायलिसिस शुरू करने के बाद 10mg Lisinopril की खुराक दी।
+",गया,O
+7,"Patient ko तेज़ बुखार, सांस लेने में कठिनाई और जोरदार ह्रदय गति तेजी के कारण ICU में डाला गया। फिर हालिया ब्लड टेस्ट में ग्लूकोज स्तर और क्रिएटिनिन स्तर 5.2 और 1.8 मिलीग्राम में पाया गया। डॉक्टर ने डायलिसिस शुरू करने के बाद 10mg Lisinopril की खुराक दी।
+",।,O
+7,"Patient ko तेज़ बुखार, सांस लेने में कठिनाई और जोरदार ह्रदय गति तेजी के कारण ICU में डाला गया। फिर हालिया ब्लड टेस्ट में ग्लूकोज स्तर और क्रिएटिनिन स्तर 5.2 और 1.8 मिलीग्राम में पाया गया। डॉक्टर ने डायलिसिस शुरू करने के बाद 10mg Lisinopril की खुराक दी।
+",डॉक्टर,O
+7,"Patient ko तेज़ बुखार, सांस लेने में कठिनाई और जोरदार ह्रदय गति तेजी के कारण ICU में डाला गया। फिर हालिया ब्लड टेस्ट में ग्लूकोज स्तर और क्रिएटिनिन स्तर 5.2 और 1.8 मिलीग्राम में पाया गया। डॉक्टर ने डायलिसिस शुरू करने के बाद 10mg Lisinopril की खुराक दी।
+",ने,O
+7,"Patient ko तेज़ बुखार, सांस लेने में कठिनाई और जोरदार ह्रदय गति तेजी के कारण ICU में डाला गया। फिर हालिया ब्लड टेस्ट में ग्लूकोज स्तर और क्रिएटिनिन स्तर 5.2 और 1.8 मिलीग्राम में पाया गया। डॉक्टर ने डायलिसिस शुरू करने के बाद 10mg Lisinopril की खुराक दी।
+",डायलिसिस,B-PROCEDURE
+7,"Patient ko तेज़ बुखार, सांस लेने में कठिनाई और जोरदार ह्रदय गति तेजी के कारण ICU में डाला गया। फिर हालिया ब्लड टेस्ट में ग्लूकोज स्तर और क्रिएटिनिन स्तर 5.2 और 1.8 मिलीग्राम में पाया गया। डॉक्टर ने डायलिसिस शुरू करने के बाद 10mg Lisinopril की खुराक दी।
+",शुरू,O
+7,"Patient ko तेज़ बुखार, सांस लेने में कठिनाई और जोरदार ह्रदय गति तेजी के कारण ICU में डाला गया। फिर हालिया ब्लड टेस्ट में ग्लूकोज स्तर और क्रिएटिनिन स्तर 5.2 और 1.8 मिलीग्राम में पाया गया। डॉक्टर ने डायलिसिस शुरू करने के बाद 10mg Lisinopril की खुराक दी।
+",करने,O
+7,"Patient ko तेज़ बुखार, सांस लेने में कठिनाई और जोरदार ह्रदय गति तेजी के कारण ICU में डाला गया। फिर हालिया ब्लड टेस्ट में ग्लूकोज स्तर और क्रिएटिनिन स्तर 5.2 और 1.8 मिलीग्राम में पाया गया। डॉक्टर ने डायलिसिस शुरू करने के बाद 10mg Lisinopril की खुराक दी।
+",के,O
+7,"Patient ko तेज़ बुखार, सांस लेने में कठिनाई और जोरदार ह्रदय गति तेजी के कारण ICU में डाला गया। फिर हालिया ब्लड टेस्ट में ग्लूकोज स्तर और क्रिएटिनिन स्तर 5.2 और 1.8 मिलीग्राम में पाया गया। डॉक्टर ने डायलिसिस शुरू करने के बाद 10mg Lisinopril की खुराक दी।
+",बाद,O
+7,"Patient ko तेज़ बुखार, सांस लेने में कठिनाई और जोरदार ह्रदय गति तेजी के कारण ICU में डाला गया। फिर हालिया ब्लड टेस्ट में ग्लूकोज स्तर और क्रिएटिनिन स्तर 5.2 और 1.8 मिलीग्राम में पाया गया। डॉक्टर ने डायलिसिस शुरू करने के बाद 10mg Lisinopril की खुराक दी।
+",10mg,B-DOSAGE
+7,"Patient ko तेज़ बुखार, सांस लेने में कठिनाई और जोरदार ह्रदय गति तेजी के कारण ICU में डाला गया। फिर हालिया ब्लड टेस्ट में ग्लूकोज स्तर और क्रिएटिनिन स्तर 5.2 और 1.8 मिलीग्राम में पाया गया। डॉक्टर ने डायलिसिस शुरू करने के बाद 10mg Lisinopril की खुराक दी।
+",Lisinopril,B-MEDICATION
+7,"Patient ko तेज़ बुखार, सांस लेने में कठिनाई और जोरदार ह्रदय गति तेजी के कारण ICU में डाला गया। फिर हालिया ब्लड टेस्ट में ग्लूकोज स्तर और क्रिएटिनिन स्तर 5.2 और 1.8 मिलीग्राम में पाया गया। डॉक्टर ने डायलिसिस शुरू करने के बाद 10mg Lisinopril की खुराक दी।
+",की,O
+7,"Patient ko तेज़ बुखार, सांस लेने में कठिनाई और जोरदार ह्रदय गति तेजी के कारण ICU में डाला गया। फिर हालिया ब्लड टेस्ट में ग्लूकोज स्तर और क्रिएटिनिन स्तर 5.2 और 1.8 मिलीग्राम में पाया गया। डॉक्टर ने डायलिसिस शुरू करने के बाद 10mg Lisinopril की खुराक दी।
+",खुराक,O
+7,"Patient ko तेज़ बुखार, सांस लेने में कठिनाई और जोरदार ह्रदय गति तेजी के कारण ICU में डाला गया। फिर हालिया ब्लड टेस्ट में ग्लूकोज स्तर और क्रिएटिनिन स्तर 5.2 और 1.8 मिलीग्राम में पाया गया। डॉक्टर ने डायलिसिस शुरू करने के बाद 10mg Lisinopril की खुराक दी।
+",दी,O
+7,"Patient ko तेज़ बुखार, सांस लेने में कठिनाई और जोरदार ह्रदय गति तेजी के कारण ICU में डाला गया। फिर हालिया ब्लड टेस्ट में ग्लूकोज स्तर और क्रिएटिनिन स्तर 5.2 और 1.8 मिलीग्राम में पाया गया। डॉक्टर ने डायलिसिस शुरू करने के बाद 10mg Lisinopril की खुराक दी।
+",।,O
+8,"The doctor performed emergency surgery on a 35-year-old man suffering from severe chest pain, including high blood pressure ( hypertension ), and administered a 5mg dose of Aspirin.",The,O
+8,"The doctor performed emergency surgery on a 35-year-old man suffering from severe chest pain, including high blood pressure ( hypertension ), and administered a 5mg dose of Aspirin.",doctor,O
+8,"The doctor performed emergency surgery on a 35-year-old man suffering from severe chest pain, including high blood pressure ( hypertension ), and administered a 5mg dose of Aspirin.",performed,O
+8,"The doctor performed emergency surgery on a 35-year-old man suffering from severe chest pain, including high blood pressure ( hypertension ), and administered a 5mg dose of Aspirin.",emergency,O
+8,"The doctor performed emergency surgery on a 35-year-old man suffering from severe chest pain, including high blood pressure ( hypertension ), and administered a 5mg dose of Aspirin.",surgery,B-PROCEDURE
+8,"The doctor performed emergency surgery on a 35-year-old man suffering from severe chest pain, including high blood pressure ( hypertension ), and administered a 5mg dose of Aspirin.",on,O
+8,"The doctor performed emergency surgery on a 35-year-old man suffering from severe chest pain, including high blood pressure ( hypertension ), and administered a 5mg dose of Aspirin.",a,O
+8,"The doctor performed emergency surgery on a 35-year-old man suffering from severe chest pain, including high blood pressure ( hypertension ), and administered a 5mg dose of Aspirin.",35-year-old,O
+8,"The doctor performed emergency surgery on a 35-year-old man suffering from severe chest pain, including high blood pressure ( hypertension ), and administered a 5mg dose of Aspirin.",man,O
+8,"The doctor performed emergency surgery on a 35-year-old man suffering from severe chest pain, including high blood pressure ( hypertension ), and administered a 5mg dose of Aspirin.",suffering,O
+8,"The doctor performed emergency surgery on a 35-year-old man suffering from severe chest pain, including high blood pressure ( hypertension ), and administered a 5mg dose of Aspirin.",from,O
+8,"The doctor performed emergency surgery on a 35-year-old man suffering from severe chest pain, including high blood pressure ( hypertension ), and administered a 5mg dose of Aspirin.",severe,O
+8,"The doctor performed emergency surgery on a 35-year-old man suffering from severe chest pain, including high blood pressure ( hypertension ), and administered a 5mg dose of Aspirin.",chest,B-SYMPTOM
+8,"The doctor performed emergency surgery on a 35-year-old man suffering from severe chest pain, including high blood pressure ( hypertension ), and administered a 5mg dose of Aspirin.",pain,I-SYMPTOM
+8,"The doctor performed emergency surgery on a 35-year-old man suffering from severe chest pain, including high blood pressure ( hypertension ), and administered a 5mg dose of Aspirin.",and,O
+8,"The doctor performed emergency surgery on a 35-year-old man suffering from severe chest pain, including high blood pressure ( hypertension ), and administered a 5mg dose of Aspirin.",hypertension,B-CONDITION
+8,"The doctor performed emergency surgery on a 35-year-old man suffering from severe chest pain, including high blood pressure ( hypertension ), and administered a 5mg dose of Aspirin.",",",O
+8,"The doctor performed emergency surgery on a 35-year-old man suffering from severe chest pain, including high blood pressure ( hypertension ), and administered a 5mg dose of Aspirin.",and,O
+8,"The doctor performed emergency surgery on a 35-year-old man suffering from severe chest pain, including high blood pressure ( hypertension ), and administered a 5mg dose of Aspirin.",administered,O
+8,"The doctor performed emergency surgery on a 35-year-old man suffering from severe chest pain, including high blood pressure ( hypertension ), and administered a 5mg dose of Aspirin.",a,O
+8,"The doctor performed emergency surgery on a 35-year-old man suffering from severe chest pain, including high blood pressure ( hypertension ), and administered a 5mg dose of Aspirin.",5mg,B-DOSAGE
+8,"The doctor performed emergency surgery on a 35-year-old man suffering from severe chest pain, including high blood pressure ( hypertension ), and administered a 5mg dose of Aspirin.",Aspirin,B-MEDICATION
+8,"The doctor performed emergency surgery on a 35-year-old man suffering from severe chest pain, including high blood pressure ( hypertension ), and administered a 5mg dose of Aspirin.",.,O
+9,A 35-year-old मां को इम्युनोग्लोबुलिन 400mg इंजेक्शन दिया गया है क्योंकि उसकी ब्लड ग्लूकोज 170 मिलीग्राम प्रति डेसीलीटर थी।,A,O
+9,A 35-year-old मां को इम्युनोग्लोबुलिन 400mg इंजेक्शन दिया गया है क्योंकि उसकी ब्लड ग्लूकोज 170 मिलीग्राम प्रति डेसीलीटर थी।,35-year-old,O
+9,A 35-year-old मां को इम्युनोग्लोबुलिन 400mg इंजेक्शन दिया गया है क्योंकि उसकी ब्लड ग्लूकोज 170 मिलीग्राम प्रति डेसीलीटर थी।,मां,O
+9,A 35-year-old मां को इम्युनोग्लोबुलिन 400mg इंजेक्शन दिया गया है क्योंकि उसकी ब्लड ग्लूकोज 170 मिलीग्राम प्रति डेसीलीटर थी।,को,O
+9,A 35-year-old मां को इम्युनोग्लोबुलिन 400mg इंजेक्शन दिया गया है क्योंकि उसकी ब्लड ग्लूकोज 170 मिलीग्राम प्रति डेसीलीटर थी।,इम्युनोग्लोबुलिन,B-MEDICATION
+9,A 35-year-old मां को इम्युनोग्लोबुलिन 400mg इंजेक्शन दिया गया है क्योंकि उसकी ब्लड ग्लूकोज 170 मिलीग्राम प्रति डेसीलीटर थी।,400mg,B-DOSAGE
+9,A 35-year-old मां को इम्युनोग्लोबुलिन 400mg इंजेक्शन दिया गया है क्योंकि उसकी ब्लड ग्लूकोज 170 मिलीग्राम प्रति डेसीलीटर थी।,इंजेक्शन,B-PROCEDURE
+9,A 35-year-old मां को इम्युनोग्लोबुलिन 400mg इंजेक्शन दिया गया है क्योंकि उसकी ब्लड ग्लूकोज 170 मिलीग्राम प्रति डेसीलीटर थी।,दिया,O
+9,A 35-year-old मां को इम्युनोग्लोबुलिन 400mg इंजेक्शन दिया गया है क्योंकि उसकी ब्लड ग्लूकोज 170 मिलीग्राम प्रति डेसीलीटर थी।,गया,O
+9,A 35-year-old मां को इम्युनोग्लोबुलिन 400mg इंजेक्शन दिया गया है क्योंकि उसकी ब्लड ग्लूकोज 170 मिलीग्राम प्रति डेसीलीटर थी।,है,O
+9,A 35-year-old मां को इम्युनोग्लोबुलिन 400mg इंजेक्शन दिया गया है क्योंकि उसकी ब्लड ग्लूकोज 170 मिलीग्राम प्रति डेसीलीटर थी।,क्योंकि,O
+9,A 35-year-old मां को इम्युनोग्लोबुलिन 400mg इंजेक्शन दिया गया है क्योंकि उसकी ब्लड ग्लूकोज 170 मिलीग्राम प्रति डेसीलीटर थी।,उसकी,O
+9,A 35-year-old मां को इम्युनोग्लोबुलिन 400mg इंजेक्शन दिया गया है क्योंकि उसकी ब्लड ग्लूकोज 170 मिलीग्राम प्रति डेसीलीटर थी।,ब्लड,B-TEST
+9,A 35-year-old मां को इम्युनोग्लोबुलिन 400mg इंजेक्शन दिया गया है क्योंकि उसकी ब्लड ग्लूकोज 170 मिलीग्राम प्रति डेसीलीटर थी।,ग्लूकोज,B-TEST
+9,A 35-year-old मां को इम्युनोग्लोबुलिन 400mg इंजेक्शन दिया गया है क्योंकि उसकी ब्लड ग्लूकोज 170 मिलीग्राम प्रति डेसीलीटर थी।,170,O
+9,A 35-year-old मां को इम्युनोग्लोबुलिन 400mg इंजेक्शन दिया गया है क्योंकि उसकी ब्लड ग्लूकोज 170 मिलीग्राम प्रति डेसीलीटर थी।,मिलीग्राम,O
+9,A 35-year-old मां को इम्युनोग्लोबुलिन 400mg इंजेक्शन दिया गया है क्योंकि उसकी ब्लड ग्लूकोज 170 मिलीग्राम प्रति डेसीलीटर थी।,प्रति,O
+9,A 35-year-old मां को इम्युनोग्लोबुलिन 400mg इंजेक्शन दिया गया है क्योंकि उसकी ब्लड ग्लूकोज 170 मिलीग्राम प्रति डेसीलीटर थी।,डेसीलीटर,O
+9,A 35-year-old मां को इम्युनोग्लोबुलिन 400mg इंजेक्शन दिया गया है क्योंकि उसकी ब्लड ग्लूकोज 170 मिलीग्राम प्रति डेसीलीटर थी।,थी,O
+9,A 35-year-old मां को इम्युनोग्लोबुलिन 400mg इंजेक्शन दिया गया है क्योंकि उसकी ब्लड ग्लूकोज 170 मिलीग्राम प्रति डेसीलीटर थी।,।,O
+10,"The patient, a 45-year-old man, presented with severe chest pain, high fever, and shortness of breath after a cardiac arrest during an angioplasty procedure.",The,O
+10,"The patient, a 45-year-old man, presented with severe chest pain, high fever, and shortness of breath after a cardiac arrest during an angioplasty procedure.",patient,O
+10,"The patient, a 45-year-old man, presented with severe chest pain, high fever, and shortness of breath after a cardiac arrest during an angioplasty procedure.",",",O
+10,"The patient, a 45-year-old man, presented with severe chest pain, high fever, and shortness of breath after a cardiac arrest during an angioplasty procedure.",a,O
+10,"The patient, a 45-year-old man, presented with severe chest pain, high fever, and shortness of breath after a cardiac arrest during an angioplasty procedure.",45-year-old,O
+10,"The patient, a 45-year-old man, presented with severe chest pain, high fever, and shortness of breath after a cardiac arrest during an angioplasty procedure.",man,O
+10,"The patient, a 45-year-old man, presented with severe chest pain, high fever, and shortness of breath after a cardiac arrest during an angioplasty procedure.",",",O
+10,"The patient, a 45-year-old man, presented with severe chest pain, high fever, and shortness of breath after a cardiac arrest during an angioplasty procedure.",presented,O
+10,"The patient, a 45-year-old man, presented with severe chest pain, high fever, and shortness of breath after a cardiac arrest during an angioplasty procedure.",with,O
+10,"The patient, a 45-year-old man, presented with severe chest pain, high fever, and shortness of breath after a cardiac arrest during an angioplasty procedure.",severe,O
+10,"The patient, a 45-year-old man, presented with severe chest pain, high fever, and shortness of breath after a cardiac arrest during an angioplasty procedure.",chest,O
+10,"The patient, a 45-year-old man, presented with severe chest pain, high fever, and shortness of breath after a cardiac arrest during an angioplasty procedure.",pain,B-SYMPTOM
+10,"The patient, a 45-year-old man, presented with severe chest pain, high fever, and shortness of breath after a cardiac arrest during an angioplasty procedure.",",",O
+10,"The patient, a 45-year-old man, presented with severe chest pain, high fever, and shortness of breath after a cardiac arrest during an angioplasty procedure.",high,O
+10,"The patient, a 45-year-old man, presented with severe chest pain, high fever, and shortness of breath after a cardiac arrest during an angioplasty procedure.",fever,I-SYMPTOM
+10,"The patient, a 45-year-old man, presented with severe chest pain, high fever, and shortness of breath after a cardiac arrest during an angioplasty procedure.",",",O
+10,"The patient, a 45-year-old man, presented with severe chest pain, high fever, and shortness of breath after a cardiac arrest during an angioplasty procedure.",shortness,O
+10,"The patient, a 45-year-old man, presented with severe chest pain, high fever, and shortness of breath after a cardiac arrest during an angioplasty procedure.",of,O
+10,"The patient, a 45-year-old man, presented with severe chest pain, high fever, and shortness of breath after a cardiac arrest during an angioplasty procedure.",breath,B-SYMPTOM
+10,"The patient, a 45-year-old man, presented with severe chest pain, high fever, and shortness of breath after a cardiac arrest during an angioplasty procedure.",after,O
+10,"The patient, a 45-year-old man, presented with severe chest pain, high fever, and shortness of breath after a cardiac arrest during an angioplasty procedure.",a,O
+10,"The patient, a 45-year-old man, presented with severe chest pain, high fever, and shortness of breath after a cardiac arrest during an angioplasty procedure.",cardiac,O
+10,"The patient, a 45-year-old man, presented with severe chest pain, high fever, and shortness of breath after a cardiac arrest during an angioplasty procedure.",arrest,O
+10,"The patient, a 45-year-old man, presented with severe chest pain, high fever, and shortness of breath after a cardiac arrest during an angioplasty procedure.",during,O
+10,"The patient, a 45-year-old man, presented with severe chest pain, high fever, and shortness of breath after a cardiac arrest during an angioplasty procedure.",an,O
+10,"The patient, a 45-year-old man, presented with severe chest pain, high fever, and shortness of breath after a cardiac arrest during an angioplasty procedure.",angioplasty,B-PROCEDURE
+10,"The patient, a 45-year-old man, presented with severe chest pain, high fever, and shortness of breath after a cardiac arrest during an angioplasty procedure.",procedure,I-PROCEDURE
+10,"The patient, a 45-year-old man, presented with severe chest pain, high fever, and shortness of breath after a cardiac arrest during an angioplasty procedure.",.,O
+11,"After experiencing severe बुखार and सांस लेने में कठिनाई, the patient was rushed to the ICU for immediate cardiovascular stabilization after undergoing a cardiac catheterization procedure.",After,O
+11,"After experiencing severe बुखार and सांस लेने में कठिनाई, the patient was rushed to the ICU for immediate cardiovascular stabilization after undergoing a cardiac catheterization procedure.",experiencing,O
+11,"After experiencing severe बुखार and सांस लेने में कठिनाई, the patient was rushed to the ICU for immediate cardiovascular stabilization after undergoing a cardiac catheterization procedure.",severe,O
+11,"After experiencing severe बुखार and सांस लेने में कठिनाई, the patient was rushed to the ICU for immediate cardiovascular stabilization after undergoing a cardiac catheterization procedure.",बुखार,B-SYMPTOM
+11,"After experiencing severe बुखार and सांस लेने में कठिनाई, the patient was rushed to the ICU for immediate cardiovascular stabilization after undergoing a cardiac catheterization procedure.",and,O
+11,"After experiencing severe बुखार and सांस लेने में कठिनाई, the patient was rushed to the ICU for immediate cardiovascular stabilization after undergoing a cardiac catheterization procedure.",सांस,O
+11,"After experiencing severe बुखार and सांस लेने में कठिनाई, the patient was rushed to the ICU for immediate cardiovascular stabilization after undergoing a cardiac catheterization procedure.",लेने,O
+11,"After experiencing severe बुखार and सांस लेने में कठिनाई, the patient was rushed to the ICU for immediate cardiovascular stabilization after undergoing a cardiac catheterization procedure.",में,O
+11,"After experiencing severe बुखार and सांस लेने में कठिनाई, the patient was rushed to the ICU for immediate cardiovascular stabilization after undergoing a cardiac catheterization procedure.",कठिनाई,B-SYMPTOM
+11,"After experiencing severe बुखार and सांस लेने में कठिनाई, the patient was rushed to the ICU for immediate cardiovascular stabilization after undergoing a cardiac catheterization procedure.",the,O
+11,"After experiencing severe बुखार and सांस लेने में कठिनाई, the patient was rushed to the ICU for immediate cardiovascular stabilization after undergoing a cardiac catheterization procedure.",patient,O
+11,"After experiencing severe बुखार and सांस लेने में कठिनाई, the patient was rushed to the ICU for immediate cardiovascular stabilization after undergoing a cardiac catheterization procedure.",was,O
+11,"After experiencing severe बुखार and सांस लेने में कठिनाई, the patient was rushed to the ICU for immediate cardiovascular stabilization after undergoing a cardiac catheterization procedure.",rushed,O
+11,"After experiencing severe बुखार and सांस लेने में कठिनाई, the patient was rushed to the ICU for immediate cardiovascular stabilization after undergoing a cardiac catheterization procedure.",to,O
+11,"After experiencing severe बुखार and सांस लेने में कठिनाई, the patient was rushed to the ICU for immediate cardiovascular stabilization after undergoing a cardiac catheterization procedure.",the,O
+11,"After experiencing severe बुखार and सांस लेने में कठिनाई, the patient was rushed to the ICU for immediate cardiovascular stabilization after undergoing a cardiac catheterization procedure.",ICU,B-PROCEDURE
+11,"After experiencing severe बुखार and सांस लेने में कठिनाई, the patient was rushed to the ICU for immediate cardiovascular stabilization after undergoing a cardiac catheterization procedure.",for,O
+11,"After experiencing severe बुखार and सांस लेने में कठिनाई, the patient was rushed to the ICU for immediate cardiovascular stabilization after undergoing a cardiac catheterization procedure.",immediate,O
+11,"After experiencing severe बुखार and सांस लेने में कठिनाई, the patient was rushed to the ICU for immediate cardiovascular stabilization after undergoing a cardiac catheterization procedure.",cardiovascular,O
+11,"After experiencing severe बुखार and सांस लेने में कठिनाई, the patient was rushed to the ICU for immediate cardiovascular stabilization after undergoing a cardiac catheterization procedure.",stabilization,O
+11,"After experiencing severe बुखार and सांस लेने में कठिनाई, the patient was rushed to the ICU for immediate cardiovascular stabilization after undergoing a cardiac catheterization procedure.",after,O
+11,"After experiencing severe बुखार and सांस लेने में कठिनाई, the patient was rushed to the ICU for immediate cardiovascular stabilization after undergoing a cardiac catheterization procedure.",undergoing,O
+11,"After experiencing severe बुखार and सांस लेने में कठिनाई, the patient was rushed to the ICU for immediate cardiovascular stabilization after undergoing a cardiac catheterization procedure.",a,O
+11,"After experiencing severe बुखार and सांस लेने में कठिनाई, the patient was rushed to the ICU for immediate cardiovascular stabilization after undergoing a cardiac catheterization procedure.",cardiac,O
+11,"After experiencing severe बुखार and सांस लेने में कठिनाई, the patient was rushed to the ICU for immediate cardiovascular stabilization after undergoing a cardiac catheterization procedure.",catheterization,B-PROCEDURE
+11,"After experiencing severe बुखार and सांस लेने में कठिनाई, the patient was rushed to the ICU for immediate cardiovascular stabilization after undergoing a cardiac catheterization procedure.",procedure,I-PROCEDURE
+11,"After experiencing severe बुखार and सांस लेने में कठिनाई, the patient was rushed to the ICU for immediate cardiovascular stabilization after undergoing a cardiac catheterization procedure.",.,O

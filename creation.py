@@ -168,7 +168,7 @@ async def collect_llm_responses(
                                 df_rows.append(parsed)
                                 pbar.update(1)
                             except Exception as e:
-                                print(f"\nError parsing response: {e}")
+                                print(f"\nError parsing response: {e}\\n {response}")
 
                     samples_needed -= len(responses)
 
@@ -179,9 +179,9 @@ async def collect_llm_responses(
                     )
                     save_batch(df_rows[-batch_size:], batch_num)
                     batch_num += 1
-                    print("Waiting 8min for rate limit")
-                    time.sleep(500)  
-                    print("500 seconds have passed!")
+                    print("Waiting 4min for rate limit")
+                    time.sleep(200)  
+                    print("200 seconds have passed!")
 
     except KeyboardInterrupt:
         print("\nCollection interrupted by user")
@@ -203,11 +203,11 @@ if __name__ == "__main__":
         total_collected = asyncio.run(
             collect_llm_responses(
                 total_samples=500,  # Total samples to collect
-                model= constant.MODEL_ID,
+                model= constant.GROQ_MODEL2,
                 base_url= os.getenv('GROQ_BASE_URL'),
                 api_key= os.getenv('GROQ_API_KEY'),
-                batch_size=30,  
-                parallel_calls=30,  
+                batch_size=40,  
+                parallel_calls=40,  
             )
         )
         print(f"Successfully collected {total_collected} samples")

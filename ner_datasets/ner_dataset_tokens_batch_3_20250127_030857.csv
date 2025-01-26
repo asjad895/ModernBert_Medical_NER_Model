@@ -1,0 +1,811 @@
+sentence_id,text,token,ner_tag
+0,"The patient underwent Angioplasty after a series of tests including ECG, Lipid Profile, and ब्लड टेस्ट revealed atherosclerosis and तेज़ बुखार.",The,O
+0,"The patient underwent Angioplasty after a series of tests including ECG, Lipid Profile, and ब्लड टेस्ट revealed atherosclerosis and तेज़ बुखार.",patient,O
+0,"The patient underwent Angioplasty after a series of tests including ECG, Lipid Profile, and ब्लड टेस्ट revealed atherosclerosis and तेज़ बुखार.",underwent,O
+0,"The patient underwent Angioplasty after a series of tests including ECG, Lipid Profile, and ब्लड टेस्ट revealed atherosclerosis and तेज़ बुखार.",Angioplasty,B-PROCEDURE
+0,"The patient underwent Angioplasty after a series of tests including ECG, Lipid Profile, and ब्लड टेस्ट revealed atherosclerosis and तेज़ बुखार.",after,O
+0,"The patient underwent Angioplasty after a series of tests including ECG, Lipid Profile, and ब्लड टेस्ट revealed atherosclerosis and तेज़ बुखार.",a,O
+0,"The patient underwent Angioplasty after a series of tests including ECG, Lipid Profile, and ब्लड टेस्ट revealed atherosclerosis and तेज़ बुखार.",series,O
+0,"The patient underwent Angioplasty after a series of tests including ECG, Lipid Profile, and ब्लड टेस्ट revealed atherosclerosis and तेज़ बुखार.",of,O
+0,"The patient underwent Angioplasty after a series of tests including ECG, Lipid Profile, and ब्लड टेस्ट revealed atherosclerosis and तेज़ बुखार.",tests,O
+0,"The patient underwent Angioplasty after a series of tests including ECG, Lipid Profile, and ब्लड टेस्ट revealed atherosclerosis and तेज़ बुखार.",including,O
+0,"The patient underwent Angioplasty after a series of tests including ECG, Lipid Profile, and ब्लड टेस्ट revealed atherosclerosis and तेज़ बुखार.",ECG,B-TEST
+0,"The patient underwent Angioplasty after a series of tests including ECG, Lipid Profile, and ब्लड टेस्ट revealed atherosclerosis and तेज़ बुखार.",",",O
+0,"The patient underwent Angioplasty after a series of tests including ECG, Lipid Profile, and ब्लड टेस्ट revealed atherosclerosis and तेज़ बुखार.",Lipid,B-TEST
+0,"The patient underwent Angioplasty after a series of tests including ECG, Lipid Profile, and ब्लड टेस्ट revealed atherosclerosis and तेज़ बुखार.",Profile,I-TEST
+0,"The patient underwent Angioplasty after a series of tests including ECG, Lipid Profile, and ब्लड टेस्ट revealed atherosclerosis and तेज़ बुखार.",",",O
+0,"The patient underwent Angioplasty after a series of tests including ECG, Lipid Profile, and ब्लड टेस्ट revealed atherosclerosis and तेज़ बुखार.",and,O
+0,"The patient underwent Angioplasty after a series of tests including ECG, Lipid Profile, and ब्लड टेस्ट revealed atherosclerosis and तेज़ बुखार.",ब्लड,B-TEST
+0,"The patient underwent Angioplasty after a series of tests including ECG, Lipid Profile, and ब्लड टेस्ट revealed atherosclerosis and तेज़ बुखार.",टेस्ट,I-TEST
+0,"The patient underwent Angioplasty after a series of tests including ECG, Lipid Profile, and ब्लड टेस्ट revealed atherosclerosis and तेज़ बुखार.",revealed,O
+0,"The patient underwent Angioplasty after a series of tests including ECG, Lipid Profile, and ब्लड टेस्ट revealed atherosclerosis and तेज़ बुखार.",atherosclerosis,B-CONDITION
+0,"The patient underwent Angioplasty after a series of tests including ECG, Lipid Profile, and ब्लड टेस्ट revealed atherosclerosis and तेज़ बुखार.",and,O
+0,"The patient underwent Angioplasty after a series of tests including ECG, Lipid Profile, and ब्लड टेस्ट revealed atherosclerosis and तेज़ बुखार.",तेज़,B-SYMPTOM
+0,"The patient underwent Angioplasty after a series of tests including ECG, Lipid Profile, and ब्लड टेस्ट revealed atherosclerosis and तेज़ बुखार.",बुखार,I-SYMPTOM
+0,"The patient underwent Angioplasty after a series of tests including ECG, Lipid Profile, and ब्लड टेस्ट revealed atherosclerosis and तेज़ बुखार.",.,O
+1,The patient underwent an emergency Angioplasty procedure due to severe chest pain and was prescribed 5mg Aspirin and 20mg Atorvastatin daily for high cholesterol and हृदय रोग management.,The,O
+1,The patient underwent an emergency Angioplasty procedure due to severe chest pain and was prescribed 5mg Aspirin and 20mg Atorvastatin daily for high cholesterol and हृदय रोग management.,patient,O
+1,The patient underwent an emergency Angioplasty procedure due to severe chest pain and was prescribed 5mg Aspirin and 20mg Atorvastatin daily for high cholesterol and हृदय रोग management.,underwent,O
+1,The patient underwent an emergency Angioplasty procedure due to severe chest pain and was prescribed 5mg Aspirin and 20mg Atorvastatin daily for high cholesterol and हृदय रोग management.,an,O
+1,The patient underwent an emergency Angioplasty procedure due to severe chest pain and was prescribed 5mg Aspirin and 20mg Atorvastatin daily for high cholesterol and हृदय रोग management.,emergency,O
+1,The patient underwent an emergency Angioplasty procedure due to severe chest pain and was prescribed 5mg Aspirin and 20mg Atorvastatin daily for high cholesterol and हृदय रोग management.,Angioplasty,B-PROCEDURE
+1,The patient underwent an emergency Angioplasty procedure due to severe chest pain and was prescribed 5mg Aspirin and 20mg Atorvastatin daily for high cholesterol and हृदय रोग management.,procedure,I-PROCEDURE
+1,The patient underwent an emergency Angioplasty procedure due to severe chest pain and was prescribed 5mg Aspirin and 20mg Atorvastatin daily for high cholesterol and हृदय रोग management.,due,O
+1,The patient underwent an emergency Angioplasty procedure due to severe chest pain and was prescribed 5mg Aspirin and 20mg Atorvastatin daily for high cholesterol and हृदय रोग management.,to,O
+1,The patient underwent an emergency Angioplasty procedure due to severe chest pain and was prescribed 5mg Aspirin and 20mg Atorvastatin daily for high cholesterol and हृदय रोग management.,severe,O
+1,The patient underwent an emergency Angioplasty procedure due to severe chest pain and was prescribed 5mg Aspirin and 20mg Atorvastatin daily for high cholesterol and हृदय रोग management.,chest,B-SYMPTOM
+1,The patient underwent an emergency Angioplasty procedure due to severe chest pain and was prescribed 5mg Aspirin and 20mg Atorvastatin daily for high cholesterol and हृदय रोग management.,pain,I-SYMPTOM
+1,The patient underwent an emergency Angioplasty procedure due to severe chest pain and was prescribed 5mg Aspirin and 20mg Atorvastatin daily for high cholesterol and हृदय रोग management.,and,O
+1,The patient underwent an emergency Angioplasty procedure due to severe chest pain and was prescribed 5mg Aspirin and 20mg Atorvastatin daily for high cholesterol and हृदय रोग management.,was,O
+1,The patient underwent an emergency Angioplasty procedure due to severe chest pain and was prescribed 5mg Aspirin and 20mg Atorvastatin daily for high cholesterol and हृदय रोग management.,prescribed,O
+1,The patient underwent an emergency Angioplasty procedure due to severe chest pain and was prescribed 5mg Aspirin and 20mg Atorvastatin daily for high cholesterol and हृदय रोग management.,5mg,B-DOSAGE
+1,The patient underwent an emergency Angioplasty procedure due to severe chest pain and was prescribed 5mg Aspirin and 20mg Atorvastatin daily for high cholesterol and हृदय रोग management.,Aspirin,B-MEDICATION
+1,The patient underwent an emergency Angioplasty procedure due to severe chest pain and was prescribed 5mg Aspirin and 20mg Atorvastatin daily for high cholesterol and हृदय रोग management.,and,O
+1,The patient underwent an emergency Angioplasty procedure due to severe chest pain and was prescribed 5mg Aspirin and 20mg Atorvastatin daily for high cholesterol and हृदय रोग management.,20mg,B-DOSAGE
+1,The patient underwent an emergency Angioplasty procedure due to severe chest pain and was prescribed 5mg Aspirin and 20mg Atorvastatin daily for high cholesterol and हृदय रोग management.,Atorvastatin,B-MEDICATION
+1,The patient underwent an emergency Angioplasty procedure due to severe chest pain and was prescribed 5mg Aspirin and 20mg Atorvastatin daily for high cholesterol and हृदय रोग management.,daily,O
+1,The patient underwent an emergency Angioplasty procedure due to severe chest pain and was prescribed 5mg Aspirin and 20mg Atorvastatin daily for high cholesterol and हृदय रोग management.,for,O
+1,The patient underwent an emergency Angioplasty procedure due to severe chest pain and was prescribed 5mg Aspirin and 20mg Atorvastatin daily for high cholesterol and हृदय रोग management.,high,B-CONDITION
+1,The patient underwent an emergency Angioplasty procedure due to severe chest pain and was prescribed 5mg Aspirin and 20mg Atorvastatin daily for high cholesterol and हृदय रोग management.,cholesterol,I-CONDITION
+1,The patient underwent an emergency Angioplasty procedure due to severe chest pain and was prescribed 5mg Aspirin and 20mg Atorvastatin daily for high cholesterol and हृदय रोग management.,and,O
+1,The patient underwent an emergency Angioplasty procedure due to severe chest pain and was prescribed 5mg Aspirin and 20mg Atorvastatin daily for high cholesterol and हृदय रोग management.,हृदय,B-CONDITION
+1,The patient underwent an emergency Angioplasty procedure due to severe chest pain and was prescribed 5mg Aspirin and 20mg Atorvastatin daily for high cholesterol and हृदय रोग management.,रोग,I-CONDITION
+1,The patient underwent an emergency Angioplasty procedure due to severe chest pain and was prescribed 5mg Aspirin and 20mg Atorvastatin daily for high cholesterol and हृदय रोग management.,management,O
+1,The patient underwent an emergency Angioplasty procedure due to severe chest pain and was prescribed 5mg Aspirin and 20mg Atorvastatin daily for high cholesterol and हृदय रोग management.,.,O
+2,"The patient underwent an emergency Angioplasty procedure due to severe Chest pain and तेज़ सांस लेने की समस्या, and was prescribed 5mg Aspirin and 200mL Oxygen therapy after a critical ECG report.",The,O
+2,"The patient underwent an emergency Angioplasty procedure due to severe Chest pain and तेज़ सांस लेने की समस्या, and was prescribed 5mg Aspirin and 200mL Oxygen therapy after a critical ECG report.",patient,O
+2,"The patient underwent an emergency Angioplasty procedure due to severe Chest pain and तेज़ सांस लेने की समस्या, and was prescribed 5mg Aspirin and 200mL Oxygen therapy after a critical ECG report.",underwent,O
+2,"The patient underwent an emergency Angioplasty procedure due to severe Chest pain and तेज़ सांस लेने की समस्या, and was prescribed 5mg Aspirin and 200mL Oxygen therapy after a critical ECG report.",an,O
+2,"The patient underwent an emergency Angioplasty procedure due to severe Chest pain and तेज़ सांस लेने की समस्या, and was prescribed 5mg Aspirin and 200mL Oxygen therapy after a critical ECG report.",emergency,O
+2,"The patient underwent an emergency Angioplasty procedure due to severe Chest pain and तेज़ सांस लेने की समस्या, and was prescribed 5mg Aspirin and 200mL Oxygen therapy after a critical ECG report.",Angioplasty,B-PROCEDURE
+2,"The patient underwent an emergency Angioplasty procedure due to severe Chest pain and तेज़ सांस लेने की समस्या, and was prescribed 5mg Aspirin and 200mL Oxygen therapy after a critical ECG report.",procedure,I-PROCEDURE
+2,"The patient underwent an emergency Angioplasty procedure due to severe Chest pain and तेज़ सांस लेने की समस्या, and was prescribed 5mg Aspirin and 200mL Oxygen therapy after a critical ECG report.",due,O
+2,"The patient underwent an emergency Angioplasty procedure due to severe Chest pain and तेज़ सांस लेने की समस्या, and was prescribed 5mg Aspirin and 200mL Oxygen therapy after a critical ECG report.",to,O
+2,"The patient underwent an emergency Angioplasty procedure due to severe Chest pain and तेज़ सांस लेने की समस्या, and was prescribed 5mg Aspirin and 200mL Oxygen therapy after a critical ECG report.",severe,O
+2,"The patient underwent an emergency Angioplasty procedure due to severe Chest pain and तेज़ सांस लेने की समस्या, and was prescribed 5mg Aspirin and 200mL Oxygen therapy after a critical ECG report.",Chest,B-SYMPTOM
+2,"The patient underwent an emergency Angioplasty procedure due to severe Chest pain and तेज़ सांस लेने की समस्या, and was prescribed 5mg Aspirin and 200mL Oxygen therapy after a critical ECG report.",pain,I-SYMPTOM
+2,"The patient underwent an emergency Angioplasty procedure due to severe Chest pain and तेज़ सांस लेने की समस्या, and was prescribed 5mg Aspirin and 200mL Oxygen therapy after a critical ECG report.",and,O
+2,"The patient underwent an emergency Angioplasty procedure due to severe Chest pain and तेज़ सांस लेने की समस्या, and was prescribed 5mg Aspirin and 200mL Oxygen therapy after a critical ECG report.",तेज़,B-SYMPTOM
+2,"The patient underwent an emergency Angioplasty procedure due to severe Chest pain and तेज़ सांस लेने की समस्या, and was prescribed 5mg Aspirin and 200mL Oxygen therapy after a critical ECG report.",सांस,I-SYMPTOM
+2,"The patient underwent an emergency Angioplasty procedure due to severe Chest pain and तेज़ सांस लेने की समस्या, and was prescribed 5mg Aspirin and 200mL Oxygen therapy after a critical ECG report.",लेने,I-SYMPTOM
+2,"The patient underwent an emergency Angioplasty procedure due to severe Chest pain and तेज़ सांस लेने की समस्या, and was prescribed 5mg Aspirin and 200mL Oxygen therapy after a critical ECG report.",की,I-SYMPTOM
+2,"The patient underwent an emergency Angioplasty procedure due to severe Chest pain and तेज़ सांस लेने की समस्या, and was prescribed 5mg Aspirin and 200mL Oxygen therapy after a critical ECG report.",समस्या,I-SYMPTOM
+2,"The patient underwent an emergency Angioplasty procedure due to severe Chest pain and तेज़ सांस लेने की समस्या, and was prescribed 5mg Aspirin and 200mL Oxygen therapy after a critical ECG report.",and,O
+2,"The patient underwent an emergency Angioplasty procedure due to severe Chest pain and तेज़ सांस लेने की समस्या, and was prescribed 5mg Aspirin and 200mL Oxygen therapy after a critical ECG report.",was,O
+2,"The patient underwent an emergency Angioplasty procedure due to severe Chest pain and तेज़ सांस लेने की समस्या, and was prescribed 5mg Aspirin and 200mL Oxygen therapy after a critical ECG report.",prescribed,O
+2,"The patient underwent an emergency Angioplasty procedure due to severe Chest pain and तेज़ सांस लेने की समस्या, and was prescribed 5mg Aspirin and 200mL Oxygen therapy after a critical ECG report.",5mg,B-DOSAGE
+2,"The patient underwent an emergency Angioplasty procedure due to severe Chest pain and तेज़ सांस लेने की समस्या, and was prescribed 5mg Aspirin and 200mL Oxygen therapy after a critical ECG report.",Aspirin,B-MEDICATION
+2,"The patient underwent an emergency Angioplasty procedure due to severe Chest pain and तेज़ सांस लेने की समस्या, and was prescribed 5mg Aspirin and 200mL Oxygen therapy after a critical ECG report.",and,O
+2,"The patient underwent an emergency Angioplasty procedure due to severe Chest pain and तेज़ सांस लेने की समस्या, and was prescribed 5mg Aspirin and 200mL Oxygen therapy after a critical ECG report.",200mL,B-DOSAGE
+2,"The patient underwent an emergency Angioplasty procedure due to severe Chest pain and तेज़ सांस लेने की समस्या, and was prescribed 5mg Aspirin and 200mL Oxygen therapy after a critical ECG report.",Oxygen,B-MEDICATION
+2,"The patient underwent an emergency Angioplasty procedure due to severe Chest pain and तेज़ सांस लेने की समस्या, and was prescribed 5mg Aspirin and 200mL Oxygen therapy after a critical ECG report.",therapy,I-MEDICATION
+2,"The patient underwent an emergency Angioplasty procedure due to severe Chest pain and तेज़ सांस लेने की समस्या, and was prescribed 5mg Aspirin and 200mL Oxygen therapy after a critical ECG report.",after,O
+2,"The patient underwent an emergency Angioplasty procedure due to severe Chest pain and तेज़ सांस लेने की समस्या, and was prescribed 5mg Aspirin and 200mL Oxygen therapy after a critical ECG report.",a,O
+2,"The patient underwent an emergency Angioplasty procedure due to severe Chest pain and तेज़ सांस लेने की समस्या, and was prescribed 5mg Aspirin and 200mL Oxygen therapy after a critical ECG report.",critical,O
+2,"The patient underwent an emergency Angioplasty procedure due to severe Chest pain and तेज़ सांस लेने की समस्या, and was prescribed 5mg Aspirin and 200mL Oxygen therapy after a critical ECG report.",ECG,B-TEST
+2,"The patient underwent an emergency Angioplasty procedure due to severe Chest pain and तेज़ सांस लेने की समस्या, and was prescribed 5mg Aspirin and 200mL Oxygen therapy after a critical ECG report.",report,O
+2,"The patient underwent an emergency Angioplasty procedure due to severe Chest pain and तेज़ सांस लेने की समस्या, and was prescribed 5mg Aspirin and 200mL Oxygen therapy after a critical ECG report.",.,O
+3,The patient with stage 4 lung cancer underwent a CT scan and was prescribed 20mg Morphine for severe chest pain and तेज़ सांस लेने की समस्या after an emergency operation.,The,O
+3,The patient with stage 4 lung cancer underwent a CT scan and was prescribed 20mg Morphine for severe chest pain and तेज़ सांस लेने की समस्या after an emergency operation.,patient,O
+3,The patient with stage 4 lung cancer underwent a CT scan and was prescribed 20mg Morphine for severe chest pain and तेज़ सांस लेने की समस्या after an emergency operation.,with,O
+3,The patient with stage 4 lung cancer underwent a CT scan and was prescribed 20mg Morphine for severe chest pain and तेज़ सांस लेने की समस्या after an emergency operation.,stage 4,B-CONDITION
+3,The patient with stage 4 lung cancer underwent a CT scan and was prescribed 20mg Morphine for severe chest pain and तेज़ सांस लेने की समस्या after an emergency operation.,lung cancer,I-CONDITION
+3,The patient with stage 4 lung cancer underwent a CT scan and was prescribed 20mg Morphine for severe chest pain and तेज़ सांस लेने की समस्या after an emergency operation.,underwent,O
+3,The patient with stage 4 lung cancer underwent a CT scan and was prescribed 20mg Morphine for severe chest pain and तेज़ सांस लेने की समस्या after an emergency operation.,a,O
+3,The patient with stage 4 lung cancer underwent a CT scan and was prescribed 20mg Morphine for severe chest pain and तेज़ सांस लेने की समस्या after an emergency operation.,CT,B-TEST
+3,The patient with stage 4 lung cancer underwent a CT scan and was prescribed 20mg Morphine for severe chest pain and तेज़ सांस लेने की समस्या after an emergency operation.,scan,I-TEST
+3,The patient with stage 4 lung cancer underwent a CT scan and was prescribed 20mg Morphine for severe chest pain and तेज़ सांस लेने की समस्या after an emergency operation.,and,O
+3,The patient with stage 4 lung cancer underwent a CT scan and was prescribed 20mg Morphine for severe chest pain and तेज़ सांस लेने की समस्या after an emergency operation.,was,O
+3,The patient with stage 4 lung cancer underwent a CT scan and was prescribed 20mg Morphine for severe chest pain and तेज़ सांस लेने की समस्या after an emergency operation.,prescribed,O
+3,The patient with stage 4 lung cancer underwent a CT scan and was prescribed 20mg Morphine for severe chest pain and तेज़ सांस लेने की समस्या after an emergency operation.,20mg,B-DOSAGE
+3,The patient with stage 4 lung cancer underwent a CT scan and was prescribed 20mg Morphine for severe chest pain and तेज़ सांस लेने की समस्या after an emergency operation.,Morphine,B-MEDICATION
+3,The patient with stage 4 lung cancer underwent a CT scan and was prescribed 20mg Morphine for severe chest pain and तेज़ सांस लेने की समस्या after an emergency operation.,for,O
+3,The patient with stage 4 lung cancer underwent a CT scan and was prescribed 20mg Morphine for severe chest pain and तेज़ सांस लेने की समस्या after an emergency operation.,severe,O
+3,The patient with stage 4 lung cancer underwent a CT scan and was prescribed 20mg Morphine for severe chest pain and तेज़ सांस लेने की समस्या after an emergency operation.,chest,B-SYMPTOM
+3,The patient with stage 4 lung cancer underwent a CT scan and was prescribed 20mg Morphine for severe chest pain and तेज़ सांस लेने की समस्या after an emergency operation.,pain,I-SYMPTOM
+3,The patient with stage 4 lung cancer underwent a CT scan and was prescribed 20mg Morphine for severe chest pain and तेज़ सांस लेने की समस्या after an emergency operation.,and,O
+3,The patient with stage 4 lung cancer underwent a CT scan and was prescribed 20mg Morphine for severe chest pain and तेज़ सांस लेने की समस्या after an emergency operation.,तेज़,B-SYMPTOM
+3,The patient with stage 4 lung cancer underwent a CT scan and was prescribed 20mg Morphine for severe chest pain and तेज़ सांस लेने की समस्या after an emergency operation.,सांस,I-SYMPTOM
+3,The patient with stage 4 lung cancer underwent a CT scan and was prescribed 20mg Morphine for severe chest pain and तेज़ सांस लेने की समस्या after an emergency operation.,लेने,I-SYMPTOM
+3,The patient with stage 4 lung cancer underwent a CT scan and was prescribed 20mg Morphine for severe chest pain and तेज़ सांस लेने की समस्या after an emergency operation.,की,I-SYMPTOM
+3,The patient with stage 4 lung cancer underwent a CT scan and was prescribed 20mg Morphine for severe chest pain and तेज़ सांस लेने की समस्या after an emergency operation.,समस्या,I-SYMPTOM
+3,The patient with stage 4 lung cancer underwent a CT scan and was prescribed 20mg Morphine for severe chest pain and तेज़ सांस लेने की समस्या after an emergency operation.,after,O
+3,The patient with stage 4 lung cancer underwent a CT scan and was prescribed 20mg Morphine for severe chest pain and तेज़ सांस लेने की समस्या after an emergency operation.,an,O
+3,The patient with stage 4 lung cancer underwent a CT scan and was prescribed 20mg Morphine for severe chest pain and तेज़ सांस लेने की समस्या after an emergency operation.,emergency,O
+3,The patient with stage 4 lung cancer underwent a CT scan and was prescribed 20mg Morphine for severe chest pain and तेज़ सांस लेने की समस्या after an emergency operation.,operation,B-PROCEDURE
+3,The patient with stage 4 lung cancer underwent a CT scan and was prescribed 20mg Morphine for severe chest pain and तेज़ सांस लेने की समस्या after an emergency operation.,.,O
+4,The patient with severe तेज़ बुखार and सिर दर्द underwent an emergency MRI scan and was prescribed 100mg Ibuprofen twice daily for 5 days.,The,O
+4,The patient with severe तेज़ बुखार and सिर दर्द underwent an emergency MRI scan and was prescribed 100mg Ibuprofen twice daily for 5 days.,patient,O
+4,The patient with severe तेज़ बुखार and सिर दर्द underwent an emergency MRI scan and was prescribed 100mg Ibuprofen twice daily for 5 days.,with,O
+4,The patient with severe तेज़ बुखार and सिर दर्द underwent an emergency MRI scan and was prescribed 100mg Ibuprofen twice daily for 5 days.,severe,O
+4,The patient with severe तेज़ बुखार and सिर दर्द underwent an emergency MRI scan and was prescribed 100mg Ibuprofen twice daily for 5 days.,तेज़,B-SYMPTOM
+4,The patient with severe तेज़ बुखार and सिर दर्द underwent an emergency MRI scan and was prescribed 100mg Ibuprofen twice daily for 5 days.,बुखार,I-SYMPTOM
+4,The patient with severe तेज़ बुखार and सिर दर्द underwent an emergency MRI scan and was prescribed 100mg Ibuprofen twice daily for 5 days.,and,O
+4,The patient with severe तेज़ बुखार and सिर दर्द underwent an emergency MRI scan and was prescribed 100mg Ibuprofen twice daily for 5 days.,सिर,B-SYMPTOM
+4,The patient with severe तेज़ बुखार and सिर दर्द underwent an emergency MRI scan and was prescribed 100mg Ibuprofen twice daily for 5 days.,दर्द,I-SYMPTOM
+4,The patient with severe तेज़ बुखार and सिर दर्द underwent an emergency MRI scan and was prescribed 100mg Ibuprofen twice daily for 5 days.,underwent,O
+4,The patient with severe तेज़ बुखार and सिर दर्द underwent an emergency MRI scan and was prescribed 100mg Ibuprofen twice daily for 5 days.,an,O
+4,The patient with severe तेज़ बुखार and सिर दर्द underwent an emergency MRI scan and was prescribed 100mg Ibuprofen twice daily for 5 days.,emergency,O
+4,The patient with severe तेज़ बुखार and सिर दर्द underwent an emergency MRI scan and was prescribed 100mg Ibuprofen twice daily for 5 days.,MRI,B-TEST
+4,The patient with severe तेज़ बुखार and सिर दर्द underwent an emergency MRI scan and was prescribed 100mg Ibuprofen twice daily for 5 days.,scan,I-TEST
+4,The patient with severe तेज़ बुखार and सिर दर्द underwent an emergency MRI scan and was prescribed 100mg Ibuprofen twice daily for 5 days.,and,O
+4,The patient with severe तेज़ बुखार and सिर दर्द underwent an emergency MRI scan and was prescribed 100mg Ibuprofen twice daily for 5 days.,was,O
+4,The patient with severe तेज़ बुखार and सिर दर्द underwent an emergency MRI scan and was prescribed 100mg Ibuprofen twice daily for 5 days.,prescribed,O
+4,The patient with severe तेज़ बुखार and सिर दर्द underwent an emergency MRI scan and was prescribed 100mg Ibuprofen twice daily for 5 days.,100mg,B-DOSAGE
+4,The patient with severe तेज़ बुखार and सिर दर्द underwent an emergency MRI scan and was prescribed 100mg Ibuprofen twice daily for 5 days.,Ibuprofen,B-MEDICATION
+4,The patient with severe तेज़ बुखार and सिर दर्द underwent an emergency MRI scan and was prescribed 100mg Ibuprofen twice daily for 5 days.,twice,O
+4,The patient with severe तेज़ बुखार and सिर दर्द underwent an emergency MRI scan and was prescribed 100mg Ibuprofen twice daily for 5 days.,daily,O
+4,The patient with severe तेज़ बुखार and सिर दर्द underwent an emergency MRI scan and was prescribed 100mg Ibuprofen twice daily for 5 days.,for,O
+4,The patient with severe तेज़ बुखार and सिर दर्द underwent an emergency MRI scan and was prescribed 100mg Ibuprofen twice daily for 5 days.,5,B-DOSAGE
+4,The patient with severe तेज़ बुखार and सिर दर्द underwent an emergency MRI scan and was prescribed 100mg Ibuprofen twice daily for 5 days.,days,O
+4,The patient with severe तेज़ बुखार and सिर दर्द underwent an emergency MRI scan and was prescribed 100mg Ibuprofen twice daily for 5 days.,.,O
+5,The patient with stage 2 डायबिटीज़ was advised to undergo an Angioplasty procedure after a critical myocardial infarction दिल का दौरा and was prescribed 20mg Atorvastatin and 5mg Amlodipine daily.,The,O
+5,The patient with stage 2 डायबिटीज़ was advised to undergo an Angioplasty procedure after a critical myocardial infarction दिल का दौरा and was prescribed 20mg Atorvastatin and 5mg Amlodipine daily.,patient,O
+5,The patient with stage 2 डायबिटीज़ was advised to undergo an Angioplasty procedure after a critical myocardial infarction दिल का दौरा and was prescribed 20mg Atorvastatin and 5mg Amlodipine daily.,with,O
+5,The patient with stage 2 डायबिटीज़ was advised to undergo an Angioplasty procedure after a critical myocardial infarction दिल का दौरा and was prescribed 20mg Atorvastatin and 5mg Amlodipine daily.,stage 2,B-CONDITION
+5,The patient with stage 2 डायबिटीज़ was advised to undergo an Angioplasty procedure after a critical myocardial infarction दिल का दौरा and was prescribed 20mg Atorvastatin and 5mg Amlodipine daily.,डायबिटीज़,I-CONDITION
+5,The patient with stage 2 डायबिटीज़ was advised to undergo an Angioplasty procedure after a critical myocardial infarction दिल का दौरा and was prescribed 20mg Atorvastatin and 5mg Amlodipine daily.,was,O
+5,The patient with stage 2 डायबिटीज़ was advised to undergo an Angioplasty procedure after a critical myocardial infarction दिल का दौरा and was prescribed 20mg Atorvastatin and 5mg Amlodipine daily.,advised,O
+5,The patient with stage 2 डायबिटीज़ was advised to undergo an Angioplasty procedure after a critical myocardial infarction दिल का दौरा and was prescribed 20mg Atorvastatin and 5mg Amlodipine daily.,to,O
+5,The patient with stage 2 डायबिटीज़ was advised to undergo an Angioplasty procedure after a critical myocardial infarction दिल का दौरा and was prescribed 20mg Atorvastatin and 5mg Amlodipine daily.,undergo,O
+5,The patient with stage 2 डायबिटीज़ was advised to undergo an Angioplasty procedure after a critical myocardial infarction दिल का दौरा and was prescribed 20mg Atorvastatin and 5mg Amlodipine daily.,an,O
+5,The patient with stage 2 डायबिटीज़ was advised to undergo an Angioplasty procedure after a critical myocardial infarction दिल का दौरा and was prescribed 20mg Atorvastatin and 5mg Amlodipine daily.,Angioplasty,B-PROCEDURE
+5,The patient with stage 2 डायबिटीज़ was advised to undergo an Angioplasty procedure after a critical myocardial infarction दिल का दौरा and was prescribed 20mg Atorvastatin and 5mg Amlodipine daily.,procedure,I-PROCEDURE
+5,The patient with stage 2 डायबिटीज़ was advised to undergo an Angioplasty procedure after a critical myocardial infarction दिल का दौरा and was prescribed 20mg Atorvastatin and 5mg Amlodipine daily.,after,O
+5,The patient with stage 2 डायबिटीज़ was advised to undergo an Angioplasty procedure after a critical myocardial infarction दिल का दौरा and was prescribed 20mg Atorvastatin and 5mg Amlodipine daily.,a,O
+5,The patient with stage 2 डायबिटीज़ was advised to undergo an Angioplasty procedure after a critical myocardial infarction दिल का दौरा and was prescribed 20mg Atorvastatin and 5mg Amlodipine daily.,critical,O
+5,The patient with stage 2 डायबिटीज़ was advised to undergo an Angioplasty procedure after a critical myocardial infarction दिल का दौरा and was prescribed 20mg Atorvastatin and 5mg Amlodipine daily.,myocardial,B-CONDITION
+5,The patient with stage 2 डायबिटीज़ was advised to undergo an Angioplasty procedure after a critical myocardial infarction दिल का दौरा and was prescribed 20mg Atorvastatin and 5mg Amlodipine daily.,infarction,I-CONDITION
+5,The patient with stage 2 डायबिटीज़ was advised to undergo an Angioplasty procedure after a critical myocardial infarction दिल का दौरा and was prescribed 20mg Atorvastatin and 5mg Amlodipine daily.,दिल,B-CONDITION
+5,The patient with stage 2 डायबिटीज़ was advised to undergo an Angioplasty procedure after a critical myocardial infarction दिल का दौरा and was prescribed 20mg Atorvastatin and 5mg Amlodipine daily.,का,I-CONDITION
+5,The patient with stage 2 डायबिटीज़ was advised to undergo an Angioplasty procedure after a critical myocardial infarction दिल का दौरा and was prescribed 20mg Atorvastatin and 5mg Amlodipine daily.,दौरा,I-CONDITION
+5,The patient with stage 2 डायबिटीज़ was advised to undergo an Angioplasty procedure after a critical myocardial infarction दिल का दौरा and was prescribed 20mg Atorvastatin and 5mg Amlodipine daily.,and,O
+5,The patient with stage 2 डायबिटीज़ was advised to undergo an Angioplasty procedure after a critical myocardial infarction दिल का दौरा and was prescribed 20mg Atorvastatin and 5mg Amlodipine daily.,was,O
+5,The patient with stage 2 डायबिटीज़ was advised to undergo an Angioplasty procedure after a critical myocardial infarction दिल का दौरा and was prescribed 20mg Atorvastatin and 5mg Amlodipine daily.,prescribed,O
+5,The patient with stage 2 डायबिटीज़ was advised to undergo an Angioplasty procedure after a critical myocardial infarction दिल का दौरा and was prescribed 20mg Atorvastatin and 5mg Amlodipine daily.,20mg,B-DOSAGE
+5,The patient with stage 2 डायबिटीज़ was advised to undergo an Angioplasty procedure after a critical myocardial infarction दिल का दौरा and was prescribed 20mg Atorvastatin and 5mg Amlodipine daily.,Atorvastatin,B-MEDICATION
+5,The patient with stage 2 डायबिटीज़ was advised to undergo an Angioplasty procedure after a critical myocardial infarction दिल का दौरा and was prescribed 20mg Atorvastatin and 5mg Amlodipine daily.,and,O
+5,The patient with stage 2 डायबिटीज़ was advised to undergo an Angioplasty procedure after a critical myocardial infarction दिल का दौरा and was prescribed 20mg Atorvastatin and 5mg Amlodipine daily.,5mg,B-DOSAGE
+5,The patient with stage 2 डायबिटीज़ was advised to undergo an Angioplasty procedure after a critical myocardial infarction दिल का दौरा and was prescribed 20mg Atorvastatin and 5mg Amlodipine daily.,Amlodipine,B-MEDICATION
+5,The patient with stage 2 डायबिटीज़ was advised to undergo an Angioplasty procedure after a critical myocardial infarction दिल का दौरा and was prescribed 20mg Atorvastatin and 5mg Amlodipine daily.,daily,O
+5,The patient with stage 2 डायबिटीज़ was advised to undergo an Angioplasty procedure after a critical myocardial infarction दिल का दौरा and was prescribed 20mg Atorvastatin and 5mg Amlodipine daily.,.,O
+6,"The patient underwent Angioplasty due to severe chest pain and was prescribed 5mg Aspirin daily after a cardiac arrest, and her ECG and Blood Test reports were abnormal.",The,O
+6,"The patient underwent Angioplasty due to severe chest pain and was prescribed 5mg Aspirin daily after a cardiac arrest, and her ECG and Blood Test reports were abnormal.",patient,O
+6,"The patient underwent Angioplasty due to severe chest pain and was prescribed 5mg Aspirin daily after a cardiac arrest, and her ECG and Blood Test reports were abnormal.",underwent,O
+6,"The patient underwent Angioplasty due to severe chest pain and was prescribed 5mg Aspirin daily after a cardiac arrest, and her ECG and Blood Test reports were abnormal.",Angioplasty,B-PROCEDURE
+6,"The patient underwent Angioplasty due to severe chest pain and was prescribed 5mg Aspirin daily after a cardiac arrest, and her ECG and Blood Test reports were abnormal.",due,O
+6,"The patient underwent Angioplasty due to severe chest pain and was prescribed 5mg Aspirin daily after a cardiac arrest, and her ECG and Blood Test reports were abnormal.",to,O
+6,"The patient underwent Angioplasty due to severe chest pain and was prescribed 5mg Aspirin daily after a cardiac arrest, and her ECG and Blood Test reports were abnormal.",severe,O
+6,"The patient underwent Angioplasty due to severe chest pain and was prescribed 5mg Aspirin daily after a cardiac arrest, and her ECG and Blood Test reports were abnormal.",chest,B-SYMPTOM
+6,"The patient underwent Angioplasty due to severe chest pain and was prescribed 5mg Aspirin daily after a cardiac arrest, and her ECG and Blood Test reports were abnormal.",pain,I-SYMPTOM
+6,"The patient underwent Angioplasty due to severe chest pain and was prescribed 5mg Aspirin daily after a cardiac arrest, and her ECG and Blood Test reports were abnormal.",and,O
+6,"The patient underwent Angioplasty due to severe chest pain and was prescribed 5mg Aspirin daily after a cardiac arrest, and her ECG and Blood Test reports were abnormal.",was,O
+6,"The patient underwent Angioplasty due to severe chest pain and was prescribed 5mg Aspirin daily after a cardiac arrest, and her ECG and Blood Test reports were abnormal.",prescribed,O
+6,"The patient underwent Angioplasty due to severe chest pain and was prescribed 5mg Aspirin daily after a cardiac arrest, and her ECG and Blood Test reports were abnormal.",5mg,B-DOSAGE
+6,"The patient underwent Angioplasty due to severe chest pain and was prescribed 5mg Aspirin daily after a cardiac arrest, and her ECG and Blood Test reports were abnormal.",Aspirin,B-MEDICATION
+6,"The patient underwent Angioplasty due to severe chest pain and was prescribed 5mg Aspirin daily after a cardiac arrest, and her ECG and Blood Test reports were abnormal.",daily,O
+6,"The patient underwent Angioplasty due to severe chest pain and was prescribed 5mg Aspirin daily after a cardiac arrest, and her ECG and Blood Test reports were abnormal.",after,O
+6,"The patient underwent Angioplasty due to severe chest pain and was prescribed 5mg Aspirin daily after a cardiac arrest, and her ECG and Blood Test reports were abnormal.",a,O
+6,"The patient underwent Angioplasty due to severe chest pain and was prescribed 5mg Aspirin daily after a cardiac arrest, and her ECG and Blood Test reports were abnormal.",cardiac,B-CONDITION
+6,"The patient underwent Angioplasty due to severe chest pain and was prescribed 5mg Aspirin daily after a cardiac arrest, and her ECG and Blood Test reports were abnormal.",arrest,I-CONDITION
+6,"The patient underwent Angioplasty due to severe chest pain and was prescribed 5mg Aspirin daily after a cardiac arrest, and her ECG and Blood Test reports were abnormal.",and,O
+6,"The patient underwent Angioplasty due to severe chest pain and was prescribed 5mg Aspirin daily after a cardiac arrest, and her ECG and Blood Test reports were abnormal.",her,O
+6,"The patient underwent Angioplasty due to severe chest pain and was prescribed 5mg Aspirin daily after a cardiac arrest, and her ECG and Blood Test reports were abnormal.",ECG,B-TEST
+6,"The patient underwent Angioplasty due to severe chest pain and was prescribed 5mg Aspirin daily after a cardiac arrest, and her ECG and Blood Test reports were abnormal.",and,O
+6,"The patient underwent Angioplasty due to severe chest pain and was prescribed 5mg Aspirin daily after a cardiac arrest, and her ECG and Blood Test reports were abnormal.",Blood,B-TEST
+6,"The patient underwent Angioplasty due to severe chest pain and was prescribed 5mg Aspirin daily after a cardiac arrest, and her ECG and Blood Test reports were abnormal.",Test,I-TEST
+6,"The patient underwent Angioplasty due to severe chest pain and was prescribed 5mg Aspirin daily after a cardiac arrest, and her ECG and Blood Test reports were abnormal.",reports,O
+6,"The patient underwent Angioplasty due to severe chest pain and was prescribed 5mg Aspirin daily after a cardiac arrest, and her ECG and Blood Test reports were abnormal.",were,O
+6,"The patient underwent Angioplasty due to severe chest pain and was prescribed 5mg Aspirin daily after a cardiac arrest, and her ECG and Blood Test reports were abnormal.",abnormal,O
+6,"The patient underwent Angioplasty due to severe chest pain and was prescribed 5mg Aspirin daily after a cardiac arrest, and her ECG and Blood Test reports were abnormal.",.,O
+7,The patient undergoing Angioplasty had a history of तेज़ बुखार and was prescribed 20mg of Aspirin daily after a Lipid Profile test showed abnormal results.,The,O
+7,The patient undergoing Angioplasty had a history of तेज़ बुखार and was prescribed 20mg of Aspirin daily after a Lipid Profile test showed abnormal results.,patient,O
+7,The patient undergoing Angioplasty had a history of तेज़ बुखार and was prescribed 20mg of Aspirin daily after a Lipid Profile test showed abnormal results.,undergoing,O
+7,The patient undergoing Angioplasty had a history of तेज़ बुखार and was prescribed 20mg of Aspirin daily after a Lipid Profile test showed abnormal results.,Angioplasty,B-PROCEDURE
+7,The patient undergoing Angioplasty had a history of तेज़ बुखार and was prescribed 20mg of Aspirin daily after a Lipid Profile test showed abnormal results.,had,O
+7,The patient undergoing Angioplasty had a history of तेज़ बुखार and was prescribed 20mg of Aspirin daily after a Lipid Profile test showed abnormal results.,a,O
+7,The patient undergoing Angioplasty had a history of तेज़ बुखार and was prescribed 20mg of Aspirin daily after a Lipid Profile test showed abnormal results.,history,O
+7,The patient undergoing Angioplasty had a history of तेज़ बुखार and was prescribed 20mg of Aspirin daily after a Lipid Profile test showed abnormal results.,of,O
+7,The patient undergoing Angioplasty had a history of तेज़ बुखार and was prescribed 20mg of Aspirin daily after a Lipid Profile test showed abnormal results.,तेज़,B-SYMPTOM
+7,The patient undergoing Angioplasty had a history of तेज़ बुखार and was prescribed 20mg of Aspirin daily after a Lipid Profile test showed abnormal results.,बुखार,I-SYMPTOM
+7,The patient undergoing Angioplasty had a history of तेज़ बुखार and was prescribed 20mg of Aspirin daily after a Lipid Profile test showed abnormal results.,and,O
+7,The patient undergoing Angioplasty had a history of तेज़ बुखार and was prescribed 20mg of Aspirin daily after a Lipid Profile test showed abnormal results.,was,O
+7,The patient undergoing Angioplasty had a history of तेज़ बुखार and was prescribed 20mg of Aspirin daily after a Lipid Profile test showed abnormal results.,prescribed,O
+7,The patient undergoing Angioplasty had a history of तेज़ बुखार and was prescribed 20mg of Aspirin daily after a Lipid Profile test showed abnormal results.,20mg,B-DOSAGE
+7,The patient undergoing Angioplasty had a history of तेज़ बुखार and was prescribed 20mg of Aspirin daily after a Lipid Profile test showed abnormal results.,of,O
+7,The patient undergoing Angioplasty had a history of तेज़ बुखार and was prescribed 20mg of Aspirin daily after a Lipid Profile test showed abnormal results.,Aspirin,B-MEDICATION
+7,The patient undergoing Angioplasty had a history of तेज़ बुखार and was prescribed 20mg of Aspirin daily after a Lipid Profile test showed abnormal results.,daily,O
+7,The patient undergoing Angioplasty had a history of तेज़ बुखार and was prescribed 20mg of Aspirin daily after a Lipid Profile test showed abnormal results.,after,O
+7,The patient undergoing Angioplasty had a history of तेज़ बुखार and was prescribed 20mg of Aspirin daily after a Lipid Profile test showed abnormal results.,a,O
+7,The patient undergoing Angioplasty had a history of तेज़ बुखार and was prescribed 20mg of Aspirin daily after a Lipid Profile test showed abnormal results.,Lipid,B-TEST
+7,The patient undergoing Angioplasty had a history of तेज़ बुखार and was prescribed 20mg of Aspirin daily after a Lipid Profile test showed abnormal results.,Profile,I-TEST
+7,The patient undergoing Angioplasty had a history of तेज़ बुखार and was prescribed 20mg of Aspirin daily after a Lipid Profile test showed abnormal results.,test,I-TEST
+7,The patient undergoing Angioplasty had a history of तेज़ बुखार and was prescribed 20mg of Aspirin daily after a Lipid Profile test showed abnormal results.,showed,O
+7,The patient undergoing Angioplasty had a history of तेज़ बुखार and was prescribed 20mg of Aspirin daily after a Lipid Profile test showed abnormal results.,abnormal,O
+7,The patient undergoing Angioplasty had a history of तेज़ बुखार and was prescribed 20mg of Aspirin daily after a Lipid Profile test showed abnormal results.,results,O
+7,The patient undergoing Angioplasty had a history of तेज़ बुखार and was prescribed 20mg of Aspirin daily after a Lipid Profile test showed abnormal results.,.,O
+8,The patient with chronic kidney disease underwent emergency डायलिसिस after an abnormal Creatinine test and was prescribed 20mg of Lisinopril for high blood pressure.,The,O
+8,The patient with chronic kidney disease underwent emergency डायलिसिस after an abnormal Creatinine test and was prescribed 20mg of Lisinopril for high blood pressure.,patient,O
+8,The patient with chronic kidney disease underwent emergency डायलिसिस after an abnormal Creatinine test and was prescribed 20mg of Lisinopril for high blood pressure.,with,O
+8,The patient with chronic kidney disease underwent emergency डायलिसिस after an abnormal Creatinine test and was prescribed 20mg of Lisinopril for high blood pressure.,chronic,B-CONDITION
+8,The patient with chronic kidney disease underwent emergency डायलिसिस after an abnormal Creatinine test and was prescribed 20mg of Lisinopril for high blood pressure.,kidney,I-CONDITION
+8,The patient with chronic kidney disease underwent emergency डायलिसिस after an abnormal Creatinine test and was prescribed 20mg of Lisinopril for high blood pressure.,disease,I-CONDITION
+8,The patient with chronic kidney disease underwent emergency डायलिसिस after an abnormal Creatinine test and was prescribed 20mg of Lisinopril for high blood pressure.,underwent,O
+8,The patient with chronic kidney disease underwent emergency डायलिसिस after an abnormal Creatinine test and was prescribed 20mg of Lisinopril for high blood pressure.,emergency,O
+8,The patient with chronic kidney disease underwent emergency डायलिसिस after an abnormal Creatinine test and was prescribed 20mg of Lisinopril for high blood pressure.,डायलिसिस,B-PROCEDURE
+8,The patient with chronic kidney disease underwent emergency डायलिसिस after an abnormal Creatinine test and was prescribed 20mg of Lisinopril for high blood pressure.,after,O
+8,The patient with chronic kidney disease underwent emergency डायलिसिस after an abnormal Creatinine test and was prescribed 20mg of Lisinopril for high blood pressure.,an,O
+8,The patient with chronic kidney disease underwent emergency डायलिसिस after an abnormal Creatinine test and was prescribed 20mg of Lisinopril for high blood pressure.,abnormal,O
+8,The patient with chronic kidney disease underwent emergency डायलिसिस after an abnormal Creatinine test and was prescribed 20mg of Lisinopril for high blood pressure.,Creatinine,B-TEST
+8,The patient with chronic kidney disease underwent emergency डायलिसिस after an abnormal Creatinine test and was prescribed 20mg of Lisinopril for high blood pressure.,test,I-TEST
+8,The patient with chronic kidney disease underwent emergency डायलिसिस after an abnormal Creatinine test and was prescribed 20mg of Lisinopril for high blood pressure.,and,O
+8,The patient with chronic kidney disease underwent emergency डायलिसिस after an abnormal Creatinine test and was prescribed 20mg of Lisinopril for high blood pressure.,was,O
+8,The patient with chronic kidney disease underwent emergency डायलिसिस after an abnormal Creatinine test and was prescribed 20mg of Lisinopril for high blood pressure.,prescribed,O
+8,The patient with chronic kidney disease underwent emergency डायलिसिस after an abnormal Creatinine test and was prescribed 20mg of Lisinopril for high blood pressure.,20mg,B-DOSAGE
+8,The patient with chronic kidney disease underwent emergency डायलिसिस after an abnormal Creatinine test and was prescribed 20mg of Lisinopril for high blood pressure.,of,O
+8,The patient with chronic kidney disease underwent emergency डायलिसिस after an abnormal Creatinine test and was prescribed 20mg of Lisinopril for high blood pressure.,Lisinopril,B-MEDICATION
+8,The patient with chronic kidney disease underwent emergency डायलिसिस after an abnormal Creatinine test and was prescribed 20mg of Lisinopril for high blood pressure.,for,O
+8,The patient with chronic kidney disease underwent emergency डायलिसिस after an abnormal Creatinine test and was prescribed 20mg of Lisinopril for high blood pressure.,high,B-SYMPTOM
+8,The patient with chronic kidney disease underwent emergency डायलिसिस after an abnormal Creatinine test and was prescribed 20mg of Lisinopril for high blood pressure.,blood,I-SYMPTOM
+8,The patient with chronic kidney disease underwent emergency डायलिसिस after an abnormal Creatinine test and was prescribed 20mg of Lisinopril for high blood pressure.,pressure,I-SYMPTOM
+8,The patient with chronic kidney disease underwent emergency डायलिसिस after an abnormal Creatinine test and was prescribed 20mg of Lisinopril for high blood pressure.,.,O
+9,The patient underwent an emergency Angioplasty procedure due to severe chest pain and was prescribed 5mg Aspirin daily after a positive Troponin test.,The,O
+9,The patient underwent an emergency Angioplasty procedure due to severe chest pain and was prescribed 5mg Aspirin daily after a positive Troponin test.,patient,O
+9,The patient underwent an emergency Angioplasty procedure due to severe chest pain and was prescribed 5mg Aspirin daily after a positive Troponin test.,underwent,O
+9,The patient underwent an emergency Angioplasty procedure due to severe chest pain and was prescribed 5mg Aspirin daily after a positive Troponin test.,an,O
+9,The patient underwent an emergency Angioplasty procedure due to severe chest pain and was prescribed 5mg Aspirin daily after a positive Troponin test.,emergency,O
+9,The patient underwent an emergency Angioplasty procedure due to severe chest pain and was prescribed 5mg Aspirin daily after a positive Troponin test.,Angioplasty,B-PROCEDURE
+9,The patient underwent an emergency Angioplasty procedure due to severe chest pain and was prescribed 5mg Aspirin daily after a positive Troponin test.,procedure,I-PROCEDURE
+9,The patient underwent an emergency Angioplasty procedure due to severe chest pain and was prescribed 5mg Aspirin daily after a positive Troponin test.,due,O
+9,The patient underwent an emergency Angioplasty procedure due to severe chest pain and was prescribed 5mg Aspirin daily after a positive Troponin test.,to,O
+9,The patient underwent an emergency Angioplasty procedure due to severe chest pain and was prescribed 5mg Aspirin daily after a positive Troponin test.,severe,O
+9,The patient underwent an emergency Angioplasty procedure due to severe chest pain and was prescribed 5mg Aspirin daily after a positive Troponin test.,chest,B-SYMPTOM
+9,The patient underwent an emergency Angioplasty procedure due to severe chest pain and was prescribed 5mg Aspirin daily after a positive Troponin test.,pain,I-SYMPTOM
+9,The patient underwent an emergency Angioplasty procedure due to severe chest pain and was prescribed 5mg Aspirin daily after a positive Troponin test.,and,O
+9,The patient underwent an emergency Angioplasty procedure due to severe chest pain and was prescribed 5mg Aspirin daily after a positive Troponin test.,was,O
+9,The patient underwent an emergency Angioplasty procedure due to severe chest pain and was prescribed 5mg Aspirin daily after a positive Troponin test.,prescribed,O
+9,The patient underwent an emergency Angioplasty procedure due to severe chest pain and was prescribed 5mg Aspirin daily after a positive Troponin test.,5mg,B-DOSAGE
+9,The patient underwent an emergency Angioplasty procedure due to severe chest pain and was prescribed 5mg Aspirin daily after a positive Troponin test.,Aspirin,B-MEDICATION
+9,The patient underwent an emergency Angioplasty procedure due to severe chest pain and was prescribed 5mg Aspirin daily after a positive Troponin test.,daily,B-DOSAGE
+9,The patient underwent an emergency Angioplasty procedure due to severe chest pain and was prescribed 5mg Aspirin daily after a positive Troponin test.,after,O
+9,The patient underwent an emergency Angioplasty procedure due to severe chest pain and was prescribed 5mg Aspirin daily after a positive Troponin test.,a,O
+9,The patient underwent an emergency Angioplasty procedure due to severe chest pain and was prescribed 5mg Aspirin daily after a positive Troponin test.,positive,O
+9,The patient underwent an emergency Angioplasty procedure due to severe chest pain and was prescribed 5mg Aspirin daily after a positive Troponin test.,Troponin,B-TEST
+9,The patient underwent an emergency Angioplasty procedure due to severe chest pain and was prescribed 5mg Aspirin daily after a positive Troponin test.,test,I-TEST
+9,The patient underwent an emergency Angioplasty procedure due to severe chest pain and was prescribed 5mg Aspirin daily after a positive Troponin test.,.,O
+10,The patient underwent an emergency Angioplasty due to severe Chest pain and was prescribed 5mg Aspirin and 10mg Atorvastatin daily after the ECG and Blood Test reports.,The,O
+10,The patient underwent an emergency Angioplasty due to severe Chest pain and was prescribed 5mg Aspirin and 10mg Atorvastatin daily after the ECG and Blood Test reports.,patient,O
+10,The patient underwent an emergency Angioplasty due to severe Chest pain and was prescribed 5mg Aspirin and 10mg Atorvastatin daily after the ECG and Blood Test reports.,underwent,O
+10,The patient underwent an emergency Angioplasty due to severe Chest pain and was prescribed 5mg Aspirin and 10mg Atorvastatin daily after the ECG and Blood Test reports.,an,O
+10,The patient underwent an emergency Angioplasty due to severe Chest pain and was prescribed 5mg Aspirin and 10mg Atorvastatin daily after the ECG and Blood Test reports.,emergency,O
+10,The patient underwent an emergency Angioplasty due to severe Chest pain and was prescribed 5mg Aspirin and 10mg Atorvastatin daily after the ECG and Blood Test reports.,Angioplasty,B-PROCEDURE
+10,The patient underwent an emergency Angioplasty due to severe Chest pain and was prescribed 5mg Aspirin and 10mg Atorvastatin daily after the ECG and Blood Test reports.,due,O
+10,The patient underwent an emergency Angioplasty due to severe Chest pain and was prescribed 5mg Aspirin and 10mg Atorvastatin daily after the ECG and Blood Test reports.,to,O
+10,The patient underwent an emergency Angioplasty due to severe Chest pain and was prescribed 5mg Aspirin and 10mg Atorvastatin daily after the ECG and Blood Test reports.,severe,O
+10,The patient underwent an emergency Angioplasty due to severe Chest pain and was prescribed 5mg Aspirin and 10mg Atorvastatin daily after the ECG and Blood Test reports.,Chest,B-SYMPTOM
+10,The patient underwent an emergency Angioplasty due to severe Chest pain and was prescribed 5mg Aspirin and 10mg Atorvastatin daily after the ECG and Blood Test reports.,pain,I-SYMPTOM
+10,The patient underwent an emergency Angioplasty due to severe Chest pain and was prescribed 5mg Aspirin and 10mg Atorvastatin daily after the ECG and Blood Test reports.,and,O
+10,The patient underwent an emergency Angioplasty due to severe Chest pain and was prescribed 5mg Aspirin and 10mg Atorvastatin daily after the ECG and Blood Test reports.,was,O
+10,The patient underwent an emergency Angioplasty due to severe Chest pain and was prescribed 5mg Aspirin and 10mg Atorvastatin daily after the ECG and Blood Test reports.,prescribed,O
+10,The patient underwent an emergency Angioplasty due to severe Chest pain and was prescribed 5mg Aspirin and 10mg Atorvastatin daily after the ECG and Blood Test reports.,5mg,B-DOSAGE
+10,The patient underwent an emergency Angioplasty due to severe Chest pain and was prescribed 5mg Aspirin and 10mg Atorvastatin daily after the ECG and Blood Test reports.,Aspirin,B-MEDICATION
+10,The patient underwent an emergency Angioplasty due to severe Chest pain and was prescribed 5mg Aspirin and 10mg Atorvastatin daily after the ECG and Blood Test reports.,and,O
+10,The patient underwent an emergency Angioplasty due to severe Chest pain and was prescribed 5mg Aspirin and 10mg Atorvastatin daily after the ECG and Blood Test reports.,10mg,B-DOSAGE
+10,The patient underwent an emergency Angioplasty due to severe Chest pain and was prescribed 5mg Aspirin and 10mg Atorvastatin daily after the ECG and Blood Test reports.,Atorvastatin,B-MEDICATION
+10,The patient underwent an emergency Angioplasty due to severe Chest pain and was prescribed 5mg Aspirin and 10mg Atorvastatin daily after the ECG and Blood Test reports.,daily,O
+10,The patient underwent an emergency Angioplasty due to severe Chest pain and was prescribed 5mg Aspirin and 10mg Atorvastatin daily after the ECG and Blood Test reports.,after,O
+10,The patient underwent an emergency Angioplasty due to severe Chest pain and was prescribed 5mg Aspirin and 10mg Atorvastatin daily after the ECG and Blood Test reports.,the,O
+10,The patient underwent an emergency Angioplasty due to severe Chest pain and was prescribed 5mg Aspirin and 10mg Atorvastatin daily after the ECG and Blood Test reports.,ECG,B-TEST
+10,The patient underwent an emergency Angioplasty due to severe Chest pain and was prescribed 5mg Aspirin and 10mg Atorvastatin daily after the ECG and Blood Test reports.,and,O
+10,The patient underwent an emergency Angioplasty due to severe Chest pain and was prescribed 5mg Aspirin and 10mg Atorvastatin daily after the ECG and Blood Test reports.,Blood,B-TEST
+10,The patient underwent an emergency Angioplasty due to severe Chest pain and was prescribed 5mg Aspirin and 10mg Atorvastatin daily after the ECG and Blood Test reports.,Test,I-TEST
+10,The patient underwent an emergency Angioplasty due to severe Chest pain and was prescribed 5mg Aspirin and 10mg Atorvastatin daily after the ECG and Blood Test reports.,reports,O
+10,The patient underwent an emergency Angioplasty due to severe Chest pain and was prescribed 5mg Aspirin and 10mg Atorvastatin daily after the ECG and Blood Test reports.,.,O
+11,"The patient underwent a Coronary Artery Bypass Grafting procedure due to severe Chest pain and तेज़ बुखार, and was prescribed 20mg Aspirin and 10mg Atorvastatin daily.",The,O
+11,"The patient underwent a Coronary Artery Bypass Grafting procedure due to severe Chest pain and तेज़ बुखार, and was prescribed 20mg Aspirin and 10mg Atorvastatin daily.",patient,O
+11,"The patient underwent a Coronary Artery Bypass Grafting procedure due to severe Chest pain and तेज़ बुखार, and was prescribed 20mg Aspirin and 10mg Atorvastatin daily.",underwent,O
+11,"The patient underwent a Coronary Artery Bypass Grafting procedure due to severe Chest pain and तेज़ बुखार, and was prescribed 20mg Aspirin and 10mg Atorvastatin daily.",a,O
+11,"The patient underwent a Coronary Artery Bypass Grafting procedure due to severe Chest pain and तेज़ बुखार, and was prescribed 20mg Aspirin and 10mg Atorvastatin daily.",Coronary,B-PROCEDURE
+11,"The patient underwent a Coronary Artery Bypass Grafting procedure due to severe Chest pain and तेज़ बुखार, and was prescribed 20mg Aspirin and 10mg Atorvastatin daily.",Artery,I-PROCEDURE
+11,"The patient underwent a Coronary Artery Bypass Grafting procedure due to severe Chest pain and तेज़ बुखार, and was prescribed 20mg Aspirin and 10mg Atorvastatin daily.",Bypass,I-PROCEDURE
+11,"The patient underwent a Coronary Artery Bypass Grafting procedure due to severe Chest pain and तेज़ बुखार, and was prescribed 20mg Aspirin and 10mg Atorvastatin daily.",Grafting,I-PROCEDURE
+11,"The patient underwent a Coronary Artery Bypass Grafting procedure due to severe Chest pain and तेज़ बुखार, and was prescribed 20mg Aspirin and 10mg Atorvastatin daily.",procedure,I-PROCEDURE
+11,"The patient underwent a Coronary Artery Bypass Grafting procedure due to severe Chest pain and तेज़ बुखार, and was prescribed 20mg Aspirin and 10mg Atorvastatin daily.",due,O
+11,"The patient underwent a Coronary Artery Bypass Grafting procedure due to severe Chest pain and तेज़ बुखार, and was prescribed 20mg Aspirin and 10mg Atorvastatin daily.",to,O
+11,"The patient underwent a Coronary Artery Bypass Grafting procedure due to severe Chest pain and तेज़ बुखार, and was prescribed 20mg Aspirin and 10mg Atorvastatin daily.",severe,O
+11,"The patient underwent a Coronary Artery Bypass Grafting procedure due to severe Chest pain and तेज़ बुखार, and was prescribed 20mg Aspirin and 10mg Atorvastatin daily.",Chest,B-SYMPTOM
+11,"The patient underwent a Coronary Artery Bypass Grafting procedure due to severe Chest pain and तेज़ बुखार, and was prescribed 20mg Aspirin and 10mg Atorvastatin daily.",pain,I-SYMPTOM
+11,"The patient underwent a Coronary Artery Bypass Grafting procedure due to severe Chest pain and तेज़ बुखार, and was prescribed 20mg Aspirin and 10mg Atorvastatin daily.",and,O
+11,"The patient underwent a Coronary Artery Bypass Grafting procedure due to severe Chest pain and तेज़ बुखार, and was prescribed 20mg Aspirin and 10mg Atorvastatin daily.",तेज़,B-SYMPTOM
+11,"The patient underwent a Coronary Artery Bypass Grafting procedure due to severe Chest pain and तेज़ बुखार, and was prescribed 20mg Aspirin and 10mg Atorvastatin daily.",बुखार,I-SYMPTOM
+11,"The patient underwent a Coronary Artery Bypass Grafting procedure due to severe Chest pain and तेज़ बुखार, and was prescribed 20mg Aspirin and 10mg Atorvastatin daily.",and,O
+11,"The patient underwent a Coronary Artery Bypass Grafting procedure due to severe Chest pain and तेज़ बुखार, and was prescribed 20mg Aspirin and 10mg Atorvastatin daily.",was,O
+11,"The patient underwent a Coronary Artery Bypass Grafting procedure due to severe Chest pain and तेज़ बुखार, and was prescribed 20mg Aspirin and 10mg Atorvastatin daily.",prescribed,O
+11,"The patient underwent a Coronary Artery Bypass Grafting procedure due to severe Chest pain and तेज़ बुखार, and was prescribed 20mg Aspirin and 10mg Atorvastatin daily.",20mg,B-DOSAGE
+11,"The patient underwent a Coronary Artery Bypass Grafting procedure due to severe Chest pain and तेज़ बुखार, and was prescribed 20mg Aspirin and 10mg Atorvastatin daily.",Aspirin,B-MEDICATION
+11,"The patient underwent a Coronary Artery Bypass Grafting procedure due to severe Chest pain and तेज़ बुखार, and was prescribed 20mg Aspirin and 10mg Atorvastatin daily.",and,O
+11,"The patient underwent a Coronary Artery Bypass Grafting procedure due to severe Chest pain and तेज़ बुखार, and was prescribed 20mg Aspirin and 10mg Atorvastatin daily.",10mg,B-DOSAGE
+11,"The patient underwent a Coronary Artery Bypass Grafting procedure due to severe Chest pain and तेज़ बुखार, and was prescribed 20mg Aspirin and 10mg Atorvastatin daily.",Atorvastatin,B-MEDICATION
+11,"The patient underwent a Coronary Artery Bypass Grafting procedure due to severe Chest pain and तेज़ बुखार, and was prescribed 20mg Aspirin and 10mg Atorvastatin daily.",daily,B-DOSAGE
+11,"The patient underwent a Coronary Artery Bypass Grafting procedure due to severe Chest pain and तेज़ बुखार, and was prescribed 20mg Aspirin and 10mg Atorvastatin daily.",.,O
+12,Patient underwent Angioplasty due to severe chest pain and was prescribed 5mg Aspirin daily for 30 days after a positive Troponin test.,Patient,O
+12,Patient underwent Angioplasty due to severe chest pain and was prescribed 5mg Aspirin daily for 30 days after a positive Troponin test.,underwent,O
+12,Patient underwent Angioplasty due to severe chest pain and was prescribed 5mg Aspirin daily for 30 days after a positive Troponin test.,Angioplasty,B-PROCEDURE
+12,Patient underwent Angioplasty due to severe chest pain and was prescribed 5mg Aspirin daily for 30 days after a positive Troponin test.,due,O
+12,Patient underwent Angioplasty due to severe chest pain and was prescribed 5mg Aspirin daily for 30 days after a positive Troponin test.,to,O
+12,Patient underwent Angioplasty due to severe chest pain and was prescribed 5mg Aspirin daily for 30 days after a positive Troponin test.,severe,O
+12,Patient underwent Angioplasty due to severe chest pain and was prescribed 5mg Aspirin daily for 30 days after a positive Troponin test.,chest,B-SYMPTOM
+12,Patient underwent Angioplasty due to severe chest pain and was prescribed 5mg Aspirin daily for 30 days after a positive Troponin test.,pain,I-SYMPTOM
+12,Patient underwent Angioplasty due to severe chest pain and was prescribed 5mg Aspirin daily for 30 days after a positive Troponin test.,and,O
+12,Patient underwent Angioplasty due to severe chest pain and was prescribed 5mg Aspirin daily for 30 days after a positive Troponin test.,was,O
+12,Patient underwent Angioplasty due to severe chest pain and was prescribed 5mg Aspirin daily for 30 days after a positive Troponin test.,prescribed,O
+12,Patient underwent Angioplasty due to severe chest pain and was prescribed 5mg Aspirin daily for 30 days after a positive Troponin test.,5mg,B-DOSAGE
+12,Patient underwent Angioplasty due to severe chest pain and was prescribed 5mg Aspirin daily for 30 days after a positive Troponin test.,Aspirin,B-MEDICATION
+12,Patient underwent Angioplasty due to severe chest pain and was prescribed 5mg Aspirin daily for 30 days after a positive Troponin test.,daily,O
+12,Patient underwent Angioplasty due to severe chest pain and was prescribed 5mg Aspirin daily for 30 days after a positive Troponin test.,for,O
+12,Patient underwent Angioplasty due to severe chest pain and was prescribed 5mg Aspirin daily for 30 days after a positive Troponin test.,30,B-DOSAGE
+12,Patient underwent Angioplasty due to severe chest pain and was prescribed 5mg Aspirin daily for 30 days after a positive Troponin test.,days,O
+12,Patient underwent Angioplasty due to severe chest pain and was prescribed 5mg Aspirin daily for 30 days after a positive Troponin test.,after,O
+12,Patient underwent Angioplasty due to severe chest pain and was prescribed 5mg Aspirin daily for 30 days after a positive Troponin test.,a,O
+12,Patient underwent Angioplasty due to severe chest pain and was prescribed 5mg Aspirin daily for 30 days after a positive Troponin test.,positive,O
+12,Patient underwent Angioplasty due to severe chest pain and was prescribed 5mg Aspirin daily for 30 days after a positive Troponin test.,Troponin,B-TEST
+12,Patient underwent Angioplasty due to severe chest pain and was prescribed 5mg Aspirin daily for 30 days after a positive Troponin test.,test,I-TEST
+12,Patient underwent Angioplasty due to severe chest pain and was prescribed 5mg Aspirin daily for 30 days after a positive Troponin test.,.,O
+13,The patient underwent emergency Angioplasty due to a severe myocardial infarction and was prescribed 100mg Aspirin and 20mg Atorvastatin daily.,The,O
+13,The patient underwent emergency Angioplasty due to a severe myocardial infarction and was prescribed 100mg Aspirin and 20mg Atorvastatin daily.,patient,O
+13,The patient underwent emergency Angioplasty due to a severe myocardial infarction and was prescribed 100mg Aspirin and 20mg Atorvastatin daily.,underwent,O
+13,The patient underwent emergency Angioplasty due to a severe myocardial infarction and was prescribed 100mg Aspirin and 20mg Atorvastatin daily.,emergency,O
+13,The patient underwent emergency Angioplasty due to a severe myocardial infarction and was prescribed 100mg Aspirin and 20mg Atorvastatin daily.,Angioplasty,B-PROCEDURE
+13,The patient underwent emergency Angioplasty due to a severe myocardial infarction and was prescribed 100mg Aspirin and 20mg Atorvastatin daily.,due,O
+13,The patient underwent emergency Angioplasty due to a severe myocardial infarction and was prescribed 100mg Aspirin and 20mg Atorvastatin daily.,to,O
+13,The patient underwent emergency Angioplasty due to a severe myocardial infarction and was prescribed 100mg Aspirin and 20mg Atorvastatin daily.,a,O
+13,The patient underwent emergency Angioplasty due to a severe myocardial infarction and was prescribed 100mg Aspirin and 20mg Atorvastatin daily.,severe,O
+13,The patient underwent emergency Angioplasty due to a severe myocardial infarction and was prescribed 100mg Aspirin and 20mg Atorvastatin daily.,myocardial,B-CONDITION
+13,The patient underwent emergency Angioplasty due to a severe myocardial infarction and was prescribed 100mg Aspirin and 20mg Atorvastatin daily.,infarction,I-CONDITION
+13,The patient underwent emergency Angioplasty due to a severe myocardial infarction and was prescribed 100mg Aspirin and 20mg Atorvastatin daily.,and,O
+13,The patient underwent emergency Angioplasty due to a severe myocardial infarction and was prescribed 100mg Aspirin and 20mg Atorvastatin daily.,was,O
+13,The patient underwent emergency Angioplasty due to a severe myocardial infarction and was prescribed 100mg Aspirin and 20mg Atorvastatin daily.,prescribed,O
+13,The patient underwent emergency Angioplasty due to a severe myocardial infarction and was prescribed 100mg Aspirin and 20mg Atorvastatin daily.,100mg,B-DOSAGE
+13,The patient underwent emergency Angioplasty due to a severe myocardial infarction and was prescribed 100mg Aspirin and 20mg Atorvastatin daily.,Aspirin,B-MEDICATION
+13,The patient underwent emergency Angioplasty due to a severe myocardial infarction and was prescribed 100mg Aspirin and 20mg Atorvastatin daily.,and,O
+13,The patient underwent emergency Angioplasty due to a severe myocardial infarction and was prescribed 100mg Aspirin and 20mg Atorvastatin daily.,20mg,B-DOSAGE
+13,The patient underwent emergency Angioplasty due to a severe myocardial infarction and was prescribed 100mg Aspirin and 20mg Atorvastatin daily.,Atorvastatin,B-MEDICATION
+13,The patient underwent emergency Angioplasty due to a severe myocardial infarction and was prescribed 100mg Aspirin and 20mg Atorvastatin daily.,daily,O
+13,The patient underwent emergency Angioplasty due to a severe myocardial infarction and was prescribed 100mg Aspirin and 20mg Atorvastatin daily.,.,O
+14,The patient underwent an emergency Angioplasty procedure due to severe chest pain and was prescribed 100mg Aspirin and 200mg Metoprolol to control their high blood pressure.,The,O
+14,The patient underwent an emergency Angioplasty procedure due to severe chest pain and was prescribed 100mg Aspirin and 200mg Metoprolol to control their high blood pressure.,patient,O
+14,The patient underwent an emergency Angioplasty procedure due to severe chest pain and was prescribed 100mg Aspirin and 200mg Metoprolol to control their high blood pressure.,underwent,O
+14,The patient underwent an emergency Angioplasty procedure due to severe chest pain and was prescribed 100mg Aspirin and 200mg Metoprolol to control their high blood pressure.,an,O
+14,The patient underwent an emergency Angioplasty procedure due to severe chest pain and was prescribed 100mg Aspirin and 200mg Metoprolol to control their high blood pressure.,emergency,O
+14,The patient underwent an emergency Angioplasty procedure due to severe chest pain and was prescribed 100mg Aspirin and 200mg Metoprolol to control their high blood pressure.,Angioplasty,B-PROCEDURE
+14,The patient underwent an emergency Angioplasty procedure due to severe chest pain and was prescribed 100mg Aspirin and 200mg Metoprolol to control their high blood pressure.,procedure,I-PROCEDURE
+14,The patient underwent an emergency Angioplasty procedure due to severe chest pain and was prescribed 100mg Aspirin and 200mg Metoprolol to control their high blood pressure.,due,O
+14,The patient underwent an emergency Angioplasty procedure due to severe chest pain and was prescribed 100mg Aspirin and 200mg Metoprolol to control their high blood pressure.,to,O
+14,The patient underwent an emergency Angioplasty procedure due to severe chest pain and was prescribed 100mg Aspirin and 200mg Metoprolol to control their high blood pressure.,severe,O
+14,The patient underwent an emergency Angioplasty procedure due to severe chest pain and was prescribed 100mg Aspirin and 200mg Metoprolol to control their high blood pressure.,chest,B-SYMPTOM
+14,The patient underwent an emergency Angioplasty procedure due to severe chest pain and was prescribed 100mg Aspirin and 200mg Metoprolol to control their high blood pressure.,pain,I-SYMPTOM
+14,The patient underwent an emergency Angioplasty procedure due to severe chest pain and was prescribed 100mg Aspirin and 200mg Metoprolol to control their high blood pressure.,and,O
+14,The patient underwent an emergency Angioplasty procedure due to severe chest pain and was prescribed 100mg Aspirin and 200mg Metoprolol to control their high blood pressure.,was,O
+14,The patient underwent an emergency Angioplasty procedure due to severe chest pain and was prescribed 100mg Aspirin and 200mg Metoprolol to control their high blood pressure.,prescribed,O
+14,The patient underwent an emergency Angioplasty procedure due to severe chest pain and was prescribed 100mg Aspirin and 200mg Metoprolol to control their high blood pressure.,100mg,B-DOSAGE
+14,The patient underwent an emergency Angioplasty procedure due to severe chest pain and was prescribed 100mg Aspirin and 200mg Metoprolol to control their high blood pressure.,Aspirin,B-MEDICATION
+14,The patient underwent an emergency Angioplasty procedure due to severe chest pain and was prescribed 100mg Aspirin and 200mg Metoprolol to control their high blood pressure.,and,O
+14,The patient underwent an emergency Angioplasty procedure due to severe chest pain and was prescribed 100mg Aspirin and 200mg Metoprolol to control their high blood pressure.,200mg,B-DOSAGE
+14,The patient underwent an emergency Angioplasty procedure due to severe chest pain and was prescribed 100mg Aspirin and 200mg Metoprolol to control their high blood pressure.,Metoprolol,B-MEDICATION
+14,The patient underwent an emergency Angioplasty procedure due to severe chest pain and was prescribed 100mg Aspirin and 200mg Metoprolol to control their high blood pressure.,to,O
+14,The patient underwent an emergency Angioplasty procedure due to severe chest pain and was prescribed 100mg Aspirin and 200mg Metoprolol to control their high blood pressure.,control,O
+14,The patient underwent an emergency Angioplasty procedure due to severe chest pain and was prescribed 100mg Aspirin and 200mg Metoprolol to control their high blood pressure.,their,O
+14,The patient underwent an emergency Angioplasty procedure due to severe chest pain and was prescribed 100mg Aspirin and 200mg Metoprolol to control their high blood pressure.,high,B-CONDITION
+14,The patient underwent an emergency Angioplasty procedure due to severe chest pain and was prescribed 100mg Aspirin and 200mg Metoprolol to control their high blood pressure.,blood,I-CONDITION
+14,The patient underwent an emergency Angioplasty procedure due to severe chest pain and was prescribed 100mg Aspirin and 200mg Metoprolol to control their high blood pressure.,pressure,I-CONDITION
+14,The patient underwent an emergency Angioplasty procedure due to severe chest pain and was prescribed 100mg Aspirin and 200mg Metoprolol to control their high blood pressure.,.,O
+15,The patient underwent an emergency Angioplasty due to severe तेज़ छाती दर्द and was prescribed 20mg Aspirin daily after a abnormal Troponin level report.,The,O
+15,The patient underwent an emergency Angioplasty due to severe तेज़ छाती दर्द and was prescribed 20mg Aspirin daily after a abnormal Troponin level report.,patient,O
+15,The patient underwent an emergency Angioplasty due to severe तेज़ छाती दर्द and was prescribed 20mg Aspirin daily after a abnormal Troponin level report.,underwent,O
+15,The patient underwent an emergency Angioplasty due to severe तेज़ छाती दर्द and was prescribed 20mg Aspirin daily after a abnormal Troponin level report.,an,O
+15,The patient underwent an emergency Angioplasty due to severe तेज़ छाती दर्द and was prescribed 20mg Aspirin daily after a abnormal Troponin level report.,emergency,O
+15,The patient underwent an emergency Angioplasty due to severe तेज़ छाती दर्द and was prescribed 20mg Aspirin daily after a abnormal Troponin level report.,Angioplasty,B-PROCEDURE
+15,The patient underwent an emergency Angioplasty due to severe तेज़ छाती दर्द and was prescribed 20mg Aspirin daily after a abnormal Troponin level report.,due,O
+15,The patient underwent an emergency Angioplasty due to severe तेज़ छाती दर्द and was prescribed 20mg Aspirin daily after a abnormal Troponin level report.,to,O
+15,The patient underwent an emergency Angioplasty due to severe तेज़ छाती दर्द and was prescribed 20mg Aspirin daily after a abnormal Troponin level report.,severe,O
+15,The patient underwent an emergency Angioplasty due to severe तेज़ छाती दर्द and was prescribed 20mg Aspirin daily after a abnormal Troponin level report.,तेज़,B-SYMPTOM
+15,The patient underwent an emergency Angioplasty due to severe तेज़ छाती दर्द and was prescribed 20mg Aspirin daily after a abnormal Troponin level report.,छाती,I-SYMPTOM
+15,The patient underwent an emergency Angioplasty due to severe तेज़ छाती दर्द and was prescribed 20mg Aspirin daily after a abnormal Troponin level report.,दर्द,I-SYMPTOM
+15,The patient underwent an emergency Angioplasty due to severe तेज़ छाती दर्द and was prescribed 20mg Aspirin daily after a abnormal Troponin level report.,and,O
+15,The patient underwent an emergency Angioplasty due to severe तेज़ छाती दर्द and was prescribed 20mg Aspirin daily after a abnormal Troponin level report.,was,O
+15,The patient underwent an emergency Angioplasty due to severe तेज़ छाती दर्द and was prescribed 20mg Aspirin daily after a abnormal Troponin level report.,prescribed,O
+15,The patient underwent an emergency Angioplasty due to severe तेज़ छाती दर्द and was prescribed 20mg Aspirin daily after a abnormal Troponin level report.,20mg,B-DOSAGE
+15,The patient underwent an emergency Angioplasty due to severe तेज़ छाती दर्द and was prescribed 20mg Aspirin daily after a abnormal Troponin level report.,Aspirin,B-MEDICATION
+15,The patient underwent an emergency Angioplasty due to severe तेज़ छाती दर्द and was prescribed 20mg Aspirin daily after a abnormal Troponin level report.,daily,O
+15,The patient underwent an emergency Angioplasty due to severe तेज़ छाती दर्द and was prescribed 20mg Aspirin daily after a abnormal Troponin level report.,after,O
+15,The patient underwent an emergency Angioplasty due to severe तेज़ छाती दर्द and was prescribed 20mg Aspirin daily after a abnormal Troponin level report.,a,O
+15,The patient underwent an emergency Angioplasty due to severe तेज़ छाती दर्द and was prescribed 20mg Aspirin daily after a abnormal Troponin level report.,abnormal,O
+15,The patient underwent an emergency Angioplasty due to severe तेज़ छाती दर्द and was prescribed 20mg Aspirin daily after a abnormal Troponin level report.,Troponin,B-TEST
+15,The patient underwent an emergency Angioplasty due to severe तेज़ छाती दर्द and was prescribed 20mg Aspirin daily after a abnormal Troponin level report.,level,I-TEST
+15,The patient underwent an emergency Angioplasty due to severe तेज़ छाती दर्द and was prescribed 20mg Aspirin daily after a abnormal Troponin level report.,report,O
+15,The patient underwent an emergency Angioplasty due to severe तेज़ छाती दर्द and was prescribed 20mg Aspirin daily after a abnormal Troponin level report.,.,O
+16,The patient underwent an emergency Angioplasty procedure due to severe Chest pain and was prescribed 100mg Aspirin and 20mg Atenolol to manage हृदय रोग.,The,O
+16,The patient underwent an emergency Angioplasty procedure due to severe Chest pain and was prescribed 100mg Aspirin and 20mg Atenolol to manage हृदय रोग.,patient,O
+16,The patient underwent an emergency Angioplasty procedure due to severe Chest pain and was prescribed 100mg Aspirin and 20mg Atenolol to manage हृदय रोग.,underwent,O
+16,The patient underwent an emergency Angioplasty procedure due to severe Chest pain and was prescribed 100mg Aspirin and 20mg Atenolol to manage हृदय रोग.,an,O
+16,The patient underwent an emergency Angioplasty procedure due to severe Chest pain and was prescribed 100mg Aspirin and 20mg Atenolol to manage हृदय रोग.,emergency,O
+16,The patient underwent an emergency Angioplasty procedure due to severe Chest pain and was prescribed 100mg Aspirin and 20mg Atenolol to manage हृदय रोग.,Angioplasty,B-PROCEDURE
+16,The patient underwent an emergency Angioplasty procedure due to severe Chest pain and was prescribed 100mg Aspirin and 20mg Atenolol to manage हृदय रोग.,procedure,I-PROCEDURE
+16,The patient underwent an emergency Angioplasty procedure due to severe Chest pain and was prescribed 100mg Aspirin and 20mg Atenolol to manage हृदय रोग.,due,O
+16,The patient underwent an emergency Angioplasty procedure due to severe Chest pain and was prescribed 100mg Aspirin and 20mg Atenolol to manage हृदय रोग.,to,O
+16,The patient underwent an emergency Angioplasty procedure due to severe Chest pain and was prescribed 100mg Aspirin and 20mg Atenolol to manage हृदय रोग.,severe,O
+16,The patient underwent an emergency Angioplasty procedure due to severe Chest pain and was prescribed 100mg Aspirin and 20mg Atenolol to manage हृदय रोग.,Chest,B-SYMPTOM
+16,The patient underwent an emergency Angioplasty procedure due to severe Chest pain and was prescribed 100mg Aspirin and 20mg Atenolol to manage हृदय रोग.,pain,I-SYMPTOM
+16,The patient underwent an emergency Angioplasty procedure due to severe Chest pain and was prescribed 100mg Aspirin and 20mg Atenolol to manage हृदय रोग.,and,O
+16,The patient underwent an emergency Angioplasty procedure due to severe Chest pain and was prescribed 100mg Aspirin and 20mg Atenolol to manage हृदय रोग.,was,O
+16,The patient underwent an emergency Angioplasty procedure due to severe Chest pain and was prescribed 100mg Aspirin and 20mg Atenolol to manage हृदय रोग.,prescribed,O
+16,The patient underwent an emergency Angioplasty procedure due to severe Chest pain and was prescribed 100mg Aspirin and 20mg Atenolol to manage हृदय रोग.,100mg,B-DOSAGE
+16,The patient underwent an emergency Angioplasty procedure due to severe Chest pain and was prescribed 100mg Aspirin and 20mg Atenolol to manage हृदय रोग.,Aspirin,B-MEDICATION
+16,The patient underwent an emergency Angioplasty procedure due to severe Chest pain and was prescribed 100mg Aspirin and 20mg Atenolol to manage हृदय रोग.,and,O
+16,The patient underwent an emergency Angioplasty procedure due to severe Chest pain and was prescribed 100mg Aspirin and 20mg Atenolol to manage हृदय रोग.,20mg,B-DOSAGE
+16,The patient underwent an emergency Angioplasty procedure due to severe Chest pain and was prescribed 100mg Aspirin and 20mg Atenolol to manage हृदय रोग.,Atenolol,B-MEDICATION
+16,The patient underwent an emergency Angioplasty procedure due to severe Chest pain and was prescribed 100mg Aspirin and 20mg Atenolol to manage हृदय रोग.,to,O
+16,The patient underwent an emergency Angioplasty procedure due to severe Chest pain and was prescribed 100mg Aspirin and 20mg Atenolol to manage हृदय रोग.,manage,O
+16,The patient underwent an emergency Angioplasty procedure due to severe Chest pain and was prescribed 100mg Aspirin and 20mg Atenolol to manage हृदय रोग.,हृदय,B-CONDITION
+16,The patient underwent an emergency Angioplasty procedure due to severe Chest pain and was prescribed 100mg Aspirin and 20mg Atenolol to manage हृदय रोग.,रोग,I-CONDITION
+16,The patient underwent an emergency Angioplasty procedure due to severe Chest pain and was prescribed 100mg Aspirin and 20mg Atenolol to manage हृदय रोग.,.,O
+17,"The patient underwent an emergency Angioplasty procedure due to severe chest pain and was prescribed 50mg Aspirin and 20mg Atorvastatin daily for 30 days, but had an allergy to तेज़ Penicillin.",The,O
+17,"The patient underwent an emergency Angioplasty procedure due to severe chest pain and was prescribed 50mg Aspirin and 20mg Atorvastatin daily for 30 days, but had an allergy to तेज़ Penicillin.",patient,O
+17,"The patient underwent an emergency Angioplasty procedure due to severe chest pain and was prescribed 50mg Aspirin and 20mg Atorvastatin daily for 30 days, but had an allergy to तेज़ Penicillin.",underwent,O
+17,"The patient underwent an emergency Angioplasty procedure due to severe chest pain and was prescribed 50mg Aspirin and 20mg Atorvastatin daily for 30 days, but had an allergy to तेज़ Penicillin.",an,O
+17,"The patient underwent an emergency Angioplasty procedure due to severe chest pain and was prescribed 50mg Aspirin and 20mg Atorvastatin daily for 30 days, but had an allergy to तेज़ Penicillin.",emergency,O
+17,"The patient underwent an emergency Angioplasty procedure due to severe chest pain and was prescribed 50mg Aspirin and 20mg Atorvastatin daily for 30 days, but had an allergy to तेज़ Penicillin.",Angioplasty,B-PROCEDURE
+17,"The patient underwent an emergency Angioplasty procedure due to severe chest pain and was prescribed 50mg Aspirin and 20mg Atorvastatin daily for 30 days, but had an allergy to तेज़ Penicillin.",procedure,I-PROCEDURE
+17,"The patient underwent an emergency Angioplasty procedure due to severe chest pain and was prescribed 50mg Aspirin and 20mg Atorvastatin daily for 30 days, but had an allergy to तेज़ Penicillin.",due,O
+17,"The patient underwent an emergency Angioplasty procedure due to severe chest pain and was prescribed 50mg Aspirin and 20mg Atorvastatin daily for 30 days, but had an allergy to तेज़ Penicillin.",to,O
+17,"The patient underwent an emergency Angioplasty procedure due to severe chest pain and was prescribed 50mg Aspirin and 20mg Atorvastatin daily for 30 days, but had an allergy to तेज़ Penicillin.",severe,O
+17,"The patient underwent an emergency Angioplasty procedure due to severe chest pain and was prescribed 50mg Aspirin and 20mg Atorvastatin daily for 30 days, but had an allergy to तेज़ Penicillin.",chest,B-SYMPTOM
+17,"The patient underwent an emergency Angioplasty procedure due to severe chest pain and was prescribed 50mg Aspirin and 20mg Atorvastatin daily for 30 days, but had an allergy to तेज़ Penicillin.",pain,I-SYMPTOM
+17,"The patient underwent an emergency Angioplasty procedure due to severe chest pain and was prescribed 50mg Aspirin and 20mg Atorvastatin daily for 30 days, but had an allergy to तेज़ Penicillin.",and,O
+17,"The patient underwent an emergency Angioplasty procedure due to severe chest pain and was prescribed 50mg Aspirin and 20mg Atorvastatin daily for 30 days, but had an allergy to तेज़ Penicillin.",was,O
+17,"The patient underwent an emergency Angioplasty procedure due to severe chest pain and was prescribed 50mg Aspirin and 20mg Atorvastatin daily for 30 days, but had an allergy to तेज़ Penicillin.",prescribed,O
+17,"The patient underwent an emergency Angioplasty procedure due to severe chest pain and was prescribed 50mg Aspirin and 20mg Atorvastatin daily for 30 days, but had an allergy to तेज़ Penicillin.",50mg,B-DOSAGE
+17,"The patient underwent an emergency Angioplasty procedure due to severe chest pain and was prescribed 50mg Aspirin and 20mg Atorvastatin daily for 30 days, but had an allergy to तेज़ Penicillin.",Aspirin,B-MEDICATION
+17,"The patient underwent an emergency Angioplasty procedure due to severe chest pain and was prescribed 50mg Aspirin and 20mg Atorvastatin daily for 30 days, but had an allergy to तेज़ Penicillin.",and,O
+17,"The patient underwent an emergency Angioplasty procedure due to severe chest pain and was prescribed 50mg Aspirin and 20mg Atorvastatin daily for 30 days, but had an allergy to तेज़ Penicillin.",20mg,B-DOSAGE
+17,"The patient underwent an emergency Angioplasty procedure due to severe chest pain and was prescribed 50mg Aspirin and 20mg Atorvastatin daily for 30 days, but had an allergy to तेज़ Penicillin.",Atorvastatin,B-MEDICATION
+17,"The patient underwent an emergency Angioplasty procedure due to severe chest pain and was prescribed 50mg Aspirin and 20mg Atorvastatin daily for 30 days, but had an allergy to तेज़ Penicillin.",daily,O
+17,"The patient underwent an emergency Angioplasty procedure due to severe chest pain and was prescribed 50mg Aspirin and 20mg Atorvastatin daily for 30 days, but had an allergy to तेज़ Penicillin.",for,O
+17,"The patient underwent an emergency Angioplasty procedure due to severe chest pain and was prescribed 50mg Aspirin and 20mg Atorvastatin daily for 30 days, but had an allergy to तेज़ Penicillin.",30,O
+17,"The patient underwent an emergency Angioplasty procedure due to severe chest pain and was prescribed 50mg Aspirin and 20mg Atorvastatin daily for 30 days, but had an allergy to तेज़ Penicillin.",days,O
+17,"The patient underwent an emergency Angioplasty procedure due to severe chest pain and was prescribed 50mg Aspirin and 20mg Atorvastatin daily for 30 days, but had an allergy to तेज़ Penicillin.",",",O
+17,"The patient underwent an emergency Angioplasty procedure due to severe chest pain and was prescribed 50mg Aspirin and 20mg Atorvastatin daily for 30 days, but had an allergy to तेज़ Penicillin.",but,O
+17,"The patient underwent an emergency Angioplasty procedure due to severe chest pain and was prescribed 50mg Aspirin and 20mg Atorvastatin daily for 30 days, but had an allergy to तेज़ Penicillin.",had,O
+17,"The patient underwent an emergency Angioplasty procedure due to severe chest pain and was prescribed 50mg Aspirin and 20mg Atorvastatin daily for 30 days, but had an allergy to तेज़ Penicillin.",an,O
+17,"The patient underwent an emergency Angioplasty procedure due to severe chest pain and was prescribed 50mg Aspirin and 20mg Atorvastatin daily for 30 days, but had an allergy to तेज़ Penicillin.",allergy,O
+17,"The patient underwent an emergency Angioplasty procedure due to severe chest pain and was prescribed 50mg Aspirin and 20mg Atorvastatin daily for 30 days, but had an allergy to तेज़ Penicillin.",to,O
+17,"The patient underwent an emergency Angioplasty procedure due to severe chest pain and was prescribed 50mg Aspirin and 20mg Atorvastatin daily for 30 days, but had an allergy to तेज़ Penicillin.",तेज़,B-ALLERGEN
+17,"The patient underwent an emergency Angioplasty procedure due to severe chest pain and was prescribed 50mg Aspirin and 20mg Atorvastatin daily for 30 days, but had an allergy to तेज़ Penicillin.",Penicillin,I-ALLERGEN
+18,The patient underwent an emergency Angioplasty procedure due to severe chest pain and was prescribed 100mg Aspirin and 20mg Atorvastatin daily after a Lipid Profile test showed high levels of bad cholesterol.,The,O
+18,The patient underwent an emergency Angioplasty procedure due to severe chest pain and was prescribed 100mg Aspirin and 20mg Atorvastatin daily after a Lipid Profile test showed high levels of bad cholesterol.,patient,O
+18,The patient underwent an emergency Angioplasty procedure due to severe chest pain and was prescribed 100mg Aspirin and 20mg Atorvastatin daily after a Lipid Profile test showed high levels of bad cholesterol.,underwent,O
+18,The patient underwent an emergency Angioplasty procedure due to severe chest pain and was prescribed 100mg Aspirin and 20mg Atorvastatin daily after a Lipid Profile test showed high levels of bad cholesterol.,an,O
+18,The patient underwent an emergency Angioplasty procedure due to severe chest pain and was prescribed 100mg Aspirin and 20mg Atorvastatin daily after a Lipid Profile test showed high levels of bad cholesterol.,emergency,O
+18,The patient underwent an emergency Angioplasty procedure due to severe chest pain and was prescribed 100mg Aspirin and 20mg Atorvastatin daily after a Lipid Profile test showed high levels of bad cholesterol.,Angioplasty,B-PROCEDURE
+18,The patient underwent an emergency Angioplasty procedure due to severe chest pain and was prescribed 100mg Aspirin and 20mg Atorvastatin daily after a Lipid Profile test showed high levels of bad cholesterol.,procedure,I-PROCEDURE
+18,The patient underwent an emergency Angioplasty procedure due to severe chest pain and was prescribed 100mg Aspirin and 20mg Atorvastatin daily after a Lipid Profile test showed high levels of bad cholesterol.,due,O
+18,The patient underwent an emergency Angioplasty procedure due to severe chest pain and was prescribed 100mg Aspirin and 20mg Atorvastatin daily after a Lipid Profile test showed high levels of bad cholesterol.,to,O
+18,The patient underwent an emergency Angioplasty procedure due to severe chest pain and was prescribed 100mg Aspirin and 20mg Atorvastatin daily after a Lipid Profile test showed high levels of bad cholesterol.,severe,O
+18,The patient underwent an emergency Angioplasty procedure due to severe chest pain and was prescribed 100mg Aspirin and 20mg Atorvastatin daily after a Lipid Profile test showed high levels of bad cholesterol.,chest,B-SYMPTOM
+18,The patient underwent an emergency Angioplasty procedure due to severe chest pain and was prescribed 100mg Aspirin and 20mg Atorvastatin daily after a Lipid Profile test showed high levels of bad cholesterol.,pain,I-SYMPTOM
+18,The patient underwent an emergency Angioplasty procedure due to severe chest pain and was prescribed 100mg Aspirin and 20mg Atorvastatin daily after a Lipid Profile test showed high levels of bad cholesterol.,and,O
+18,The patient underwent an emergency Angioplasty procedure due to severe chest pain and was prescribed 100mg Aspirin and 20mg Atorvastatin daily after a Lipid Profile test showed high levels of bad cholesterol.,was,O
+18,The patient underwent an emergency Angioplasty procedure due to severe chest pain and was prescribed 100mg Aspirin and 20mg Atorvastatin daily after a Lipid Profile test showed high levels of bad cholesterol.,prescribed,O
+18,The patient underwent an emergency Angioplasty procedure due to severe chest pain and was prescribed 100mg Aspirin and 20mg Atorvastatin daily after a Lipid Profile test showed high levels of bad cholesterol.,100mg,B-DOSAGE
+18,The patient underwent an emergency Angioplasty procedure due to severe chest pain and was prescribed 100mg Aspirin and 20mg Atorvastatin daily after a Lipid Profile test showed high levels of bad cholesterol.,Aspirin,B-MEDICATION
+18,The patient underwent an emergency Angioplasty procedure due to severe chest pain and was prescribed 100mg Aspirin and 20mg Atorvastatin daily after a Lipid Profile test showed high levels of bad cholesterol.,and,O
+18,The patient underwent an emergency Angioplasty procedure due to severe chest pain and was prescribed 100mg Aspirin and 20mg Atorvastatin daily after a Lipid Profile test showed high levels of bad cholesterol.,20mg,B-DOSAGE
+18,The patient underwent an emergency Angioplasty procedure due to severe chest pain and was prescribed 100mg Aspirin and 20mg Atorvastatin daily after a Lipid Profile test showed high levels of bad cholesterol.,Atorvastatin,B-MEDICATION
+18,The patient underwent an emergency Angioplasty procedure due to severe chest pain and was prescribed 100mg Aspirin and 20mg Atorvastatin daily after a Lipid Profile test showed high levels of bad cholesterol.,daily,B-DOSAGE
+18,The patient underwent an emergency Angioplasty procedure due to severe chest pain and was prescribed 100mg Aspirin and 20mg Atorvastatin daily after a Lipid Profile test showed high levels of bad cholesterol.,after,O
+18,The patient underwent an emergency Angioplasty procedure due to severe chest pain and was prescribed 100mg Aspirin and 20mg Atorvastatin daily after a Lipid Profile test showed high levels of bad cholesterol.,a,O
+18,The patient underwent an emergency Angioplasty procedure due to severe chest pain and was prescribed 100mg Aspirin and 20mg Atorvastatin daily after a Lipid Profile test showed high levels of bad cholesterol.,Lipid,B-TEST
+18,The patient underwent an emergency Angioplasty procedure due to severe chest pain and was prescribed 100mg Aspirin and 20mg Atorvastatin daily after a Lipid Profile test showed high levels of bad cholesterol.,Profile,I-TEST
+18,The patient underwent an emergency Angioplasty procedure due to severe chest pain and was prescribed 100mg Aspirin and 20mg Atorvastatin daily after a Lipid Profile test showed high levels of bad cholesterol.,test,I-TEST
+18,The patient underwent an emergency Angioplasty procedure due to severe chest pain and was prescribed 100mg Aspirin and 20mg Atorvastatin daily after a Lipid Profile test showed high levels of bad cholesterol.,showed,O
+18,The patient underwent an emergency Angioplasty procedure due to severe chest pain and was prescribed 100mg Aspirin and 20mg Atorvastatin daily after a Lipid Profile test showed high levels of bad cholesterol.,high,O
+18,The patient underwent an emergency Angioplasty procedure due to severe chest pain and was prescribed 100mg Aspirin and 20mg Atorvastatin daily after a Lipid Profile test showed high levels of bad cholesterol.,levels,O
+18,The patient underwent an emergency Angioplasty procedure due to severe chest pain and was prescribed 100mg Aspirin and 20mg Atorvastatin daily after a Lipid Profile test showed high levels of bad cholesterol.,of,O
+18,The patient underwent an emergency Angioplasty procedure due to severe chest pain and was prescribed 100mg Aspirin and 20mg Atorvastatin daily after a Lipid Profile test showed high levels of bad cholesterol.,bad,O
+18,The patient underwent an emergency Angioplasty procedure due to severe chest pain and was prescribed 100mg Aspirin and 20mg Atorvastatin daily after a Lipid Profile test showed high levels of bad cholesterol.,cholesterol,O
+18,The patient underwent an emergency Angioplasty procedure due to severe chest pain and was prescribed 100mg Aspirin and 20mg Atorvastatin daily after a Lipid Profile test showed high levels of bad cholesterol.,.,O
+19,"The patient underwent an emergency appendectomy due to severe abdominal pain and तेज़ बुखार, and was prescribed 500mg Ciprofloxacin IV every 12 hours.",The,O
+19,"The patient underwent an emergency appendectomy due to severe abdominal pain and तेज़ बुखार, and was prescribed 500mg Ciprofloxacin IV every 12 hours.",patient,O
+19,"The patient underwent an emergency appendectomy due to severe abdominal pain and तेज़ बुखार, and was prescribed 500mg Ciprofloxacin IV every 12 hours.",underwent,O
+19,"The patient underwent an emergency appendectomy due to severe abdominal pain and तेज़ बुखार, and was prescribed 500mg Ciprofloxacin IV every 12 hours.",an,O
+19,"The patient underwent an emergency appendectomy due to severe abdominal pain and तेज़ बुखार, and was prescribed 500mg Ciprofloxacin IV every 12 hours.",emergency,O
+19,"The patient underwent an emergency appendectomy due to severe abdominal pain and तेज़ बुखार, and was prescribed 500mg Ciprofloxacin IV every 12 hours.",appendectomy,B-PROCEDURE
+19,"The patient underwent an emergency appendectomy due to severe abdominal pain and तेज़ बुखार, and was prescribed 500mg Ciprofloxacin IV every 12 hours.",due,O
+19,"The patient underwent an emergency appendectomy due to severe abdominal pain and तेज़ बुखार, and was prescribed 500mg Ciprofloxacin IV every 12 hours.",to,O
+19,"The patient underwent an emergency appendectomy due to severe abdominal pain and तेज़ बुखार, and was prescribed 500mg Ciprofloxacin IV every 12 hours.",severe,O
+19,"The patient underwent an emergency appendectomy due to severe abdominal pain and तेज़ बुखार, and was prescribed 500mg Ciprofloxacin IV every 12 hours.",abdominal,B-SYMPTOM
+19,"The patient underwent an emergency appendectomy due to severe abdominal pain and तेज़ बुखार, and was prescribed 500mg Ciprofloxacin IV every 12 hours.",pain,I-SYMPTOM
+19,"The patient underwent an emergency appendectomy due to severe abdominal pain and तेज़ बुखार, and was prescribed 500mg Ciprofloxacin IV every 12 hours.",and,O
+19,"The patient underwent an emergency appendectomy due to severe abdominal pain and तेज़ बुखार, and was prescribed 500mg Ciprofloxacin IV every 12 hours.",तेज़,B-SYMPTOM
+19,"The patient underwent an emergency appendectomy due to severe abdominal pain and तेज़ बुखार, and was prescribed 500mg Ciprofloxacin IV every 12 hours.",बुखार,I-SYMPTOM
+19,"The patient underwent an emergency appendectomy due to severe abdominal pain and तेज़ बुखार, and was prescribed 500mg Ciprofloxacin IV every 12 hours.",",",O
+19,"The patient underwent an emergency appendectomy due to severe abdominal pain and तेज़ बुखार, and was prescribed 500mg Ciprofloxacin IV every 12 hours.",and,O
+19,"The patient underwent an emergency appendectomy due to severe abdominal pain and तेज़ बुखार, and was prescribed 500mg Ciprofloxacin IV every 12 hours.",was,O
+19,"The patient underwent an emergency appendectomy due to severe abdominal pain and तेज़ बुखार, and was prescribed 500mg Ciprofloxacin IV every 12 hours.",prescribed,O
+19,"The patient underwent an emergency appendectomy due to severe abdominal pain and तेज़ बुखार, and was prescribed 500mg Ciprofloxacin IV every 12 hours.",500mg,B-DOSAGE
+19,"The patient underwent an emergency appendectomy due to severe abdominal pain and तेज़ बुखार, and was prescribed 500mg Ciprofloxacin IV every 12 hours.",Ciprofloxacin,B-MEDICATION
+19,"The patient underwent an emergency appendectomy due to severe abdominal pain and तेज़ बुखार, and was prescribed 500mg Ciprofloxacin IV every 12 hours.",IV,O
+19,"The patient underwent an emergency appendectomy due to severe abdominal pain and तेज़ बुखार, and was prescribed 500mg Ciprofloxacin IV every 12 hours.",every,O
+19,"The patient underwent an emergency appendectomy due to severe abdominal pain and तेज़ बुखार, and was prescribed 500mg Ciprofloxacin IV every 12 hours.",12,B-DOSAGE
+19,"The patient underwent an emergency appendectomy due to severe abdominal pain and तेज़ बुखार, and was prescribed 500mg Ciprofloxacin IV every 12 hours.",hours,I-DOSAGE
+19,"The patient underwent an emergency appendectomy due to severe abdominal pain and तेज़ बुखार, and was prescribed 500mg Ciprofloxacin IV every 12 hours.",.,O
+20,Patient was diagnosed with stage 4 तेज़ बुखार and prescribed 200mL of Paracetamol syrup after an abnormal Lipid Profile and ECG report.,Patient,O
+20,Patient was diagnosed with stage 4 तेज़ बुखार and prescribed 200mL of Paracetamol syrup after an abnormal Lipid Profile and ECG report.,was,O
+20,Patient was diagnosed with stage 4 तेज़ बुखार and prescribed 200mL of Paracetamol syrup after an abnormal Lipid Profile and ECG report.,diagnosed,O
+20,Patient was diagnosed with stage 4 तेज़ बुखार and prescribed 200mL of Paracetamol syrup after an abnormal Lipid Profile and ECG report.,with,O
+20,Patient was diagnosed with stage 4 तेज़ बुखार and prescribed 200mL of Paracetamol syrup after an abnormal Lipid Profile and ECG report.,stage 4,B-CONDITION
+20,Patient was diagnosed with stage 4 तेज़ बुखार and prescribed 200mL of Paracetamol syrup after an abnormal Lipid Profile and ECG report.,तेज़,B-SYMPTOM
+20,Patient was diagnosed with stage 4 तेज़ बुखार and prescribed 200mL of Paracetamol syrup after an abnormal Lipid Profile and ECG report.,बुखार,I-SYMPTOM
+20,Patient was diagnosed with stage 4 तेज़ बुखार and prescribed 200mL of Paracetamol syrup after an abnormal Lipid Profile and ECG report.,and,O
+20,Patient was diagnosed with stage 4 तेज़ बुखार and prescribed 200mL of Paracetamol syrup after an abnormal Lipid Profile and ECG report.,prescribed,O
+20,Patient was diagnosed with stage 4 तेज़ बुखार and prescribed 200mL of Paracetamol syrup after an abnormal Lipid Profile and ECG report.,200mL,B-DOSAGE
+20,Patient was diagnosed with stage 4 तेज़ बुखार and prescribed 200mL of Paracetamol syrup after an abnormal Lipid Profile and ECG report.,of,O
+20,Patient was diagnosed with stage 4 तेज़ बुखार and prescribed 200mL of Paracetamol syrup after an abnormal Lipid Profile and ECG report.,Paracetamol,B-MEDICATION
+20,Patient was diagnosed with stage 4 तेज़ बुखार and prescribed 200mL of Paracetamol syrup after an abnormal Lipid Profile and ECG report.,syrup,O
+20,Patient was diagnosed with stage 4 तेज़ बुखार and prescribed 200mL of Paracetamol syrup after an abnormal Lipid Profile and ECG report.,after,O
+20,Patient was diagnosed with stage 4 तेज़ बुखार and prescribed 200mL of Paracetamol syrup after an abnormal Lipid Profile and ECG report.,an,O
+20,Patient was diagnosed with stage 4 तेज़ बुखार and prescribed 200mL of Paracetamol syrup after an abnormal Lipid Profile and ECG report.,abnormal,O
+20,Patient was diagnosed with stage 4 तेज़ बुखार and prescribed 200mL of Paracetamol syrup after an abnormal Lipid Profile and ECG report.,Lipid,B-TEST
+20,Patient was diagnosed with stage 4 तेज़ बुखार and prescribed 200mL of Paracetamol syrup after an abnormal Lipid Profile and ECG report.,Profile,I-TEST
+20,Patient was diagnosed with stage 4 तेज़ बुखार and prescribed 200mL of Paracetamol syrup after an abnormal Lipid Profile and ECG report.,and,O
+20,Patient was diagnosed with stage 4 तेज़ बुखार and prescribed 200mL of Paracetamol syrup after an abnormal Lipid Profile and ECG report.,ECG,B-TEST
+20,Patient was diagnosed with stage 4 तेज़ बुखार and prescribed 200mL of Paracetamol syrup after an abnormal Lipid Profile and ECG report.,report,O
+20,Patient was diagnosed with stage 4 तेज़ बुखार and prescribed 200mL of Paracetamol syrup after an abnormal Lipid Profile and ECG report.,.,O
+21,"Patient was diagnosed with acute myocardial infarction and underwent emergency Angioplasty after an abnormal Troponin T test, and was prescribed 100mg Aspirin and 20mg Atorvastatin daily.",Patient,O
+21,"Patient was diagnosed with acute myocardial infarction and underwent emergency Angioplasty after an abnormal Troponin T test, and was prescribed 100mg Aspirin and 20mg Atorvastatin daily.",was,O
+21,"Patient was diagnosed with acute myocardial infarction and underwent emergency Angioplasty after an abnormal Troponin T test, and was prescribed 100mg Aspirin and 20mg Atorvastatin daily.",diagnosed,O
+21,"Patient was diagnosed with acute myocardial infarction and underwent emergency Angioplasty after an abnormal Troponin T test, and was prescribed 100mg Aspirin and 20mg Atorvastatin daily.",with,O
+21,"Patient was diagnosed with acute myocardial infarction and underwent emergency Angioplasty after an abnormal Troponin T test, and was prescribed 100mg Aspirin and 20mg Atorvastatin daily.",acute,B-CONDITION
+21,"Patient was diagnosed with acute myocardial infarction and underwent emergency Angioplasty after an abnormal Troponin T test, and was prescribed 100mg Aspirin and 20mg Atorvastatin daily.",myocardial,I-CONDITION
+21,"Patient was diagnosed with acute myocardial infarction and underwent emergency Angioplasty after an abnormal Troponin T test, and was prescribed 100mg Aspirin and 20mg Atorvastatin daily.",infarction,I-CONDITION
+21,"Patient was diagnosed with acute myocardial infarction and underwent emergency Angioplasty after an abnormal Troponin T test, and was prescribed 100mg Aspirin and 20mg Atorvastatin daily.",and,O
+21,"Patient was diagnosed with acute myocardial infarction and underwent emergency Angioplasty after an abnormal Troponin T test, and was prescribed 100mg Aspirin and 20mg Atorvastatin daily.",underwent,O
+21,"Patient was diagnosed with acute myocardial infarction and underwent emergency Angioplasty after an abnormal Troponin T test, and was prescribed 100mg Aspirin and 20mg Atorvastatin daily.",emergency,O
+21,"Patient was diagnosed with acute myocardial infarction and underwent emergency Angioplasty after an abnormal Troponin T test, and was prescribed 100mg Aspirin and 20mg Atorvastatin daily.",Angioplasty,B-PROCEDURE
+21,"Patient was diagnosed with acute myocardial infarction and underwent emergency Angioplasty after an abnormal Troponin T test, and was prescribed 100mg Aspirin and 20mg Atorvastatin daily.",after,O
+21,"Patient was diagnosed with acute myocardial infarction and underwent emergency Angioplasty after an abnormal Troponin T test, and was prescribed 100mg Aspirin and 20mg Atorvastatin daily.",an,O
+21,"Patient was diagnosed with acute myocardial infarction and underwent emergency Angioplasty after an abnormal Troponin T test, and was prescribed 100mg Aspirin and 20mg Atorvastatin daily.",abnormal,O
+21,"Patient was diagnosed with acute myocardial infarction and underwent emergency Angioplasty after an abnormal Troponin T test, and was prescribed 100mg Aspirin and 20mg Atorvastatin daily.",Troponin,B-TEST
+21,"Patient was diagnosed with acute myocardial infarction and underwent emergency Angioplasty after an abnormal Troponin T test, and was prescribed 100mg Aspirin and 20mg Atorvastatin daily.",T,I-TEST
+21,"Patient was diagnosed with acute myocardial infarction and underwent emergency Angioplasty after an abnormal Troponin T test, and was prescribed 100mg Aspirin and 20mg Atorvastatin daily.",test,I-TEST
+21,"Patient was diagnosed with acute myocardial infarction and underwent emergency Angioplasty after an abnormal Troponin T test, and was prescribed 100mg Aspirin and 20mg Atorvastatin daily.",",",O
+21,"Patient was diagnosed with acute myocardial infarction and underwent emergency Angioplasty after an abnormal Troponin T test, and was prescribed 100mg Aspirin and 20mg Atorvastatin daily.",and,O
+21,"Patient was diagnosed with acute myocardial infarction and underwent emergency Angioplasty after an abnormal Troponin T test, and was prescribed 100mg Aspirin and 20mg Atorvastatin daily.",was,O
+21,"Patient was diagnosed with acute myocardial infarction and underwent emergency Angioplasty after an abnormal Troponin T test, and was prescribed 100mg Aspirin and 20mg Atorvastatin daily.",prescribed,O
+21,"Patient was diagnosed with acute myocardial infarction and underwent emergency Angioplasty after an abnormal Troponin T test, and was prescribed 100mg Aspirin and 20mg Atorvastatin daily.",100mg,B-DOSAGE
+21,"Patient was diagnosed with acute myocardial infarction and underwent emergency Angioplasty after an abnormal Troponin T test, and was prescribed 100mg Aspirin and 20mg Atorvastatin daily.",Aspirin,B-MEDICATION
+21,"Patient was diagnosed with acute myocardial infarction and underwent emergency Angioplasty after an abnormal Troponin T test, and was prescribed 100mg Aspirin and 20mg Atorvastatin daily.",and,O
+21,"Patient was diagnosed with acute myocardial infarction and underwent emergency Angioplasty after an abnormal Troponin T test, and was prescribed 100mg Aspirin and 20mg Atorvastatin daily.",20mg,B-DOSAGE
+21,"Patient was diagnosed with acute myocardial infarction and underwent emergency Angioplasty after an abnormal Troponin T test, and was prescribed 100mg Aspirin and 20mg Atorvastatin daily.",Atorvastatin,B-MEDICATION
+21,"Patient was diagnosed with acute myocardial infarction and underwent emergency Angioplasty after an abnormal Troponin T test, and was prescribed 100mg Aspirin and 20mg Atorvastatin daily.",daily,B-DOSAGE
+21,"Patient was diagnosed with acute myocardial infarction and underwent emergency Angioplasty after an abnormal Troponin T test, and was prescribed 100mg Aspirin and 20mg Atorvastatin daily.",.,O
+22,A patient with chronic kidney disease and मधुमेह underwent a Coronary Artery Bypass Grafting procedure and was prescribed 5mg Amlodipine twice daily after a लिपिड प्रोफाइल test.,A,O
+22,A patient with chronic kidney disease and मधुमेह underwent a Coronary Artery Bypass Grafting procedure and was prescribed 5mg Amlodipine twice daily after a लिपिड प्रोफाइल test.,patient,O
+22,A patient with chronic kidney disease and मधुमेह underwent a Coronary Artery Bypass Grafting procedure and was prescribed 5mg Amlodipine twice daily after a लिपिड प्रोफाइल test.,with,O
+22,A patient with chronic kidney disease and मधुमेह underwent a Coronary Artery Bypass Grafting procedure and was prescribed 5mg Amlodipine twice daily after a लिपिड प्रोफाइल test.,chronic,B-CONDITION
+22,A patient with chronic kidney disease and मधुमेह underwent a Coronary Artery Bypass Grafting procedure and was prescribed 5mg Amlodipine twice daily after a लिपिड प्रोफाइल test.,kidney,I-CONDITION
+22,A patient with chronic kidney disease and मधुमेह underwent a Coronary Artery Bypass Grafting procedure and was prescribed 5mg Amlodipine twice daily after a लिपिड प्रोफाइल test.,disease,I-CONDITION
+22,A patient with chronic kidney disease and मधुमेह underwent a Coronary Artery Bypass Grafting procedure and was prescribed 5mg Amlodipine twice daily after a लिपिड प्रोफाइल test.,and,O
+22,A patient with chronic kidney disease and मधुमेह underwent a Coronary Artery Bypass Grafting procedure and was prescribed 5mg Amlodipine twice daily after a लिपिड प्रोफाइल test.,मधुमेह,B-CONDITION
+22,A patient with chronic kidney disease and मधुमेह underwent a Coronary Artery Bypass Grafting procedure and was prescribed 5mg Amlodipine twice daily after a लिपिड प्रोफाइल test.,underwent,O
+22,A patient with chronic kidney disease and मधुमेह underwent a Coronary Artery Bypass Grafting procedure and was prescribed 5mg Amlodipine twice daily after a लिपिड प्रोफाइल test.,a,O
+22,A patient with chronic kidney disease and मधुमेह underwent a Coronary Artery Bypass Grafting procedure and was prescribed 5mg Amlodipine twice daily after a लिपिड प्रोफाइल test.,Coronary,B-PROCEDURE
+22,A patient with chronic kidney disease and मधुमेह underwent a Coronary Artery Bypass Grafting procedure and was prescribed 5mg Amlodipine twice daily after a लिपिड प्रोफाइल test.,Artery,I-PROCEDURE
+22,A patient with chronic kidney disease and मधुमेह underwent a Coronary Artery Bypass Grafting procedure and was prescribed 5mg Amlodipine twice daily after a लिपिड प्रोफाइल test.,Bypass,I-PROCEDURE
+22,A patient with chronic kidney disease and मधुमेह underwent a Coronary Artery Bypass Grafting procedure and was prescribed 5mg Amlodipine twice daily after a लिपिड प्रोफाइल test.,Grafting,I-PROCEDURE
+22,A patient with chronic kidney disease and मधुमेह underwent a Coronary Artery Bypass Grafting procedure and was prescribed 5mg Amlodipine twice daily after a लिपिड प्रोफाइल test.,procedure,I-PROCEDURE
+22,A patient with chronic kidney disease and मधुमेह underwent a Coronary Artery Bypass Grafting procedure and was prescribed 5mg Amlodipine twice daily after a लिपिड प्रोफाइल test.,and,O
+22,A patient with chronic kidney disease and मधुमेह underwent a Coronary Artery Bypass Grafting procedure and was prescribed 5mg Amlodipine twice daily after a लिपिड प्रोफाइल test.,was,O
+22,A patient with chronic kidney disease and मधुमेह underwent a Coronary Artery Bypass Grafting procedure and was prescribed 5mg Amlodipine twice daily after a लिपिड प्रोफाइल test.,prescribed,O
+22,A patient with chronic kidney disease and मधुमेह underwent a Coronary Artery Bypass Grafting procedure and was prescribed 5mg Amlodipine twice daily after a लिपिड प्रोफाइल test.,5mg,B-DOSAGE
+22,A patient with chronic kidney disease and मधुमेह underwent a Coronary Artery Bypass Grafting procedure and was prescribed 5mg Amlodipine twice daily after a लिपिड प्रोफाइल test.,Amlodipine,B-MEDICATION
+22,A patient with chronic kidney disease and मधुमेह underwent a Coronary Artery Bypass Grafting procedure and was prescribed 5mg Amlodipine twice daily after a लिपिड प्रोफाइल test.,twice,B-DOSAGE
+22,A patient with chronic kidney disease and मधुमेह underwent a Coronary Artery Bypass Grafting procedure and was prescribed 5mg Amlodipine twice daily after a लिपिड प्रोफाइल test.,daily,B-DOSAGE
+22,A patient with chronic kidney disease and मधुमेह underwent a Coronary Artery Bypass Grafting procedure and was prescribed 5mg Amlodipine twice daily after a लिपिड प्रोफाइल test.,after,O
+22,A patient with chronic kidney disease and मधुमेह underwent a Coronary Artery Bypass Grafting procedure and was prescribed 5mg Amlodipine twice daily after a लिपिड प्रोफाइल test.,a,O
+22,A patient with chronic kidney disease and मधुमेह underwent a Coronary Artery Bypass Grafting procedure and was prescribed 5mg Amlodipine twice daily after a लिपिड प्रोफाइल test.,लिपिड,B-TEST
+22,A patient with chronic kidney disease and मधुमेह underwent a Coronary Artery Bypass Grafting procedure and was prescribed 5mg Amlodipine twice daily after a लिपिड प्रोफाइल test.,प्रोफाइल,I-TEST
+22,A patient with chronic kidney disease and मधुमेह underwent a Coronary Artery Bypass Grafting procedure and was prescribed 5mg Amlodipine twice daily after a लिपिड प्रोफाइल test.,test,I-TEST
+22,A patient with chronic kidney disease and मधुमेह underwent a Coronary Artery Bypass Grafting procedure and was prescribed 5mg Amlodipine twice daily after a लिपिड प्रोफाइल test.,.,O
+23,"The patient was diagnosed with stage 4 लिवर सिरोसिस and prescribed 25mg of Spiriva after an abnormal लिपिड प्रोफाइल test, but had an allergy to Penicillin.",The,O
+23,"The patient was diagnosed with stage 4 लिवर सिरोसिस and prescribed 25mg of Spiriva after an abnormal लिपिड प्रोफाइल test, but had an allergy to Penicillin.",patient,O
+23,"The patient was diagnosed with stage 4 लिवर सिरोसिस and prescribed 25mg of Spiriva after an abnormal लिपिड प्रोफाइल test, but had an allergy to Penicillin.",was,O
+23,"The patient was diagnosed with stage 4 लिवर सिरोसिस and prescribed 25mg of Spiriva after an abnormal लिपिड प्रोफाइल test, but had an allergy to Penicillin.",diagnosed,O
+23,"The patient was diagnosed with stage 4 लिवर सिरोसिस and prescribed 25mg of Spiriva after an abnormal लिपिड प्रोफाइल test, but had an allergy to Penicillin.",with,O
+23,"The patient was diagnosed with stage 4 लिवर सिरोसिस and prescribed 25mg of Spiriva after an abnormal लिपिड प्रोफाइल test, but had an allergy to Penicillin.",stage 4,B-CONDITION
+23,"The patient was diagnosed with stage 4 लिवर सिरोसिस and prescribed 25mg of Spiriva after an abnormal लिपिड प्रोफाइल test, but had an allergy to Penicillin.",लिवर सिरोसिस,I-CONDITION
+23,"The patient was diagnosed with stage 4 लिवर सिरोसिस and prescribed 25mg of Spiriva after an abnormal लिपिड प्रोफाइल test, but had an allergy to Penicillin.",and,O
+23,"The patient was diagnosed with stage 4 लिवर सिरोसिस and prescribed 25mg of Spiriva after an abnormal लिपिड प्रोफाइल test, but had an allergy to Penicillin.",prescribed,O
+23,"The patient was diagnosed with stage 4 लिवर सिरोसिस and prescribed 25mg of Spiriva after an abnormal लिपिड प्रोफाइल test, but had an allergy to Penicillin.",25mg,B-DOSAGE
+23,"The patient was diagnosed with stage 4 लिवर सिरोसिस and prescribed 25mg of Spiriva after an abnormal लिपिड प्रोफाइल test, but had an allergy to Penicillin.",of,O
+23,"The patient was diagnosed with stage 4 लिवर सिरोसिस and prescribed 25mg of Spiriva after an abnormal लिपिड प्रोफाइल test, but had an allergy to Penicillin.",Spiriva,B-MEDICATION
+23,"The patient was diagnosed with stage 4 लिवर सिरोसिस and prescribed 25mg of Spiriva after an abnormal लिपिड प्रोफाइल test, but had an allergy to Penicillin.",after,O
+23,"The patient was diagnosed with stage 4 लिवर सिरोसिस and prescribed 25mg of Spiriva after an abnormal लिपिड प्रोफाइल test, but had an allergy to Penicillin.",an,O
+23,"The patient was diagnosed with stage 4 लिवर सिरोसिस and prescribed 25mg of Spiriva after an abnormal लिपिड प्रोफाइल test, but had an allergy to Penicillin.",abnormal,O
+23,"The patient was diagnosed with stage 4 लिवर सिरोसिस and prescribed 25mg of Spiriva after an abnormal लिपिड प्रोफाइल test, but had an allergy to Penicillin.",लिपिड प्रोफाइल,B-TEST
+23,"The patient was diagnosed with stage 4 लिवर सिरोसिस and prescribed 25mg of Spiriva after an abnormal लिपिड प्रोफाइल test, but had an allergy to Penicillin.",test,I-TEST
+23,"The patient was diagnosed with stage 4 लिवर सिरोसिस and prescribed 25mg of Spiriva after an abnormal लिपिड प्रोफाइल test, but had an allergy to Penicillin.",but,O
+23,"The patient was diagnosed with stage 4 लिवर सिरोसिस and prescribed 25mg of Spiriva after an abnormal लिपिड प्रोफाइल test, but had an allergy to Penicillin.",had,O
+23,"The patient was diagnosed with stage 4 लिवर सिरोसिस and prescribed 25mg of Spiriva after an abnormal लिपिड प्रोफाइल test, but had an allergy to Penicillin.",an,O
+23,"The patient was diagnosed with stage 4 लिवर सिरोसिस and prescribed 25mg of Spiriva after an abnormal लिपिड प्रोफाइल test, but had an allergy to Penicillin.",allergy,O
+23,"The patient was diagnosed with stage 4 लिवर सिरोसिस and prescribed 25mg of Spiriva after an abnormal लिपिड प्रोफाइल test, but had an allergy to Penicillin.",to,O
+23,"The patient was diagnosed with stage 4 लिवर सिरोसिस and prescribed 25mg of Spiriva after an abnormal लिपिड प्रोफाइल test, but had an allergy to Penicillin.",Penicillin,B-ALLERGEN
+23,"The patient was diagnosed with stage 4 लिवर सिरोसिस and prescribed 25mg of Spiriva after an abnormal लिपिड प्रोफाइल test, but had an allergy to Penicillin.",.,O
+24,The patient was diagnosed with stage 2 तेज़ बुखार and acute respiratory distress syndrome after a chest X-ray and prescribed 200mg Ceftriaxone twice daily for 7 days.,The,O
+24,The patient was diagnosed with stage 2 तेज़ बुखार and acute respiratory distress syndrome after a chest X-ray and prescribed 200mg Ceftriaxone twice daily for 7 days.,patient,O
+24,The patient was diagnosed with stage 2 तेज़ बुखार and acute respiratory distress syndrome after a chest X-ray and prescribed 200mg Ceftriaxone twice daily for 7 days.,was,O
+24,The patient was diagnosed with stage 2 तेज़ बुखार and acute respiratory distress syndrome after a chest X-ray and prescribed 200mg Ceftriaxone twice daily for 7 days.,diagnosed,O
+24,The patient was diagnosed with stage 2 तेज़ बुखार and acute respiratory distress syndrome after a chest X-ray and prescribed 200mg Ceftriaxone twice daily for 7 days.,with,O
+24,The patient was diagnosed with stage 2 तेज़ बुखार and acute respiratory distress syndrome after a chest X-ray and prescribed 200mg Ceftriaxone twice daily for 7 days.,stage 2,B-CONDITION
+24,The patient was diagnosed with stage 2 तेज़ बुखार and acute respiratory distress syndrome after a chest X-ray and prescribed 200mg Ceftriaxone twice daily for 7 days.,तेज़,B-SYMPTOM
+24,The patient was diagnosed with stage 2 तेज़ बुखार and acute respiratory distress syndrome after a chest X-ray and prescribed 200mg Ceftriaxone twice daily for 7 days.,बुखार,I-SYMPTOM
+24,The patient was diagnosed with stage 2 तेज़ बुखार and acute respiratory distress syndrome after a chest X-ray and prescribed 200mg Ceftriaxone twice daily for 7 days.,and,O
+24,The patient was diagnosed with stage 2 तेज़ बुखार and acute respiratory distress syndrome after a chest X-ray and prescribed 200mg Ceftriaxone twice daily for 7 days.,acute,B-CONDITION
+24,The patient was diagnosed with stage 2 तेज़ बुखार and acute respiratory distress syndrome after a chest X-ray and prescribed 200mg Ceftriaxone twice daily for 7 days.,respiratory,I-CONDITION
+24,The patient was diagnosed with stage 2 तेज़ बुखार and acute respiratory distress syndrome after a chest X-ray and prescribed 200mg Ceftriaxone twice daily for 7 days.,distress,I-CONDITION
+24,The patient was diagnosed with stage 2 तेज़ बुखार and acute respiratory distress syndrome after a chest X-ray and prescribed 200mg Ceftriaxone twice daily for 7 days.,syndrome,I-CONDITION
+24,The patient was diagnosed with stage 2 तेज़ बुखार and acute respiratory distress syndrome after a chest X-ray and prescribed 200mg Ceftriaxone twice daily for 7 days.,after,O
+24,The patient was diagnosed with stage 2 तेज़ बुखार and acute respiratory distress syndrome after a chest X-ray and prescribed 200mg Ceftriaxone twice daily for 7 days.,a,O
+24,The patient was diagnosed with stage 2 तेज़ बुखार and acute respiratory distress syndrome after a chest X-ray and prescribed 200mg Ceftriaxone twice daily for 7 days.,chest,B-TEST
+24,The patient was diagnosed with stage 2 तेज़ बुखार and acute respiratory distress syndrome after a chest X-ray and prescribed 200mg Ceftriaxone twice daily for 7 days.,X-ray,I-TEST
+24,The patient was diagnosed with stage 2 तेज़ बुखार and acute respiratory distress syndrome after a chest X-ray and prescribed 200mg Ceftriaxone twice daily for 7 days.,and,O
+24,The patient was diagnosed with stage 2 तेज़ बुखार and acute respiratory distress syndrome after a chest X-ray and prescribed 200mg Ceftriaxone twice daily for 7 days.,prescribed,O
+24,The patient was diagnosed with stage 2 तेज़ बुखार and acute respiratory distress syndrome after a chest X-ray and prescribed 200mg Ceftriaxone twice daily for 7 days.,200mg,B-DOSAGE
+24,The patient was diagnosed with stage 2 तेज़ बुखार and acute respiratory distress syndrome after a chest X-ray and prescribed 200mg Ceftriaxone twice daily for 7 days.,Ceftriaxone,B-MEDICATION
+24,The patient was diagnosed with stage 2 तेज़ बुखार and acute respiratory distress syndrome after a chest X-ray and prescribed 200mg Ceftriaxone twice daily for 7 days.,twice,B-DOSAGE
+24,The patient was diagnosed with stage 2 तेज़ बुखार and acute respiratory distress syndrome after a chest X-ray and prescribed 200mg Ceftriaxone twice daily for 7 days.,daily,I-DOSAGE
+24,The patient was diagnosed with stage 2 तेज़ बुखार and acute respiratory distress syndrome after a chest X-ray and prescribed 200mg Ceftriaxone twice daily for 7 days.,for,O
+24,The patient was diagnosed with stage 2 तेज़ बुखार and acute respiratory distress syndrome after a chest X-ray and prescribed 200mg Ceftriaxone twice daily for 7 days.,7,B-DOSAGE
+24,The patient was diagnosed with stage 2 तेज़ बुखार and acute respiratory distress syndrome after a chest X-ray and prescribed 200mg Ceftriaxone twice daily for 7 days.,days,I-DOSAGE
+24,The patient was diagnosed with stage 2 तेज़ बुखार and acute respiratory distress syndrome after a chest X-ray and prescribed 200mg Ceftriaxone twice daily for 7 days.,.,O
+25,The patient with तेज़ बुखार and Chest pain underwent an emergency Angioplasty procedure after a critical ECG report and was prescribed 200mg Aspirin and 5mg Atorvastatin.,The,O
+25,The patient with तेज़ बुखार and Chest pain underwent an emergency Angioplasty procedure after a critical ECG report and was prescribed 200mg Aspirin and 5mg Atorvastatin.,patient,O
+25,The patient with तेज़ बुखार and Chest pain underwent an emergency Angioplasty procedure after a critical ECG report and was prescribed 200mg Aspirin and 5mg Atorvastatin.,with,O
+25,The patient with तेज़ बुखार and Chest pain underwent an emergency Angioplasty procedure after a critical ECG report and was prescribed 200mg Aspirin and 5mg Atorvastatin.,तेज़,B-SYMPTOM
+25,The patient with तेज़ बुखार and Chest pain underwent an emergency Angioplasty procedure after a critical ECG report and was prescribed 200mg Aspirin and 5mg Atorvastatin.,बुखार,I-SYMPTOM
+25,The patient with तेज़ बुखार and Chest pain underwent an emergency Angioplasty procedure after a critical ECG report and was prescribed 200mg Aspirin and 5mg Atorvastatin.,and,O
+25,The patient with तेज़ बुखार and Chest pain underwent an emergency Angioplasty procedure after a critical ECG report and was prescribed 200mg Aspirin and 5mg Atorvastatin.,Chest,B-SYMPTOM
+25,The patient with तेज़ बुखार and Chest pain underwent an emergency Angioplasty procedure after a critical ECG report and was prescribed 200mg Aspirin and 5mg Atorvastatin.,pain,I-SYMPTOM
+25,The patient with तेज़ बुखार and Chest pain underwent an emergency Angioplasty procedure after a critical ECG report and was prescribed 200mg Aspirin and 5mg Atorvastatin.,underwent,O
+25,The patient with तेज़ बुखार and Chest pain underwent an emergency Angioplasty procedure after a critical ECG report and was prescribed 200mg Aspirin and 5mg Atorvastatin.,an,O
+25,The patient with तेज़ बुखार and Chest pain underwent an emergency Angioplasty procedure after a critical ECG report and was prescribed 200mg Aspirin and 5mg Atorvastatin.,emergency,O
+25,The patient with तेज़ बुखार and Chest pain underwent an emergency Angioplasty procedure after a critical ECG report and was prescribed 200mg Aspirin and 5mg Atorvastatin.,Angioplasty,B-PROCEDURE
+25,The patient with तेज़ बुखार and Chest pain underwent an emergency Angioplasty procedure after a critical ECG report and was prescribed 200mg Aspirin and 5mg Atorvastatin.,procedure,I-PROCEDURE
+25,The patient with तेज़ बुखार and Chest pain underwent an emergency Angioplasty procedure after a critical ECG report and was prescribed 200mg Aspirin and 5mg Atorvastatin.,after,O
+25,The patient with तेज़ बुखार and Chest pain underwent an emergency Angioplasty procedure after a critical ECG report and was prescribed 200mg Aspirin and 5mg Atorvastatin.,a,O
+25,The patient with तेज़ बुखार and Chest pain underwent an emergency Angioplasty procedure after a critical ECG report and was prescribed 200mg Aspirin and 5mg Atorvastatin.,critical,O
+25,The patient with तेज़ बुखार and Chest pain underwent an emergency Angioplasty procedure after a critical ECG report and was prescribed 200mg Aspirin and 5mg Atorvastatin.,ECG,B-TEST
+25,The patient with तेज़ बुखार and Chest pain underwent an emergency Angioplasty procedure after a critical ECG report and was prescribed 200mg Aspirin and 5mg Atorvastatin.,report,I-TEST
+25,The patient with तेज़ बुखार and Chest pain underwent an emergency Angioplasty procedure after a critical ECG report and was prescribed 200mg Aspirin and 5mg Atorvastatin.,and,O
+25,The patient with तेज़ बुखार and Chest pain underwent an emergency Angioplasty procedure after a critical ECG report and was prescribed 200mg Aspirin and 5mg Atorvastatin.,was,O
+25,The patient with तेज़ बुखार and Chest pain underwent an emergency Angioplasty procedure after a critical ECG report and was prescribed 200mg Aspirin and 5mg Atorvastatin.,prescribed,O
+25,The patient with तेज़ बुखार and Chest pain underwent an emergency Angioplasty procedure after a critical ECG report and was prescribed 200mg Aspirin and 5mg Atorvastatin.,200mg,B-DOSAGE
+25,The patient with तेज़ बुखार and Chest pain underwent an emergency Angioplasty procedure after a critical ECG report and was prescribed 200mg Aspirin and 5mg Atorvastatin.,Aspirin,B-MEDICATION
+25,The patient with तेज़ बुखार and Chest pain underwent an emergency Angioplasty procedure after a critical ECG report and was prescribed 200mg Aspirin and 5mg Atorvastatin.,and,O
+25,The patient with तेज़ बुखार and Chest pain underwent an emergency Angioplasty procedure after a critical ECG report and was prescribed 200mg Aspirin and 5mg Atorvastatin.,5mg,B-DOSAGE
+25,The patient with तेज़ बुखार and Chest pain underwent an emergency Angioplasty procedure after a critical ECG report and was prescribed 200mg Aspirin and 5mg Atorvastatin.,Atorvastatin,B-MEDICATION
+25,The patient with तेज़ बुखार and Chest pain underwent an emergency Angioplasty procedure after a critical ECG report and was prescribed 200mg Aspirin and 5mg Atorvastatin.,.,O
+26,The patient with chronic kidney disease underwent emergency डायलिसिस and was given 200mL of Normal Saline after an abnormal Creatinine level was detected in the ब्लड टेस्ट report.,The,O
+26,The patient with chronic kidney disease underwent emergency डायलिसिस and was given 200mL of Normal Saline after an abnormal Creatinine level was detected in the ब्लड टेस्ट report.,patient,O
+26,The patient with chronic kidney disease underwent emergency डायलिसिस and was given 200mL of Normal Saline after an abnormal Creatinine level was detected in the ब्लड टेस्ट report.,with,O
+26,The patient with chronic kidney disease underwent emergency डायलिसिस and was given 200mL of Normal Saline after an abnormal Creatinine level was detected in the ब्लड टेस्ट report.,chronic,B-CONDITION
+26,The patient with chronic kidney disease underwent emergency डायलिसिस and was given 200mL of Normal Saline after an abnormal Creatinine level was detected in the ब्लड टेस्ट report.,kidney,I-CONDITION
+26,The patient with chronic kidney disease underwent emergency डायलिसिस and was given 200mL of Normal Saline after an abnormal Creatinine level was detected in the ब्लड टेस्ट report.,disease,I-CONDITION
+26,The patient with chronic kidney disease underwent emergency डायलिसिस and was given 200mL of Normal Saline after an abnormal Creatinine level was detected in the ब्लड टेस्ट report.,underwent,O
+26,The patient with chronic kidney disease underwent emergency डायलिसिस and was given 200mL of Normal Saline after an abnormal Creatinine level was detected in the ब्लड टेस्ट report.,emergency,O
+26,The patient with chronic kidney disease underwent emergency डायलिसिस and was given 200mL of Normal Saline after an abnormal Creatinine level was detected in the ब्लड टेस्ट report.,डायलिसिस,B-PROCEDURE
+26,The patient with chronic kidney disease underwent emergency डायलिसिस and was given 200mL of Normal Saline after an abnormal Creatinine level was detected in the ब्लड टेस्ट report.,and,O
+26,The patient with chronic kidney disease underwent emergency डायलिसिस and was given 200mL of Normal Saline after an abnormal Creatinine level was detected in the ब्लड टेस्ट report.,was,O
+26,The patient with chronic kidney disease underwent emergency डायलिसिस and was given 200mL of Normal Saline after an abnormal Creatinine level was detected in the ब्लड टेस्ट report.,given,O
+26,The patient with chronic kidney disease underwent emergency डायलिसिस and was given 200mL of Normal Saline after an abnormal Creatinine level was detected in the ब्लड टेस्ट report.,200mL,B-DOSAGE
+26,The patient with chronic kidney disease underwent emergency डायलिसिस and was given 200mL of Normal Saline after an abnormal Creatinine level was detected in the ब्लड टेस्ट report.,of,O
+26,The patient with chronic kidney disease underwent emergency डायलिसिस and was given 200mL of Normal Saline after an abnormal Creatinine level was detected in the ब्लड टेस्ट report.,Normal,B-MEDICATION
+26,The patient with chronic kidney disease underwent emergency डायलिसिस and was given 200mL of Normal Saline after an abnormal Creatinine level was detected in the ब्लड टेस्ट report.,Saline,I-MEDICATION
+26,The patient with chronic kidney disease underwent emergency डायलिसिस and was given 200mL of Normal Saline after an abnormal Creatinine level was detected in the ब्लड टेस्ट report.,after,O
+26,The patient with chronic kidney disease underwent emergency डायलिसिस and was given 200mL of Normal Saline after an abnormal Creatinine level was detected in the ब्लड टेस्ट report.,an,O
+26,The patient with chronic kidney disease underwent emergency डायलिसिस and was given 200mL of Normal Saline after an abnormal Creatinine level was detected in the ब्लड टेस्ट report.,abnormal,O
+26,The patient with chronic kidney disease underwent emergency डायलिसिस and was given 200mL of Normal Saline after an abnormal Creatinine level was detected in the ब्लड टेस्ट report.,Creatinine,B-TEST
+26,The patient with chronic kidney disease underwent emergency डायलिसिस and was given 200mL of Normal Saline after an abnormal Creatinine level was detected in the ब्लड टेस्ट report.,level,I-TEST
+26,The patient with chronic kidney disease underwent emergency डायलिसिस and was given 200mL of Normal Saline after an abnormal Creatinine level was detected in the ब्लड टेस्ट report.,was,O
+26,The patient with chronic kidney disease underwent emergency डायलिसिस and was given 200mL of Normal Saline after an abnormal Creatinine level was detected in the ब्लड टेस्ट report.,detected,O
+26,The patient with chronic kidney disease underwent emergency डायलिसिस and was given 200mL of Normal Saline after an abnormal Creatinine level was detected in the ब्लड टेस्ट report.,in,O
+26,The patient with chronic kidney disease underwent emergency डायलिसिस and was given 200mL of Normal Saline after an abnormal Creatinine level was detected in the ब्लड टेस्ट report.,the,O
+26,The patient with chronic kidney disease underwent emergency डायलिसिस and was given 200mL of Normal Saline after an abnormal Creatinine level was detected in the ब्लड टेस्ट report.,ब्लड,B-TEST
+26,The patient with chronic kidney disease underwent emergency डायलिसिस and was given 200mL of Normal Saline after an abnormal Creatinine level was detected in the ब्लड टेस्ट report.,टेस्ट,I-TEST
+26,The patient with chronic kidney disease underwent emergency डायलिसिस and was given 200mL of Normal Saline after an abnormal Creatinine level was detected in the ब्लड टेस्ट report.,report,O
+26,The patient with chronic kidney disease underwent emergency डायलिसिस and was given 200mL of Normal Saline after an abnormal Creatinine level was detected in the ब्लड टेस्ट report.,.,O
+27,The patient underwent an emergency Angioplasty procedure due to a severe heart attack and was prescribed 100mg Aspirin and 20mg Atorvastatin daily for the next 30 days.,The,O
+27,The patient underwent an emergency Angioplasty procedure due to a severe heart attack and was prescribed 100mg Aspirin and 20mg Atorvastatin daily for the next 30 days.,patient,O
+27,The patient underwent an emergency Angioplasty procedure due to a severe heart attack and was prescribed 100mg Aspirin and 20mg Atorvastatin daily for the next 30 days.,underwent,O
+27,The patient underwent an emergency Angioplasty procedure due to a severe heart attack and was prescribed 100mg Aspirin and 20mg Atorvastatin daily for the next 30 days.,an,O
+27,The patient underwent an emergency Angioplasty procedure due to a severe heart attack and was prescribed 100mg Aspirin and 20mg Atorvastatin daily for the next 30 days.,emergency,O
+27,The patient underwent an emergency Angioplasty procedure due to a severe heart attack and was prescribed 100mg Aspirin and 20mg Atorvastatin daily for the next 30 days.,Angioplasty,B-PROCEDURE
+27,The patient underwent an emergency Angioplasty procedure due to a severe heart attack and was prescribed 100mg Aspirin and 20mg Atorvastatin daily for the next 30 days.,procedure,I-PROCEDURE
+27,The patient underwent an emergency Angioplasty procedure due to a severe heart attack and was prescribed 100mg Aspirin and 20mg Atorvastatin daily for the next 30 days.,due,O
+27,The patient underwent an emergency Angioplasty procedure due to a severe heart attack and was prescribed 100mg Aspirin and 20mg Atorvastatin daily for the next 30 days.,to,O
+27,The patient underwent an emergency Angioplasty procedure due to a severe heart attack and was prescribed 100mg Aspirin and 20mg Atorvastatin daily for the next 30 days.,a,O
+27,The patient underwent an emergency Angioplasty procedure due to a severe heart attack and was prescribed 100mg Aspirin and 20mg Atorvastatin daily for the next 30 days.,severe,O
+27,The patient underwent an emergency Angioplasty procedure due to a severe heart attack and was prescribed 100mg Aspirin and 20mg Atorvastatin daily for the next 30 days.,heart,B-CONDITION
+27,The patient underwent an emergency Angioplasty procedure due to a severe heart attack and was prescribed 100mg Aspirin and 20mg Atorvastatin daily for the next 30 days.,attack,I-CONDITION
+27,The patient underwent an emergency Angioplasty procedure due to a severe heart attack and was prescribed 100mg Aspirin and 20mg Atorvastatin daily for the next 30 days.,and,O
+27,The patient underwent an emergency Angioplasty procedure due to a severe heart attack and was prescribed 100mg Aspirin and 20mg Atorvastatin daily for the next 30 days.,was,O
+27,The patient underwent an emergency Angioplasty procedure due to a severe heart attack and was prescribed 100mg Aspirin and 20mg Atorvastatin daily for the next 30 days.,prescribed,O
+27,The patient underwent an emergency Angioplasty procedure due to a severe heart attack and was prescribed 100mg Aspirin and 20mg Atorvastatin daily for the next 30 days.,100mg,B-DOSAGE
+27,The patient underwent an emergency Angioplasty procedure due to a severe heart attack and was prescribed 100mg Aspirin and 20mg Atorvastatin daily for the next 30 days.,Aspirin,B-MEDICATION
+27,The patient underwent an emergency Angioplasty procedure due to a severe heart attack and was prescribed 100mg Aspirin and 20mg Atorvastatin daily for the next 30 days.,and,O
+27,The patient underwent an emergency Angioplasty procedure due to a severe heart attack and was prescribed 100mg Aspirin and 20mg Atorvastatin daily for the next 30 days.,20mg,B-DOSAGE
+27,The patient underwent an emergency Angioplasty procedure due to a severe heart attack and was prescribed 100mg Aspirin and 20mg Atorvastatin daily for the next 30 days.,Atorvastatin,B-MEDICATION
+27,The patient underwent an emergency Angioplasty procedure due to a severe heart attack and was prescribed 100mg Aspirin and 20mg Atorvastatin daily for the next 30 days.,daily,O
+27,The patient underwent an emergency Angioplasty procedure due to a severe heart attack and was prescribed 100mg Aspirin and 20mg Atorvastatin daily for the next 30 days.,for,O
+27,The patient underwent an emergency Angioplasty procedure due to a severe heart attack and was prescribed 100mg Aspirin and 20mg Atorvastatin daily for the next 30 days.,the,O
+27,The patient underwent an emergency Angioplasty procedure due to a severe heart attack and was prescribed 100mg Aspirin and 20mg Atorvastatin daily for the next 30 days.,next,O
+27,The patient underwent an emergency Angioplasty procedure due to a severe heart attack and was prescribed 100mg Aspirin and 20mg Atorvastatin daily for the next 30 days.,30,B-DOSAGE
+27,The patient underwent an emergency Angioplasty procedure due to a severe heart attack and was prescribed 100mg Aspirin and 20mg Atorvastatin daily for the next 30 days.,days,O
+27,The patient underwent an emergency Angioplasty procedure due to a severe heart attack and was prescribed 100mg Aspirin and 20mg Atorvastatin daily for the next 30 days.,.,O
+28,The patient with acute myocardial infarction underwent emergency Angioplasty and was prescribed 5mg Aspirin twice daily after a chest X-ray and ECG report showed abnormal results.,The,O
+28,The patient with acute myocardial infarction underwent emergency Angioplasty and was prescribed 5mg Aspirin twice daily after a chest X-ray and ECG report showed abnormal results.,patient,O
+28,The patient with acute myocardial infarction underwent emergency Angioplasty and was prescribed 5mg Aspirin twice daily after a chest X-ray and ECG report showed abnormal results.,with,O
+28,The patient with acute myocardial infarction underwent emergency Angioplasty and was prescribed 5mg Aspirin twice daily after a chest X-ray and ECG report showed abnormal results.,acute,B-CONDITION
+28,The patient with acute myocardial infarction underwent emergency Angioplasty and was prescribed 5mg Aspirin twice daily after a chest X-ray and ECG report showed abnormal results.,myocardial,I-CONDITION
+28,The patient with acute myocardial infarction underwent emergency Angioplasty and was prescribed 5mg Aspirin twice daily after a chest X-ray and ECG report showed abnormal results.,infarction,I-CONDITION
+28,The patient with acute myocardial infarction underwent emergency Angioplasty and was prescribed 5mg Aspirin twice daily after a chest X-ray and ECG report showed abnormal results.,underwent,O
+28,The patient with acute myocardial infarction underwent emergency Angioplasty and was prescribed 5mg Aspirin twice daily after a chest X-ray and ECG report showed abnormal results.,emergency,O
+28,The patient with acute myocardial infarction underwent emergency Angioplasty and was prescribed 5mg Aspirin twice daily after a chest X-ray and ECG report showed abnormal results.,Angioplasty,B-PROCEDURE
+28,The patient with acute myocardial infarction underwent emergency Angioplasty and was prescribed 5mg Aspirin twice daily after a chest X-ray and ECG report showed abnormal results.,and,O
+28,The patient with acute myocardial infarction underwent emergency Angioplasty and was prescribed 5mg Aspirin twice daily after a chest X-ray and ECG report showed abnormal results.,was,O
+28,The patient with acute myocardial infarction underwent emergency Angioplasty and was prescribed 5mg Aspirin twice daily after a chest X-ray and ECG report showed abnormal results.,prescribed,O
+28,The patient with acute myocardial infarction underwent emergency Angioplasty and was prescribed 5mg Aspirin twice daily after a chest X-ray and ECG report showed abnormal results.,5mg,B-DOSAGE
+28,The patient with acute myocardial infarction underwent emergency Angioplasty and was prescribed 5mg Aspirin twice daily after a chest X-ray and ECG report showed abnormal results.,Aspirin,B-MEDICATION
+28,The patient with acute myocardial infarction underwent emergency Angioplasty and was prescribed 5mg Aspirin twice daily after a chest X-ray and ECG report showed abnormal results.,twice,B-DOSAGE
+28,The patient with acute myocardial infarction underwent emergency Angioplasty and was prescribed 5mg Aspirin twice daily after a chest X-ray and ECG report showed abnormal results.,daily,B-DOSAGE
+28,The patient with acute myocardial infarction underwent emergency Angioplasty and was prescribed 5mg Aspirin twice daily after a chest X-ray and ECG report showed abnormal results.,after,O
+28,The patient with acute myocardial infarction underwent emergency Angioplasty and was prescribed 5mg Aspirin twice daily after a chest X-ray and ECG report showed abnormal results.,a,O
+28,The patient with acute myocardial infarction underwent emergency Angioplasty and was prescribed 5mg Aspirin twice daily after a chest X-ray and ECG report showed abnormal results.,chest,B-TEST
+28,The patient with acute myocardial infarction underwent emergency Angioplasty and was prescribed 5mg Aspirin twice daily after a chest X-ray and ECG report showed abnormal results.,X-ray,I-TEST
+28,The patient with acute myocardial infarction underwent emergency Angioplasty and was prescribed 5mg Aspirin twice daily after a chest X-ray and ECG report showed abnormal results.,and,O
+28,The patient with acute myocardial infarction underwent emergency Angioplasty and was prescribed 5mg Aspirin twice daily after a chest X-ray and ECG report showed abnormal results.,ECG,B-TEST
+28,The patient with acute myocardial infarction underwent emergency Angioplasty and was prescribed 5mg Aspirin twice daily after a chest X-ray and ECG report showed abnormal results.,report,O
+28,The patient with acute myocardial infarction underwent emergency Angioplasty and was prescribed 5mg Aspirin twice daily after a chest X-ray and ECG report showed abnormal results.,showed,O
+28,The patient with acute myocardial infarction underwent emergency Angioplasty and was prescribed 5mg Aspirin twice daily after a chest X-ray and ECG report showed abnormal results.,abnormal,O
+28,The patient with acute myocardial infarction underwent emergency Angioplasty and was prescribed 5mg Aspirin twice daily after a chest X-ray and ECG report showed abnormal results.,results,O
+28,The patient with acute myocardial infarction underwent emergency Angioplasty and was prescribed 5mg Aspirin twice daily after a chest X-ray and ECG report showed abnormal results.,.,O
+29,"The patient with stage 2 मधुमेह was prescribed 10 units of Insulin after a high blood sugar reading and abnormal Lipid Profile test, and was advised to undergo an Angioplasty procedure.",The,O
+29,"The patient with stage 2 मधुमेह was prescribed 10 units of Insulin after a high blood sugar reading and abnormal Lipid Profile test, and was advised to undergo an Angioplasty procedure.",patient,O
+29,"The patient with stage 2 मधुमेह was prescribed 10 units of Insulin after a high blood sugar reading and abnormal Lipid Profile test, and was advised to undergo an Angioplasty procedure.",with,O
+29,"The patient with stage 2 मधुमेह was prescribed 10 units of Insulin after a high blood sugar reading and abnormal Lipid Profile test, and was advised to undergo an Angioplasty procedure.",stage 2,B-CONDITION
+29,"The patient with stage 2 मधुमेह was prescribed 10 units of Insulin after a high blood sugar reading and abnormal Lipid Profile test, and was advised to undergo an Angioplasty procedure.",मधुमेह,I-CONDITION
+29,"The patient with stage 2 मधुमेह was prescribed 10 units of Insulin after a high blood sugar reading and abnormal Lipid Profile test, and was advised to undergo an Angioplasty procedure.",was,O
+29,"The patient with stage 2 मधुमेह was prescribed 10 units of Insulin after a high blood sugar reading and abnormal Lipid Profile test, and was advised to undergo an Angioplasty procedure.",prescribed,O
+29,"The patient with stage 2 मधुमेह was prescribed 10 units of Insulin after a high blood sugar reading and abnormal Lipid Profile test, and was advised to undergo an Angioplasty procedure.",10 units,B-DOSAGE
+29,"The patient with stage 2 मधुमेह was prescribed 10 units of Insulin after a high blood sugar reading and abnormal Lipid Profile test, and was advised to undergo an Angioplasty procedure.",of,O
+29,"The patient with stage 2 मधुमेह was prescribed 10 units of Insulin after a high blood sugar reading and abnormal Lipid Profile test, and was advised to undergo an Angioplasty procedure.",Insulin,B-MEDICATION
+29,"The patient with stage 2 मधुमेह was prescribed 10 units of Insulin after a high blood sugar reading and abnormal Lipid Profile test, and was advised to undergo an Angioplasty procedure.",after,O
+29,"The patient with stage 2 मधुमेह was prescribed 10 units of Insulin after a high blood sugar reading and abnormal Lipid Profile test, and was advised to undergo an Angioplasty procedure.",a,O
+29,"The patient with stage 2 मधुमेह was prescribed 10 units of Insulin after a high blood sugar reading and abnormal Lipid Profile test, and was advised to undergo an Angioplasty procedure.",high,B-SYMPTOM
+29,"The patient with stage 2 मधुमेह was prescribed 10 units of Insulin after a high blood sugar reading and abnormal Lipid Profile test, and was advised to undergo an Angioplasty procedure.",blood,I-SYMPTOM
+29,"The patient with stage 2 मधुमेह was prescribed 10 units of Insulin after a high blood sugar reading and abnormal Lipid Profile test, and was advised to undergo an Angioplasty procedure.",sugar,I-SYMPTOM
+29,"The patient with stage 2 मधुमेह was prescribed 10 units of Insulin after a high blood sugar reading and abnormal Lipid Profile test, and was advised to undergo an Angioplasty procedure.",reading,O
+29,"The patient with stage 2 मधुमेह was prescribed 10 units of Insulin after a high blood sugar reading and abnormal Lipid Profile test, and was advised to undergo an Angioplasty procedure.",and,O
+29,"The patient with stage 2 मधुमेह was prescribed 10 units of Insulin after a high blood sugar reading and abnormal Lipid Profile test, and was advised to undergo an Angioplasty procedure.",abnormal,O
+29,"The patient with stage 2 मधुमेह was prescribed 10 units of Insulin after a high blood sugar reading and abnormal Lipid Profile test, and was advised to undergo an Angioplasty procedure.",Lipid Profile,B-TEST
+29,"The patient with stage 2 मधुमेह was prescribed 10 units of Insulin after a high blood sugar reading and abnormal Lipid Profile test, and was advised to undergo an Angioplasty procedure.",test,I-TEST
+29,"The patient with stage 2 मधुमेह was prescribed 10 units of Insulin after a high blood sugar reading and abnormal Lipid Profile test, and was advised to undergo an Angioplasty procedure.",",",O
+29,"The patient with stage 2 मधुमेह was prescribed 10 units of Insulin after a high blood sugar reading and abnormal Lipid Profile test, and was advised to undergo an Angioplasty procedure.",and,O
+29,"The patient with stage 2 मधुमेह was prescribed 10 units of Insulin after a high blood sugar reading and abnormal Lipid Profile test, and was advised to undergo an Angioplasty procedure.",was,O
+29,"The patient with stage 2 मधुमेह was prescribed 10 units of Insulin after a high blood sugar reading and abnormal Lipid Profile test, and was advised to undergo an Angioplasty procedure.",advised,O
+29,"The patient with stage 2 मधुमेह was prescribed 10 units of Insulin after a high blood sugar reading and abnormal Lipid Profile test, and was advised to undergo an Angioplasty procedure.",to,O
+29,"The patient with stage 2 मधुमेह was prescribed 10 units of Insulin after a high blood sugar reading and abnormal Lipid Profile test, and was advised to undergo an Angioplasty procedure.",undergo,O
+29,"The patient with stage 2 मधुमेह was prescribed 10 units of Insulin after a high blood sugar reading and abnormal Lipid Profile test, and was advised to undergo an Angioplasty procedure.",an,O
+29,"The patient with stage 2 मधुमेह was prescribed 10 units of Insulin after a high blood sugar reading and abnormal Lipid Profile test, and was advised to undergo an Angioplasty procedure.",Angioplasty,B-PROCEDURE
+29,"The patient with stage 2 मधुमेह was prescribed 10 units of Insulin after a high blood sugar reading and abnormal Lipid Profile test, and was advised to undergo an Angioplasty procedure.",procedure,I-PROCEDURE
+29,"The patient with stage 2 मधुमेह was prescribed 10 units of Insulin after a high blood sugar reading and abnormal Lipid Profile test, and was advised to undergo an Angioplasty procedure.",.,O

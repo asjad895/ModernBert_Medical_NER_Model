@@ -1,0 +1,918 @@
+sentence_id,text,token,ner_tag
+0,Patient presented with  severe chest pain  and was immediately taken for an urgent angioplasty procedure  using  stent placement.,Patient,O
+0,Patient presented with  severe chest pain  and was immediately taken for an urgent angioplasty procedure  using  stent placement.,presented,O
+0,Patient presented with  severe chest pain  and was immediately taken for an urgent angioplasty procedure  using  stent placement.,with,O
+0,Patient presented with  severe chest pain  and was immediately taken for an urgent angioplasty procedure  using  stent placement.,severe,O
+0,Patient presented with  severe chest pain  and was immediately taken for an urgent angioplasty procedure  using  stent placement.,chest,B-SYMPTOM
+0,Patient presented with  severe chest pain  and was immediately taken for an urgent angioplasty procedure  using  stent placement.,pain,I-SYMPTOM
+0,Patient presented with  severe chest pain  and was immediately taken for an urgent angioplasty procedure  using  stent placement.,and,O
+0,Patient presented with  severe chest pain  and was immediately taken for an urgent angioplasty procedure  using  stent placement.,was,O
+0,Patient presented with  severe chest pain  and was immediately taken for an urgent angioplasty procedure  using  stent placement.,immediately,O
+0,Patient presented with  severe chest pain  and was immediately taken for an urgent angioplasty procedure  using  stent placement.,taken,O
+0,Patient presented with  severe chest pain  and was immediately taken for an urgent angioplasty procedure  using  stent placement.,for,O
+0,Patient presented with  severe chest pain  and was immediately taken for an urgent angioplasty procedure  using  stent placement.,an,O
+0,Patient presented with  severe chest pain  and was immediately taken for an urgent angioplasty procedure  using  stent placement.,urgent,O
+0,Patient presented with  severe chest pain  and was immediately taken for an urgent angioplasty procedure  using  stent placement.,angioplasty,B-PROCEDURE
+0,Patient presented with  severe chest pain  and was immediately taken for an urgent angioplasty procedure  using  stent placement.,procedure,I-PROCEDURE
+0,Patient presented with  severe chest pain  and was immediately taken for an urgent angioplasty procedure  using  stent placement.,using,O
+0,Patient presented with  severe chest pain  and was immediately taken for an urgent angioplasty procedure  using  stent placement.,stent,B-PROCEDURE
+0,Patient presented with  severe chest pain  and was immediately taken for an urgent angioplasty procedure  using  stent placement.,placement,I-PROCEDURE
+0,Patient presented with  severe chest pain  and was immediately taken for an urgent angioplasty procedure  using  stent placement.,.,O
+1,"The patient presented with chest pain and shortness of breath, leading to an emergency cardiac catheterization and angioplasty.",The,O
+1,"The patient presented with chest pain and shortness of breath, leading to an emergency cardiac catheterization and angioplasty.",patient,O
+1,"The patient presented with chest pain and shortness of breath, leading to an emergency cardiac catheterization and angioplasty.",presented,O
+1,"The patient presented with chest pain and shortness of breath, leading to an emergency cardiac catheterization and angioplasty.",with,O
+1,"The patient presented with chest pain and shortness of breath, leading to an emergency cardiac catheterization and angioplasty.",chest,B-SYMPTOM
+1,"The patient presented with chest pain and shortness of breath, leading to an emergency cardiac catheterization and angioplasty.",pain,I-SYMPTOM
+1,"The patient presented with chest pain and shortness of breath, leading to an emergency cardiac catheterization and angioplasty.",and,O
+1,"The patient presented with chest pain and shortness of breath, leading to an emergency cardiac catheterization and angioplasty.",shortness,B-SYMPTOM
+1,"The patient presented with chest pain and shortness of breath, leading to an emergency cardiac catheterization and angioplasty.",of,O
+1,"The patient presented with chest pain and shortness of breath, leading to an emergency cardiac catheterization and angioplasty.",breath,I-SYMPTOM
+1,"The patient presented with chest pain and shortness of breath, leading to an emergency cardiac catheterization and angioplasty.",",",O
+1,"The patient presented with chest pain and shortness of breath, leading to an emergency cardiac catheterization and angioplasty.",leading,O
+1,"The patient presented with chest pain and shortness of breath, leading to an emergency cardiac catheterization and angioplasty.",to,O
+1,"The patient presented with chest pain and shortness of breath, leading to an emergency cardiac catheterization and angioplasty.",an,O
+1,"The patient presented with chest pain and shortness of breath, leading to an emergency cardiac catheterization and angioplasty.",emergency,O
+1,"The patient presented with chest pain and shortness of breath, leading to an emergency cardiac catheterization and angioplasty.",cardiac,B-CONDITION
+1,"The patient presented with chest pain and shortness of breath, leading to an emergency cardiac catheterization and angioplasty.",catheterization,I-PROCEDURE
+1,"The patient presented with chest pain and shortness of breath, leading to an emergency cardiac catheterization and angioplasty.",and,O
+1,"The patient presented with chest pain and shortness of breath, leading to an emergency cardiac catheterization and angioplasty.",angioplasty,I-PROCEDURE
+1,"The patient presented with chest pain and shortness of breath, leading to an emergency cardiac catheterization and angioplasty.",.,O
+2,"The patient presented with chest pain and shortness of breath, requiring immediate cardiac catheterization  due to suspected acute myocardial infarction.",The,O
+2,"The patient presented with chest pain and shortness of breath, requiring immediate cardiac catheterization  due to suspected acute myocardial infarction.",patient,O
+2,"The patient presented with chest pain and shortness of breath, requiring immediate cardiac catheterization  due to suspected acute myocardial infarction.",presented,O
+2,"The patient presented with chest pain and shortness of breath, requiring immediate cardiac catheterization  due to suspected acute myocardial infarction.",with,O
+2,"The patient presented with chest pain and shortness of breath, requiring immediate cardiac catheterization  due to suspected acute myocardial infarction.",chest,O
+2,"The patient presented with chest pain and shortness of breath, requiring immediate cardiac catheterization  due to suspected acute myocardial infarction.",pain,B-SYMPTOM
+2,"The patient presented with chest pain and shortness of breath, requiring immediate cardiac catheterization  due to suspected acute myocardial infarction.",and,O
+2,"The patient presented with chest pain and shortness of breath, requiring immediate cardiac catheterization  due to suspected acute myocardial infarction.",shortness,B-SYMPTOM
+2,"The patient presented with chest pain and shortness of breath, requiring immediate cardiac catheterization  due to suspected acute myocardial infarction.",of,O
+2,"The patient presented with chest pain and shortness of breath, requiring immediate cardiac catheterization  due to suspected acute myocardial infarction.",breath,I-SYMPTOM
+2,"The patient presented with chest pain and shortness of breath, requiring immediate cardiac catheterization  due to suspected acute myocardial infarction.",",",O
+2,"The patient presented with chest pain and shortness of breath, requiring immediate cardiac catheterization  due to suspected acute myocardial infarction.",requiring,O
+2,"The patient presented with chest pain and shortness of breath, requiring immediate cardiac catheterization  due to suspected acute myocardial infarction.",immediate,O
+2,"The patient presented with chest pain and shortness of breath, requiring immediate cardiac catheterization  due to suspected acute myocardial infarction.",cardiac,B-PROCEDURE
+2,"The patient presented with chest pain and shortness of breath, requiring immediate cardiac catheterization  due to suspected acute myocardial infarction.",catheterization,I-PROCEDURE
+2,"The patient presented with chest pain and shortness of breath, requiring immediate cardiac catheterization  due to suspected acute myocardial infarction.", ,O
+2,"The patient presented with chest pain and shortness of breath, requiring immediate cardiac catheterization  due to suspected acute myocardial infarction.",due,O
+2,"The patient presented with chest pain and shortness of breath, requiring immediate cardiac catheterization  due to suspected acute myocardial infarction.",to,O
+2,"The patient presented with chest pain and shortness of breath, requiring immediate cardiac catheterization  due to suspected acute myocardial infarction.",suspected,O
+2,"The patient presented with chest pain and shortness of breath, requiring immediate cardiac catheterization  due to suspected acute myocardial infarction.",acute,B-CONDITION
+2,"The patient presented with chest pain and shortness of breath, requiring immediate cardiac catheterization  due to suspected acute myocardial infarction.",myocardial,I-CONDITION
+2,"The patient presented with chest pain and shortness of breath, requiring immediate cardiac catheterization  due to suspected acute myocardial infarction.",infarction,I-CONDITION
+2,"The patient presented with chest pain and shortness of breath, requiring immediate cardiac catheterization  due to suspected acute myocardial infarction.",.,O
+3,"The patient presented with acute chest pain, shortness of breath and a history of  B-TYPE diabetes. An urgent B-PROCEDURE ECG and blood test were ordered.",The,O
+3,"The patient presented with acute chest pain, shortness of breath and a history of  B-TYPE diabetes. An urgent B-PROCEDURE ECG and blood test were ordered.",patient,O
+3,"The patient presented with acute chest pain, shortness of breath and a history of  B-TYPE diabetes. An urgent B-PROCEDURE ECG and blood test were ordered.",presented,O
+3,"The patient presented with acute chest pain, shortness of breath and a history of  B-TYPE diabetes. An urgent B-PROCEDURE ECG and blood test were ordered.",with,O
+3,"The patient presented with acute chest pain, shortness of breath and a history of  B-TYPE diabetes. An urgent B-PROCEDURE ECG and blood test were ordered.",acute,O
+3,"The patient presented with acute chest pain, shortness of breath and a history of  B-TYPE diabetes. An urgent B-PROCEDURE ECG and blood test were ordered.",chest,B-SYMPTOM
+3,"The patient presented with acute chest pain, shortness of breath and a history of  B-TYPE diabetes. An urgent B-PROCEDURE ECG and blood test were ordered.",pain,I-SYMPTOM
+3,"The patient presented with acute chest pain, shortness of breath and a history of  B-TYPE diabetes. An urgent B-PROCEDURE ECG and blood test were ordered.",",",O
+3,"The patient presented with acute chest pain, shortness of breath and a history of  B-TYPE diabetes. An urgent B-PROCEDURE ECG and blood test were ordered.",shortness,B-SYMPTOM
+3,"The patient presented with acute chest pain, shortness of breath and a history of  B-TYPE diabetes. An urgent B-PROCEDURE ECG and blood test were ordered.",of,O
+3,"The patient presented with acute chest pain, shortness of breath and a history of  B-TYPE diabetes. An urgent B-PROCEDURE ECG and blood test were ordered.",breath,I-SYMPTOM
+3,"The patient presented with acute chest pain, shortness of breath and a history of  B-TYPE diabetes. An urgent B-PROCEDURE ECG and blood test were ordered.",and,O
+3,"The patient presented with acute chest pain, shortness of breath and a history of  B-TYPE diabetes. An urgent B-PROCEDURE ECG and blood test were ordered.",a,O
+3,"The patient presented with acute chest pain, shortness of breath and a history of  B-TYPE diabetes. An urgent B-PROCEDURE ECG and blood test were ordered.",history,O
+3,"The patient presented with acute chest pain, shortness of breath and a history of  B-TYPE diabetes. An urgent B-PROCEDURE ECG and blood test were ordered.",of,O
+3,"The patient presented with acute chest pain, shortness of breath and a history of  B-TYPE diabetes. An urgent B-PROCEDURE ECG and blood test were ordered.",B-TYPE,B-CONDITION
+3,"The patient presented with acute chest pain, shortness of breath and a history of  B-TYPE diabetes. An urgent B-PROCEDURE ECG and blood test were ordered.",diabetes,I-CONDITION
+3,"The patient presented with acute chest pain, shortness of breath and a history of  B-TYPE diabetes. An urgent B-PROCEDURE ECG and blood test were ordered.",.,O
+3,"The patient presented with acute chest pain, shortness of breath and a history of  B-TYPE diabetes. An urgent B-PROCEDURE ECG and blood test were ordered.",An,O
+3,"The patient presented with acute chest pain, shortness of breath and a history of  B-TYPE diabetes. An urgent B-PROCEDURE ECG and blood test were ordered.",urgent,O
+3,"The patient presented with acute chest pain, shortness of breath and a history of  B-TYPE diabetes. An urgent B-PROCEDURE ECG and blood test were ordered.",B-PROCEDURE,B-PROCEDURE
+3,"The patient presented with acute chest pain, shortness of breath and a history of  B-TYPE diabetes. An urgent B-PROCEDURE ECG and blood test were ordered.",ECG,I-PROCEDURE
+3,"The patient presented with acute chest pain, shortness of breath and a history of  B-TYPE diabetes. An urgent B-PROCEDURE ECG and blood test were ordered.",and,O
+3,"The patient presented with acute chest pain, shortness of breath and a history of  B-TYPE diabetes. An urgent B-PROCEDURE ECG and blood test were ordered.",blood,O
+3,"The patient presented with acute chest pain, shortness of breath and a history of  B-TYPE diabetes. An urgent B-PROCEDURE ECG and blood test were ordered.",test,B-TEST
+3,"The patient presented with acute chest pain, shortness of breath and a history of  B-TYPE diabetes. An urgent B-PROCEDURE ECG and blood test were ordered.",were,O
+3,"The patient presented with acute chest pain, shortness of breath and a history of  B-TYPE diabetes. An urgent B-PROCEDURE ECG and blood test were ordered.",ordered,O
+3,"The patient presented with acute chest pain, shortness of breath and a history of  B-TYPE diabetes. An urgent B-PROCEDURE ECG and blood test were ordered.",.,O
+4,"The patient presented with chest pain and shortness of breath, leading to an urgent cardiac catheterization procedure to check for B-ALLERGEN blockages.",The,O
+4,"The patient presented with chest pain and shortness of breath, leading to an urgent cardiac catheterization procedure to check for B-ALLERGEN blockages.",patient,O
+4,"The patient presented with chest pain and shortness of breath, leading to an urgent cardiac catheterization procedure to check for B-ALLERGEN blockages.",presented,O
+4,"The patient presented with chest pain and shortness of breath, leading to an urgent cardiac catheterization procedure to check for B-ALLERGEN blockages.",with,O
+4,"The patient presented with chest pain and shortness of breath, leading to an urgent cardiac catheterization procedure to check for B-ALLERGEN blockages.",chest,B-SYMPTOM
+4,"The patient presented with chest pain and shortness of breath, leading to an urgent cardiac catheterization procedure to check for B-ALLERGEN blockages.",pain,I-SYMPTOM
+4,"The patient presented with chest pain and shortness of breath, leading to an urgent cardiac catheterization procedure to check for B-ALLERGEN blockages.",and,O
+4,"The patient presented with chest pain and shortness of breath, leading to an urgent cardiac catheterization procedure to check for B-ALLERGEN blockages.",shortness,B-SYMPTOM
+4,"The patient presented with chest pain and shortness of breath, leading to an urgent cardiac catheterization procedure to check for B-ALLERGEN blockages.",of,O
+4,"The patient presented with chest pain and shortness of breath, leading to an urgent cardiac catheterization procedure to check for B-ALLERGEN blockages.",breath,I-SYMPTOM
+4,"The patient presented with chest pain and shortness of breath, leading to an urgent cardiac catheterization procedure to check for B-ALLERGEN blockages.",",",O
+4,"The patient presented with chest pain and shortness of breath, leading to an urgent cardiac catheterization procedure to check for B-ALLERGEN blockages.",leading,O
+4,"The patient presented with chest pain and shortness of breath, leading to an urgent cardiac catheterization procedure to check for B-ALLERGEN blockages.",to,O
+4,"The patient presented with chest pain and shortness of breath, leading to an urgent cardiac catheterization procedure to check for B-ALLERGEN blockages.",an,O
+4,"The patient presented with chest pain and shortness of breath, leading to an urgent cardiac catheterization procedure to check for B-ALLERGEN blockages.",urgent,O
+4,"The patient presented with chest pain and shortness of breath, leading to an urgent cardiac catheterization procedure to check for B-ALLERGEN blockages.",cardiac,B-PROCEDURE
+4,"The patient presented with chest pain and shortness of breath, leading to an urgent cardiac catheterization procedure to check for B-ALLERGEN blockages.",catheterization,I-PROCEDURE
+4,"The patient presented with chest pain and shortness of breath, leading to an urgent cardiac catheterization procedure to check for B-ALLERGEN blockages.",procedure,I-PROCEDURE
+4,"The patient presented with chest pain and shortness of breath, leading to an urgent cardiac catheterization procedure to check for B-ALLERGEN blockages.",to,O
+4,"The patient presented with chest pain and shortness of breath, leading to an urgent cardiac catheterization procedure to check for B-ALLERGEN blockages.",check,O
+4,"The patient presented with chest pain and shortness of breath, leading to an urgent cardiac catheterization procedure to check for B-ALLERGEN blockages.",for,O
+4,"The patient presented with chest pain and shortness of breath, leading to an urgent cardiac catheterization procedure to check for B-ALLERGEN blockages.",B-ALLERGEN,B-ALLERGEN
+4,"The patient presented with chest pain and shortness of breath, leading to an urgent cardiac catheterization procedure to check for B-ALLERGEN blockages.",blockages,O
+4,"The patient presented with chest pain and shortness of breath, leading to an urgent cardiac catheterization procedure to check for B-ALLERGEN blockages.",.,O
+5,"Patient presented with chest pain and difficulty breathing; an immediate ECG showed signs of myocardial infarction, prompting urgent angioplasty and stent placement.",Patient,O
+5,"Patient presented with chest pain and difficulty breathing; an immediate ECG showed signs of myocardial infarction, prompting urgent angioplasty and stent placement.",presented,O
+5,"Patient presented with chest pain and difficulty breathing; an immediate ECG showed signs of myocardial infarction, prompting urgent angioplasty and stent placement.",with,O
+5,"Patient presented with chest pain and difficulty breathing; an immediate ECG showed signs of myocardial infarction, prompting urgent angioplasty and stent placement.",chest,B-SYMPTOM
+5,"Patient presented with chest pain and difficulty breathing; an immediate ECG showed signs of myocardial infarction, prompting urgent angioplasty and stent placement.",pain,I-SYMPTOM
+5,"Patient presented with chest pain and difficulty breathing; an immediate ECG showed signs of myocardial infarction, prompting urgent angioplasty and stent placement.",and,O
+5,"Patient presented with chest pain and difficulty breathing; an immediate ECG showed signs of myocardial infarction, prompting urgent angioplasty and stent placement.",difficulty,B-SYMPTOM
+5,"Patient presented with chest pain and difficulty breathing; an immediate ECG showed signs of myocardial infarction, prompting urgent angioplasty and stent placement.",breathing,I-SYMPTOM
+5,"Patient presented with chest pain and difficulty breathing; an immediate ECG showed signs of myocardial infarction, prompting urgent angioplasty and stent placement.",;,O
+5,"Patient presented with chest pain and difficulty breathing; an immediate ECG showed signs of myocardial infarction, prompting urgent angioplasty and stent placement.",an,O
+5,"Patient presented with chest pain and difficulty breathing; an immediate ECG showed signs of myocardial infarction, prompting urgent angioplasty and stent placement.",immediate,O
+5,"Patient presented with chest pain and difficulty breathing; an immediate ECG showed signs of myocardial infarction, prompting urgent angioplasty and stent placement.",ECG,B-PROCEDURE
+5,"Patient presented with chest pain and difficulty breathing; an immediate ECG showed signs of myocardial infarction, prompting urgent angioplasty and stent placement.",showed,O
+5,"Patient presented with chest pain and difficulty breathing; an immediate ECG showed signs of myocardial infarction, prompting urgent angioplasty and stent placement.",signs,O
+5,"Patient presented with chest pain and difficulty breathing; an immediate ECG showed signs of myocardial infarction, prompting urgent angioplasty and stent placement.",of,O
+5,"Patient presented with chest pain and difficulty breathing; an immediate ECG showed signs of myocardial infarction, prompting urgent angioplasty and stent placement.",myocardial,B-CONDITION
+5,"Patient presented with chest pain and difficulty breathing; an immediate ECG showed signs of myocardial infarction, prompting urgent angioplasty and stent placement.",infarction,I-CONDITION
+5,"Patient presented with chest pain and difficulty breathing; an immediate ECG showed signs of myocardial infarction, prompting urgent angioplasty and stent placement.",",",O
+5,"Patient presented with chest pain and difficulty breathing; an immediate ECG showed signs of myocardial infarction, prompting urgent angioplasty and stent placement.",prompting,O
+5,"Patient presented with chest pain and difficulty breathing; an immediate ECG showed signs of myocardial infarction, prompting urgent angioplasty and stent placement.",urgent,O
+5,"Patient presented with chest pain and difficulty breathing; an immediate ECG showed signs of myocardial infarction, prompting urgent angioplasty and stent placement.",angioplasty,B-PROCEDURE
+5,"Patient presented with chest pain and difficulty breathing; an immediate ECG showed signs of myocardial infarction, prompting urgent angioplasty and stent placement.",and,O
+5,"Patient presented with chest pain and difficulty breathing; an immediate ECG showed signs of myocardial infarction, prompting urgent angioplasty and stent placement.",stent,B-PROCEDURE
+5,"Patient presented with chest pain and difficulty breathing; an immediate ECG showed signs of myocardial infarction, prompting urgent angioplasty and stent placement.",placement,I-PROCEDURE
+5,"Patient presented with chest pain and difficulty breathing; an immediate ECG showed signs of myocardial infarction, prompting urgent angioplasty and stent placement.",.,O
+6,"The patient presented with chest pain B-SYMPTOM and shortness of breath B-SYMPTOM  ,  leading to an emergency room visit  for a suspected cardiac event.",The,O
+6,"The patient presented with chest pain B-SYMPTOM and shortness of breath B-SYMPTOM  ,  leading to an emergency room visit  for a suspected cardiac event.",patient,O
+6,"The patient presented with chest pain B-SYMPTOM and shortness of breath B-SYMPTOM  ,  leading to an emergency room visit  for a suspected cardiac event.",presented,O
+6,"The patient presented with chest pain B-SYMPTOM and shortness of breath B-SYMPTOM  ,  leading to an emergency room visit  for a suspected cardiac event.",with,O
+6,"The patient presented with chest pain B-SYMPTOM and shortness of breath B-SYMPTOM  ,  leading to an emergency room visit  for a suspected cardiac event.",chest,O
+6,"The patient presented with chest pain B-SYMPTOM and shortness of breath B-SYMPTOM  ,  leading to an emergency room visit  for a suspected cardiac event.",pain,B-SYMPTOM
+6,"The patient presented with chest pain B-SYMPTOM and shortness of breath B-SYMPTOM  ,  leading to an emergency room visit  for a suspected cardiac event.",and,O
+6,"The patient presented with chest pain B-SYMPTOM and shortness of breath B-SYMPTOM  ,  leading to an emergency room visit  for a suspected cardiac event.",shortness,O
+6,"The patient presented with chest pain B-SYMPTOM and shortness of breath B-SYMPTOM  ,  leading to an emergency room visit  for a suspected cardiac event.",of,O
+6,"The patient presented with chest pain B-SYMPTOM and shortness of breath B-SYMPTOM  ,  leading to an emergency room visit  for a suspected cardiac event.",breath,B-SYMPTOM
+6,"The patient presented with chest pain B-SYMPTOM and shortness of breath B-SYMPTOM  ,  leading to an emergency room visit  for a suspected cardiac event.",",",O
+6,"The patient presented with chest pain B-SYMPTOM and shortness of breath B-SYMPTOM  ,  leading to an emergency room visit  for a suspected cardiac event.",leading,O
+6,"The patient presented with chest pain B-SYMPTOM and shortness of breath B-SYMPTOM  ,  leading to an emergency room visit  for a suspected cardiac event.",to,O
+6,"The patient presented with chest pain B-SYMPTOM and shortness of breath B-SYMPTOM  ,  leading to an emergency room visit  for a suspected cardiac event.",an,O
+6,"The patient presented with chest pain B-SYMPTOM and shortness of breath B-SYMPTOM  ,  leading to an emergency room visit  for a suspected cardiac event.",emergency,O
+6,"The patient presented with chest pain B-SYMPTOM and shortness of breath B-SYMPTOM  ,  leading to an emergency room visit  for a suspected cardiac event.",room,O
+6,"The patient presented with chest pain B-SYMPTOM and shortness of breath B-SYMPTOM  ,  leading to an emergency room visit  for a suspected cardiac event.",visit,O
+6,"The patient presented with chest pain B-SYMPTOM and shortness of breath B-SYMPTOM  ,  leading to an emergency room visit  for a suspected cardiac event.",for,O
+6,"The patient presented with chest pain B-SYMPTOM and shortness of breath B-SYMPTOM  ,  leading to an emergency room visit  for a suspected cardiac event.",a,O
+6,"The patient presented with chest pain B-SYMPTOM and shortness of breath B-SYMPTOM  ,  leading to an emergency room visit  for a suspected cardiac event.",suspected,O
+6,"The patient presented with chest pain B-SYMPTOM and shortness of breath B-SYMPTOM  ,  leading to an emergency room visit  for a suspected cardiac event.",cardiac,B-CONDITION
+6,"The patient presented with chest pain B-SYMPTOM and shortness of breath B-SYMPTOM  ,  leading to an emergency room visit  for a suspected cardiac event.",event,I-CONDITION
+6,"The patient presented with chest pain B-SYMPTOM and shortness of breath B-SYMPTOM  ,  leading to an emergency room visit  for a suspected cardiac event.",.,O
+7,"The patient's chest pain, B-SYMPTOM, worsened after a B-PROCEDURE angiography and  high blood pressure, B-CONDITION, prompted an emergency B-PROCEDURE cardiac catheterization.",The,O
+7,"The patient's chest pain, B-SYMPTOM, worsened after a B-PROCEDURE angiography and  high blood pressure, B-CONDITION, prompted an emergency B-PROCEDURE cardiac catheterization.",patient's,O
+7,"The patient's chest pain, B-SYMPTOM, worsened after a B-PROCEDURE angiography and  high blood pressure, B-CONDITION, prompted an emergency B-PROCEDURE cardiac catheterization.",chest,B-SYMPTOM
+7,"The patient's chest pain, B-SYMPTOM, worsened after a B-PROCEDURE angiography and  high blood pressure, B-CONDITION, prompted an emergency B-PROCEDURE cardiac catheterization.",pain,I-SYMPTOM
+7,"The patient's chest pain, B-SYMPTOM, worsened after a B-PROCEDURE angiography and  high blood pressure, B-CONDITION, prompted an emergency B-PROCEDURE cardiac catheterization.",",",O
+7,"The patient's chest pain, B-SYMPTOM, worsened after a B-PROCEDURE angiography and  high blood pressure, B-CONDITION, prompted an emergency B-PROCEDURE cardiac catheterization.",worsened,O
+7,"The patient's chest pain, B-SYMPTOM, worsened after a B-PROCEDURE angiography and  high blood pressure, B-CONDITION, prompted an emergency B-PROCEDURE cardiac catheterization.",after,O
+7,"The patient's chest pain, B-SYMPTOM, worsened after a B-PROCEDURE angiography and  high blood pressure, B-CONDITION, prompted an emergency B-PROCEDURE cardiac catheterization.",a,O
+7,"The patient's chest pain, B-SYMPTOM, worsened after a B-PROCEDURE angiography and  high blood pressure, B-CONDITION, prompted an emergency B-PROCEDURE cardiac catheterization.",B-PROCEDURE,B-PROCEDURE
+7,"The patient's chest pain, B-SYMPTOM, worsened after a B-PROCEDURE angiography and  high blood pressure, B-CONDITION, prompted an emergency B-PROCEDURE cardiac catheterization.",angiography,I-PROCEDURE
+7,"The patient's chest pain, B-SYMPTOM, worsened after a B-PROCEDURE angiography and  high blood pressure, B-CONDITION, prompted an emergency B-PROCEDURE cardiac catheterization.",and,O
+7,"The patient's chest pain, B-SYMPTOM, worsened after a B-PROCEDURE angiography and  high blood pressure, B-CONDITION, prompted an emergency B-PROCEDURE cardiac catheterization.",high,O
+7,"The patient's chest pain, B-SYMPTOM, worsened after a B-PROCEDURE angiography and  high blood pressure, B-CONDITION, prompted an emergency B-PROCEDURE cardiac catheterization.",blood,O
+7,"The patient's chest pain, B-SYMPTOM, worsened after a B-PROCEDURE angiography and  high blood pressure, B-CONDITION, prompted an emergency B-PROCEDURE cardiac catheterization.",pressure,B-CONDITION
+7,"The patient's chest pain, B-SYMPTOM, worsened after a B-PROCEDURE angiography and  high blood pressure, B-CONDITION, prompted an emergency B-PROCEDURE cardiac catheterization.",",",O
+7,"The patient's chest pain, B-SYMPTOM, worsened after a B-PROCEDURE angiography and  high blood pressure, B-CONDITION, prompted an emergency B-PROCEDURE cardiac catheterization.",prompt,O
+7,"The patient's chest pain, B-SYMPTOM, worsened after a B-PROCEDURE angiography and  high blood pressure, B-CONDITION, prompted an emergency B-PROCEDURE cardiac catheterization.",an,O
+7,"The patient's chest pain, B-SYMPTOM, worsened after a B-PROCEDURE angiography and  high blood pressure, B-CONDITION, prompted an emergency B-PROCEDURE cardiac catheterization.",emergency,O
+7,"The patient's chest pain, B-SYMPTOM, worsened after a B-PROCEDURE angiography and  high blood pressure, B-CONDITION, prompted an emergency B-PROCEDURE cardiac catheterization.",B-PROCEDURE,B-PROCEDURE
+7,"The patient's chest pain, B-SYMPTOM, worsened after a B-PROCEDURE angiography and  high blood pressure, B-CONDITION, prompted an emergency B-PROCEDURE cardiac catheterization.",cardiac,O
+7,"The patient's chest pain, B-SYMPTOM, worsened after a B-PROCEDURE angiography and  high blood pressure, B-CONDITION, prompted an emergency B-PROCEDURE cardiac catheterization.",catheterization,I-PROCEDURE
+7,"The patient's chest pain, B-SYMPTOM, worsened after a B-PROCEDURE angiography and  high blood pressure, B-CONDITION, prompted an emergency B-PROCEDURE cardiac catheterization.",.,O
+8,Patient presented with acute chest pain and underwent an emergent coronary angioplasty procedure.,Patient,O
+8,Patient presented with acute chest pain and underwent an emergent coronary angioplasty procedure.,presented,O
+8,Patient presented with acute chest pain and underwent an emergent coronary angioplasty procedure.,with,O
+8,Patient presented with acute chest pain and underwent an emergent coronary angioplasty procedure.,acute,B-CONDITION
+8,Patient presented with acute chest pain and underwent an emergent coronary angioplasty procedure.,chest,O
+8,Patient presented with acute chest pain and underwent an emergent coronary angioplasty procedure.,pain,B-SYMPTOM
+8,Patient presented with acute chest pain and underwent an emergent coronary angioplasty procedure.,and,O
+8,Patient presented with acute chest pain and underwent an emergent coronary angioplasty procedure.,underwent,O
+8,Patient presented with acute chest pain and underwent an emergent coronary angioplasty procedure.,an,O
+8,Patient presented with acute chest pain and underwent an emergent coronary angioplasty procedure.,emergent,B-PROCEDURE
+8,Patient presented with acute chest pain and underwent an emergent coronary angioplasty procedure.,coronary,I-PROCEDURE
+8,Patient presented with acute chest pain and underwent an emergent coronary angioplasty procedure.,angioplasty,I-PROCEDURE
+8,Patient presented with acute chest pain and underwent an emergent coronary angioplasty procedure.,procedure,I-PROCEDURE
+8,Patient presented with acute chest pain and underwent an emergent coronary angioplasty procedure.,.,O
+9,"The patient complained of chest pain and shortness of breath, requiring immediate hospitalization and a cardiac catheterization procedure to assess for acute myocardial infarction.",The,O
+9,"The patient complained of chest pain and shortness of breath, requiring immediate hospitalization and a cardiac catheterization procedure to assess for acute myocardial infarction.",patient,O
+9,"The patient complained of chest pain and shortness of breath, requiring immediate hospitalization and a cardiac catheterization procedure to assess for acute myocardial infarction.",complained,O
+9,"The patient complained of chest pain and shortness of breath, requiring immediate hospitalization and a cardiac catheterization procedure to assess for acute myocardial infarction.",of,O
+9,"The patient complained of chest pain and shortness of breath, requiring immediate hospitalization and a cardiac catheterization procedure to assess for acute myocardial infarction.",chest,O
+9,"The patient complained of chest pain and shortness of breath, requiring immediate hospitalization and a cardiac catheterization procedure to assess for acute myocardial infarction.",pain,B-SYMPTOM
+9,"The patient complained of chest pain and shortness of breath, requiring immediate hospitalization and a cardiac catheterization procedure to assess for acute myocardial infarction.",and,O
+9,"The patient complained of chest pain and shortness of breath, requiring immediate hospitalization and a cardiac catheterization procedure to assess for acute myocardial infarction.",shortness,O
+9,"The patient complained of chest pain and shortness of breath, requiring immediate hospitalization and a cardiac catheterization procedure to assess for acute myocardial infarction.",of,O
+9,"The patient complained of chest pain and shortness of breath, requiring immediate hospitalization and a cardiac catheterization procedure to assess for acute myocardial infarction.",breath,B-SYMPTOM
+9,"The patient complained of chest pain and shortness of breath, requiring immediate hospitalization and a cardiac catheterization procedure to assess for acute myocardial infarction.",",",O
+9,"The patient complained of chest pain and shortness of breath, requiring immediate hospitalization and a cardiac catheterization procedure to assess for acute myocardial infarction.",requiring,O
+9,"The patient complained of chest pain and shortness of breath, requiring immediate hospitalization and a cardiac catheterization procedure to assess for acute myocardial infarction.",immediate,O
+9,"The patient complained of chest pain and shortness of breath, requiring immediate hospitalization and a cardiac catheterization procedure to assess for acute myocardial infarction.",hospitalization,B-PROCEDURE
+9,"The patient complained of chest pain and shortness of breath, requiring immediate hospitalization and a cardiac catheterization procedure to assess for acute myocardial infarction.",and,O
+9,"The patient complained of chest pain and shortness of breath, requiring immediate hospitalization and a cardiac catheterization procedure to assess for acute myocardial infarction.",a,O
+9,"The patient complained of chest pain and shortness of breath, requiring immediate hospitalization and a cardiac catheterization procedure to assess for acute myocardial infarction.",cardiac,O
+9,"The patient complained of chest pain and shortness of breath, requiring immediate hospitalization and a cardiac catheterization procedure to assess for acute myocardial infarction.",catheterization,B-PROCEDURE
+9,"The patient complained of chest pain and shortness of breath, requiring immediate hospitalization and a cardiac catheterization procedure to assess for acute myocardial infarction.",procedure,I-PROCEDURE
+9,"The patient complained of chest pain and shortness of breath, requiring immediate hospitalization and a cardiac catheterization procedure to assess for acute myocardial infarction.",to,O
+9,"The patient complained of chest pain and shortness of breath, requiring immediate hospitalization and a cardiac catheterization procedure to assess for acute myocardial infarction.",assess,O
+9,"The patient complained of chest pain and shortness of breath, requiring immediate hospitalization and a cardiac catheterization procedure to assess for acute myocardial infarction.",for,O
+9,"The patient complained of chest pain and shortness of breath, requiring immediate hospitalization and a cardiac catheterization procedure to assess for acute myocardial infarction.",acute,O
+9,"The patient complained of chest pain and shortness of breath, requiring immediate hospitalization and a cardiac catheterization procedure to assess for acute myocardial infarction.",myocardial,O
+9,"The patient complained of chest pain and shortness of breath, requiring immediate hospitalization and a cardiac catheterization procedure to assess for acute myocardial infarction.",infarction,B-CONDITION
+9,"The patient complained of chest pain and shortness of breath, requiring immediate hospitalization and a cardiac catheterization procedure to assess for acute myocardial infarction.",.,O
+10,The patient presented with  acute chest pain and was diagnosed with  B-Myocardial Infarction requiring emergent Angioplasty.,The,O
+10,The patient presented with  acute chest pain and was diagnosed with  B-Myocardial Infarction requiring emergent Angioplasty.,patient,O
+10,The patient presented with  acute chest pain and was diagnosed with  B-Myocardial Infarction requiring emergent Angioplasty.,presented,O
+10,The patient presented with  acute chest pain and was diagnosed with  B-Myocardial Infarction requiring emergent Angioplasty.,with,O
+10,The patient presented with  acute chest pain and was diagnosed with  B-Myocardial Infarction requiring emergent Angioplasty.,acute,B-SYMPTOM
+10,The patient presented with  acute chest pain and was diagnosed with  B-Myocardial Infarction requiring emergent Angioplasty.,chest,B-SYMPTOM
+10,The patient presented with  acute chest pain and was diagnosed with  B-Myocardial Infarction requiring emergent Angioplasty.,pain,I-SYMPTOM
+10,The patient presented with  acute chest pain and was diagnosed with  B-Myocardial Infarction requiring emergent Angioplasty.,and,O
+10,The patient presented with  acute chest pain and was diagnosed with  B-Myocardial Infarction requiring emergent Angioplasty.,was,O
+10,The patient presented with  acute chest pain and was diagnosed with  B-Myocardial Infarction requiring emergent Angioplasty.,diagnosed,O
+10,The patient presented with  acute chest pain and was diagnosed with  B-Myocardial Infarction requiring emergent Angioplasty.,with,O
+10,The patient presented with  acute chest pain and was diagnosed with  B-Myocardial Infarction requiring emergent Angioplasty.,B-Myocardial,B-CONDITION
+10,The patient presented with  acute chest pain and was diagnosed with  B-Myocardial Infarction requiring emergent Angioplasty.,Infarction,I-CONDITION
+10,The patient presented with  acute chest pain and was diagnosed with  B-Myocardial Infarction requiring emergent Angioplasty.,requiring,O
+10,The patient presented with  acute chest pain and was diagnosed with  B-Myocardial Infarction requiring emergent Angioplasty.,emergent,O
+10,The patient presented with  acute chest pain and was diagnosed with  B-Myocardial Infarction requiring emergent Angioplasty.,Angioplasty,B-PROCEDURE
+10,The patient presented with  acute chest pain and was diagnosed with  B-Myocardial Infarction requiring emergent Angioplasty.,.,O
+11,"The patient presented with chest pain and shortness of breath, requiring immediate cardiac catheterization to assess for coronary artery blockage. ",The,O
+11,"The patient presented with chest pain and shortness of breath, requiring immediate cardiac catheterization to assess for coronary artery blockage. ",patient,O
+11,"The patient presented with chest pain and shortness of breath, requiring immediate cardiac catheterization to assess for coronary artery blockage. ",presented,O
+11,"The patient presented with chest pain and shortness of breath, requiring immediate cardiac catheterization to assess for coronary artery blockage. ",with,O
+11,"The patient presented with chest pain and shortness of breath, requiring immediate cardiac catheterization to assess for coronary artery blockage. ",chest,O
+11,"The patient presented with chest pain and shortness of breath, requiring immediate cardiac catheterization to assess for coronary artery blockage. ",pain,B-SYMPTOM
+11,"The patient presented with chest pain and shortness of breath, requiring immediate cardiac catheterization to assess for coronary artery blockage. ",and,O
+11,"The patient presented with chest pain and shortness of breath, requiring immediate cardiac catheterization to assess for coronary artery blockage. ",shortness,O
+11,"The patient presented with chest pain and shortness of breath, requiring immediate cardiac catheterization to assess for coronary artery blockage. ",of,O
+11,"The patient presented with chest pain and shortness of breath, requiring immediate cardiac catheterization to assess for coronary artery blockage. ",breath,B-SYMPTOM
+11,"The patient presented with chest pain and shortness of breath, requiring immediate cardiac catheterization to assess for coronary artery blockage. ",",",O
+11,"The patient presented with chest pain and shortness of breath, requiring immediate cardiac catheterization to assess for coronary artery blockage. ",requiring,O
+11,"The patient presented with chest pain and shortness of breath, requiring immediate cardiac catheterization to assess for coronary artery blockage. ",immediate,O
+11,"The patient presented with chest pain and shortness of breath, requiring immediate cardiac catheterization to assess for coronary artery blockage. ",cardiac,B-PROCEDURE
+11,"The patient presented with chest pain and shortness of breath, requiring immediate cardiac catheterization to assess for coronary artery blockage. ",catheterization,I-PROCEDURE
+11,"The patient presented with chest pain and shortness of breath, requiring immediate cardiac catheterization to assess for coronary artery blockage. ",to,O
+11,"The patient presented with chest pain and shortness of breath, requiring immediate cardiac catheterization to assess for coronary artery blockage. ",assess,O
+11,"The patient presented with chest pain and shortness of breath, requiring immediate cardiac catheterization to assess for coronary artery blockage. ",for,O
+11,"The patient presented with chest pain and shortness of breath, requiring immediate cardiac catheterization to assess for coronary artery blockage. ",coronary,O
+11,"The patient presented with chest pain and shortness of breath, requiring immediate cardiac catheterization to assess for coronary artery blockage. ",artery,O
+11,"The patient presented with chest pain and shortness of breath, requiring immediate cardiac catheterization to assess for coronary artery blockage. ",blockage,B-CONDITION
+11,"The patient presented with chest pain and shortness of breath, requiring immediate cardiac catheterization to assess for coronary artery blockage. ",.,O
+12,"The patient presented with chest pain and shortness of breath, leading to an emergency angioplasty procedure.",The,O
+12,"The patient presented with chest pain and shortness of breath, leading to an emergency angioplasty procedure.",patient,O
+12,"The patient presented with chest pain and shortness of breath, leading to an emergency angioplasty procedure.",presented,O
+12,"The patient presented with chest pain and shortness of breath, leading to an emergency angioplasty procedure.",with,O
+12,"The patient presented with chest pain and shortness of breath, leading to an emergency angioplasty procedure.",chest,B-SYMPTOM
+12,"The patient presented with chest pain and shortness of breath, leading to an emergency angioplasty procedure.",pain,I-SYMPTOM
+12,"The patient presented with chest pain and shortness of breath, leading to an emergency angioplasty procedure.",and,O
+12,"The patient presented with chest pain and shortness of breath, leading to an emergency angioplasty procedure.",shortness,B-SYMPTOM
+12,"The patient presented with chest pain and shortness of breath, leading to an emergency angioplasty procedure.",of,O
+12,"The patient presented with chest pain and shortness of breath, leading to an emergency angioplasty procedure.",breath,I-SYMPTOM
+12,"The patient presented with chest pain and shortness of breath, leading to an emergency angioplasty procedure.",",",O
+12,"The patient presented with chest pain and shortness of breath, leading to an emergency angioplasty procedure.",leading,O
+12,"The patient presented with chest pain and shortness of breath, leading to an emergency angioplasty procedure.",to,O
+12,"The patient presented with chest pain and shortness of breath, leading to an emergency angioplasty procedure.",an,O
+12,"The patient presented with chest pain and shortness of breath, leading to an emergency angioplasty procedure.",emergency,B-PROCEDURE
+12,"The patient presented with chest pain and shortness of breath, leading to an emergency angioplasty procedure.",angioplasty,I-PROCEDURE
+12,"The patient presented with chest pain and shortness of breath, leading to an emergency angioplasty procedure.",procedure,I-PROCEDURE
+12,"The patient presented with chest pain and shortness of breath, leading to an emergency angioplasty procedure.",.,O
+13,The patient presented with acute chest pain and was urgently referred for a cardiac catheterization procedure.,The,O
+13,The patient presented with acute chest pain and was urgently referred for a cardiac catheterization procedure.,patient,O
+13,The patient presented with acute chest pain and was urgently referred for a cardiac catheterization procedure.,presented,O
+13,The patient presented with acute chest pain and was urgently referred for a cardiac catheterization procedure.,with,O
+13,The patient presented with acute chest pain and was urgently referred for a cardiac catheterization procedure.,acute,O
+13,The patient presented with acute chest pain and was urgently referred for a cardiac catheterization procedure.,chest,O
+13,The patient presented with acute chest pain and was urgently referred for a cardiac catheterization procedure.,pain,B-SYMPTOM
+13,The patient presented with acute chest pain and was urgently referred for a cardiac catheterization procedure.,and,O
+13,The patient presented with acute chest pain and was urgently referred for a cardiac catheterization procedure.,was,O
+13,The patient presented with acute chest pain and was urgently referred for a cardiac catheterization procedure.,urgently,O
+13,The patient presented with acute chest pain and was urgently referred for a cardiac catheterization procedure.,referred,O
+13,The patient presented with acute chest pain and was urgently referred for a cardiac catheterization procedure.,for,O
+13,The patient presented with acute chest pain and was urgently referred for a cardiac catheterization procedure.,a,O
+13,The patient presented with acute chest pain and was urgently referred for a cardiac catheterization procedure.,cardiac,B-PROCEDURE
+13,The patient presented with acute chest pain and was urgently referred for a cardiac catheterization procedure.,catheterization,I-PROCEDURE
+13,The patient presented with acute chest pain and was urgently referred for a cardiac catheterization procedure.,procedure,I-PROCEDURE
+13,The patient presented with acute chest pain and was urgently referred for a cardiac catheterization procedure.,.,O
+14,"Patient experienced chest pain and shortness of breath, leading to a B-TYPE coronary angiogram and subsequent stenting.",Patient,O
+14,"Patient experienced chest pain and shortness of breath, leading to a B-TYPE coronary angiogram and subsequent stenting.",experienced,O
+14,"Patient experienced chest pain and shortness of breath, leading to a B-TYPE coronary angiogram and subsequent stenting.",chest,B-SYMPTOM
+14,"Patient experienced chest pain and shortness of breath, leading to a B-TYPE coronary angiogram and subsequent stenting.",pain,I-SYMPTOM
+14,"Patient experienced chest pain and shortness of breath, leading to a B-TYPE coronary angiogram and subsequent stenting.",and,O
+14,"Patient experienced chest pain and shortness of breath, leading to a B-TYPE coronary angiogram and subsequent stenting.",shortness,B-SYMPTOM
+14,"Patient experienced chest pain and shortness of breath, leading to a B-TYPE coronary angiogram and subsequent stenting.",of,O
+14,"Patient experienced chest pain and shortness of breath, leading to a B-TYPE coronary angiogram and subsequent stenting.",breath,I-SYMPTOM
+14,"Patient experienced chest pain and shortness of breath, leading to a B-TYPE coronary angiogram and subsequent stenting.",",",O
+14,"Patient experienced chest pain and shortness of breath, leading to a B-TYPE coronary angiogram and subsequent stenting.",leading,O
+14,"Patient experienced chest pain and shortness of breath, leading to a B-TYPE coronary angiogram and subsequent stenting.",to,O
+14,"Patient experienced chest pain and shortness of breath, leading to a B-TYPE coronary angiogram and subsequent stenting.",a,O
+14,"Patient experienced chest pain and shortness of breath, leading to a B-TYPE coronary angiogram and subsequent stenting.",B-TYPE,B-CONDITION
+14,"Patient experienced chest pain and shortness of breath, leading to a B-TYPE coronary angiogram and subsequent stenting.",coronary,O
+14,"Patient experienced chest pain and shortness of breath, leading to a B-TYPE coronary angiogram and subsequent stenting.",angiogram,B-PROCEDURE
+14,"Patient experienced chest pain and shortness of breath, leading to a B-TYPE coronary angiogram and subsequent stenting.",and,O
+14,"Patient experienced chest pain and shortness of breath, leading to a B-TYPE coronary angiogram and subsequent stenting.",subsequent,O
+14,"Patient experienced chest pain and shortness of breath, leading to a B-TYPE coronary angiogram and subsequent stenting.",stenting,B-PROCEDURE
+14,"Patient experienced chest pain and shortness of breath, leading to a B-TYPE coronary angiogram and subsequent stenting.",.,O
+15,"The patient presented with chest pain B-SYMPTOM and shortness of breath B-SYMPTOM, leading to an urgent cardiac catheterization B-PROCEDURE.",The,O
+15,"The patient presented with chest pain B-SYMPTOM and shortness of breath B-SYMPTOM, leading to an urgent cardiac catheterization B-PROCEDURE.",patient,O
+15,"The patient presented with chest pain B-SYMPTOM and shortness of breath B-SYMPTOM, leading to an urgent cardiac catheterization B-PROCEDURE.",presented,O
+15,"The patient presented with chest pain B-SYMPTOM and shortness of breath B-SYMPTOM, leading to an urgent cardiac catheterization B-PROCEDURE.",with,O
+15,"The patient presented with chest pain B-SYMPTOM and shortness of breath B-SYMPTOM, leading to an urgent cardiac catheterization B-PROCEDURE.",chest,O
+15,"The patient presented with chest pain B-SYMPTOM and shortness of breath B-SYMPTOM, leading to an urgent cardiac catheterization B-PROCEDURE.",pain,B-SYMPTOM
+15,"The patient presented with chest pain B-SYMPTOM and shortness of breath B-SYMPTOM, leading to an urgent cardiac catheterization B-PROCEDURE.",and,O
+15,"The patient presented with chest pain B-SYMPTOM and shortness of breath B-SYMPTOM, leading to an urgent cardiac catheterization B-PROCEDURE.",shortness,O
+15,"The patient presented with chest pain B-SYMPTOM and shortness of breath B-SYMPTOM, leading to an urgent cardiac catheterization B-PROCEDURE.",of,O
+15,"The patient presented with chest pain B-SYMPTOM and shortness of breath B-SYMPTOM, leading to an urgent cardiac catheterization B-PROCEDURE.",breath,B-SYMPTOM
+15,"The patient presented with chest pain B-SYMPTOM and shortness of breath B-SYMPTOM, leading to an urgent cardiac catheterization B-PROCEDURE.",",",O
+15,"The patient presented with chest pain B-SYMPTOM and shortness of breath B-SYMPTOM, leading to an urgent cardiac catheterization B-PROCEDURE.",leading,O
+15,"The patient presented with chest pain B-SYMPTOM and shortness of breath B-SYMPTOM, leading to an urgent cardiac catheterization B-PROCEDURE.",to,O
+15,"The patient presented with chest pain B-SYMPTOM and shortness of breath B-SYMPTOM, leading to an urgent cardiac catheterization B-PROCEDURE.",an,O
+15,"The patient presented with chest pain B-SYMPTOM and shortness of breath B-SYMPTOM, leading to an urgent cardiac catheterization B-PROCEDURE.",urgent,O
+15,"The patient presented with chest pain B-SYMPTOM and shortness of breath B-SYMPTOM, leading to an urgent cardiac catheterization B-PROCEDURE.",cardiac,O
+15,"The patient presented with chest pain B-SYMPTOM and shortness of breath B-SYMPTOM, leading to an urgent cardiac catheterization B-PROCEDURE.",catheterization,B-PROCEDURE
+15,"The patient presented with chest pain B-SYMPTOM and shortness of breath B-SYMPTOM, leading to an urgent cardiac catheterization B-PROCEDURE.",.,O
+16,The patient presented with  severe chest pain and was immediately taken to the emergency room for a CT scan of the heart,The,O
+16,The patient presented with  severe chest pain and was immediately taken to the emergency room for a CT scan of the heart,patient,O
+16,The patient presented with  severe chest pain and was immediately taken to the emergency room for a CT scan of the heart,presented,O
+16,The patient presented with  severe chest pain and was immediately taken to the emergency room for a CT scan of the heart,with,O
+16,The patient presented with  severe chest pain and was immediately taken to the emergency room for a CT scan of the heart,severe,O
+16,The patient presented with  severe chest pain and was immediately taken to the emergency room for a CT scan of the heart,chest,B-SYMPTOM
+16,The patient presented with  severe chest pain and was immediately taken to the emergency room for a CT scan of the heart,pain,I-SYMPTOM
+16,The patient presented with  severe chest pain and was immediately taken to the emergency room for a CT scan of the heart,and,O
+16,The patient presented with  severe chest pain and was immediately taken to the emergency room for a CT scan of the heart,was,O
+16,The patient presented with  severe chest pain and was immediately taken to the emergency room for a CT scan of the heart,immediately,O
+16,The patient presented with  severe chest pain and was immediately taken to the emergency room for a CT scan of the heart,taken,O
+16,The patient presented with  severe chest pain and was immediately taken to the emergency room for a CT scan of the heart,to,O
+16,The patient presented with  severe chest pain and was immediately taken to the emergency room for a CT scan of the heart,the,O
+16,The patient presented with  severe chest pain and was immediately taken to the emergency room for a CT scan of the heart,emergency,B-PROCEDURE
+16,The patient presented with  severe chest pain and was immediately taken to the emergency room for a CT scan of the heart,room,O
+16,The patient presented with  severe chest pain and was immediately taken to the emergency room for a CT scan of the heart,for,O
+16,The patient presented with  severe chest pain and was immediately taken to the emergency room for a CT scan of the heart,a,O
+16,The patient presented with  severe chest pain and was immediately taken to the emergency room for a CT scan of the heart,CT,B-PROCEDURE
+16,The patient presented with  severe chest pain and was immediately taken to the emergency room for a CT scan of the heart,scan,I-PROCEDURE
+16,The patient presented with  severe chest pain and was immediately taken to the emergency room for a CT scan of the heart,of,O
+16,The patient presented with  severe chest pain and was immediately taken to the emergency room for a CT scan of the heart,the,O
+16,The patient presented with  severe chest pain and was immediately taken to the emergency room for a CT scan of the heart,heart,B-CONDITION
+16,The patient presented with  severe chest pain and was immediately taken to the emergency room for a CT scan of the heart,.,O
+17,The patient presented with acute chest pain and underwent an emergent angioplasty for suspected STEMI.,The,O
+17,The patient presented with acute chest pain and underwent an emergent angioplasty for suspected STEMI.,patient,O
+17,The patient presented with acute chest pain and underwent an emergent angioplasty for suspected STEMI.,presented,O
+17,The patient presented with acute chest pain and underwent an emergent angioplasty for suspected STEMI.,with,O
+17,The patient presented with acute chest pain and underwent an emergent angioplasty for suspected STEMI.,acute,I-CONDITION
+17,The patient presented with acute chest pain and underwent an emergent angioplasty for suspected STEMI.,chest,I-CONDITION
+17,The patient presented with acute chest pain and underwent an emergent angioplasty for suspected STEMI.,pain,I-CONDITION
+17,The patient presented with acute chest pain and underwent an emergent angioplasty for suspected STEMI.,and,O
+17,The patient presented with acute chest pain and underwent an emergent angioplasty for suspected STEMI.,underwent,O
+17,The patient presented with acute chest pain and underwent an emergent angioplasty for suspected STEMI.,an,O
+17,The patient presented with acute chest pain and underwent an emergent angioplasty for suspected STEMI.,emergent,O
+17,The patient presented with acute chest pain and underwent an emergent angioplasty for suspected STEMI.,angioplasty,B-PROCEDURE
+17,The patient presented with acute chest pain and underwent an emergent angioplasty for suspected STEMI.,for,O
+17,The patient presented with acute chest pain and underwent an emergent angioplasty for suspected STEMI.,suspected,O
+17,The patient presented with acute chest pain and underwent an emergent angioplasty for suspected STEMI.,STEMI,B-CONDITION
+17,The patient presented with acute chest pain and underwent an emergent angioplasty for suspected STEMI.,.,O
+18,"The patient presented with chest pain and shortness of breath, requiring immediate cardiac catheterization to assess for coronary artery blockage.",The,O
+18,"The patient presented with chest pain and shortness of breath, requiring immediate cardiac catheterization to assess for coronary artery blockage.",patient,O
+18,"The patient presented with chest pain and shortness of breath, requiring immediate cardiac catheterization to assess for coronary artery blockage.",presented,O
+18,"The patient presented with chest pain and shortness of breath, requiring immediate cardiac catheterization to assess for coronary artery blockage.",with,O
+18,"The patient presented with chest pain and shortness of breath, requiring immediate cardiac catheterization to assess for coronary artery blockage.",chest,B-SYMPTOM
+18,"The patient presented with chest pain and shortness of breath, requiring immediate cardiac catheterization to assess for coronary artery blockage.",pain,I-SYMPTOM
+18,"The patient presented with chest pain and shortness of breath, requiring immediate cardiac catheterization to assess for coronary artery blockage.",and,O
+18,"The patient presented with chest pain and shortness of breath, requiring immediate cardiac catheterization to assess for coronary artery blockage.",shortness,B-SYMPTOM
+18,"The patient presented with chest pain and shortness of breath, requiring immediate cardiac catheterization to assess for coronary artery blockage.",of,O
+18,"The patient presented with chest pain and shortness of breath, requiring immediate cardiac catheterization to assess for coronary artery blockage.",breath,I-SYMPTOM
+18,"The patient presented with chest pain and shortness of breath, requiring immediate cardiac catheterization to assess for coronary artery blockage.",",",O
+18,"The patient presented with chest pain and shortness of breath, requiring immediate cardiac catheterization to assess for coronary artery blockage.",requiring,O
+18,"The patient presented with chest pain and shortness of breath, requiring immediate cardiac catheterization to assess for coronary artery blockage.",immediate,O
+18,"The patient presented with chest pain and shortness of breath, requiring immediate cardiac catheterization to assess for coronary artery blockage.",cardiac,B-PROCEDURE
+18,"The patient presented with chest pain and shortness of breath, requiring immediate cardiac catheterization to assess for coronary artery blockage.",catheterization,I-PROCEDURE
+18,"The patient presented with chest pain and shortness of breath, requiring immediate cardiac catheterization to assess for coronary artery blockage.",to,O
+18,"The patient presented with chest pain and shortness of breath, requiring immediate cardiac catheterization to assess for coronary artery blockage.",assess,O
+18,"The patient presented with chest pain and shortness of breath, requiring immediate cardiac catheterization to assess for coronary artery blockage.",for,O
+18,"The patient presented with chest pain and shortness of breath, requiring immediate cardiac catheterization to assess for coronary artery blockage.",coronary,B-CONDITION
+18,"The patient presented with chest pain and shortness of breath, requiring immediate cardiac catheterization to assess for coronary artery blockage.",artery,I-CONDITION
+18,"The patient presented with chest pain and shortness of breath, requiring immediate cardiac catheterization to assess for coronary artery blockage.",blockage,I-CONDITION
+18,"The patient presented with chest pain and shortness of breath, requiring immediate cardiac catheterization to assess for coronary artery blockage.",.,O
+19,The patient presented with chest pain (B-SYMPTOM) and was immediately taken to the emergency room for an EKG (B-PROCEDURE)  to rule out a possible myocardial infarction (B-CONDITION).,The,O
+19,The patient presented with chest pain (B-SYMPTOM) and was immediately taken to the emergency room for an EKG (B-PROCEDURE)  to rule out a possible myocardial infarction (B-CONDITION).,patient,O
+19,The patient presented with chest pain (B-SYMPTOM) and was immediately taken to the emergency room for an EKG (B-PROCEDURE)  to rule out a possible myocardial infarction (B-CONDITION).,presented,O
+19,The patient presented with chest pain (B-SYMPTOM) and was immediately taken to the emergency room for an EKG (B-PROCEDURE)  to rule out a possible myocardial infarction (B-CONDITION).,with,O
+19,The patient presented with chest pain (B-SYMPTOM) and was immediately taken to the emergency room for an EKG (B-PROCEDURE)  to rule out a possible myocardial infarction (B-CONDITION).,chest,O
+19,The patient presented with chest pain (B-SYMPTOM) and was immediately taken to the emergency room for an EKG (B-PROCEDURE)  to rule out a possible myocardial infarction (B-CONDITION).,pain,I-SYMPTOM
+19,The patient presented with chest pain (B-SYMPTOM) and was immediately taken to the emergency room for an EKG (B-PROCEDURE)  to rule out a possible myocardial infarction (B-CONDITION).,(,O
+19,The patient presented with chest pain (B-SYMPTOM) and was immediately taken to the emergency room for an EKG (B-PROCEDURE)  to rule out a possible myocardial infarction (B-CONDITION).,B-SYMPTOM,O
+19,The patient presented with chest pain (B-SYMPTOM) and was immediately taken to the emergency room for an EKG (B-PROCEDURE)  to rule out a possible myocardial infarction (B-CONDITION).,),O
+19,The patient presented with chest pain (B-SYMPTOM) and was immediately taken to the emergency room for an EKG (B-PROCEDURE)  to rule out a possible myocardial infarction (B-CONDITION).,and,O
+19,The patient presented with chest pain (B-SYMPTOM) and was immediately taken to the emergency room for an EKG (B-PROCEDURE)  to rule out a possible myocardial infarction (B-CONDITION).,was,O
+19,The patient presented with chest pain (B-SYMPTOM) and was immediately taken to the emergency room for an EKG (B-PROCEDURE)  to rule out a possible myocardial infarction (B-CONDITION).,immediately,O
+19,The patient presented with chest pain (B-SYMPTOM) and was immediately taken to the emergency room for an EKG (B-PROCEDURE)  to rule out a possible myocardial infarction (B-CONDITION).,taken,O
+19,The patient presented with chest pain (B-SYMPTOM) and was immediately taken to the emergency room for an EKG (B-PROCEDURE)  to rule out a possible myocardial infarction (B-CONDITION).,to,O
+19,The patient presented with chest pain (B-SYMPTOM) and was immediately taken to the emergency room for an EKG (B-PROCEDURE)  to rule out a possible myocardial infarction (B-CONDITION).,the,O
+19,The patient presented with chest pain (B-SYMPTOM) and was immediately taken to the emergency room for an EKG (B-PROCEDURE)  to rule out a possible myocardial infarction (B-CONDITION).,emergency,O
+19,The patient presented with chest pain (B-SYMPTOM) and was immediately taken to the emergency room for an EKG (B-PROCEDURE)  to rule out a possible myocardial infarction (B-CONDITION).,room,O
+19,The patient presented with chest pain (B-SYMPTOM) and was immediately taken to the emergency room for an EKG (B-PROCEDURE)  to rule out a possible myocardial infarction (B-CONDITION).,for,O
+19,The patient presented with chest pain (B-SYMPTOM) and was immediately taken to the emergency room for an EKG (B-PROCEDURE)  to rule out a possible myocardial infarction (B-CONDITION).,an,O
+19,The patient presented with chest pain (B-SYMPTOM) and was immediately taken to the emergency room for an EKG (B-PROCEDURE)  to rule out a possible myocardial infarction (B-CONDITION).,EKG,B-PROCEDURE
+19,The patient presented with chest pain (B-SYMPTOM) and was immediately taken to the emergency room for an EKG (B-PROCEDURE)  to rule out a possible myocardial infarction (B-CONDITION).,(,O
+19,The patient presented with chest pain (B-SYMPTOM) and was immediately taken to the emergency room for an EKG (B-PROCEDURE)  to rule out a possible myocardial infarction (B-CONDITION).,B-PROCEDURE,O
+19,The patient presented with chest pain (B-SYMPTOM) and was immediately taken to the emergency room for an EKG (B-PROCEDURE)  to rule out a possible myocardial infarction (B-CONDITION).,),O
+19,The patient presented with chest pain (B-SYMPTOM) and was immediately taken to the emergency room for an EKG (B-PROCEDURE)  to rule out a possible myocardial infarction (B-CONDITION).,to,O
+19,The patient presented with chest pain (B-SYMPTOM) and was immediately taken to the emergency room for an EKG (B-PROCEDURE)  to rule out a possible myocardial infarction (B-CONDITION).,rule,O
+19,The patient presented with chest pain (B-SYMPTOM) and was immediately taken to the emergency room for an EKG (B-PROCEDURE)  to rule out a possible myocardial infarction (B-CONDITION).,out,O
+19,The patient presented with chest pain (B-SYMPTOM) and was immediately taken to the emergency room for an EKG (B-PROCEDURE)  to rule out a possible myocardial infarction (B-CONDITION).,a,O
+19,The patient presented with chest pain (B-SYMPTOM) and was immediately taken to the emergency room for an EKG (B-PROCEDURE)  to rule out a possible myocardial infarction (B-CONDITION).,possible,O
+19,The patient presented with chest pain (B-SYMPTOM) and was immediately taken to the emergency room for an EKG (B-PROCEDURE)  to rule out a possible myocardial infarction (B-CONDITION).,myocardial,O
+19,The patient presented with chest pain (B-SYMPTOM) and was immediately taken to the emergency room for an EKG (B-PROCEDURE)  to rule out a possible myocardial infarction (B-CONDITION).,infarction,I-CONDITION
+19,The patient presented with chest pain (B-SYMPTOM) and was immediately taken to the emergency room for an EKG (B-PROCEDURE)  to rule out a possible myocardial infarction (B-CONDITION).,.,O
+20,"The patient presented with chest pain and shortness of breath, requiring immediate cardiac catheterization to diagnose a possible myocardial infarction.",The,O
+20,"The patient presented with chest pain and shortness of breath, requiring immediate cardiac catheterization to diagnose a possible myocardial infarction.",patient,O
+20,"The patient presented with chest pain and shortness of breath, requiring immediate cardiac catheterization to diagnose a possible myocardial infarction.",presented,O
+20,"The patient presented with chest pain and shortness of breath, requiring immediate cardiac catheterization to diagnose a possible myocardial infarction.",with,O
+20,"The patient presented with chest pain and shortness of breath, requiring immediate cardiac catheterization to diagnose a possible myocardial infarction.",chest,B-SYMPTOM
+20,"The patient presented with chest pain and shortness of breath, requiring immediate cardiac catheterization to diagnose a possible myocardial infarction.",pain,I-SYMPTOM
+20,"The patient presented with chest pain and shortness of breath, requiring immediate cardiac catheterization to diagnose a possible myocardial infarction.",and,O
+20,"The patient presented with chest pain and shortness of breath, requiring immediate cardiac catheterization to diagnose a possible myocardial infarction.",shortness,B-SYMPTOM
+20,"The patient presented with chest pain and shortness of breath, requiring immediate cardiac catheterization to diagnose a possible myocardial infarction.",of,O
+20,"The patient presented with chest pain and shortness of breath, requiring immediate cardiac catheterization to diagnose a possible myocardial infarction.",breath,I-SYMPTOM
+20,"The patient presented with chest pain and shortness of breath, requiring immediate cardiac catheterization to diagnose a possible myocardial infarction.",",",O
+20,"The patient presented with chest pain and shortness of breath, requiring immediate cardiac catheterization to diagnose a possible myocardial infarction.",requiring,O
+20,"The patient presented with chest pain and shortness of breath, requiring immediate cardiac catheterization to diagnose a possible myocardial infarction.",immediate,O
+20,"The patient presented with chest pain and shortness of breath, requiring immediate cardiac catheterization to diagnose a possible myocardial infarction.",cardiac,B-PROCEDURE
+20,"The patient presented with chest pain and shortness of breath, requiring immediate cardiac catheterization to diagnose a possible myocardial infarction.",catheterization,I-PROCEDURE
+20,"The patient presented with chest pain and shortness of breath, requiring immediate cardiac catheterization to diagnose a possible myocardial infarction.",to,O
+20,"The patient presented with chest pain and shortness of breath, requiring immediate cardiac catheterization to diagnose a possible myocardial infarction.",diagnose,O
+20,"The patient presented with chest pain and shortness of breath, requiring immediate cardiac catheterization to diagnose a possible myocardial infarction.",a,O
+20,"The patient presented with chest pain and shortness of breath, requiring immediate cardiac catheterization to diagnose a possible myocardial infarction.",possible,O
+20,"The patient presented with chest pain and shortness of breath, requiring immediate cardiac catheterization to diagnose a possible myocardial infarction.",myocardial,B-CONDITION
+20,"The patient presented with chest pain and shortness of breath, requiring immediate cardiac catheterization to diagnose a possible myocardial infarction.",infarction,I-CONDITION
+20,"The patient presented with chest pain and shortness of breath, requiring immediate cardiac catheterization to diagnose a possible myocardial infarction.",.,O
+21,The patient presented with chest pain  and was immediately taken for an EKG and admitted to the ICU due to suspected myocardial infarction.,The,O
+21,The patient presented with chest pain  and was immediately taken for an EKG and admitted to the ICU due to suspected myocardial infarction.,patient,O
+21,The patient presented with chest pain  and was immediately taken for an EKG and admitted to the ICU due to suspected myocardial infarction.,presented,O
+21,The patient presented with chest pain  and was immediately taken for an EKG and admitted to the ICU due to suspected myocardial infarction.,with,O
+21,The patient presented with chest pain  and was immediately taken for an EKG and admitted to the ICU due to suspected myocardial infarction.,chest,B-SYMPTOM
+21,The patient presented with chest pain  and was immediately taken for an EKG and admitted to the ICU due to suspected myocardial infarction.,pain,I-SYMPTOM
+21,The patient presented with chest pain  and was immediately taken for an EKG and admitted to the ICU due to suspected myocardial infarction.,and,O
+21,The patient presented with chest pain  and was immediately taken for an EKG and admitted to the ICU due to suspected myocardial infarction.,was,O
+21,The patient presented with chest pain  and was immediately taken for an EKG and admitted to the ICU due to suspected myocardial infarction.,immediately,O
+21,The patient presented with chest pain  and was immediately taken for an EKG and admitted to the ICU due to suspected myocardial infarction.,taken,O
+21,The patient presented with chest pain  and was immediately taken for an EKG and admitted to the ICU due to suspected myocardial infarction.,for,O
+21,The patient presented with chest pain  and was immediately taken for an EKG and admitted to the ICU due to suspected myocardial infarction.,an,O
+21,The patient presented with chest pain  and was immediately taken for an EKG and admitted to the ICU due to suspected myocardial infarction.,EKG,B-PROCEDURE
+21,The patient presented with chest pain  and was immediately taken for an EKG and admitted to the ICU due to suspected myocardial infarction.,and,O
+21,The patient presented with chest pain  and was immediately taken for an EKG and admitted to the ICU due to suspected myocardial infarction.,admitted,O
+21,The patient presented with chest pain  and was immediately taken for an EKG and admitted to the ICU due to suspected myocardial infarction.,to,O
+21,The patient presented with chest pain  and was immediately taken for an EKG and admitted to the ICU due to suspected myocardial infarction.,the,O
+21,The patient presented with chest pain  and was immediately taken for an EKG and admitted to the ICU due to suspected myocardial infarction.,ICU,O
+21,The patient presented with chest pain  and was immediately taken for an EKG and admitted to the ICU due to suspected myocardial infarction.,due,O
+21,The patient presented with chest pain  and was immediately taken for an EKG and admitted to the ICU due to suspected myocardial infarction.,to,O
+21,The patient presented with chest pain  and was immediately taken for an EKG and admitted to the ICU due to suspected myocardial infarction.,suspected,O
+21,The patient presented with chest pain  and was immediately taken for an EKG and admitted to the ICU due to suspected myocardial infarction.,myocardial,B-CONDITION
+21,The patient presented with chest pain  and was immediately taken for an EKG and admitted to the ICU due to suspected myocardial infarction.,infarction,I-CONDITION
+21,The patient presented with chest pain  and was immediately taken for an EKG and admitted to the ICU due to suspected myocardial infarction.,.,O
+22,The patient presented with crushing chest pain  and was immediately taken for an emergency angioplasty procedure.,The,O
+22,The patient presented with crushing chest pain  and was immediately taken for an emergency angioplasty procedure.,patient,O
+22,The patient presented with crushing chest pain  and was immediately taken for an emergency angioplasty procedure.,presented,O
+22,The patient presented with crushing chest pain  and was immediately taken for an emergency angioplasty procedure.,with,O
+22,The patient presented with crushing chest pain  and was immediately taken for an emergency angioplasty procedure.,crushing,O
+22,The patient presented with crushing chest pain  and was immediately taken for an emergency angioplasty procedure.,chest,O
+22,The patient presented with crushing chest pain  and was immediately taken for an emergency angioplasty procedure.,pain,B-SYMPTOM
+22,The patient presented with crushing chest pain  and was immediately taken for an emergency angioplasty procedure., ,O
+22,The patient presented with crushing chest pain  and was immediately taken for an emergency angioplasty procedure.,and,O
+22,The patient presented with crushing chest pain  and was immediately taken for an emergency angioplasty procedure.,was,O
+22,The patient presented with crushing chest pain  and was immediately taken for an emergency angioplasty procedure.,immediately,O
+22,The patient presented with crushing chest pain  and was immediately taken for an emergency angioplasty procedure.,taken,O
+22,The patient presented with crushing chest pain  and was immediately taken for an emergency angioplasty procedure.,for,O
+22,The patient presented with crushing chest pain  and was immediately taken for an emergency angioplasty procedure.,an,O
+22,The patient presented with crushing chest pain  and was immediately taken for an emergency angioplasty procedure.,emergency,B-PROCEDURE
+22,The patient presented with crushing chest pain  and was immediately taken for an emergency angioplasty procedure.,angioplasty,I-PROCEDURE
+22,The patient presented with crushing chest pain  and was immediately taken for an emergency angioplasty procedure.,procedure,I-PROCEDURE
+22,The patient presented with crushing chest pain  and was immediately taken for an emergency angioplasty procedure.,.,O
+23,"The patient presented with  severe chest pain  and shortness of breath, requiring immediate cardiac catheterization to assess for acute coronary syndrome.",The,O
+23,"The patient presented with  severe chest pain  and shortness of breath, requiring immediate cardiac catheterization to assess for acute coronary syndrome.",patient,O
+23,"The patient presented with  severe chest pain  and shortness of breath, requiring immediate cardiac catheterization to assess for acute coronary syndrome.",presented,O
+23,"The patient presented with  severe chest pain  and shortness of breath, requiring immediate cardiac catheterization to assess for acute coronary syndrome.",with,O
+23,"The patient presented with  severe chest pain  and shortness of breath, requiring immediate cardiac catheterization to assess for acute coronary syndrome.",severe,O
+23,"The patient presented with  severe chest pain  and shortness of breath, requiring immediate cardiac catheterization to assess for acute coronary syndrome.",chest,B-SYMPTOM
+23,"The patient presented with  severe chest pain  and shortness of breath, requiring immediate cardiac catheterization to assess for acute coronary syndrome.",pain,I-SYMPTOM
+23,"The patient presented with  severe chest pain  and shortness of breath, requiring immediate cardiac catheterization to assess for acute coronary syndrome.",and,O
+23,"The patient presented with  severe chest pain  and shortness of breath, requiring immediate cardiac catheterization to assess for acute coronary syndrome.",shortness,B-SYMPTOM
+23,"The patient presented with  severe chest pain  and shortness of breath, requiring immediate cardiac catheterization to assess for acute coronary syndrome.",of,O
+23,"The patient presented with  severe chest pain  and shortness of breath, requiring immediate cardiac catheterization to assess for acute coronary syndrome.",breath,I-SYMPTOM
+23,"The patient presented with  severe chest pain  and shortness of breath, requiring immediate cardiac catheterization to assess for acute coronary syndrome.",",",O
+23,"The patient presented with  severe chest pain  and shortness of breath, requiring immediate cardiac catheterization to assess for acute coronary syndrome.",requiring,O
+23,"The patient presented with  severe chest pain  and shortness of breath, requiring immediate cardiac catheterization to assess for acute coronary syndrome.",immediate,O
+23,"The patient presented with  severe chest pain  and shortness of breath, requiring immediate cardiac catheterization to assess for acute coronary syndrome.",cardiac,B-PROCEDURE
+23,"The patient presented with  severe chest pain  and shortness of breath, requiring immediate cardiac catheterization to assess for acute coronary syndrome.",catheterization,I-PROCEDURE
+23,"The patient presented with  severe chest pain  and shortness of breath, requiring immediate cardiac catheterization to assess for acute coronary syndrome.",to,O
+23,"The patient presented with  severe chest pain  and shortness of breath, requiring immediate cardiac catheterization to assess for acute coronary syndrome.",assess,O
+23,"The patient presented with  severe chest pain  and shortness of breath, requiring immediate cardiac catheterization to assess for acute coronary syndrome.",for,O
+23,"The patient presented with  severe chest pain  and shortness of breath, requiring immediate cardiac catheterization to assess for acute coronary syndrome.",acute,B-CONDITION
+23,"The patient presented with  severe chest pain  and shortness of breath, requiring immediate cardiac catheterization to assess for acute coronary syndrome.",coronary,I-CONDITION
+23,"The patient presented with  severe chest pain  and shortness of breath, requiring immediate cardiac catheterization to assess for acute coronary syndrome.",syndrome,I-CONDITION
+23,"The patient presented with  severe chest pain  and shortness of breath, requiring immediate cardiac catheterization to assess for acute coronary syndrome.",.,O
+24,The patient presented with acute chest pain and underwent an emergency coronary angiography to rule out myocardial infarction. ,The,O
+24,The patient presented with acute chest pain and underwent an emergency coronary angiography to rule out myocardial infarction. ,patient,O
+24,The patient presented with acute chest pain and underwent an emergency coronary angiography to rule out myocardial infarction. ,presented,O
+24,The patient presented with acute chest pain and underwent an emergency coronary angiography to rule out myocardial infarction. ,with,O
+24,The patient presented with acute chest pain and underwent an emergency coronary angiography to rule out myocardial infarction. ,acute,O
+24,The patient presented with acute chest pain and underwent an emergency coronary angiography to rule out myocardial infarction. ,chest,O
+24,The patient presented with acute chest pain and underwent an emergency coronary angiography to rule out myocardial infarction. ,pain,B-SYMPTOM
+24,The patient presented with acute chest pain and underwent an emergency coronary angiography to rule out myocardial infarction. ,and,O
+24,The patient presented with acute chest pain and underwent an emergency coronary angiography to rule out myocardial infarction. ,underwent,O
+24,The patient presented with acute chest pain and underwent an emergency coronary angiography to rule out myocardial infarction. ,an,O
+24,The patient presented with acute chest pain and underwent an emergency coronary angiography to rule out myocardial infarction. ,emergency,O
+24,The patient presented with acute chest pain and underwent an emergency coronary angiography to rule out myocardial infarction. ,coronary,B-PROCEDURE
+24,The patient presented with acute chest pain and underwent an emergency coronary angiography to rule out myocardial infarction. ,angiography,I-PROCEDURE
+24,The patient presented with acute chest pain and underwent an emergency coronary angiography to rule out myocardial infarction. ,to,O
+24,The patient presented with acute chest pain and underwent an emergency coronary angiography to rule out myocardial infarction. ,rule,O
+24,The patient presented with acute chest pain and underwent an emergency coronary angiography to rule out myocardial infarction. ,out,O
+24,The patient presented with acute chest pain and underwent an emergency coronary angiography to rule out myocardial infarction. ,myocardial,B-CONDITION
+24,The patient presented with acute chest pain and underwent an emergency coronary angiography to rule out myocardial infarction. ,infarction,I-CONDITION
+24,The patient presented with acute chest pain and underwent an emergency coronary angiography to rule out myocardial infarction. ,.,O
+25,"The patient presented with severe chest pain and shortness of breath, requiring immediate cardiac catheterization.",The,O
+25,"The patient presented with severe chest pain and shortness of breath, requiring immediate cardiac catheterization.",patient,O
+25,"The patient presented with severe chest pain and shortness of breath, requiring immediate cardiac catheterization.",presented,O
+25,"The patient presented with severe chest pain and shortness of breath, requiring immediate cardiac catheterization.",with,O
+25,"The patient presented with severe chest pain and shortness of breath, requiring immediate cardiac catheterization.",severe,O
+25,"The patient presented with severe chest pain and shortness of breath, requiring immediate cardiac catheterization.",chest,O
+25,"The patient presented with severe chest pain and shortness of breath, requiring immediate cardiac catheterization.",pain,B-SYMPTOM
+25,"The patient presented with severe chest pain and shortness of breath, requiring immediate cardiac catheterization.",and,O
+25,"The patient presented with severe chest pain and shortness of breath, requiring immediate cardiac catheterization.",shortness,O
+25,"The patient presented with severe chest pain and shortness of breath, requiring immediate cardiac catheterization.",of,O
+25,"The patient presented with severe chest pain and shortness of breath, requiring immediate cardiac catheterization.",breath,B-SYMPTOM
+25,"The patient presented with severe chest pain and shortness of breath, requiring immediate cardiac catheterization.",",",O
+25,"The patient presented with severe chest pain and shortness of breath, requiring immediate cardiac catheterization.",requiring,O
+25,"The patient presented with severe chest pain and shortness of breath, requiring immediate cardiac catheterization.",immediate,O
+25,"The patient presented with severe chest pain and shortness of breath, requiring immediate cardiac catheterization.",cardiac,B-PROCEDURE
+25,"The patient presented with severe chest pain and shortness of breath, requiring immediate cardiac catheterization.",catheterization,I-PROCEDURE
+25,"The patient presented with severe chest pain and shortness of breath, requiring immediate cardiac catheterization.",.,O
+26,"The patient presented with chest pain and shortness of breath, prompting an immediate EKG and blood test to assess for acute myocardial infarction.",The,O
+26,"The patient presented with chest pain and shortness of breath, prompting an immediate EKG and blood test to assess for acute myocardial infarction.",patient,O
+26,"The patient presented with chest pain and shortness of breath, prompting an immediate EKG and blood test to assess for acute myocardial infarction.",presented,O
+26,"The patient presented with chest pain and shortness of breath, prompting an immediate EKG and blood test to assess for acute myocardial infarction.",with,O
+26,"The patient presented with chest pain and shortness of breath, prompting an immediate EKG and blood test to assess for acute myocardial infarction.",chest,O
+26,"The patient presented with chest pain and shortness of breath, prompting an immediate EKG and blood test to assess for acute myocardial infarction.",pain,B-SYMPTOM
+26,"The patient presented with chest pain and shortness of breath, prompting an immediate EKG and blood test to assess for acute myocardial infarction.",and,O
+26,"The patient presented with chest pain and shortness of breath, prompting an immediate EKG and blood test to assess for acute myocardial infarction.",shortness,O
+26,"The patient presented with chest pain and shortness of breath, prompting an immediate EKG and blood test to assess for acute myocardial infarction.",of,O
+26,"The patient presented with chest pain and shortness of breath, prompting an immediate EKG and blood test to assess for acute myocardial infarction.",breath,B-SYMPTOM
+26,"The patient presented with chest pain and shortness of breath, prompting an immediate EKG and blood test to assess for acute myocardial infarction.",",",O
+26,"The patient presented with chest pain and shortness of breath, prompting an immediate EKG and blood test to assess for acute myocardial infarction.",prompting,O
+26,"The patient presented with chest pain and shortness of breath, prompting an immediate EKG and blood test to assess for acute myocardial infarction.",an,O
+26,"The patient presented with chest pain and shortness of breath, prompting an immediate EKG and blood test to assess for acute myocardial infarction.",immediate,O
+26,"The patient presented with chest pain and shortness of breath, prompting an immediate EKG and blood test to assess for acute myocardial infarction.",EKG,B-PROCEDURE
+26,"The patient presented with chest pain and shortness of breath, prompting an immediate EKG and blood test to assess for acute myocardial infarction.",and,O
+26,"The patient presented with chest pain and shortness of breath, prompting an immediate EKG and blood test to assess for acute myocardial infarction.",blood,O
+26,"The patient presented with chest pain and shortness of breath, prompting an immediate EKG and blood test to assess for acute myocardial infarction.",test,B-TEST
+26,"The patient presented with chest pain and shortness of breath, prompting an immediate EKG and blood test to assess for acute myocardial infarction.",to,O
+26,"The patient presented with chest pain and shortness of breath, prompting an immediate EKG and blood test to assess for acute myocardial infarction.",assess,O
+26,"The patient presented with chest pain and shortness of breath, prompting an immediate EKG and blood test to assess for acute myocardial infarction.",for,O
+26,"The patient presented with chest pain and shortness of breath, prompting an immediate EKG and blood test to assess for acute myocardial infarction.",acute,B-CONDITION
+26,"The patient presented with chest pain and shortness of breath, prompting an immediate EKG and blood test to assess for acute myocardial infarction.",myocardial,I-CONDITION
+26,"The patient presented with chest pain and shortness of breath, prompting an immediate EKG and blood test to assess for acute myocardial infarction.",infarction,I-CONDITION
+26,"The patient presented with chest pain and shortness of breath, prompting an immediate EKG and blood test to assess for acute myocardial infarction.",.,O
+27,"The patient presented with chest pain  and shortness of breath, leading to an urgent EKG and admission for suspected myocardial infarction.",The,O
+27,"The patient presented with chest pain  and shortness of breath, leading to an urgent EKG and admission for suspected myocardial infarction.",patient,O
+27,"The patient presented with chest pain  and shortness of breath, leading to an urgent EKG and admission for suspected myocardial infarction.",presented,O
+27,"The patient presented with chest pain  and shortness of breath, leading to an urgent EKG and admission for suspected myocardial infarction.",with,O
+27,"The patient presented with chest pain  and shortness of breath, leading to an urgent EKG and admission for suspected myocardial infarction.",chest,B-SYMPTOM
+27,"The patient presented with chest pain  and shortness of breath, leading to an urgent EKG and admission for suspected myocardial infarction.",pain,I-SYMPTOM
+27,"The patient presented with chest pain  and shortness of breath, leading to an urgent EKG and admission for suspected myocardial infarction.",and,O
+27,"The patient presented with chest pain  and shortness of breath, leading to an urgent EKG and admission for suspected myocardial infarction.",shortness,B-SYMPTOM
+27,"The patient presented with chest pain  and shortness of breath, leading to an urgent EKG and admission for suspected myocardial infarction.",of,O
+27,"The patient presented with chest pain  and shortness of breath, leading to an urgent EKG and admission for suspected myocardial infarction.",breath,I-SYMPTOM
+27,"The patient presented with chest pain  and shortness of breath, leading to an urgent EKG and admission for suspected myocardial infarction.",",",O
+27,"The patient presented with chest pain  and shortness of breath, leading to an urgent EKG and admission for suspected myocardial infarction.",leading,O
+27,"The patient presented with chest pain  and shortness of breath, leading to an urgent EKG and admission for suspected myocardial infarction.",to,O
+27,"The patient presented with chest pain  and shortness of breath, leading to an urgent EKG and admission for suspected myocardial infarction.",an,O
+27,"The patient presented with chest pain  and shortness of breath, leading to an urgent EKG and admission for suspected myocardial infarction.",urgent,O
+27,"The patient presented with chest pain  and shortness of breath, leading to an urgent EKG and admission for suspected myocardial infarction.",EKG,B-PROCEDURE
+27,"The patient presented with chest pain  and shortness of breath, leading to an urgent EKG and admission for suspected myocardial infarction.",and,O
+27,"The patient presented with chest pain  and shortness of breath, leading to an urgent EKG and admission for suspected myocardial infarction.",admission,O
+27,"The patient presented with chest pain  and shortness of breath, leading to an urgent EKG and admission for suspected myocardial infarction.",for,O
+27,"The patient presented with chest pain  and shortness of breath, leading to an urgent EKG and admission for suspected myocardial infarction.",suspected,O
+27,"The patient presented with chest pain  and shortness of breath, leading to an urgent EKG and admission for suspected myocardial infarction.",myocardial,B-CONDITION
+27,"The patient presented with chest pain  and shortness of breath, leading to an urgent EKG and admission for suspected myocardial infarction.",infarction,I-CONDITION
+27,"The patient presented with chest pain  and shortness of breath, leading to an urgent EKG and admission for suspected myocardial infarction.",.,O
+28,"The patient complained of chest pain and shortness of breath, prompting a rushed trip to the emergency room where they underwent an urgent  B-TEST:echocardiogram  to assess for myocardial infarction.",The,O
+28,"The patient complained of chest pain and shortness of breath, prompting a rushed trip to the emergency room where they underwent an urgent  B-TEST:echocardiogram  to assess for myocardial infarction.",patient,O
+28,"The patient complained of chest pain and shortness of breath, prompting a rushed trip to the emergency room where they underwent an urgent  B-TEST:echocardiogram  to assess for myocardial infarction.",complained,O
+28,"The patient complained of chest pain and shortness of breath, prompting a rushed trip to the emergency room where they underwent an urgent  B-TEST:echocardiogram  to assess for myocardial infarction.",of,O
+28,"The patient complained of chest pain and shortness of breath, prompting a rushed trip to the emergency room where they underwent an urgent  B-TEST:echocardiogram  to assess for myocardial infarction.",chest,B-SYMPTOM
+28,"The patient complained of chest pain and shortness of breath, prompting a rushed trip to the emergency room where they underwent an urgent  B-TEST:echocardiogram  to assess for myocardial infarction.",pain,I-SYMPTOM
+28,"The patient complained of chest pain and shortness of breath, prompting a rushed trip to the emergency room where they underwent an urgent  B-TEST:echocardiogram  to assess for myocardial infarction.",and,O
+28,"The patient complained of chest pain and shortness of breath, prompting a rushed trip to the emergency room where they underwent an urgent  B-TEST:echocardiogram  to assess for myocardial infarction.",shortness,B-SYMPTOM
+28,"The patient complained of chest pain and shortness of breath, prompting a rushed trip to the emergency room where they underwent an urgent  B-TEST:echocardiogram  to assess for myocardial infarction.",of,O
+28,"The patient complained of chest pain and shortness of breath, prompting a rushed trip to the emergency room where they underwent an urgent  B-TEST:echocardiogram  to assess for myocardial infarction.",breath,I-SYMPTOM
+28,"The patient complained of chest pain and shortness of breath, prompting a rushed trip to the emergency room where they underwent an urgent  B-TEST:echocardiogram  to assess for myocardial infarction.",",",O
+28,"The patient complained of chest pain and shortness of breath, prompting a rushed trip to the emergency room where they underwent an urgent  B-TEST:echocardiogram  to assess for myocardial infarction.",prompting,O
+28,"The patient complained of chest pain and shortness of breath, prompting a rushed trip to the emergency room where they underwent an urgent  B-TEST:echocardiogram  to assess for myocardial infarction.",a,O
+28,"The patient complained of chest pain and shortness of breath, prompting a rushed trip to the emergency room where they underwent an urgent  B-TEST:echocardiogram  to assess for myocardial infarction.",rushed,O
+28,"The patient complained of chest pain and shortness of breath, prompting a rushed trip to the emergency room where they underwent an urgent  B-TEST:echocardiogram  to assess for myocardial infarction.",trip,O
+28,"The patient complained of chest pain and shortness of breath, prompting a rushed trip to the emergency room where they underwent an urgent  B-TEST:echocardiogram  to assess for myocardial infarction.",to,O
+28,"The patient complained of chest pain and shortness of breath, prompting a rushed trip to the emergency room where they underwent an urgent  B-TEST:echocardiogram  to assess for myocardial infarction.",the,O
+28,"The patient complained of chest pain and shortness of breath, prompting a rushed trip to the emergency room where they underwent an urgent  B-TEST:echocardiogram  to assess for myocardial infarction.",emergency,O
+28,"The patient complained of chest pain and shortness of breath, prompting a rushed trip to the emergency room where they underwent an urgent  B-TEST:echocardiogram  to assess for myocardial infarction.",room,O
+28,"The patient complained of chest pain and shortness of breath, prompting a rushed trip to the emergency room where they underwent an urgent  B-TEST:echocardiogram  to assess for myocardial infarction.",where,O
+28,"The patient complained of chest pain and shortness of breath, prompting a rushed trip to the emergency room where they underwent an urgent  B-TEST:echocardiogram  to assess for myocardial infarction.",they,O
+28,"The patient complained of chest pain and shortness of breath, prompting a rushed trip to the emergency room where they underwent an urgent  B-TEST:echocardiogram  to assess for myocardial infarction.",underwent,O
+28,"The patient complained of chest pain and shortness of breath, prompting a rushed trip to the emergency room where they underwent an urgent  B-TEST:echocardiogram  to assess for myocardial infarction.",an,O
+28,"The patient complained of chest pain and shortness of breath, prompting a rushed trip to the emergency room where they underwent an urgent  B-TEST:echocardiogram  to assess for myocardial infarction.",urgent,O
+28,"The patient complained of chest pain and shortness of breath, prompting a rushed trip to the emergency room where they underwent an urgent  B-TEST:echocardiogram  to assess for myocardial infarction.",echocardiogram,B-PROCEDURE
+28,"The patient complained of chest pain and shortness of breath, prompting a rushed trip to the emergency room where they underwent an urgent  B-TEST:echocardiogram  to assess for myocardial infarction.",to,O
+28,"The patient complained of chest pain and shortness of breath, prompting a rushed trip to the emergency room where they underwent an urgent  B-TEST:echocardiogram  to assess for myocardial infarction.",assess,O
+28,"The patient complained of chest pain and shortness of breath, prompting a rushed trip to the emergency room where they underwent an urgent  B-TEST:echocardiogram  to assess for myocardial infarction.",for,O
+28,"The patient complained of chest pain and shortness of breath, prompting a rushed trip to the emergency room where they underwent an urgent  B-TEST:echocardiogram  to assess for myocardial infarction.",myocardial,B-CONDITION
+28,"The patient complained of chest pain and shortness of breath, prompting a rushed trip to the emergency room where they underwent an urgent  B-TEST:echocardiogram  to assess for myocardial infarction.",infarction,I-CONDITION
+28,"The patient complained of chest pain and shortness of breath, prompting a rushed trip to the emergency room where they underwent an urgent  B-TEST:echocardiogram  to assess for myocardial infarction.",.,O
+29,"The patient presented with a history of  B-SYMPTOMchest pain  and underwent an emergent B-PROCEDUREangioplasty procedure, where  a B-MEDICATIONstent was successfully implanted.",The,O
+29,"The patient presented with a history of  B-SYMPTOMchest pain  and underwent an emergent B-PROCEDUREangioplasty procedure, where  a B-MEDICATIONstent was successfully implanted.",patient,O
+29,"The patient presented with a history of  B-SYMPTOMchest pain  and underwent an emergent B-PROCEDUREangioplasty procedure, where  a B-MEDICATIONstent was successfully implanted.",presented,O
+29,"The patient presented with a history of  B-SYMPTOMchest pain  and underwent an emergent B-PROCEDUREangioplasty procedure, where  a B-MEDICATIONstent was successfully implanted.",with,O
+29,"The patient presented with a history of  B-SYMPTOMchest pain  and underwent an emergent B-PROCEDUREangioplasty procedure, where  a B-MEDICATIONstent was successfully implanted.",a,O
+29,"The patient presented with a history of  B-SYMPTOMchest pain  and underwent an emergent B-PROCEDUREangioplasty procedure, where  a B-MEDICATIONstent was successfully implanted.",history,O
+29,"The patient presented with a history of  B-SYMPTOMchest pain  and underwent an emergent B-PROCEDUREangioplasty procedure, where  a B-MEDICATIONstent was successfully implanted.",of,O
+29,"The patient presented with a history of  B-SYMPTOMchest pain  and underwent an emergent B-PROCEDUREangioplasty procedure, where  a B-MEDICATIONstent was successfully implanted.",B-SYMPTOMchest,B-SYMPTOM
+29,"The patient presented with a history of  B-SYMPTOMchest pain  and underwent an emergent B-PROCEDUREangioplasty procedure, where  a B-MEDICATIONstent was successfully implanted.",pain,I-SYMPTOM
+29,"The patient presented with a history of  B-SYMPTOMchest pain  and underwent an emergent B-PROCEDUREangioplasty procedure, where  a B-MEDICATIONstent was successfully implanted.",and,O
+29,"The patient presented with a history of  B-SYMPTOMchest pain  and underwent an emergent B-PROCEDUREangioplasty procedure, where  a B-MEDICATIONstent was successfully implanted.",underwent,O
+29,"The patient presented with a history of  B-SYMPTOMchest pain  and underwent an emergent B-PROCEDUREangioplasty procedure, where  a B-MEDICATIONstent was successfully implanted.",an,O
+29,"The patient presented with a history of  B-SYMPTOMchest pain  and underwent an emergent B-PROCEDUREangioplasty procedure, where  a B-MEDICATIONstent was successfully implanted.",emergent,O
+29,"The patient presented with a history of  B-SYMPTOMchest pain  and underwent an emergent B-PROCEDUREangioplasty procedure, where  a B-MEDICATIONstent was successfully implanted.",B-PROCEDUREangioplasty,B-PROCEDURE
+29,"The patient presented with a history of  B-SYMPTOMchest pain  and underwent an emergent B-PROCEDUREangioplasty procedure, where  a B-MEDICATIONstent was successfully implanted.",procedure,I-PROCEDURE
+29,"The patient presented with a history of  B-SYMPTOMchest pain  and underwent an emergent B-PROCEDUREangioplasty procedure, where  a B-MEDICATIONstent was successfully implanted.",",",O
+29,"The patient presented with a history of  B-SYMPTOMchest pain  and underwent an emergent B-PROCEDUREangioplasty procedure, where  a B-MEDICATIONstent was successfully implanted.",where,O
+29,"The patient presented with a history of  B-SYMPTOMchest pain  and underwent an emergent B-PROCEDUREangioplasty procedure, where  a B-MEDICATIONstent was successfully implanted.",a,O
+29,"The patient presented with a history of  B-SYMPTOMchest pain  and underwent an emergent B-PROCEDUREangioplasty procedure, where  a B-MEDICATIONstent was successfully implanted.",B-MEDICATIONstent,B-MEDICATION
+29,"The patient presented with a history of  B-SYMPTOMchest pain  and underwent an emergent B-PROCEDUREangioplasty procedure, where  a B-MEDICATIONstent was successfully implanted.",was,O
+29,"The patient presented with a history of  B-SYMPTOMchest pain  and underwent an emergent B-PROCEDUREangioplasty procedure, where  a B-MEDICATIONstent was successfully implanted.",successfully,O
+29,"The patient presented with a history of  B-SYMPTOMchest pain  and underwent an emergent B-PROCEDUREangioplasty procedure, where  a B-MEDICATIONstent was successfully implanted.",implanted,O
+29,"The patient presented with a history of  B-SYMPTOMchest pain  and underwent an emergent B-PROCEDUREangioplasty procedure, where  a B-MEDICATIONstent was successfully implanted.",.,O
+30,"The patient presented with chest pain and shortness of breath; an immediate EKG revealed signs of a myocardial infarction, prompting an urgent coronary angioplasty.",The,O
+30,"The patient presented with chest pain and shortness of breath; an immediate EKG revealed signs of a myocardial infarction, prompting an urgent coronary angioplasty.",patient,O
+30,"The patient presented with chest pain and shortness of breath; an immediate EKG revealed signs of a myocardial infarction, prompting an urgent coronary angioplasty.",presented,O
+30,"The patient presented with chest pain and shortness of breath; an immediate EKG revealed signs of a myocardial infarction, prompting an urgent coronary angioplasty.",with,O
+30,"The patient presented with chest pain and shortness of breath; an immediate EKG revealed signs of a myocardial infarction, prompting an urgent coronary angioplasty.",chest,O
+30,"The patient presented with chest pain and shortness of breath; an immediate EKG revealed signs of a myocardial infarction, prompting an urgent coronary angioplasty.",pain,B-SYMPTOM
+30,"The patient presented with chest pain and shortness of breath; an immediate EKG revealed signs of a myocardial infarction, prompting an urgent coronary angioplasty.",and,O
+30,"The patient presented with chest pain and shortness of breath; an immediate EKG revealed signs of a myocardial infarction, prompting an urgent coronary angioplasty.",shortness,O
+30,"The patient presented with chest pain and shortness of breath; an immediate EKG revealed signs of a myocardial infarction, prompting an urgent coronary angioplasty.",of,O
+30,"The patient presented with chest pain and shortness of breath; an immediate EKG revealed signs of a myocardial infarction, prompting an urgent coronary angioplasty.",breath,B-SYMPTOM
+30,"The patient presented with chest pain and shortness of breath; an immediate EKG revealed signs of a myocardial infarction, prompting an urgent coronary angioplasty.",;,O
+30,"The patient presented with chest pain and shortness of breath; an immediate EKG revealed signs of a myocardial infarction, prompting an urgent coronary angioplasty.",an,O
+30,"The patient presented with chest pain and shortness of breath; an immediate EKG revealed signs of a myocardial infarction, prompting an urgent coronary angioplasty.",immediate,O
+30,"The patient presented with chest pain and shortness of breath; an immediate EKG revealed signs of a myocardial infarction, prompting an urgent coronary angioplasty.",EKG,B-PROCEDURE
+30,"The patient presented with chest pain and shortness of breath; an immediate EKG revealed signs of a myocardial infarction, prompting an urgent coronary angioplasty.",revealed,O
+30,"The patient presented with chest pain and shortness of breath; an immediate EKG revealed signs of a myocardial infarction, prompting an urgent coronary angioplasty.",signs,O
+30,"The patient presented with chest pain and shortness of breath; an immediate EKG revealed signs of a myocardial infarction, prompting an urgent coronary angioplasty.",of,O
+30,"The patient presented with chest pain and shortness of breath; an immediate EKG revealed signs of a myocardial infarction, prompting an urgent coronary angioplasty.",a,O
+30,"The patient presented with chest pain and shortness of breath; an immediate EKG revealed signs of a myocardial infarction, prompting an urgent coronary angioplasty.",myocardial,B-CONDITION
+30,"The patient presented with chest pain and shortness of breath; an immediate EKG revealed signs of a myocardial infarction, prompting an urgent coronary angioplasty.",infarction,I-CONDITION
+30,"The patient presented with chest pain and shortness of breath; an immediate EKG revealed signs of a myocardial infarction, prompting an urgent coronary angioplasty.",",",O
+30,"The patient presented with chest pain and shortness of breath; an immediate EKG revealed signs of a myocardial infarction, prompting an urgent coronary angioplasty.",prompting,O
+30,"The patient presented with chest pain and shortness of breath; an immediate EKG revealed signs of a myocardial infarction, prompting an urgent coronary angioplasty.",an,O
+30,"The patient presented with chest pain and shortness of breath; an immediate EKG revealed signs of a myocardial infarction, prompting an urgent coronary angioplasty.",urgent,O
+30,"The patient presented with chest pain and shortness of breath; an immediate EKG revealed signs of a myocardial infarction, prompting an urgent coronary angioplasty.",coronary,O
+30,"The patient presented with chest pain and shortness of breath; an immediate EKG revealed signs of a myocardial infarction, prompting an urgent coronary angioplasty.",angioplasty,B-PROCEDURE
+31,"The patient presented with chest pain, underwent an urgent coronary angiography, and was diagnosed with acute myocardial infarction.",The,O
+31,"The patient presented with chest pain, underwent an urgent coronary angiography, and was diagnosed with acute myocardial infarction.",patient,O
+31,"The patient presented with chest pain, underwent an urgent coronary angiography, and was diagnosed with acute myocardial infarction.",presented,O
+31,"The patient presented with chest pain, underwent an urgent coronary angiography, and was diagnosed with acute myocardial infarction.",with,O
+31,"The patient presented with chest pain, underwent an urgent coronary angiography, and was diagnosed with acute myocardial infarction.",chest,B-SYMPTOM
+31,"The patient presented with chest pain, underwent an urgent coronary angiography, and was diagnosed with acute myocardial infarction.",pain,I-SYMPTOM
+31,"The patient presented with chest pain, underwent an urgent coronary angiography, and was diagnosed with acute myocardial infarction.",",",O
+31,"The patient presented with chest pain, underwent an urgent coronary angiography, and was diagnosed with acute myocardial infarction.",underwent,O
+31,"The patient presented with chest pain, underwent an urgent coronary angiography, and was diagnosed with acute myocardial infarction.",an,O
+31,"The patient presented with chest pain, underwent an urgent coronary angiography, and was diagnosed with acute myocardial infarction.",urgent,O
+31,"The patient presented with chest pain, underwent an urgent coronary angiography, and was diagnosed with acute myocardial infarction.",coronary,B-PROCEDURE
+31,"The patient presented with chest pain, underwent an urgent coronary angiography, and was diagnosed with acute myocardial infarction.",angiography,I-PROCEDURE
+31,"The patient presented with chest pain, underwent an urgent coronary angiography, and was diagnosed with acute myocardial infarction.",",",O
+31,"The patient presented with chest pain, underwent an urgent coronary angiography, and was diagnosed with acute myocardial infarction.",and,O
+31,"The patient presented with chest pain, underwent an urgent coronary angiography, and was diagnosed with acute myocardial infarction.",was,O
+31,"The patient presented with chest pain, underwent an urgent coronary angiography, and was diagnosed with acute myocardial infarction.",diagnosed,O
+31,"The patient presented with chest pain, underwent an urgent coronary angiography, and was diagnosed with acute myocardial infarction.",with,O
+31,"The patient presented with chest pain, underwent an urgent coronary angiography, and was diagnosed with acute myocardial infarction.",acute,B-CONDITION
+31,"The patient presented with chest pain, underwent an urgent coronary angiography, and was diagnosed with acute myocardial infarction.",myocardial,I-CONDITION
+31,"The patient presented with chest pain, underwent an urgent coronary angiography, and was diagnosed with acute myocardial infarction.",infarction,I-CONDITION
+31,"The patient presented with chest pain, underwent an urgent coronary angiography, and was diagnosed with acute myocardial infarction.",.,O
+32,The patient presented with  acute chest pain  and shortness of breath requiring immediate emergency  cardiac catheterization.,The,O
+32,The patient presented with  acute chest pain  and shortness of breath requiring immediate emergency  cardiac catheterization.,patient,O
+32,The patient presented with  acute chest pain  and shortness of breath requiring immediate emergency  cardiac catheterization.,presented,O
+32,The patient presented with  acute chest pain  and shortness of breath requiring immediate emergency  cardiac catheterization.,with,O
+32,The patient presented with  acute chest pain  and shortness of breath requiring immediate emergency  cardiac catheterization.,acute,O
+32,The patient presented with  acute chest pain  and shortness of breath requiring immediate emergency  cardiac catheterization.,chest,B-SYMPTOM
+32,The patient presented with  acute chest pain  and shortness of breath requiring immediate emergency  cardiac catheterization.,pain,I-SYMPTOM
+32,The patient presented with  acute chest pain  and shortness of breath requiring immediate emergency  cardiac catheterization.,and,O
+32,The patient presented with  acute chest pain  and shortness of breath requiring immediate emergency  cardiac catheterization.,shortness,B-SYMPTOM
+32,The patient presented with  acute chest pain  and shortness of breath requiring immediate emergency  cardiac catheterization.,of,O
+32,The patient presented with  acute chest pain  and shortness of breath requiring immediate emergency  cardiac catheterization.,breath,I-SYMPTOM
+32,The patient presented with  acute chest pain  and shortness of breath requiring immediate emergency  cardiac catheterization.,requiring,O
+32,The patient presented with  acute chest pain  and shortness of breath requiring immediate emergency  cardiac catheterization.,immediate,O
+32,The patient presented with  acute chest pain  and shortness of breath requiring immediate emergency  cardiac catheterization.,emergency,O
+32,The patient presented with  acute chest pain  and shortness of breath requiring immediate emergency  cardiac catheterization.,cardiac,B-PROCEDURE
+32,The patient presented with  acute chest pain  and shortness of breath requiring immediate emergency  cardiac catheterization.,catheterization,I-PROCEDURE
+32,The patient presented with  acute chest pain  and shortness of breath requiring immediate emergency  cardiac catheterization.,.,O
+33,"The patient presented with severe chest pain and shortness of breath, requiring immediate cardiac catheterization due to suspected myocardial infarction.",The,O
+33,"The patient presented with severe chest pain and shortness of breath, requiring immediate cardiac catheterization due to suspected myocardial infarction.",patient,O
+33,"The patient presented with severe chest pain and shortness of breath, requiring immediate cardiac catheterization due to suspected myocardial infarction.",presented,O
+33,"The patient presented with severe chest pain and shortness of breath, requiring immediate cardiac catheterization due to suspected myocardial infarction.",with,O
+33,"The patient presented with severe chest pain and shortness of breath, requiring immediate cardiac catheterization due to suspected myocardial infarction.",severe,O
+33,"The patient presented with severe chest pain and shortness of breath, requiring immediate cardiac catheterization due to suspected myocardial infarction.",chest,B-SYMPTOM
+33,"The patient presented with severe chest pain and shortness of breath, requiring immediate cardiac catheterization due to suspected myocardial infarction.",pain,I-SYMPTOM
+33,"The patient presented with severe chest pain and shortness of breath, requiring immediate cardiac catheterization due to suspected myocardial infarction.",and,O
+33,"The patient presented with severe chest pain and shortness of breath, requiring immediate cardiac catheterization due to suspected myocardial infarction.",shortness,B-SYMPTOM
+33,"The patient presented with severe chest pain and shortness of breath, requiring immediate cardiac catheterization due to suspected myocardial infarction.",of,O
+33,"The patient presented with severe chest pain and shortness of breath, requiring immediate cardiac catheterization due to suspected myocardial infarction.",breath,I-SYMPTOM
+33,"The patient presented with severe chest pain and shortness of breath, requiring immediate cardiac catheterization due to suspected myocardial infarction.",",",O
+33,"The patient presented with severe chest pain and shortness of breath, requiring immediate cardiac catheterization due to suspected myocardial infarction.",requiring,O
+33,"The patient presented with severe chest pain and shortness of breath, requiring immediate cardiac catheterization due to suspected myocardial infarction.",immediate,O
+33,"The patient presented with severe chest pain and shortness of breath, requiring immediate cardiac catheterization due to suspected myocardial infarction.",cardiac,B-PROCEDURE
+33,"The patient presented with severe chest pain and shortness of breath, requiring immediate cardiac catheterization due to suspected myocardial infarction.",catheterization,I-PROCEDURE
+33,"The patient presented with severe chest pain and shortness of breath, requiring immediate cardiac catheterization due to suspected myocardial infarction.",due,O
+33,"The patient presented with severe chest pain and shortness of breath, requiring immediate cardiac catheterization due to suspected myocardial infarction.",to,O
+33,"The patient presented with severe chest pain and shortness of breath, requiring immediate cardiac catheterization due to suspected myocardial infarction.",suspected,O
+33,"The patient presented with severe chest pain and shortness of breath, requiring immediate cardiac catheterization due to suspected myocardial infarction.",myocardial,B-CONDITION
+33,"The patient presented with severe chest pain and shortness of breath, requiring immediate cardiac catheterization due to suspected myocardial infarction.",infarction,I-CONDITION
+33,"The patient presented with severe chest pain and shortness of breath, requiring immediate cardiac catheterization due to suspected myocardial infarction.",.,O
+34,Patient presented with chest pain and was immediately referred for an urgent echocardiogram.,Patient,O
+34,Patient presented with chest pain and was immediately referred for an urgent echocardiogram.,presented,O
+34,Patient presented with chest pain and was immediately referred for an urgent echocardiogram.,with,O
+34,Patient presented with chest pain and was immediately referred for an urgent echocardiogram.,chest,B-SYMPTOM
+34,Patient presented with chest pain and was immediately referred for an urgent echocardiogram.,pain,I-SYMPTOM
+34,Patient presented with chest pain and was immediately referred for an urgent echocardiogram.,and,O
+34,Patient presented with chest pain and was immediately referred for an urgent echocardiogram.,was,O
+34,Patient presented with chest pain and was immediately referred for an urgent echocardiogram.,immediately,O
+34,Patient presented with chest pain and was immediately referred for an urgent echocardiogram.,referred,O
+34,Patient presented with chest pain and was immediately referred for an urgent echocardiogram.,for,O
+34,Patient presented with chest pain and was immediately referred for an urgent echocardiogram.,an,O
+34,Patient presented with chest pain and was immediately referred for an urgent echocardiogram.,urgent,O
+34,Patient presented with chest pain and was immediately referred for an urgent echocardiogram.,echocardiogram,B-PROCEDURE
+35,"The patient presented with acute chest pain and shortness of breath, requiring immediate percutaneous coronary intervention (PCI) for suspected myocardial infarction.",The,O
+35,"The patient presented with acute chest pain and shortness of breath, requiring immediate percutaneous coronary intervention (PCI) for suspected myocardial infarction.",patient,O
+35,"The patient presented with acute chest pain and shortness of breath, requiring immediate percutaneous coronary intervention (PCI) for suspected myocardial infarction.",presented,O
+35,"The patient presented with acute chest pain and shortness of breath, requiring immediate percutaneous coronary intervention (PCI) for suspected myocardial infarction.",with,O
+35,"The patient presented with acute chest pain and shortness of breath, requiring immediate percutaneous coronary intervention (PCI) for suspected myocardial infarction.",acute,B-CONDITION
+35,"The patient presented with acute chest pain and shortness of breath, requiring immediate percutaneous coronary intervention (PCI) for suspected myocardial infarction.",chest,O
+35,"The patient presented with acute chest pain and shortness of breath, requiring immediate percutaneous coronary intervention (PCI) for suspected myocardial infarction.",pain,B-SYMPTOM
+35,"The patient presented with acute chest pain and shortness of breath, requiring immediate percutaneous coronary intervention (PCI) for suspected myocardial infarction.",and,O
+35,"The patient presented with acute chest pain and shortness of breath, requiring immediate percutaneous coronary intervention (PCI) for suspected myocardial infarction.",shortness,B-SYMPTOM
+35,"The patient presented with acute chest pain and shortness of breath, requiring immediate percutaneous coronary intervention (PCI) for suspected myocardial infarction.",of,O
+35,"The patient presented with acute chest pain and shortness of breath, requiring immediate percutaneous coronary intervention (PCI) for suspected myocardial infarction.",breath,I-SYMPTOM
+35,"The patient presented with acute chest pain and shortness of breath, requiring immediate percutaneous coronary intervention (PCI) for suspected myocardial infarction.",",",O
+35,"The patient presented with acute chest pain and shortness of breath, requiring immediate percutaneous coronary intervention (PCI) for suspected myocardial infarction.",requiring,O
+35,"The patient presented with acute chest pain and shortness of breath, requiring immediate percutaneous coronary intervention (PCI) for suspected myocardial infarction.",immediate,O
+35,"The patient presented with acute chest pain and shortness of breath, requiring immediate percutaneous coronary intervention (PCI) for suspected myocardial infarction.",percutaneous,O
+35,"The patient presented with acute chest pain and shortness of breath, requiring immediate percutaneous coronary intervention (PCI) for suspected myocardial infarction.",coronary,O
+35,"The patient presented with acute chest pain and shortness of breath, requiring immediate percutaneous coronary intervention (PCI) for suspected myocardial infarction.",intervention,B-PROCEDURE
+35,"The patient presented with acute chest pain and shortness of breath, requiring immediate percutaneous coronary intervention (PCI) for suspected myocardial infarction.",(PCI),I-PROCEDURE
+35,"The patient presented with acute chest pain and shortness of breath, requiring immediate percutaneous coronary intervention (PCI) for suspected myocardial infarction.",for,O
+35,"The patient presented with acute chest pain and shortness of breath, requiring immediate percutaneous coronary intervention (PCI) for suspected myocardial infarction.",suspected,O
+35,"The patient presented with acute chest pain and shortness of breath, requiring immediate percutaneous coronary intervention (PCI) for suspected myocardial infarction.",myocardial,B-CONDITION
+35,"The patient presented with acute chest pain and shortness of breath, requiring immediate percutaneous coronary intervention (PCI) for suspected myocardial infarction.",infarction,I-CONDITION
+35,"The patient presented with acute chest pain and shortness of breath, requiring immediate percutaneous coronary intervention (PCI) for suspected myocardial infarction.",.,O
+36,"The patient presented with severe chest pain and shortness of breath, requiring immediate cardiac catheterization to evaluate coronary artery blockage.",The,O
+36,"The patient presented with severe chest pain and shortness of breath, requiring immediate cardiac catheterization to evaluate coronary artery blockage.",patient,O
+36,"The patient presented with severe chest pain and shortness of breath, requiring immediate cardiac catheterization to evaluate coronary artery blockage.",presented,O
+36,"The patient presented with severe chest pain and shortness of breath, requiring immediate cardiac catheterization to evaluate coronary artery blockage.",with,O
+36,"The patient presented with severe chest pain and shortness of breath, requiring immediate cardiac catheterization to evaluate coronary artery blockage.",severe,O
+36,"The patient presented with severe chest pain and shortness of breath, requiring immediate cardiac catheterization to evaluate coronary artery blockage.",chest,B-SYMPTOM
+36,"The patient presented with severe chest pain and shortness of breath, requiring immediate cardiac catheterization to evaluate coronary artery blockage.",pain,I-SYMPTOM
+36,"The patient presented with severe chest pain and shortness of breath, requiring immediate cardiac catheterization to evaluate coronary artery blockage.",and,O
+36,"The patient presented with severe chest pain and shortness of breath, requiring immediate cardiac catheterization to evaluate coronary artery blockage.",shortness,B-SYMPTOM
+36,"The patient presented with severe chest pain and shortness of breath, requiring immediate cardiac catheterization to evaluate coronary artery blockage.",of,O
+36,"The patient presented with severe chest pain and shortness of breath, requiring immediate cardiac catheterization to evaluate coronary artery blockage.",breath,I-SYMPTOM
+36,"The patient presented with severe chest pain and shortness of breath, requiring immediate cardiac catheterization to evaluate coronary artery blockage.",",",O
+36,"The patient presented with severe chest pain and shortness of breath, requiring immediate cardiac catheterization to evaluate coronary artery blockage.",requiring,O
+36,"The patient presented with severe chest pain and shortness of breath, requiring immediate cardiac catheterization to evaluate coronary artery blockage.",immediate,O
+36,"The patient presented with severe chest pain and shortness of breath, requiring immediate cardiac catheterization to evaluate coronary artery blockage.",cardiac,B-PROCEDURE
+36,"The patient presented with severe chest pain and shortness of breath, requiring immediate cardiac catheterization to evaluate coronary artery blockage.",catheterization,I-PROCEDURE
+36,"The patient presented with severe chest pain and shortness of breath, requiring immediate cardiac catheterization to evaluate coronary artery blockage.",to,O
+36,"The patient presented with severe chest pain and shortness of breath, requiring immediate cardiac catheterization to evaluate coronary artery blockage.",evaluate,O
+36,"The patient presented with severe chest pain and shortness of breath, requiring immediate cardiac catheterization to evaluate coronary artery blockage.",coronary,B-CONDITION
+36,"The patient presented with severe chest pain and shortness of breath, requiring immediate cardiac catheterization to evaluate coronary artery blockage.",artery,O
+36,"The patient presented with severe chest pain and shortness of breath, requiring immediate cardiac catheterization to evaluate coronary artery blockage.",blockage,I-CONDITION
+36,"The patient presented with severe chest pain and shortness of breath, requiring immediate cardiac catheterization to evaluate coronary artery blockage.",.,O
+37,"The patient presented with B-SYMPTOM chest pain and shortness of breath, requiring emergency admission for suspected cardiac  B-CONDITION.",The,O
+37,"The patient presented with B-SYMPTOM chest pain and shortness of breath, requiring emergency admission for suspected cardiac  B-CONDITION.",patient,O
+37,"The patient presented with B-SYMPTOM chest pain and shortness of breath, requiring emergency admission for suspected cardiac  B-CONDITION.",presented,O
+37,"The patient presented with B-SYMPTOM chest pain and shortness of breath, requiring emergency admission for suspected cardiac  B-CONDITION.",with,O
+37,"The patient presented with B-SYMPTOM chest pain and shortness of breath, requiring emergency admission for suspected cardiac  B-CONDITION.",B-SYMPTOM,B-SYMPTOM
+37,"The patient presented with B-SYMPTOM chest pain and shortness of breath, requiring emergency admission for suspected cardiac  B-CONDITION.",chest,O
+37,"The patient presented with B-SYMPTOM chest pain and shortness of breath, requiring emergency admission for suspected cardiac  B-CONDITION.",pain,I-SYMPTOM
+37,"The patient presented with B-SYMPTOM chest pain and shortness of breath, requiring emergency admission for suspected cardiac  B-CONDITION.",and,O
+37,"The patient presented with B-SYMPTOM chest pain and shortness of breath, requiring emergency admission for suspected cardiac  B-CONDITION.",shortness,O
+37,"The patient presented with B-SYMPTOM chest pain and shortness of breath, requiring emergency admission for suspected cardiac  B-CONDITION.",of,O
+37,"The patient presented with B-SYMPTOM chest pain and shortness of breath, requiring emergency admission for suspected cardiac  B-CONDITION.",breath,I-SYMPTOM
+37,"The patient presented with B-SYMPTOM chest pain and shortness of breath, requiring emergency admission for suspected cardiac  B-CONDITION.",",",O
+37,"The patient presented with B-SYMPTOM chest pain and shortness of breath, requiring emergency admission for suspected cardiac  B-CONDITION.",requiring,O
+37,"The patient presented with B-SYMPTOM chest pain and shortness of breath, requiring emergency admission for suspected cardiac  B-CONDITION.",emergency,O
+37,"The patient presented with B-SYMPTOM chest pain and shortness of breath, requiring emergency admission for suspected cardiac  B-CONDITION.",admission,O
+37,"The patient presented with B-SYMPTOM chest pain and shortness of breath, requiring emergency admission for suspected cardiac  B-CONDITION.",for,O
+37,"The patient presented with B-SYMPTOM chest pain and shortness of breath, requiring emergency admission for suspected cardiac  B-CONDITION.",suspected,O
+37,"The patient presented with B-SYMPTOM chest pain and shortness of breath, requiring emergency admission for suspected cardiac  B-CONDITION.",B-CONDITION,B-CONDITION
+37,"The patient presented with B-SYMPTOM chest pain and shortness of breath, requiring emergency admission for suspected cardiac  B-CONDITION.",cardiac,O
+37,"The patient presented with B-SYMPTOM chest pain and shortness of breath, requiring emergency admission for suspected cardiac  B-CONDITION.",.,O
+38,"The patient presented with chest pain, shortness of breath and underwent an emergency angioplasty to treat blocked coronary arteries.",The,O
+38,"The patient presented with chest pain, shortness of breath and underwent an emergency angioplasty to treat blocked coronary arteries.",patient,O
+38,"The patient presented with chest pain, shortness of breath and underwent an emergency angioplasty to treat blocked coronary arteries.",presented,O
+38,"The patient presented with chest pain, shortness of breath and underwent an emergency angioplasty to treat blocked coronary arteries.",with,O
+38,"The patient presented with chest pain, shortness of breath and underwent an emergency angioplasty to treat blocked coronary arteries.",chest,B-SYMPTOM
+38,"The patient presented with chest pain, shortness of breath and underwent an emergency angioplasty to treat blocked coronary arteries.",pain,I-SYMPTOM
+38,"The patient presented with chest pain, shortness of breath and underwent an emergency angioplasty to treat blocked coronary arteries.",",",O
+38,"The patient presented with chest pain, shortness of breath and underwent an emergency angioplasty to treat blocked coronary arteries.",shortness,B-SYMPTOM
+38,"The patient presented with chest pain, shortness of breath and underwent an emergency angioplasty to treat blocked coronary arteries.",of,O
+38,"The patient presented with chest pain, shortness of breath and underwent an emergency angioplasty to treat blocked coronary arteries.",breath,I-SYMPTOM
+38,"The patient presented with chest pain, shortness of breath and underwent an emergency angioplasty to treat blocked coronary arteries.",and,O
+38,"The patient presented with chest pain, shortness of breath and underwent an emergency angioplasty to treat blocked coronary arteries.",underwent,O
+38,"The patient presented with chest pain, shortness of breath and underwent an emergency angioplasty to treat blocked coronary arteries.",an,O
+38,"The patient presented with chest pain, shortness of breath and underwent an emergency angioplasty to treat blocked coronary arteries.",emergency,B-PROCEDURE
+38,"The patient presented with chest pain, shortness of breath and underwent an emergency angioplasty to treat blocked coronary arteries.",angioplasty,I-PROCEDURE
+38,"The patient presented with chest pain, shortness of breath and underwent an emergency angioplasty to treat blocked coronary arteries.",to,O
+38,"The patient presented with chest pain, shortness of breath and underwent an emergency angioplasty to treat blocked coronary arteries.",treat,O
+38,"The patient presented with chest pain, shortness of breath and underwent an emergency angioplasty to treat blocked coronary arteries.",blocked,O
+38,"The patient presented with chest pain, shortness of breath and underwent an emergency angioplasty to treat blocked coronary arteries.",coronary,B-CONDITION
+38,"The patient presented with chest pain, shortness of breath and underwent an emergency angioplasty to treat blocked coronary arteries.",arteries,I-CONDITION
+38,"The patient presented with chest pain, shortness of breath and underwent an emergency angioplasty to treat blocked coronary arteries.",.,O
+39,Patient presented with chest pain and shortness of breath; ECG showed signs of myocardial infarction requiring immediate angioplasty.,Patient,O
+39,Patient presented with chest pain and shortness of breath; ECG showed signs of myocardial infarction requiring immediate angioplasty.,presented,O
+39,Patient presented with chest pain and shortness of breath; ECG showed signs of myocardial infarction requiring immediate angioplasty.,with,O
+39,Patient presented with chest pain and shortness of breath; ECG showed signs of myocardial infarction requiring immediate angioplasty.,chest,B-SYMPTOM
+39,Patient presented with chest pain and shortness of breath; ECG showed signs of myocardial infarction requiring immediate angioplasty.,pain,I-SYMPTOM
+39,Patient presented with chest pain and shortness of breath; ECG showed signs of myocardial infarction requiring immediate angioplasty.,and,O
+39,Patient presented with chest pain and shortness of breath; ECG showed signs of myocardial infarction requiring immediate angioplasty.,shortness,B-SYMPTOM
+39,Patient presented with chest pain and shortness of breath; ECG showed signs of myocardial infarction requiring immediate angioplasty.,of,O
+39,Patient presented with chest pain and shortness of breath; ECG showed signs of myocardial infarction requiring immediate angioplasty.,breath,I-SYMPTOM
+39,Patient presented with chest pain and shortness of breath; ECG showed signs of myocardial infarction requiring immediate angioplasty.,;,O
+39,Patient presented with chest pain and shortness of breath; ECG showed signs of myocardial infarction requiring immediate angioplasty.,ECG,B-TEST
+39,Patient presented with chest pain and shortness of breath; ECG showed signs of myocardial infarction requiring immediate angioplasty.,showed,O
+39,Patient presented with chest pain and shortness of breath; ECG showed signs of myocardial infarction requiring immediate angioplasty.,signs,O
+39,Patient presented with chest pain and shortness of breath; ECG showed signs of myocardial infarction requiring immediate angioplasty.,of,O
+39,Patient presented with chest pain and shortness of breath; ECG showed signs of myocardial infarction requiring immediate angioplasty.,myocardial,B-CONDITION
+39,Patient presented with chest pain and shortness of breath; ECG showed signs of myocardial infarction requiring immediate angioplasty.,infarction,I-CONDITION
+39,Patient presented with chest pain and shortness of breath; ECG showed signs of myocardial infarction requiring immediate angioplasty.,requiring,O
+39,Patient presented with chest pain and shortness of breath; ECG showed signs of myocardial infarction requiring immediate angioplasty.,immediate,O
+39,Patient presented with chest pain and shortness of breath; ECG showed signs of myocardial infarction requiring immediate angioplasty.,angioplasty,B-PROCEDURE
+39,Patient presented with chest pain and shortness of breath; ECG showed signs of myocardial infarction requiring immediate angioplasty.,.,O
+40,"The patient complained of chest pain and difficulty breathing, prompting an immediate EKG and blood test for myocardial infarction.",The,O
+40,"The patient complained of chest pain and difficulty breathing, prompting an immediate EKG and blood test for myocardial infarction.",patient,O
+40,"The patient complained of chest pain and difficulty breathing, prompting an immediate EKG and blood test for myocardial infarction.",complained,O
+40,"The patient complained of chest pain and difficulty breathing, prompting an immediate EKG and blood test for myocardial infarction.",of,O
+40,"The patient complained of chest pain and difficulty breathing, prompting an immediate EKG and blood test for myocardial infarction.",chest,O
+40,"The patient complained of chest pain and difficulty breathing, prompting an immediate EKG and blood test for myocardial infarction.",pain,B-SYMPTOM
+40,"The patient complained of chest pain and difficulty breathing, prompting an immediate EKG and blood test for myocardial infarction.",and,O
+40,"The patient complained of chest pain and difficulty breathing, prompting an immediate EKG and blood test for myocardial infarction.",difficulty,O
+40,"The patient complained of chest pain and difficulty breathing, prompting an immediate EKG and blood test for myocardial infarction.",breathing,I-SYMPTOM
+40,"The patient complained of chest pain and difficulty breathing, prompting an immediate EKG and blood test for myocardial infarction.",",",O
+40,"The patient complained of chest pain and difficulty breathing, prompting an immediate EKG and blood test for myocardial infarction.",prompting,O
+40,"The patient complained of chest pain and difficulty breathing, prompting an immediate EKG and blood test for myocardial infarction.",an,O
+40,"The patient complained of chest pain and difficulty breathing, prompting an immediate EKG and blood test for myocardial infarction.",immediate,O
+40,"The patient complained of chest pain and difficulty breathing, prompting an immediate EKG and blood test for myocardial infarction.",EKG,B-PROCEDURE
+40,"The patient complained of chest pain and difficulty breathing, prompting an immediate EKG and blood test for myocardial infarction.",and,O
+40,"The patient complained of chest pain and difficulty breathing, prompting an immediate EKG and blood test for myocardial infarction.",blood,O
+40,"The patient complained of chest pain and difficulty breathing, prompting an immediate EKG and blood test for myocardial infarction.",test,B-TEST
+40,"The patient complained of chest pain and difficulty breathing, prompting an immediate EKG and blood test for myocardial infarction.",for,O
+40,"The patient complained of chest pain and difficulty breathing, prompting an immediate EKG and blood test for myocardial infarction.",myocardial,B-CONDITION
+40,"The patient complained of chest pain and difficulty breathing, prompting an immediate EKG and blood test for myocardial infarction.",infarction,I-CONDITION
+40,"The patient complained of chest pain and difficulty breathing, prompting an immediate EKG and blood test for myocardial infarction.",.,O
+41,The patient presented with acute chest pain and was immediately taken to the emergency room for a cardiac catheterization procedure.,The,O
+41,The patient presented with acute chest pain and was immediately taken to the emergency room for a cardiac catheterization procedure.,patient,O
+41,The patient presented with acute chest pain and was immediately taken to the emergency room for a cardiac catheterization procedure.,presented,O
+41,The patient presented with acute chest pain and was immediately taken to the emergency room for a cardiac catheterization procedure.,with,O
+41,The patient presented with acute chest pain and was immediately taken to the emergency room for a cardiac catheterization procedure.,acute,B-CONDITION
+41,The patient presented with acute chest pain and was immediately taken to the emergency room for a cardiac catheterization procedure.,chest,I-CONDITION
+41,The patient presented with acute chest pain and was immediately taken to the emergency room for a cardiac catheterization procedure.,pain,I-CONDITION
+41,The patient presented with acute chest pain and was immediately taken to the emergency room for a cardiac catheterization procedure.,and,O
+41,The patient presented with acute chest pain and was immediately taken to the emergency room for a cardiac catheterization procedure.,was,O
+41,The patient presented with acute chest pain and was immediately taken to the emergency room for a cardiac catheterization procedure.,immediately,O
+41,The patient presented with acute chest pain and was immediately taken to the emergency room for a cardiac catheterization procedure.,taken,O
+41,The patient presented with acute chest pain and was immediately taken to the emergency room for a cardiac catheterization procedure.,to,O
+41,The patient presented with acute chest pain and was immediately taken to the emergency room for a cardiac catheterization procedure.,the,O
+41,The patient presented with acute chest pain and was immediately taken to the emergency room for a cardiac catheterization procedure.,emergency,B-PROCEDURE
+41,The patient presented with acute chest pain and was immediately taken to the emergency room for a cardiac catheterization procedure.,room,O
+41,The patient presented with acute chest pain and was immediately taken to the emergency room for a cardiac catheterization procedure.,for,O
+41,The patient presented with acute chest pain and was immediately taken to the emergency room for a cardiac catheterization procedure.,a,O
+41,The patient presented with acute chest pain and was immediately taken to the emergency room for a cardiac catheterization procedure.,cardiac,B-PROCEDURE
+41,The patient presented with acute chest pain and was immediately taken to the emergency room for a cardiac catheterization procedure.,catheterization,I-PROCEDURE
+41,The patient presented with acute chest pain and was immediately taken to the emergency room for a cardiac catheterization procedure.,procedure,I-PROCEDURE
+41,The patient presented with acute chest pain and was immediately taken to the emergency room for a cardiac catheterization procedure.,.,O
+42,The patient presented with acute chest pain and underwent an emergency angioplasty procedure due to suspected STEMI.,The,O
+42,The patient presented with acute chest pain and underwent an emergency angioplasty procedure due to suspected STEMI.,patient,O
+42,The patient presented with acute chest pain and underwent an emergency angioplasty procedure due to suspected STEMI.,presented,O
+42,The patient presented with acute chest pain and underwent an emergency angioplasty procedure due to suspected STEMI.,with,O
+42,The patient presented with acute chest pain and underwent an emergency angioplasty procedure due to suspected STEMI.,acute,O
+42,The patient presented with acute chest pain and underwent an emergency angioplasty procedure due to suspected STEMI.,chest,O
+42,The patient presented with acute chest pain and underwent an emergency angioplasty procedure due to suspected STEMI.,pain,B-SYMPTOM
+42,The patient presented with acute chest pain and underwent an emergency angioplasty procedure due to suspected STEMI.,and,O
+42,The patient presented with acute chest pain and underwent an emergency angioplasty procedure due to suspected STEMI.,underwent,O
+42,The patient presented with acute chest pain and underwent an emergency angioplasty procedure due to suspected STEMI.,an,O
+42,The patient presented with acute chest pain and underwent an emergency angioplasty procedure due to suspected STEMI.,emergency,O
+42,The patient presented with acute chest pain and underwent an emergency angioplasty procedure due to suspected STEMI.,angioplasty,B-PROCEDURE
+42,The patient presented with acute chest pain and underwent an emergency angioplasty procedure due to suspected STEMI.,procedure,I-PROCEDURE
+42,The patient presented with acute chest pain and underwent an emergency angioplasty procedure due to suspected STEMI.,due,O
+42,The patient presented with acute chest pain and underwent an emergency angioplasty procedure due to suspected STEMI.,to,O
+42,The patient presented with acute chest pain and underwent an emergency angioplasty procedure due to suspected STEMI.,suspected,O
+42,The patient presented with acute chest pain and underwent an emergency angioplasty procedure due to suspected STEMI.,STEMI,B-CONDITION
+42,The patient presented with acute chest pain and underwent an emergency angioplasty procedure due to suspected STEMI.,.,O
