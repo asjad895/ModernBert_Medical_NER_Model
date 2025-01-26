@@ -1,0 +1,925 @@
+sentence_id,text,token,ner_tag
+0,रोगी को तेज़ सिर दर्द और बुखार के कारण डॉक्टर ने ECG और ब्लड टेस्ट के लिए कहा और 250mg Paracetamol दिया।,रोगी,O
+0,रोगी को तेज़ सिर दर्द और बुखार के कारण डॉक्टर ने ECG और ब्लड टेस्ट के लिए कहा और 250mg Paracetamol दिया।,को,O
+0,रोगी को तेज़ सिर दर्द और बुखार के कारण डॉक्टर ने ECG और ब्लड टेस्ट के लिए कहा और 250mg Paracetamol दिया।,तेज़,B-SYMPTOM
+0,रोगी को तेज़ सिर दर्द और बुखार के कारण डॉक्टर ने ECG और ब्लड टेस्ट के लिए कहा और 250mg Paracetamol दिया।,सिर,I-SYMPTOM
+0,रोगी को तेज़ सिर दर्द और बुखार के कारण डॉक्टर ने ECG और ब्लड टेस्ट के लिए कहा और 250mg Paracetamol दिया।,दर्द,I-SYMPTOM
+0,रोगी को तेज़ सिर दर्द और बुखार के कारण डॉक्टर ने ECG और ब्लड टेस्ट के लिए कहा और 250mg Paracetamol दिया।,और,O
+0,रोगी को तेज़ सिर दर्द और बुखार के कारण डॉक्टर ने ECG और ब्लड टेस्ट के लिए कहा और 250mg Paracetamol दिया।,बुखार,B-SYMPTOM
+0,रोगी को तेज़ सिर दर्द और बुखार के कारण डॉक्टर ने ECG और ब्लड टेस्ट के लिए कहा और 250mg Paracetamol दिया।,के,O
+0,रोगी को तेज़ सिर दर्द और बुखार के कारण डॉक्टर ने ECG और ब्लड टेस्ट के लिए कहा और 250mg Paracetamol दिया।,कारण,O
+0,रोगी को तेज़ सिर दर्द और बुखार के कारण डॉक्टर ने ECG और ब्लड टेस्ट के लिए कहा और 250mg Paracetamol दिया।,डॉक्टर,O
+0,रोगी को तेज़ सिर दर्द और बुखार के कारण डॉक्टर ने ECG और ब्लड टेस्ट के लिए कहा और 250mg Paracetamol दिया।,ने,O
+0,रोगी को तेज़ सिर दर्द और बुखार के कारण डॉक्टर ने ECG और ब्लड टेस्ट के लिए कहा और 250mg Paracetamol दिया।,ECG,B-TEST
+0,रोगी को तेज़ सिर दर्द और बुखार के कारण डॉक्टर ने ECG और ब्लड टेस्ट के लिए कहा और 250mg Paracetamol दिया।,और,O
+0,रोगी को तेज़ सिर दर्द और बुखार के कारण डॉक्टर ने ECG और ब्लड टेस्ट के लिए कहा और 250mg Paracetamol दिया।,ब्लड,B-TEST
+0,रोगी को तेज़ सिर दर्द और बुखार के कारण डॉक्टर ने ECG और ब्लड टेस्ट के लिए कहा और 250mg Paracetamol दिया।,टेस्ट,I-TEST
+0,रोगी को तेज़ सिर दर्द और बुखार के कारण डॉक्टर ने ECG और ब्लड टेस्ट के लिए कहा और 250mg Paracetamol दिया।,के,O
+0,रोगी को तेज़ सिर दर्द और बुखार के कारण डॉक्टर ने ECG और ब्लड टेस्ट के लिए कहा और 250mg Paracetamol दिया।,लिए,O
+0,रोगी को तेज़ सिर दर्द और बुखार के कारण डॉक्टर ने ECG और ब्लड टेस्ट के लिए कहा और 250mg Paracetamol दिया।,कहा,O
+0,रोगी को तेज़ सिर दर्द और बुखार के कारण डॉक्टर ने ECG और ब्लड टेस्ट के लिए कहा और 250mg Paracetamol दिया।,और,O
+0,रोगी को तेज़ सिर दर्द और बुखार के कारण डॉक्टर ने ECG और ब्लड टेस्ट के लिए कहा और 250mg Paracetamol दिया।,250mg,B-DOSAGE
+0,रोगी को तेज़ सिर दर्द और बुखार के कारण डॉक्टर ने ECG और ब्लड टेस्ट के लिए कहा और 250mg Paracetamol दिया।,Paracetamol,B-MEDICATION
+0,रोगी को तेज़ सिर दर्द और बुखार के कारण डॉक्टर ने ECG और ब्लड टेस्ट के लिए कहा और 250mg Paracetamol दिया।,दिया,O
+0,रोगी को तेज़ सिर दर्द और बुखार के कारण डॉक्टर ने ECG और ब्लड टेस्ट के लिए कहा और 250mg Paracetamol दिया।,।,O
+1,The patient with मधुमेह (Diabetes) underwent an Angioplasty procedure and was prescribed 5mg Atorvastatin daily for 30 days to control his तेज़ बुखार (high fever) and chest pain after a abnormal Lipid Profile test.,The,O
+1,The patient with मधुमेह (Diabetes) underwent an Angioplasty procedure and was prescribed 5mg Atorvastatin daily for 30 days to control his तेज़ बुखार (high fever) and chest pain after a abnormal Lipid Profile test.,patient,O
+1,The patient with मधुमेह (Diabetes) underwent an Angioplasty procedure and was prescribed 5mg Atorvastatin daily for 30 days to control his तेज़ बुखार (high fever) and chest pain after a abnormal Lipid Profile test.,with,O
+1,The patient with मधुमेह (Diabetes) underwent an Angioplasty procedure and was prescribed 5mg Atorvastatin daily for 30 days to control his तेज़ बुखार (high fever) and chest pain after a abnormal Lipid Profile test.,मधुमेह,B-CONDITION
+1,The patient with मधुमेह (Diabetes) underwent an Angioplasty procedure and was prescribed 5mg Atorvastatin daily for 30 days to control his तेज़ बुखार (high fever) and chest pain after a abnormal Lipid Profile test.,(,O
+1,The patient with मधुमेह (Diabetes) underwent an Angioplasty procedure and was prescribed 5mg Atorvastatin daily for 30 days to control his तेज़ बुखार (high fever) and chest pain after a abnormal Lipid Profile test.,Diabetes,I-CONDITION
+1,The patient with मधुमेह (Diabetes) underwent an Angioplasty procedure and was prescribed 5mg Atorvastatin daily for 30 days to control his तेज़ बुखार (high fever) and chest pain after a abnormal Lipid Profile test.,),O
+1,The patient with मधुमेह (Diabetes) underwent an Angioplasty procedure and was prescribed 5mg Atorvastatin daily for 30 days to control his तेज़ बुखार (high fever) and chest pain after a abnormal Lipid Profile test.,underwent,O
+1,The patient with मधुमेह (Diabetes) underwent an Angioplasty procedure and was prescribed 5mg Atorvastatin daily for 30 days to control his तेज़ बुखार (high fever) and chest pain after a abnormal Lipid Profile test.,an,O
+1,The patient with मधुमेह (Diabetes) underwent an Angioplasty procedure and was prescribed 5mg Atorvastatin daily for 30 days to control his तेज़ बुखार (high fever) and chest pain after a abnormal Lipid Profile test.,Angioplasty,B-PROCEDURE
+1,The patient with मधुमेह (Diabetes) underwent an Angioplasty procedure and was prescribed 5mg Atorvastatin daily for 30 days to control his तेज़ बुखार (high fever) and chest pain after a abnormal Lipid Profile test.,procedure,I-PROCEDURE
+1,The patient with मधुमेह (Diabetes) underwent an Angioplasty procedure and was prescribed 5mg Atorvastatin daily for 30 days to control his तेज़ बुखार (high fever) and chest pain after a abnormal Lipid Profile test.,and,O
+1,The patient with मधुमेह (Diabetes) underwent an Angioplasty procedure and was prescribed 5mg Atorvastatin daily for 30 days to control his तेज़ बुखार (high fever) and chest pain after a abnormal Lipid Profile test.,was,O
+1,The patient with मधुमेह (Diabetes) underwent an Angioplasty procedure and was prescribed 5mg Atorvastatin daily for 30 days to control his तेज़ बुखार (high fever) and chest pain after a abnormal Lipid Profile test.,prescribed,O
+1,The patient with मधुमेह (Diabetes) underwent an Angioplasty procedure and was prescribed 5mg Atorvastatin daily for 30 days to control his तेज़ बुखार (high fever) and chest pain after a abnormal Lipid Profile test.,5mg,B-DOSAGE
+1,The patient with मधुमेह (Diabetes) underwent an Angioplasty procedure and was prescribed 5mg Atorvastatin daily for 30 days to control his तेज़ बुखार (high fever) and chest pain after a abnormal Lipid Profile test.,Atorvastatin,B-MEDICATION
+1,The patient with मधुमेह (Diabetes) underwent an Angioplasty procedure and was prescribed 5mg Atorvastatin daily for 30 days to control his तेज़ बुखार (high fever) and chest pain after a abnormal Lipid Profile test.,daily,B-DOSAGE
+1,The patient with मधुमेह (Diabetes) underwent an Angioplasty procedure and was prescribed 5mg Atorvastatin daily for 30 days to control his तेज़ बुखार (high fever) and chest pain after a abnormal Lipid Profile test.,for,O
+1,The patient with मधुमेह (Diabetes) underwent an Angioplasty procedure and was prescribed 5mg Atorvastatin daily for 30 days to control his तेज़ बुखार (high fever) and chest pain after a abnormal Lipid Profile test.,30,B-DOSAGE
+1,The patient with मधुमेह (Diabetes) underwent an Angioplasty procedure and was prescribed 5mg Atorvastatin daily for 30 days to control his तेज़ बुखार (high fever) and chest pain after a abnormal Lipid Profile test.,days,B-DOSAGE
+1,The patient with मधुमेह (Diabetes) underwent an Angioplasty procedure and was prescribed 5mg Atorvastatin daily for 30 days to control his तेज़ बुखार (high fever) and chest pain after a abnormal Lipid Profile test.,to,O
+1,The patient with मधुमेह (Diabetes) underwent an Angioplasty procedure and was prescribed 5mg Atorvastatin daily for 30 days to control his तेज़ बुखार (high fever) and chest pain after a abnormal Lipid Profile test.,control,O
+1,The patient with मधुमेह (Diabetes) underwent an Angioplasty procedure and was prescribed 5mg Atorvastatin daily for 30 days to control his तेज़ बुखार (high fever) and chest pain after a abnormal Lipid Profile test.,his,O
+1,The patient with मधुमेह (Diabetes) underwent an Angioplasty procedure and was prescribed 5mg Atorvastatin daily for 30 days to control his तेज़ बुखार (high fever) and chest pain after a abnormal Lipid Profile test.,तेज़,B-SYMPTOM
+1,The patient with मधुमेह (Diabetes) underwent an Angioplasty procedure and was prescribed 5mg Atorvastatin daily for 30 days to control his तेज़ बुखार (high fever) and chest pain after a abnormal Lipid Profile test.,बुखार,I-SYMPTOM
+1,The patient with मधुमेह (Diabetes) underwent an Angioplasty procedure and was prescribed 5mg Atorvastatin daily for 30 days to control his तेज़ बुखार (high fever) and chest pain after a abnormal Lipid Profile test.,(,O
+1,The patient with मधुमेह (Diabetes) underwent an Angioplasty procedure and was prescribed 5mg Atorvastatin daily for 30 days to control his तेज़ बुखार (high fever) and chest pain after a abnormal Lipid Profile test.,high,I-SYMPTOM
+1,The patient with मधुमेह (Diabetes) underwent an Angioplasty procedure and was prescribed 5mg Atorvastatin daily for 30 days to control his तेज़ बुखार (high fever) and chest pain after a abnormal Lipid Profile test.,fever,I-SYMPTOM
+1,The patient with मधुमेह (Diabetes) underwent an Angioplasty procedure and was prescribed 5mg Atorvastatin daily for 30 days to control his तेज़ बुखार (high fever) and chest pain after a abnormal Lipid Profile test.,),O
+1,The patient with मधुमेह (Diabetes) underwent an Angioplasty procedure and was prescribed 5mg Atorvastatin daily for 30 days to control his तेज़ बुखार (high fever) and chest pain after a abnormal Lipid Profile test.,and,O
+1,The patient with मधुमेह (Diabetes) underwent an Angioplasty procedure and was prescribed 5mg Atorvastatin daily for 30 days to control his तेज़ बुखार (high fever) and chest pain after a abnormal Lipid Profile test.,chest,B-SYMPTOM
+1,The patient with मधुमेह (Diabetes) underwent an Angioplasty procedure and was prescribed 5mg Atorvastatin daily for 30 days to control his तेज़ बुखार (high fever) and chest pain after a abnormal Lipid Profile test.,pain,I-SYMPTOM
+1,The patient with मधुमेह (Diabetes) underwent an Angioplasty procedure and was prescribed 5mg Atorvastatin daily for 30 days to control his तेज़ बुखार (high fever) and chest pain after a abnormal Lipid Profile test.,after,O
+1,The patient with मधुमेह (Diabetes) underwent an Angioplasty procedure and was prescribed 5mg Atorvastatin daily for 30 days to control his तेज़ बुखार (high fever) and chest pain after a abnormal Lipid Profile test.,a,O
+1,The patient with मधुमेह (Diabetes) underwent an Angioplasty procedure and was prescribed 5mg Atorvastatin daily for 30 days to control his तेज़ बुखार (high fever) and chest pain after a abnormal Lipid Profile test.,abnormal,O
+1,The patient with मधुमेह (Diabetes) underwent an Angioplasty procedure and was prescribed 5mg Atorvastatin daily for 30 days to control his तेज़ बुखार (high fever) and chest pain after a abnormal Lipid Profile test.,Lipid,B-TEST
+1,The patient with मधुमेह (Diabetes) underwent an Angioplasty procedure and was prescribed 5mg Atorvastatin daily for 30 days to control his तेज़ बुखार (high fever) and chest pain after a abnormal Lipid Profile test.,Profile,I-TEST
+1,The patient with मधुमेह (Diabetes) underwent an Angioplasty procedure and was prescribed 5mg Atorvastatin daily for 30 days to control his तेज़ बुखार (high fever) and chest pain after a abnormal Lipid Profile test.,test,I-TEST
+1,The patient with मधुमेह (Diabetes) underwent an Angioplasty procedure and was prescribed 5mg Atorvastatin daily for 30 days to control his तेज़ बुखार (high fever) and chest pain after a abnormal Lipid Profile test.,.,O
+2,Patient को तेज़ बुखार और सिर दर्द के कारण डॉक्टर ने 5mg Paracetamol और एक ब्लड टेस्ट की सलाह दी और फिर ईसीजी रिपोर्ट के बाद ही आगे की कार्रवाई करने का फैसला किया।,Patient,O
+2,Patient को तेज़ बुखार और सिर दर्द के कारण डॉक्टर ने 5mg Paracetamol और एक ब्लड टेस्ट की सलाह दी और फिर ईसीजी रिपोर्ट के बाद ही आगे की कार्रवाई करने का फैसला किया।,को,O
+2,Patient को तेज़ बुखार और सिर दर्द के कारण डॉक्टर ने 5mg Paracetamol और एक ब्लड टेस्ट की सलाह दी और फिर ईसीजी रिपोर्ट के बाद ही आगे की कार्रवाई करने का फैसला किया।,तेज़,B-SYMPTOM
+2,Patient को तेज़ बुखार और सिर दर्द के कारण डॉक्टर ने 5mg Paracetamol और एक ब्लड टेस्ट की सलाह दी और फिर ईसीजी रिपोर्ट के बाद ही आगे की कार्रवाई करने का फैसला किया।,बुखार,I-SYMPTOM
+2,Patient को तेज़ बुखार और सिर दर्द के कारण डॉक्टर ने 5mg Paracetamol और एक ब्लड टेस्ट की सलाह दी और फिर ईसीजी रिपोर्ट के बाद ही आगे की कार्रवाई करने का फैसला किया।,और,O
+2,Patient को तेज़ बुखार और सिर दर्द के कारण डॉक्टर ने 5mg Paracetamol और एक ब्लड टेस्ट की सलाह दी और फिर ईसीजी रिपोर्ट के बाद ही आगे की कार्रवाई करने का फैसला किया।,सिर,B-SYMPTOM
+2,Patient को तेज़ बुखार और सिर दर्द के कारण डॉक्टर ने 5mg Paracetamol और एक ब्लड टेस्ट की सलाह दी और फिर ईसीजी रिपोर्ट के बाद ही आगे की कार्रवाई करने का फैसला किया।,दर्द,I-SYMPTOM
+2,Patient को तेज़ बुखार और सिर दर्द के कारण डॉक्टर ने 5mg Paracetamol और एक ब्लड टेस्ट की सलाह दी और फिर ईसीजी रिपोर्ट के बाद ही आगे की कार्रवाई करने का फैसला किया।,के,O
+2,Patient को तेज़ बुखार और सिर दर्द के कारण डॉक्टर ने 5mg Paracetamol और एक ब्लड टेस्ट की सलाह दी और फिर ईसीजी रिपोर्ट के बाद ही आगे की कार्रवाई करने का फैसला किया।,कारण,O
+2,Patient को तेज़ बुखार और सिर दर्द के कारण डॉक्टर ने 5mg Paracetamol और एक ब्लड टेस्ट की सलाह दी और फिर ईसीजी रिपोर्ट के बाद ही आगे की कार्रवाई करने का फैसला किया।,डॉक्टर,O
+2,Patient को तेज़ बुखार और सिर दर्द के कारण डॉक्टर ने 5mg Paracetamol और एक ब्लड टेस्ट की सलाह दी और फिर ईसीजी रिपोर्ट के बाद ही आगे की कार्रवाई करने का फैसला किया।,ने,O
+2,Patient को तेज़ बुखार और सिर दर्द के कारण डॉक्टर ने 5mg Paracetamol और एक ब्लड टेस्ट की सलाह दी और फिर ईसीजी रिपोर्ट के बाद ही आगे की कार्रवाई करने का फैसला किया।,5mg,B-DOSAGE
+2,Patient को तेज़ बुखार और सिर दर्द के कारण डॉक्टर ने 5mg Paracetamol और एक ब्लड टेस्ट की सलाह दी और फिर ईसीजी रिपोर्ट के बाद ही आगे की कार्रवाई करने का फैसला किया।,Paracetamol,B-MEDICATION
+2,Patient को तेज़ बुखार और सिर दर्द के कारण डॉक्टर ने 5mg Paracetamol और एक ब्लड टेस्ट की सलाह दी और फिर ईसीजी रिपोर्ट के बाद ही आगे की कार्रवाई करने का फैसला किया।,और,O
+2,Patient को तेज़ बुखार और सिर दर्द के कारण डॉक्टर ने 5mg Paracetamol और एक ब्लड टेस्ट की सलाह दी और फिर ईसीजी रिपोर्ट के बाद ही आगे की कार्रवाई करने का फैसला किया।,एक,O
+2,Patient को तेज़ बुखार और सिर दर्द के कारण डॉक्टर ने 5mg Paracetamol और एक ब्लड टेस्ट की सलाह दी और फिर ईसीजी रिपोर्ट के बाद ही आगे की कार्रवाई करने का फैसला किया।,ब्लड,B-TEST
+2,Patient को तेज़ बुखार और सिर दर्द के कारण डॉक्टर ने 5mg Paracetamol और एक ब्लड टेस्ट की सलाह दी और फिर ईसीजी रिपोर्ट के बाद ही आगे की कार्रवाई करने का फैसला किया।,टेस्ट,I-TEST
+2,Patient को तेज़ बुखार और सिर दर्द के कारण डॉक्टर ने 5mg Paracetamol और एक ब्लड टेस्ट की सलाह दी और फिर ईसीजी रिपोर्ट के बाद ही आगे की कार्रवाई करने का फैसला किया।,की,O
+2,Patient को तेज़ बुखार और सिर दर्द के कारण डॉक्टर ने 5mg Paracetamol और एक ब्लड टेस्ट की सलाह दी और फिर ईसीजी रिपोर्ट के बाद ही आगे की कार्रवाई करने का फैसला किया।,सलाह,O
+2,Patient को तेज़ बुखार और सिर दर्द के कारण डॉक्टर ने 5mg Paracetamol और एक ब्लड टेस्ट की सलाह दी और फिर ईसीजी रिपोर्ट के बाद ही आगे की कार्रवाई करने का फैसला किया।,दी,O
+2,Patient को तेज़ बुखार और सिर दर्द के कारण डॉक्टर ने 5mg Paracetamol और एक ब्लड टेस्ट की सलाह दी और फिर ईसीजी रिपोर्ट के बाद ही आगे की कार्रवाई करने का फैसला किया।,और,O
+2,Patient को तेज़ बुखार और सिर दर्द के कारण डॉक्टर ने 5mg Paracetamol और एक ब्लड टेस्ट की सलाह दी और फिर ईसीजी रिपोर्ट के बाद ही आगे की कार्रवाई करने का फैसला किया।,फिर,O
+2,Patient को तेज़ बुखार और सिर दर्द के कारण डॉक्टर ने 5mg Paracetamol और एक ब्लड टेस्ट की सलाह दी और फिर ईसीजी रिपोर्ट के बाद ही आगे की कार्रवाई करने का फैसला किया।,ईसीजी,B-TEST
+2,Patient को तेज़ बुखार और सिर दर्द के कारण डॉक्टर ने 5mg Paracetamol और एक ब्लड टेस्ट की सलाह दी और फिर ईसीजी रिपोर्ट के बाद ही आगे की कार्रवाई करने का फैसला किया।,रिपोर्ट,I-TEST
+2,Patient को तेज़ बुखार और सिर दर्द के कारण डॉक्टर ने 5mg Paracetamol और एक ब्लड टेस्ट की सलाह दी और फिर ईसीजी रिपोर्ट के बाद ही आगे की कार्रवाई करने का फैसला किया।,के,O
+2,Patient को तेज़ बुखार और सिर दर्द के कारण डॉक्टर ने 5mg Paracetamol और एक ब्लड टेस्ट की सलाह दी और फिर ईसीजी रिपोर्ट के बाद ही आगे की कार्रवाई करने का फैसला किया।,बाद,O
+2,Patient को तेज़ बुखार और सिर दर्द के कारण डॉक्टर ने 5mg Paracetamol और एक ब्लड टेस्ट की सलाह दी और फिर ईसीजी रिपोर्ट के बाद ही आगे की कार्रवाई करने का फैसला किया।,ही,O
+2,Patient को तेज़ बुखार और सिर दर्द के कारण डॉक्टर ने 5mg Paracetamol और एक ब्लड टेस्ट की सलाह दी और फिर ईसीजी रिपोर्ट के बाद ही आगे की कार्रवाई करने का फैसला किया।,आगे,O
+2,Patient को तेज़ बुखार और सिर दर्द के कारण डॉक्टर ने 5mg Paracetamol और एक ब्लड टेस्ट की सलाह दी और फिर ईसीजी रिपोर्ट के बाद ही आगे की कार्रवाई करने का फैसला किया।,की,O
+2,Patient को तेज़ बुखार और सिर दर्द के कारण डॉक्टर ने 5mg Paracetamol और एक ब्लड टेस्ट की सलाह दी और फिर ईसीजी रिपोर्ट के बाद ही आगे की कार्रवाई करने का फैसला किया।,कार्रवाई,O
+2,Patient को तेज़ बुखार और सिर दर्द के कारण डॉक्टर ने 5mg Paracetamol और एक ब्लड टेस्ट की सलाह दी और फिर ईसीजी रिपोर्ट के बाद ही आगे की कार्रवाई करने का फैसला किया।,करने,O
+2,Patient को तेज़ बुखार और सिर दर्द के कारण डॉक्टर ने 5mg Paracetamol और एक ब्लड टेस्ट की सलाह दी और फिर ईसीजी रिपोर्ट के बाद ही आगे की कार्रवाई करने का फैसला किया।,का,O
+2,Patient को तेज़ बुखार और सिर दर्द के कारण डॉक्टर ने 5mg Paracetamol और एक ब्लड टेस्ट की सलाह दी और फिर ईसीजी रिपोर्ट के बाद ही आगे की कार्रवाई करने का फैसला किया।,फैसला,O
+2,Patient को तेज़ बुखार और सिर दर्द के कारण डॉक्टर ने 5mg Paracetamol और एक ब्लड टेस्ट की सलाह दी और फिर ईसीजी रिपोर्ट के बाद ही आगे की कार्रवाई करने का फैसला किया।,किया,O
+2,Patient को तेज़ बुखार और सिर दर्द के कारण डॉक्टर ने 5mg Paracetamol और एक ब्लड टेस्ट की सलाह दी और फिर ईसीजी रिपोर्ट के बाद ही आगे की कार्रवाई करने का फैसला किया।,।,O
+3,"एक मरीज़ को तेज़ सिर दर्द और बुखार था, इसलिए डॉक्टर ने उसे 500mg Paracetamol दिया और एक ECG टेस्ट कराने की सलाह दी।",एक,O
+3,"एक मरीज़ को तेज़ सिर दर्द और बुखार था, इसलिए डॉक्टर ने उसे 500mg Paracetamol दिया और एक ECG टेस्ट कराने की सलाह दी।",मरीज़,O
+3,"एक मरीज़ को तेज़ सिर दर्द और बुखार था, इसलिए डॉक्टर ने उसे 500mg Paracetamol दिया और एक ECG टेस्ट कराने की सलाह दी।",को,O
+3,"एक मरीज़ को तेज़ सिर दर्द और बुखार था, इसलिए डॉक्टर ने उसे 500mg Paracetamol दिया और एक ECG टेस्ट कराने की सलाह दी।",तेज़,B-SYMPTOM
+3,"एक मरीज़ को तेज़ सिर दर्द और बुखार था, इसलिए डॉक्टर ने उसे 500mg Paracetamol दिया और एक ECG टेस्ट कराने की सलाह दी।",सिर,I-SYMPTOM
+3,"एक मरीज़ को तेज़ सिर दर्द और बुखार था, इसलिए डॉक्टर ने उसे 500mg Paracetamol दिया और एक ECG टेस्ट कराने की सलाह दी।",दर्द,I-SYMPTOM
+3,"एक मरीज़ को तेज़ सिर दर्द और बुखार था, इसलिए डॉक्टर ने उसे 500mg Paracetamol दिया और एक ECG टेस्ट कराने की सलाह दी।",और,O
+3,"एक मरीज़ को तेज़ सिर दर्द और बुखार था, इसलिए डॉक्टर ने उसे 500mg Paracetamol दिया और एक ECG टेस्ट कराने की सलाह दी।",बुखार,B-SYMPTOM
+3,"एक मरीज़ को तेज़ सिर दर्द और बुखार था, इसलिए डॉक्टर ने उसे 500mg Paracetamol दिया और एक ECG टेस्ट कराने की सलाह दी।",था,O
+3,"एक मरीज़ को तेज़ सिर दर्द और बुखार था, इसलिए डॉक्टर ने उसे 500mg Paracetamol दिया और एक ECG टेस्ट कराने की सलाह दी।",",",O
+3,"एक मरीज़ को तेज़ सिर दर्द और बुखार था, इसलिए डॉक्टर ने उसे 500mg Paracetamol दिया और एक ECG टेस्ट कराने की सलाह दी।",इसलिए,O
+3,"एक मरीज़ को तेज़ सिर दर्द और बुखार था, इसलिए डॉक्टर ने उसे 500mg Paracetamol दिया और एक ECG टेस्ट कराने की सलाह दी।",डॉक्टर,O
+3,"एक मरीज़ को तेज़ सिर दर्द और बुखार था, इसलिए डॉक्टर ने उसे 500mg Paracetamol दिया और एक ECG टेस्ट कराने की सलाह दी।",ने,O
+3,"एक मरीज़ को तेज़ सिर दर्द और बुखार था, इसलिए डॉक्टर ने उसे 500mg Paracetamol दिया और एक ECG टेस्ट कराने की सलाह दी।",उसे,O
+3,"एक मरीज़ को तेज़ सिर दर्द और बुखार था, इसलिए डॉक्टर ने उसे 500mg Paracetamol दिया और एक ECG टेस्ट कराने की सलाह दी।",500mg,B-DOSAGE
+3,"एक मरीज़ को तेज़ सिर दर्द और बुखार था, इसलिए डॉक्टर ने उसे 500mg Paracetamol दिया और एक ECG टेस्ट कराने की सलाह दी।",Paracetamol,B-MEDICATION
+3,"एक मरीज़ को तेज़ सिर दर्द और बुखार था, इसलिए डॉक्टर ने उसे 500mg Paracetamol दिया और एक ECG टेस्ट कराने की सलाह दी।",दिया,O
+3,"एक मरीज़ को तेज़ सिर दर्द और बुखार था, इसलिए डॉक्टर ने उसे 500mg Paracetamol दिया और एक ECG टेस्ट कराने की सलाह दी।",और,O
+3,"एक मरीज़ को तेज़ सिर दर्द और बुखार था, इसलिए डॉक्टर ने उसे 500mg Paracetamol दिया और एक ECG टेस्ट कराने की सलाह दी।",एक,O
+3,"एक मरीज़ को तेज़ सिर दर्द और बुखार था, इसलिए डॉक्टर ने उसे 500mg Paracetamol दिया और एक ECG टेस्ट कराने की सलाह दी।",ECG,B-TEST
+3,"एक मरीज़ को तेज़ सिर दर्द और बुखार था, इसलिए डॉक्टर ने उसे 500mg Paracetamol दिया और एक ECG टेस्ट कराने की सलाह दी।",टेस्ट,I-TEST
+3,"एक मरीज़ को तेज़ सिर दर्द और बुखार था, इसलिए डॉक्टर ने उसे 500mg Paracetamol दिया और एक ECG टेस्ट कराने की सलाह दी।",कराने,O
+3,"एक मरीज़ को तेज़ सिर दर्द और बुखार था, इसलिए डॉक्टर ने उसे 500mg Paracetamol दिया और एक ECG टेस्ट कराने की सलाह दी।",की,O
+3,"एक मरीज़ को तेज़ सिर दर्द और बुखार था, इसलिए डॉक्टर ने उसे 500mg Paracetamol दिया और एक ECG टेस्ट कराने की सलाह दी।",सलाह,O
+3,"एक मरीज़ को तेज़ सिर दर्द और बुखार था, इसलिए डॉक्टर ने उसे 500mg Paracetamol दिया और एक ECG टेस्ट कराने की सलाह दी।",दी,O
+3,"एक मरीज़ को तेज़ सिर दर्द और बुखार था, इसलिए डॉक्टर ने उसे 500mg Paracetamol दिया और एक ECG टेस्ट कराने की सलाह दी।",।,O
+4,"रोगी को हृदय रोग के कारण Angioplasty की आवश्यकता थी, इसलिए डॉक्टर ने उसे 5mg Aspirin और 200mL PPI दिया और एक ECG टेस्ट भी कराया।",रोगी,O
+4,"रोगी को हृदय रोग के कारण Angioplasty की आवश्यकता थी, इसलिए डॉक्टर ने उसे 5mg Aspirin और 200mL PPI दिया और एक ECG टेस्ट भी कराया।",को,O
+4,"रोगी को हृदय रोग के कारण Angioplasty की आवश्यकता थी, इसलिए डॉक्टर ने उसे 5mg Aspirin और 200mL PPI दिया और एक ECG टेस्ट भी कराया।",हृदय,B-CONDITION
+4,"रोगी को हृदय रोग के कारण Angioplasty की आवश्यकता थी, इसलिए डॉक्टर ने उसे 5mg Aspirin और 200mL PPI दिया और एक ECG टेस्ट भी कराया।",रोग,I-CONDITION
+4,"रोगी को हृदय रोग के कारण Angioplasty की आवश्यकता थी, इसलिए डॉक्टर ने उसे 5mg Aspirin और 200mL PPI दिया और एक ECG टेस्ट भी कराया।",के,O
+4,"रोगी को हृदय रोग के कारण Angioplasty की आवश्यकता थी, इसलिए डॉक्टर ने उसे 5mg Aspirin और 200mL PPI दिया और एक ECG टेस्ट भी कराया।",कारण,O
+4,"रोगी को हृदय रोग के कारण Angioplasty की आवश्यकता थी, इसलिए डॉक्टर ने उसे 5mg Aspirin और 200mL PPI दिया और एक ECG टेस्ट भी कराया।",Angioplasty,B-PROCEDURE
+4,"रोगी को हृदय रोग के कारण Angioplasty की आवश्यकता थी, इसलिए डॉक्टर ने उसे 5mg Aspirin और 200mL PPI दिया और एक ECG टेस्ट भी कराया।",की,O
+4,"रोगी को हृदय रोग के कारण Angioplasty की आवश्यकता थी, इसलिए डॉक्टर ने उसे 5mg Aspirin और 200mL PPI दिया और एक ECG टेस्ट भी कराया।",आवश्यकता,O
+4,"रोगी को हृदय रोग के कारण Angioplasty की आवश्यकता थी, इसलिए डॉक्टर ने उसे 5mg Aspirin और 200mL PPI दिया और एक ECG टेस्ट भी कराया।",थी,O
+4,"रोगी को हृदय रोग के कारण Angioplasty की आवश्यकता थी, इसलिए डॉक्टर ने उसे 5mg Aspirin और 200mL PPI दिया और एक ECG टेस्ट भी कराया।",",",O
+4,"रोगी को हृदय रोग के कारण Angioplasty की आवश्यकता थी, इसलिए डॉक्टर ने उसे 5mg Aspirin और 200mL PPI दिया और एक ECG टेस्ट भी कराया।",इसलिए,O
+4,"रोगी को हृदय रोग के कारण Angioplasty की आवश्यकता थी, इसलिए डॉक्टर ने उसे 5mg Aspirin और 200mL PPI दिया और एक ECG टेस्ट भी कराया।",डॉक्टर,O
+4,"रोगी को हृदय रोग के कारण Angioplasty की आवश्यकता थी, इसलिए डॉक्टर ने उसे 5mg Aspirin और 200mL PPI दिया और एक ECG टेस्ट भी कराया।",ने,O
+4,"रोगी को हृदय रोग के कारण Angioplasty की आवश्यकता थी, इसलिए डॉक्टर ने उसे 5mg Aspirin और 200mL PPI दिया और एक ECG टेस्ट भी कराया।",उसे,O
+4,"रोगी को हृदय रोग के कारण Angioplasty की आवश्यकता थी, इसलिए डॉक्टर ने उसे 5mg Aspirin और 200mL PPI दिया और एक ECG टेस्ट भी कराया।",5mg,B-DOSAGE
+4,"रोगी को हृदय रोग के कारण Angioplasty की आवश्यकता थी, इसलिए डॉक्टर ने उसे 5mg Aspirin और 200mL PPI दिया और एक ECG टेस्ट भी कराया।",Aspirin,B-MEDICATION
+4,"रोगी को हृदय रोग के कारण Angioplasty की आवश्यकता थी, इसलिए डॉक्टर ने उसे 5mg Aspirin और 200mL PPI दिया और एक ECG टेस्ट भी कराया।",और,O
+4,"रोगी को हृदय रोग के कारण Angioplasty की आवश्यकता थी, इसलिए डॉक्टर ने उसे 5mg Aspirin और 200mL PPI दिया और एक ECG टेस्ट भी कराया।",200mL,B-DOSAGE
+4,"रोगी को हृदय रोग के कारण Angioplasty की आवश्यकता थी, इसलिए डॉक्टर ने उसे 5mg Aspirin और 200mL PPI दिया और एक ECG टेस्ट भी कराया।",PPI,B-MEDICATION
+4,"रोगी को हृदय रोग के कारण Angioplasty की आवश्यकता थी, इसलिए डॉक्टर ने उसे 5mg Aspirin और 200mL PPI दिया और एक ECG टेस्ट भी कराया।",दिया,O
+4,"रोगी को हृदय रोग के कारण Angioplasty की आवश्यकता थी, इसलिए डॉक्टर ने उसे 5mg Aspirin और 200mL PPI दिया और एक ECG टेस्ट भी कराया।",और,O
+4,"रोगी को हृदय रोग के कारण Angioplasty की आवश्यकता थी, इसलिए डॉक्टर ने उसे 5mg Aspirin और 200mL PPI दिया और एक ECG टेस्ट भी कराया।",एक,O
+4,"रोगी को हृदय रोग के कारण Angioplasty की आवश्यकता थी, इसलिए डॉक्टर ने उसे 5mg Aspirin और 200mL PPI दिया और एक ECG टेस्ट भी कराया।",ECG,B-TEST
+4,"रोगी को हृदय रोग के कारण Angioplasty की आवश्यकता थी, इसलिए डॉक्टर ने उसे 5mg Aspirin और 200mL PPI दिया और एक ECG टेस्ट भी कराया।",टेस्ट,I-TEST
+4,"रोगी को हृदय रोग के कारण Angioplasty की आवश्यकता थी, इसलिए डॉक्टर ने उसे 5mg Aspirin और 200mL PPI दिया और एक ECG टेस्ट भी कराया।",भी,O
+4,"रोगी को हृदय रोग के कारण Angioplasty की आवश्यकता थी, इसलिए डॉक्टर ने उसे 5mg Aspirin और 200mL PPI दिया और एक ECG टेस्ट भी कराया।",कराया,O
+4,"रोगी को हृदय रोग के कारण Angioplasty की आवश्यकता थी, इसलिए डॉक्टर ने उसे 5mg Aspirin और 200mL PPI दिया और एक ECG टेस्ट भी कराया।",।,O
+5,"रोगी को हृदय रोग के कारण Angioplasty की आवश्यकता थी, जिसके बाद उसे तेज़ सांस और बुखार की शिकायत थी, इसलिए डॉक्टर ने 200mL Paracetamol और ऑक्सीजन थेरेपी दी।",रोगी,O
+5,"रोगी को हृदय रोग के कारण Angioplasty की आवश्यकता थी, जिसके बाद उसे तेज़ सांस और बुखार की शिकायत थी, इसलिए डॉक्टर ने 200mL Paracetamol और ऑक्सीजन थेरेपी दी।",को,O
+5,"रोगी को हृदय रोग के कारण Angioplasty की आवश्यकता थी, जिसके बाद उसे तेज़ सांस और बुखार की शिकायत थी, इसलिए डॉक्टर ने 200mL Paracetamol और ऑक्सीजन थेरेपी दी।",हृदय,B-CONDITION
+5,"रोगी को हृदय रोग के कारण Angioplasty की आवश्यकता थी, जिसके बाद उसे तेज़ सांस और बुखार की शिकायत थी, इसलिए डॉक्टर ने 200mL Paracetamol और ऑक्सीजन थेरेपी दी।",रोग,I-CONDITION
+5,"रोगी को हृदय रोग के कारण Angioplasty की आवश्यकता थी, जिसके बाद उसे तेज़ सांस और बुखार की शिकायत थी, इसलिए डॉक्टर ने 200mL Paracetamol और ऑक्सीजन थेरेपी दी।",के,O
+5,"रोगी को हृदय रोग के कारण Angioplasty की आवश्यकता थी, जिसके बाद उसे तेज़ सांस और बुखार की शिकायत थी, इसलिए डॉक्टर ने 200mL Paracetamol और ऑक्सीजन थेरेपी दी।",कारण,O
+5,"रोगी को हृदय रोग के कारण Angioplasty की आवश्यकता थी, जिसके बाद उसे तेज़ सांस और बुखार की शिकायत थी, इसलिए डॉक्टर ने 200mL Paracetamol और ऑक्सीजन थेरेपी दी।",Angioplasty,B-PROCEDURE
+5,"रोगी को हृदय रोग के कारण Angioplasty की आवश्यकता थी, जिसके बाद उसे तेज़ सांस और बुखार की शिकायत थी, इसलिए डॉक्टर ने 200mL Paracetamol और ऑक्सीजन थेरेपी दी।",की,O
+5,"रोगी को हृदय रोग के कारण Angioplasty की आवश्यकता थी, जिसके बाद उसे तेज़ सांस और बुखार की शिकायत थी, इसलिए डॉक्टर ने 200mL Paracetamol और ऑक्सीजन थेरेपी दी।",आवश्यकता,O
+5,"रोगी को हृदय रोग के कारण Angioplasty की आवश्यकता थी, जिसके बाद उसे तेज़ सांस और बुखार की शिकायत थी, इसलिए डॉक्टर ने 200mL Paracetamol और ऑक्सीजन थेरेपी दी।",थी,O
+5,"रोगी को हृदय रोग के कारण Angioplasty की आवश्यकता थी, जिसके बाद उसे तेज़ सांस और बुखार की शिकायत थी, इसलिए डॉक्टर ने 200mL Paracetamol और ऑक्सीजन थेरेपी दी।",",",O
+5,"रोगी को हृदय रोग के कारण Angioplasty की आवश्यकता थी, जिसके बाद उसे तेज़ सांस और बुखार की शिकायत थी, इसलिए डॉक्टर ने 200mL Paracetamol और ऑक्सीजन थेरेपी दी।",जिसके,O
+5,"रोगी को हृदय रोग के कारण Angioplasty की आवश्यकता थी, जिसके बाद उसे तेज़ सांस और बुखार की शिकायत थी, इसलिए डॉक्टर ने 200mL Paracetamol और ऑक्सीजन थेरेपी दी।",बाद,O
+5,"रोगी को हृदय रोग के कारण Angioplasty की आवश्यकता थी, जिसके बाद उसे तेज़ सांस और बुखार की शिकायत थी, इसलिए डॉक्टर ने 200mL Paracetamol और ऑक्सीजन थेरेपी दी।",उसे,O
+5,"रोगी को हृदय रोग के कारण Angioplasty की आवश्यकता थी, जिसके बाद उसे तेज़ सांस और बुखार की शिकायत थी, इसलिए डॉक्टर ने 200mL Paracetamol और ऑक्सीजन थेरेपी दी।",तेज़,B-SYMPTOM
+5,"रोगी को हृदय रोग के कारण Angioplasty की आवश्यकता थी, जिसके बाद उसे तेज़ सांस और बुखार की शिकायत थी, इसलिए डॉक्टर ने 200mL Paracetamol और ऑक्सीजन थेरेपी दी।",सांस,I-SYMPTOM
+5,"रोगी को हृदय रोग के कारण Angioplasty की आवश्यकता थी, जिसके बाद उसे तेज़ सांस और बुखार की शिकायत थी, इसलिए डॉक्टर ने 200mL Paracetamol और ऑक्सीजन थेरेपी दी।",और,O
+5,"रोगी को हृदय रोग के कारण Angioplasty की आवश्यकता थी, जिसके बाद उसे तेज़ सांस और बुखार की शिकायत थी, इसलिए डॉक्टर ने 200mL Paracetamol और ऑक्सीजन थेरेपी दी।",बुखार,B-SYMPTOM
+5,"रोगी को हृदय रोग के कारण Angioplasty की आवश्यकता थी, जिसके बाद उसे तेज़ सांस और बुखार की शिकायत थी, इसलिए डॉक्टर ने 200mL Paracetamol और ऑक्सीजन थेरेपी दी।",की,O
+5,"रोगी को हृदय रोग के कारण Angioplasty की आवश्यकता थी, जिसके बाद उसे तेज़ सांस और बुखार की शिकायत थी, इसलिए डॉक्टर ने 200mL Paracetamol और ऑक्सीजन थेरेपी दी।",शिकायत,O
+5,"रोगी को हृदय रोग के कारण Angioplasty की आवश्यकता थी, जिसके बाद उसे तेज़ सांस और बुखार की शिकायत थी, इसलिए डॉक्टर ने 200mL Paracetamol और ऑक्सीजन थेरेपी दी।",थी,O
+5,"रोगी को हृदय रोग के कारण Angioplasty की आवश्यकता थी, जिसके बाद उसे तेज़ सांस और बुखार की शिकायत थी, इसलिए डॉक्टर ने 200mL Paracetamol और ऑक्सीजन थेरेपी दी।",",",O
+5,"रोगी को हृदय रोग के कारण Angioplasty की आवश्यकता थी, जिसके बाद उसे तेज़ सांस और बुखार की शिकायत थी, इसलिए डॉक्टर ने 200mL Paracetamol और ऑक्सीजन थेरेपी दी।",इसलिए,O
+5,"रोगी को हृदय रोग के कारण Angioplasty की आवश्यकता थी, जिसके बाद उसे तेज़ सांस और बुखार की शिकायत थी, इसलिए डॉक्टर ने 200mL Paracetamol और ऑक्सीजन थेरेपी दी।",डॉक्टर,O
+5,"रोगी को हृदय रोग के कारण Angioplasty की आवश्यकता थी, जिसके बाद उसे तेज़ सांस और बुखार की शिकायत थी, इसलिए डॉक्टर ने 200mL Paracetamol और ऑक्सीजन थेरेपी दी।",ने,O
+5,"रोगी को हृदय रोग के कारण Angioplasty की आवश्यकता थी, जिसके बाद उसे तेज़ सांस और बुखार की शिकायत थी, इसलिए डॉक्टर ने 200mL Paracetamol और ऑक्सीजन थेरेपी दी।",200mL,B-DOSAGE
+5,"रोगी को हृदय रोग के कारण Angioplasty की आवश्यकता थी, जिसके बाद उसे तेज़ सांस और बुखार की शिकायत थी, इसलिए डॉक्टर ने 200mL Paracetamol और ऑक्सीजन थेरेपी दी।",Paracetamol,B-MEDICATION
+5,"रोगी को हृदय रोग के कारण Angioplasty की आवश्यकता थी, जिसके बाद उसे तेज़ सांस और बुखार की शिकायत थी, इसलिए डॉक्टर ने 200mL Paracetamol और ऑक्सीजन थेरेपी दी।",और,O
+5,"रोगी को हृदय रोग के कारण Angioplasty की आवश्यकता थी, जिसके बाद उसे तेज़ सांस और बुखार की शिकायत थी, इसलिए डॉक्टर ने 200mL Paracetamol और ऑक्सीजन थेरेपी दी।",ऑक्सीजन,B-TEST
+5,"रोगी को हृदय रोग के कारण Angioplasty की आवश्यकता थी, जिसके बाद उसे तेज़ सांस और बुखार की शिकायत थी, इसलिए डॉक्टर ने 200mL Paracetamol और ऑक्सीजन थेरेपी दी।",थेरेपी,I-TEST
+5,"रोगी को हृदय रोग के कारण Angioplasty की आवश्यकता थी, जिसके बाद उसे तेज़ सांस और बुखार की शिकायत थी, इसलिए डॉक्टर ने 200mL Paracetamol और ऑक्सीजन थेरेपी दी।",दी,O
+5,"रोगी को हृदय रोग के कारण Angioplasty की आवश्यकता थी, जिसके बाद उसे तेज़ सांस और बुखार की शिकायत थी, इसलिए डॉक्टर ने 200mL Paracetamol और ऑक्सीजन थेरेपी दी।",।,O
+6,"रोगी को तेज़ सिर दर्द और बुखार था, इसलिए डॉक्टर ने उसे 5mg Paracetamol और एक ब्लड टेस्ट करवाने के लिए कहा।",रोगी,O
+6,"रोगी को तेज़ सिर दर्द और बुखार था, इसलिए डॉक्टर ने उसे 5mg Paracetamol और एक ब्लड टेस्ट करवाने के लिए कहा।",को,O
+6,"रोगी को तेज़ सिर दर्द और बुखार था, इसलिए डॉक्टर ने उसे 5mg Paracetamol और एक ब्लड टेस्ट करवाने के लिए कहा।",तेज़,B-SYMPTOM
+6,"रोगी को तेज़ सिर दर्द और बुखार था, इसलिए डॉक्टर ने उसे 5mg Paracetamol और एक ब्लड टेस्ट करवाने के लिए कहा।",सिर,I-SYMPTOM
+6,"रोगी को तेज़ सिर दर्द और बुखार था, इसलिए डॉक्टर ने उसे 5mg Paracetamol और एक ब्लड टेस्ट करवाने के लिए कहा।",दर्द,I-SYMPTOM
+6,"रोगी को तेज़ सिर दर्द और बुखार था, इसलिए डॉक्टर ने उसे 5mg Paracetamol और एक ब्लड टेस्ट करवाने के लिए कहा।",और,O
+6,"रोगी को तेज़ सिर दर्द और बुखार था, इसलिए डॉक्टर ने उसे 5mg Paracetamol और एक ब्लड टेस्ट करवाने के लिए कहा।",बुखार,B-SYMPTOM
+6,"रोगी को तेज़ सिर दर्द और बुखार था, इसलिए डॉक्टर ने उसे 5mg Paracetamol और एक ब्लड टेस्ट करवाने के लिए कहा।",था,O
+6,"रोगी को तेज़ सिर दर्द और बुखार था, इसलिए डॉक्टर ने उसे 5mg Paracetamol और एक ब्लड टेस्ट करवाने के लिए कहा।",",",O
+6,"रोगी को तेज़ सिर दर्द और बुखार था, इसलिए डॉक्टर ने उसे 5mg Paracetamol और एक ब्लड टेस्ट करवाने के लिए कहा।",इसलिए,O
+6,"रोगी को तेज़ सिर दर्द और बुखार था, इसलिए डॉक्टर ने उसे 5mg Paracetamol और एक ब्लड टेस्ट करवाने के लिए कहा।",डॉक्टर,O
+6,"रोगी को तेज़ सिर दर्द और बुखार था, इसलिए डॉक्टर ने उसे 5mg Paracetamol और एक ब्लड टेस्ट करवाने के लिए कहा।",ने,O
+6,"रोगी को तेज़ सिर दर्द और बुखार था, इसलिए डॉक्टर ने उसे 5mg Paracetamol और एक ब्लड टेस्ट करवाने के लिए कहा।",उसे,O
+6,"रोगी को तेज़ सिर दर्द और बुखार था, इसलिए डॉक्टर ने उसे 5mg Paracetamol और एक ब्लड टेस्ट करवाने के लिए कहा।",5mg,B-DOSAGE
+6,"रोगी को तेज़ सिर दर्द और बुखार था, इसलिए डॉक्टर ने उसे 5mg Paracetamol और एक ब्लड टेस्ट करवाने के लिए कहा।",Paracetamol,B-MEDICATION
+6,"रोगी को तेज़ सिर दर्द और बुखार था, इसलिए डॉक्टर ने उसे 5mg Paracetamol और एक ब्लड टेस्ट करवाने के लिए कहा।",और,O
+6,"रोगी को तेज़ सिर दर्द और बुखार था, इसलिए डॉक्टर ने उसे 5mg Paracetamol और एक ब्लड टेस्ट करवाने के लिए कहा।",एक,O
+6,"रोगी को तेज़ सिर दर्द और बुखार था, इसलिए डॉक्टर ने उसे 5mg Paracetamol और एक ब्लड टेस्ट करवाने के लिए कहा।",ब्लड,B-TEST
+6,"रोगी को तेज़ सिर दर्द और बुखार था, इसलिए डॉक्टर ने उसे 5mg Paracetamol और एक ब्लड टेस्ट करवाने के लिए कहा।",टेस्ट,I-TEST
+6,"रोगी को तेज़ सिर दर्द और बुखार था, इसलिए डॉक्टर ने उसे 5mg Paracetamol और एक ब्लड टेस्ट करवाने के लिए कहा।",करवाने,O
+6,"रोगी को तेज़ सिर दर्द और बुखार था, इसलिए डॉक्टर ने उसे 5mg Paracetamol और एक ब्लड टेस्ट करवाने के लिए कहा।",के,O
+6,"रोगी को तेज़ सिर दर्द और बुखार था, इसलिए डॉक्टर ने उसे 5mg Paracetamol और एक ब्लड टेस्ट करवाने के लिए कहा।",लिए,O
+6,"रोगी को तेज़ सिर दर्द और बुखार था, इसलिए डॉक्टर ने उसे 5mg Paracetamol और एक ब्लड टेस्ट करवाने के लिए कहा।",कहा,O
+6,"रोगी को तेज़ सिर दर्द और बुखार था, इसलिए डॉक्टर ने उसे 5mg Paracetamol और एक ब्लड टेस्ट करवाने के लिए कहा।",।,O
+7,एक 40 वर्षीय पुरुष मरीज़ को तेज़ सिर दर्द और उच्च रक्तचाप के कारण डॉक्टर ने 5mg Amlodipine और 200mL पानी के साथ एक बार दिन में Paracetamol दिया और ECG और ब्लड टेस्ट कराने की सलाह दी।,एक,O
+7,एक 40 वर्षीय पुरुष मरीज़ को तेज़ सिर दर्द और उच्च रक्तचाप के कारण डॉक्टर ने 5mg Amlodipine और 200mL पानी के साथ एक बार दिन में Paracetamol दिया और ECG और ब्लड टेस्ट कराने की सलाह दी।,40,O
+7,एक 40 वर्षीय पुरुष मरीज़ को तेज़ सिर दर्द और उच्च रक्तचाप के कारण डॉक्टर ने 5mg Amlodipine और 200mL पानी के साथ एक बार दिन में Paracetamol दिया और ECG और ब्लड टेस्ट कराने की सलाह दी।,वर्षीय,O
+7,एक 40 वर्षीय पुरुष मरीज़ को तेज़ सिर दर्द और उच्च रक्तचाप के कारण डॉक्टर ने 5mg Amlodipine और 200mL पानी के साथ एक बार दिन में Paracetamol दिया और ECG और ब्लड टेस्ट कराने की सलाह दी।,पुरुष,O
+7,एक 40 वर्षीय पुरुष मरीज़ को तेज़ सिर दर्द और उच्च रक्तचाप के कारण डॉक्टर ने 5mg Amlodipine और 200mL पानी के साथ एक बार दिन में Paracetamol दिया और ECG और ब्लड टेस्ट कराने की सलाह दी।,मरीज़,O
+7,एक 40 वर्षीय पुरुष मरीज़ को तेज़ सिर दर्द और उच्च रक्तचाप के कारण डॉक्टर ने 5mg Amlodipine और 200mL पानी के साथ एक बार दिन में Paracetamol दिया और ECG और ब्लड टेस्ट कराने की सलाह दी।,को,O
+7,एक 40 वर्षीय पुरुष मरीज़ को तेज़ सिर दर्द और उच्च रक्तचाप के कारण डॉक्टर ने 5mg Amlodipine और 200mL पानी के साथ एक बार दिन में Paracetamol दिया और ECG और ब्लड टेस्ट कराने की सलाह दी।,तेज़,B-SYMPTOM
+7,एक 40 वर्षीय पुरुष मरीज़ को तेज़ सिर दर्द और उच्च रक्तचाप के कारण डॉक्टर ने 5mg Amlodipine और 200mL पानी के साथ एक बार दिन में Paracetamol दिया और ECG और ब्लड टेस्ट कराने की सलाह दी।,सिर,I-SYMPTOM
+7,एक 40 वर्षीय पुरुष मरीज़ को तेज़ सिर दर्द और उच्च रक्तचाप के कारण डॉक्टर ने 5mg Amlodipine और 200mL पानी के साथ एक बार दिन में Paracetamol दिया और ECG और ब्लड टेस्ट कराने की सलाह दी।,दर्द,I-SYMPTOM
+7,एक 40 वर्षीय पुरुष मरीज़ को तेज़ सिर दर्द और उच्च रक्तचाप के कारण डॉक्टर ने 5mg Amlodipine और 200mL पानी के साथ एक बार दिन में Paracetamol दिया और ECG और ब्लड टेस्ट कराने की सलाह दी।,और,O
+7,एक 40 वर्षीय पुरुष मरीज़ को तेज़ सिर दर्द और उच्च रक्तचाप के कारण डॉक्टर ने 5mg Amlodipine और 200mL पानी के साथ एक बार दिन में Paracetamol दिया और ECG और ब्लड टेस्ट कराने की सलाह दी।,उच्च,B-CONDITION
+7,एक 40 वर्षीय पुरुष मरीज़ को तेज़ सिर दर्द और उच्च रक्तचाप के कारण डॉक्टर ने 5mg Amlodipine और 200mL पानी के साथ एक बार दिन में Paracetamol दिया और ECG और ब्लड टेस्ट कराने की सलाह दी।,रक्तचाप,I-CONDITION
+7,एक 40 वर्षीय पुरुष मरीज़ को तेज़ सिर दर्द और उच्च रक्तचाप के कारण डॉक्टर ने 5mg Amlodipine और 200mL पानी के साथ एक बार दिन में Paracetamol दिया और ECG और ब्लड टेस्ट कराने की सलाह दी।,के,O
+7,एक 40 वर्षीय पुरुष मरीज़ को तेज़ सिर दर्द और उच्च रक्तचाप के कारण डॉक्टर ने 5mg Amlodipine और 200mL पानी के साथ एक बार दिन में Paracetamol दिया और ECG और ब्लड टेस्ट कराने की सलाह दी।,कारण,O
+7,एक 40 वर्षीय पुरुष मरीज़ को तेज़ सिर दर्द और उच्च रक्तचाप के कारण डॉक्टर ने 5mg Amlodipine और 200mL पानी के साथ एक बार दिन में Paracetamol दिया और ECG और ब्लड टेस्ट कराने की सलाह दी।,डॉक्टर,O
+7,एक 40 वर्षीय पुरुष मरीज़ को तेज़ सिर दर्द और उच्च रक्तचाप के कारण डॉक्टर ने 5mg Amlodipine और 200mL पानी के साथ एक बार दिन में Paracetamol दिया और ECG और ब्लड टेस्ट कराने की सलाह दी।,ने,O
+7,एक 40 वर्षीय पुरुष मरीज़ को तेज़ सिर दर्द और उच्च रक्तचाप के कारण डॉक्टर ने 5mg Amlodipine और 200mL पानी के साथ एक बार दिन में Paracetamol दिया और ECG और ब्लड टेस्ट कराने की सलाह दी।,5mg,B-DOSAGE
+7,एक 40 वर्षीय पुरुष मरीज़ को तेज़ सिर दर्द और उच्च रक्तचाप के कारण डॉक्टर ने 5mg Amlodipine और 200mL पानी के साथ एक बार दिन में Paracetamol दिया और ECG और ब्लड टेस्ट कराने की सलाह दी।,Amlodipine,B-MEDICATION
+7,एक 40 वर्षीय पुरुष मरीज़ को तेज़ सिर दर्द और उच्च रक्तचाप के कारण डॉक्टर ने 5mg Amlodipine और 200mL पानी के साथ एक बार दिन में Paracetamol दिया और ECG और ब्लड टेस्ट कराने की सलाह दी।,और,O
+7,एक 40 वर्षीय पुरुष मरीज़ को तेज़ सिर दर्द और उच्च रक्तचाप के कारण डॉक्टर ने 5mg Amlodipine और 200mL पानी के साथ एक बार दिन में Paracetamol दिया और ECG और ब्लड टेस्ट कराने की सलाह दी।,200mL,B-DOSAGE
+7,एक 40 वर्षीय पुरुष मरीज़ को तेज़ सिर दर्द और उच्च रक्तचाप के कारण डॉक्टर ने 5mg Amlodipine और 200mL पानी के साथ एक बार दिन में Paracetamol दिया और ECG और ब्लड टेस्ट कराने की सलाह दी।,पानी,O
+7,एक 40 वर्षीय पुरुष मरीज़ को तेज़ सिर दर्द और उच्च रक्तचाप के कारण डॉक्टर ने 5mg Amlodipine और 200mL पानी के साथ एक बार दिन में Paracetamol दिया और ECG और ब्लड टेस्ट कराने की सलाह दी।,के,O
+7,एक 40 वर्षीय पुरुष मरीज़ को तेज़ सिर दर्द और उच्च रक्तचाप के कारण डॉक्टर ने 5mg Amlodipine और 200mL पानी के साथ एक बार दिन में Paracetamol दिया और ECG और ब्लड टेस्ट कराने की सलाह दी।,साथ,O
+7,एक 40 वर्षीय पुरुष मरीज़ को तेज़ सिर दर्द और उच्च रक्तचाप के कारण डॉक्टर ने 5mg Amlodipine और 200mL पानी के साथ एक बार दिन में Paracetamol दिया और ECG और ब्लड टेस्ट कराने की सलाह दी।,एक,O
+7,एक 40 वर्षीय पुरुष मरीज़ को तेज़ सिर दर्द और उच्च रक्तचाप के कारण डॉक्टर ने 5mg Amlodipine और 200mL पानी के साथ एक बार दिन में Paracetamol दिया और ECG और ब्लड टेस्ट कराने की सलाह दी।,बार,O
+7,एक 40 वर्षीय पुरुष मरीज़ को तेज़ सिर दर्द और उच्च रक्तचाप के कारण डॉक्टर ने 5mg Amlodipine और 200mL पानी के साथ एक बार दिन में Paracetamol दिया और ECG और ब्लड टेस्ट कराने की सलाह दी।,दिन,O
+7,एक 40 वर्षीय पुरुष मरीज़ को तेज़ सिर दर्द और उच्च रक्तचाप के कारण डॉक्टर ने 5mg Amlodipine और 200mL पानी के साथ एक बार दिन में Paracetamol दिया और ECG और ब्लड टेस्ट कराने की सलाह दी।,में,O
+7,एक 40 वर्षीय पुरुष मरीज़ को तेज़ सिर दर्द और उच्च रक्तचाप के कारण डॉक्टर ने 5mg Amlodipine और 200mL पानी के साथ एक बार दिन में Paracetamol दिया और ECG और ब्लड टेस्ट कराने की सलाह दी।,Paracetamol,B-MEDICATION
+7,एक 40 वर्षीय पुरुष मरीज़ को तेज़ सिर दर्द और उच्च रक्तचाप के कारण डॉक्टर ने 5mg Amlodipine और 200mL पानी के साथ एक बार दिन में Paracetamol दिया और ECG और ब्लड टेस्ट कराने की सलाह दी।,दिया,O
+7,एक 40 वर्षीय पुरुष मरीज़ को तेज़ सिर दर्द और उच्च रक्तचाप के कारण डॉक्टर ने 5mg Amlodipine और 200mL पानी के साथ एक बार दिन में Paracetamol दिया और ECG और ब्लड टेस्ट कराने की सलाह दी।,और,O
+7,एक 40 वर्षीय पुरुष मरीज़ को तेज़ सिर दर्द और उच्च रक्तचाप के कारण डॉक्टर ने 5mg Amlodipine और 200mL पानी के साथ एक बार दिन में Paracetamol दिया और ECG और ब्लड टेस्ट कराने की सलाह दी।,ECG,B-TEST
+7,एक 40 वर्षीय पुरुष मरीज़ को तेज़ सिर दर्द और उच्च रक्तचाप के कारण डॉक्टर ने 5mg Amlodipine और 200mL पानी के साथ एक बार दिन में Paracetamol दिया और ECG और ब्लड टेस्ट कराने की सलाह दी।,और,O
+7,एक 40 वर्षीय पुरुष मरीज़ को तेज़ सिर दर्द और उच्च रक्तचाप के कारण डॉक्टर ने 5mg Amlodipine और 200mL पानी के साथ एक बार दिन में Paracetamol दिया और ECG और ब्लड टेस्ट कराने की सलाह दी।,ब्लड,B-TEST
+7,एक 40 वर्षीय पुरुष मरीज़ को तेज़ सिर दर्द और उच्च रक्तचाप के कारण डॉक्टर ने 5mg Amlodipine और 200mL पानी के साथ एक बार दिन में Paracetamol दिया और ECG और ब्लड टेस्ट कराने की सलाह दी।,टेस्ट,I-TEST
+7,एक 40 वर्षीय पुरुष मरीज़ को तेज़ सिर दर्द और उच्च रक्तचाप के कारण डॉक्टर ने 5mg Amlodipine और 200mL पानी के साथ एक बार दिन में Paracetamol दिया और ECG और ब्लड टेस्ट कराने की सलाह दी।,कराने,O
+7,एक 40 वर्षीय पुरुष मरीज़ को तेज़ सिर दर्द और उच्च रक्तचाप के कारण डॉक्टर ने 5mg Amlodipine और 200mL पानी के साथ एक बार दिन में Paracetamol दिया और ECG और ब्लड टेस्ट कराने की सलाह दी।,की,O
+7,एक 40 वर्षीय पुरुष मरीज़ को तेज़ सिर दर्द और उच्च रक्तचाप के कारण डॉक्टर ने 5mg Amlodipine और 200mL पानी के साथ एक बार दिन में Paracetamol दिया और ECG और ब्लड टेस्ट कराने की सलाह दी।,सलाह,O
+7,एक 40 वर्षीय पुरुष मरीज़ को तेज़ सिर दर्द और उच्च रक्तचाप के कारण डॉक्टर ने 5mg Amlodipine और 200mL पानी के साथ एक बार दिन में Paracetamol दिया और ECG और ब्लड टेस्ट कराने की सलाह दी।,दी।,O
+8,"Patient को तेज़ सिर दर्द और बुखार था, इसलिए डॉक्टर ने 500mg Paracetamol और एक ब्लड टेस्ट कराने की सलाह दी।",Patient,O
+8,"Patient को तेज़ सिर दर्द और बुखार था, इसलिए डॉक्टर ने 500mg Paracetamol और एक ब्लड टेस्ट कराने की सलाह दी।",को,O
+8,"Patient को तेज़ सिर दर्द और बुखार था, इसलिए डॉक्टर ने 500mg Paracetamol और एक ब्लड टेस्ट कराने की सलाह दी।",तेज़,B-SYMPTOM
+8,"Patient को तेज़ सिर दर्द और बुखार था, इसलिए डॉक्टर ने 500mg Paracetamol और एक ब्लड टेस्ट कराने की सलाह दी।",सिर,I-SYMPTOM
+8,"Patient को तेज़ सिर दर्द और बुखार था, इसलिए डॉक्टर ने 500mg Paracetamol और एक ब्लड टेस्ट कराने की सलाह दी।",दर्द,I-SYMPTOM
+8,"Patient को तेज़ सिर दर्द और बुखार था, इसलिए डॉक्टर ने 500mg Paracetamol और एक ब्लड टेस्ट कराने की सलाह दी।",और,O
+8,"Patient को तेज़ सिर दर्द और बुखार था, इसलिए डॉक्टर ने 500mg Paracetamol और एक ब्लड टेस्ट कराने की सलाह दी।",बुखार,B-SYMPTOM
+8,"Patient को तेज़ सिर दर्द और बुखार था, इसलिए डॉक्टर ने 500mg Paracetamol और एक ब्लड टेस्ट कराने की सलाह दी।",था,O
+8,"Patient को तेज़ सिर दर्द और बुखार था, इसलिए डॉक्टर ने 500mg Paracetamol और एक ब्लड टेस्ट कराने की सलाह दी।",",",O
+8,"Patient को तेज़ सिर दर्द और बुखार था, इसलिए डॉक्टर ने 500mg Paracetamol और एक ब्लड टेस्ट कराने की सलाह दी।",इसलिए,O
+8,"Patient को तेज़ सिर दर्द और बुखार था, इसलिए डॉक्टर ने 500mg Paracetamol और एक ब्लड टेस्ट कराने की सलाह दी।",डॉक्टर,O
+8,"Patient को तेज़ सिर दर्द और बुखार था, इसलिए डॉक्टर ने 500mg Paracetamol और एक ब्लड टेस्ट कराने की सलाह दी।",ने,O
+8,"Patient को तेज़ सिर दर्द और बुखार था, इसलिए डॉक्टर ने 500mg Paracetamol और एक ब्लड टेस्ट कराने की सलाह दी।",500mg,B-DOSAGE
+8,"Patient को तेज़ सिर दर्द और बुखार था, इसलिए डॉक्टर ने 500mg Paracetamol और एक ब्लड टेस्ट कराने की सलाह दी।",Paracetamol,B-MEDICATION
+8,"Patient को तेज़ सिर दर्द और बुखार था, इसलिए डॉक्टर ने 500mg Paracetamol और एक ब्लड टेस्ट कराने की सलाह दी।",और,O
+8,"Patient को तेज़ सिर दर्द और बुखार था, इसलिए डॉक्टर ने 500mg Paracetamol और एक ब्लड टेस्ट कराने की सलाह दी।",एक,O
+8,"Patient को तेज़ सिर दर्द और बुखार था, इसलिए डॉक्टर ने 500mg Paracetamol और एक ब्लड टेस्ट कराने की सलाह दी।",ब्लड,B-TEST
+8,"Patient को तेज़ सिर दर्द और बुखार था, इसलिए डॉक्टर ने 500mg Paracetamol और एक ब्लड टेस्ट कराने की सलाह दी।",टेस्ट,I-TEST
+8,"Patient को तेज़ सिर दर्द और बुखार था, इसलिए डॉक्टर ने 500mg Paracetamol और एक ब्लड टेस्ट कराने की सलाह दी।",कराने,O
+8,"Patient को तेज़ सिर दर्द और बुखार था, इसलिए डॉक्टर ने 500mg Paracetamol और एक ब्लड टेस्ट कराने की सलाह दी।",की,O
+8,"Patient को तेज़ सिर दर्द और बुखार था, इसलिए डॉक्टर ने 500mg Paracetamol और एक ब्लड टेस्ट कराने की सलाह दी।",सलाह,O
+8,"Patient को तेज़ सिर दर्द और बुखार था, इसलिए डॉक्टर ने 500mg Paracetamol और एक ब्लड टेस्ट कराने की सलाह दी।",दी,O
+8,"Patient को तेज़ सिर दर्द और बुखार था, इसलिए डॉक्टर ने 500mg Paracetamol और एक ब्लड टेस्ट कराने की सलाह दी।",।,O
+9,रोगी को हृदय रोग के कारण Angioplasty की सलाह दी गई और उसे तुरंत अस्पताल में भर्ती कराया गया क्योंकि उसका ECG रिपोर्ट abnormal था और उसे तेज़ सांस लेने में परेशानी हो रही थी।,रोगी,O
+9,रोगी को हृदय रोग के कारण Angioplasty की सलाह दी गई और उसे तुरंत अस्पताल में भर्ती कराया गया क्योंकि उसका ECG रिपोर्ट abnormal था और उसे तेज़ सांस लेने में परेशानी हो रही थी।,को,O
+9,रोगी को हृदय रोग के कारण Angioplasty की सलाह दी गई और उसे तुरंत अस्पताल में भर्ती कराया गया क्योंकि उसका ECG रिपोर्ट abnormal था और उसे तेज़ सांस लेने में परेशानी हो रही थी।,हृदय,B-CONDITION
+9,रोगी को हृदय रोग के कारण Angioplasty की सलाह दी गई और उसे तुरंत अस्पताल में भर्ती कराया गया क्योंकि उसका ECG रिपोर्ट abnormal था और उसे तेज़ सांस लेने में परेशानी हो रही थी।,रोग,I-CONDITION
+9,रोगी को हृदय रोग के कारण Angioplasty की सलाह दी गई और उसे तुरंत अस्पताल में भर्ती कराया गया क्योंकि उसका ECG रिपोर्ट abnormal था और उसे तेज़ सांस लेने में परेशानी हो रही थी।,के,O
+9,रोगी को हृदय रोग के कारण Angioplasty की सलाह दी गई और उसे तुरंत अस्पताल में भर्ती कराया गया क्योंकि उसका ECG रिपोर्ट abnormal था और उसे तेज़ सांस लेने में परेशानी हो रही थी।,कारण,O
+9,रोगी को हृदय रोग के कारण Angioplasty की सलाह दी गई और उसे तुरंत अस्पताल में भर्ती कराया गया क्योंकि उसका ECG रिपोर्ट abnormal था और उसे तेज़ सांस लेने में परेशानी हो रही थी।,Angioplasty,B-PROCEDURE
+9,रोगी को हृदय रोग के कारण Angioplasty की सलाह दी गई और उसे तुरंत अस्पताल में भर्ती कराया गया क्योंकि उसका ECG रिपोर्ट abnormal था और उसे तेज़ सांस लेने में परेशानी हो रही थी।,की,O
+9,रोगी को हृदय रोग के कारण Angioplasty की सलाह दी गई और उसे तुरंत अस्पताल में भर्ती कराया गया क्योंकि उसका ECG रिपोर्ट abnormal था और उसे तेज़ सांस लेने में परेशानी हो रही थी।,सलाह,O
+9,रोगी को हृदय रोग के कारण Angioplasty की सलाह दी गई और उसे तुरंत अस्पताल में भर्ती कराया गया क्योंकि उसका ECG रिपोर्ट abnormal था और उसे तेज़ सांस लेने में परेशानी हो रही थी।,दी,O
+9,रोगी को हृदय रोग के कारण Angioplasty की सलाह दी गई और उसे तुरंत अस्पताल में भर्ती कराया गया क्योंकि उसका ECG रिपोर्ट abnormal था और उसे तेज़ सांस लेने में परेशानी हो रही थी।,गई,O
+9,रोगी को हृदय रोग के कारण Angioplasty की सलाह दी गई और उसे तुरंत अस्पताल में भर्ती कराया गया क्योंकि उसका ECG रिपोर्ट abnormal था और उसे तेज़ सांस लेने में परेशानी हो रही थी।,और,O
+9,रोगी को हृदय रोग के कारण Angioplasty की सलाह दी गई और उसे तुरंत अस्पताल में भर्ती कराया गया क्योंकि उसका ECG रिपोर्ट abnormal था और उसे तेज़ सांस लेने में परेशानी हो रही थी।,उसे,O
+9,रोगी को हृदय रोग के कारण Angioplasty की सलाह दी गई और उसे तुरंत अस्पताल में भर्ती कराया गया क्योंकि उसका ECG रिपोर्ट abnormal था और उसे तेज़ सांस लेने में परेशानी हो रही थी।,तुरंत,O
+9,रोगी को हृदय रोग के कारण Angioplasty की सलाह दी गई और उसे तुरंत अस्पताल में भर्ती कराया गया क्योंकि उसका ECG रिपोर्ट abnormal था और उसे तेज़ सांस लेने में परेशानी हो रही थी।,अस्पताल,O
+9,रोगी को हृदय रोग के कारण Angioplasty की सलाह दी गई और उसे तुरंत अस्पताल में भर्ती कराया गया क्योंकि उसका ECG रिपोर्ट abnormal था और उसे तेज़ सांस लेने में परेशानी हो रही थी।,में,O
+9,रोगी को हृदय रोग के कारण Angioplasty की सलाह दी गई और उसे तुरंत अस्पताल में भर्ती कराया गया क्योंकि उसका ECG रिपोर्ट abnormal था और उसे तेज़ सांस लेने में परेशानी हो रही थी।,भर्ती,O
+9,रोगी को हृदय रोग के कारण Angioplasty की सलाह दी गई और उसे तुरंत अस्पताल में भर्ती कराया गया क्योंकि उसका ECG रिपोर्ट abnormal था और उसे तेज़ सांस लेने में परेशानी हो रही थी।,कराया,O
+9,रोगी को हृदय रोग के कारण Angioplasty की सलाह दी गई और उसे तुरंत अस्पताल में भर्ती कराया गया क्योंकि उसका ECG रिपोर्ट abnormal था और उसे तेज़ सांस लेने में परेशानी हो रही थी।,गया,O
+9,रोगी को हृदय रोग के कारण Angioplasty की सलाह दी गई और उसे तुरंत अस्पताल में भर्ती कराया गया क्योंकि उसका ECG रिपोर्ट abnormal था और उसे तेज़ सांस लेने में परेशानी हो रही थी।,क्योंकि,O
+9,रोगी को हृदय रोग के कारण Angioplasty की सलाह दी गई और उसे तुरंत अस्पताल में भर्ती कराया गया क्योंकि उसका ECG रिपोर्ट abnormal था और उसे तेज़ सांस लेने में परेशानी हो रही थी।,उसका,O
+9,रोगी को हृदय रोग के कारण Angioplasty की सलाह दी गई और उसे तुरंत अस्पताल में भर्ती कराया गया क्योंकि उसका ECG रिपोर्ट abnormal था और उसे तेज़ सांस लेने में परेशानी हो रही थी।,ECG,B-TEST
+9,रोगी को हृदय रोग के कारण Angioplasty की सलाह दी गई और उसे तुरंत अस्पताल में भर्ती कराया गया क्योंकि उसका ECG रिपोर्ट abnormal था और उसे तेज़ सांस लेने में परेशानी हो रही थी।,रिपोर्ट,I-TEST
+9,रोगी को हृदय रोग के कारण Angioplasty की सलाह दी गई और उसे तुरंत अस्पताल में भर्ती कराया गया क्योंकि उसका ECG रिपोर्ट abnormal था और उसे तेज़ सांस लेने में परेशानी हो रही थी।,abnormal,O
+9,रोगी को हृदय रोग के कारण Angioplasty की सलाह दी गई और उसे तुरंत अस्पताल में भर्ती कराया गया क्योंकि उसका ECG रिपोर्ट abnormal था और उसे तेज़ सांस लेने में परेशानी हो रही थी।,था,O
+9,रोगी को हृदय रोग के कारण Angioplasty की सलाह दी गई और उसे तुरंत अस्पताल में भर्ती कराया गया क्योंकि उसका ECG रिपोर्ट abnormal था और उसे तेज़ सांस लेने में परेशानी हो रही थी।,और,O
+9,रोगी को हृदय रोग के कारण Angioplasty की सलाह दी गई और उसे तुरंत अस्पताल में भर्ती कराया गया क्योंकि उसका ECG रिपोर्ट abnormal था और उसे तेज़ सांस लेने में परेशानी हो रही थी।,उसे,O
+9,रोगी को हृदय रोग के कारण Angioplasty की सलाह दी गई और उसे तुरंत अस्पताल में भर्ती कराया गया क्योंकि उसका ECG रिपोर्ट abnormal था और उसे तेज़ सांस लेने में परेशानी हो रही थी।,तेज़,B-SYMPTOM
+9,रोगी को हृदय रोग के कारण Angioplasty की सलाह दी गई और उसे तुरंत अस्पताल में भर्ती कराया गया क्योंकि उसका ECG रिपोर्ट abnormal था और उसे तेज़ सांस लेने में परेशानी हो रही थी।,सांस,I-SYMPTOM
+9,रोगी को हृदय रोग के कारण Angioplasty की सलाह दी गई और उसे तुरंत अस्पताल में भर्ती कराया गया क्योंकि उसका ECG रिपोर्ट abnormal था और उसे तेज़ सांस लेने में परेशानी हो रही थी।,लेने,I-SYMPTOM
+9,रोगी को हृदय रोग के कारण Angioplasty की सलाह दी गई और उसे तुरंत अस्पताल में भर्ती कराया गया क्योंकि उसका ECG रिपोर्ट abnormal था और उसे तेज़ सांस लेने में परेशानी हो रही थी।,में,O
+9,रोगी को हृदय रोग के कारण Angioplasty की सलाह दी गई और उसे तुरंत अस्पताल में भर्ती कराया गया क्योंकि उसका ECG रिपोर्ट abnormal था और उसे तेज़ सांस लेने में परेशानी हो रही थी।,परेशानी,O
+9,रोगी को हृदय रोग के कारण Angioplasty की सलाह दी गई और उसे तुरंत अस्पताल में भर्ती कराया गया क्योंकि उसका ECG रिपोर्ट abnormal था और उसे तेज़ सांस लेने में परेशानी हो रही थी।,हो,O
+9,रोगी को हृदय रोग के कारण Angioplasty की सलाह दी गई और उसे तुरंत अस्पताल में भर्ती कराया गया क्योंकि उसका ECG रिपोर्ट abnormal था और उसे तेज़ सांस लेने में परेशानी हो रही थी।,रही,O
+9,रोगी को हृदय रोग के कारण Angioplasty की सलाह दी गई और उसे तुरंत अस्पताल में भर्ती कराया गया क्योंकि उसका ECG रिपोर्ट abnormal था और उसे तेज़ सांस लेने में परेशानी हो रही थी।,थी,O
+9,रोगी को हृदय रोग के कारण Angioplasty की सलाह दी गई और उसे तुरंत अस्पताल में भर्ती कराया गया क्योंकि उसका ECG रिपोर्ट abnormal था और उसे तेज़ सांस लेने में परेशानी हो रही थी।,।,O
+10,रोगी को हृदय रोग के कारण Angioplasty की आवश्यकता थी और उन्हें Aspirin 75mg और Atorvastatin 20mg दिया गया था क्योंकि उनका Lipid Profile खराब था और उन्हें तेज़ सिर दर्द भी था।,रोगी,O
+10,रोगी को हृदय रोग के कारण Angioplasty की आवश्यकता थी और उन्हें Aspirin 75mg और Atorvastatin 20mg दिया गया था क्योंकि उनका Lipid Profile खराब था और उन्हें तेज़ सिर दर्द भी था।,को,O
+10,रोगी को हृदय रोग के कारण Angioplasty की आवश्यकता थी और उन्हें Aspirin 75mg और Atorvastatin 20mg दिया गया था क्योंकि उनका Lipid Profile खराब था और उन्हें तेज़ सिर दर्द भी था।,हृदय,B-CONDITION
+10,रोगी को हृदय रोग के कारण Angioplasty की आवश्यकता थी और उन्हें Aspirin 75mg और Atorvastatin 20mg दिया गया था क्योंकि उनका Lipid Profile खराब था और उन्हें तेज़ सिर दर्द भी था।,रोग,I-CONDITION
+10,रोगी को हृदय रोग के कारण Angioplasty की आवश्यकता थी और उन्हें Aspirin 75mg और Atorvastatin 20mg दिया गया था क्योंकि उनका Lipid Profile खराब था और उन्हें तेज़ सिर दर्द भी था।,के,O
+10,रोगी को हृदय रोग के कारण Angioplasty की आवश्यकता थी और उन्हें Aspirin 75mg और Atorvastatin 20mg दिया गया था क्योंकि उनका Lipid Profile खराब था और उन्हें तेज़ सिर दर्द भी था।,कारण,O
+10,रोगी को हृदय रोग के कारण Angioplasty की आवश्यकता थी और उन्हें Aspirin 75mg और Atorvastatin 20mg दिया गया था क्योंकि उनका Lipid Profile खराब था और उन्हें तेज़ सिर दर्द भी था।,Angioplasty,B-PROCEDURE
+10,रोगी को हृदय रोग के कारण Angioplasty की आवश्यकता थी और उन्हें Aspirin 75mg और Atorvastatin 20mg दिया गया था क्योंकि उनका Lipid Profile खराब था और उन्हें तेज़ सिर दर्द भी था।,की,O
+10,रोगी को हृदय रोग के कारण Angioplasty की आवश्यकता थी और उन्हें Aspirin 75mg और Atorvastatin 20mg दिया गया था क्योंकि उनका Lipid Profile खराब था और उन्हें तेज़ सिर दर्द भी था।,आवश्यकता,O
+10,रोगी को हृदय रोग के कारण Angioplasty की आवश्यकता थी और उन्हें Aspirin 75mg और Atorvastatin 20mg दिया गया था क्योंकि उनका Lipid Profile खराब था और उन्हें तेज़ सिर दर्द भी था।,थी,O
+10,रोगी को हृदय रोग के कारण Angioplasty की आवश्यकता थी और उन्हें Aspirin 75mg और Atorvastatin 20mg दिया गया था क्योंकि उनका Lipid Profile खराब था और उन्हें तेज़ सिर दर्द भी था।,और,O
+10,रोगी को हृदय रोग के कारण Angioplasty की आवश्यकता थी और उन्हें Aspirin 75mg और Atorvastatin 20mg दिया गया था क्योंकि उनका Lipid Profile खराब था और उन्हें तेज़ सिर दर्द भी था।,उन्हें,O
+10,रोगी को हृदय रोग के कारण Angioplasty की आवश्यकता थी और उन्हें Aspirin 75mg और Atorvastatin 20mg दिया गया था क्योंकि उनका Lipid Profile खराब था और उन्हें तेज़ सिर दर्द भी था।,Aspirin,B-MEDICATION
+10,रोगी को हृदय रोग के कारण Angioplasty की आवश्यकता थी और उन्हें Aspirin 75mg और Atorvastatin 20mg दिया गया था क्योंकि उनका Lipid Profile खराब था और उन्हें तेज़ सिर दर्द भी था।,75mg,B-DOSAGE
+10,रोगी को हृदय रोग के कारण Angioplasty की आवश्यकता थी और उन्हें Aspirin 75mg और Atorvastatin 20mg दिया गया था क्योंकि उनका Lipid Profile खराब था और उन्हें तेज़ सिर दर्द भी था।,और,O
+10,रोगी को हृदय रोग के कारण Angioplasty की आवश्यकता थी और उन्हें Aspirin 75mg और Atorvastatin 20mg दिया गया था क्योंकि उनका Lipid Profile खराब था और उन्हें तेज़ सिर दर्द भी था।,Atorvastatin,B-MEDICATION
+10,रोगी को हृदय रोग के कारण Angioplasty की आवश्यकता थी और उन्हें Aspirin 75mg और Atorvastatin 20mg दिया गया था क्योंकि उनका Lipid Profile खराब था और उन्हें तेज़ सिर दर्द भी था।,20mg,B-DOSAGE
+10,रोगी को हृदय रोग के कारण Angioplasty की आवश्यकता थी और उन्हें Aspirin 75mg और Atorvastatin 20mg दिया गया था क्योंकि उनका Lipid Profile खराब था और उन्हें तेज़ सिर दर्द भी था।,दिया,O
+10,रोगी को हृदय रोग के कारण Angioplasty की आवश्यकता थी और उन्हें Aspirin 75mg और Atorvastatin 20mg दिया गया था क्योंकि उनका Lipid Profile खराब था और उन्हें तेज़ सिर दर्द भी था।,गया,O
+10,रोगी को हृदय रोग के कारण Angioplasty की आवश्यकता थी और उन्हें Aspirin 75mg और Atorvastatin 20mg दिया गया था क्योंकि उनका Lipid Profile खराब था और उन्हें तेज़ सिर दर्द भी था।,था,O
+10,रोगी को हृदय रोग के कारण Angioplasty की आवश्यकता थी और उन्हें Aspirin 75mg और Atorvastatin 20mg दिया गया था क्योंकि उनका Lipid Profile खराब था और उन्हें तेज़ सिर दर्द भी था।,क्योंकि,O
+10,रोगी को हृदय रोग के कारण Angioplasty की आवश्यकता थी और उन्हें Aspirin 75mg और Atorvastatin 20mg दिया गया था क्योंकि उनका Lipid Profile खराब था और उन्हें तेज़ सिर दर्द भी था।,उनका,O
+10,रोगी को हृदय रोग के कारण Angioplasty की आवश्यकता थी और उन्हें Aspirin 75mg और Atorvastatin 20mg दिया गया था क्योंकि उनका Lipid Profile खराब था और उन्हें तेज़ सिर दर्द भी था।,Lipid,B-TEST
+10,रोगी को हृदय रोग के कारण Angioplasty की आवश्यकता थी और उन्हें Aspirin 75mg और Atorvastatin 20mg दिया गया था क्योंकि उनका Lipid Profile खराब था और उन्हें तेज़ सिर दर्द भी था।,Profile,I-TEST
+10,रोगी को हृदय रोग के कारण Angioplasty की आवश्यकता थी और उन्हें Aspirin 75mg और Atorvastatin 20mg दिया गया था क्योंकि उनका Lipid Profile खराब था और उन्हें तेज़ सिर दर्द भी था।,खराब,O
+10,रोगी को हृदय रोग के कारण Angioplasty की आवश्यकता थी और उन्हें Aspirin 75mg और Atorvastatin 20mg दिया गया था क्योंकि उनका Lipid Profile खराब था और उन्हें तेज़ सिर दर्द भी था।,था,O
+10,रोगी को हृदय रोग के कारण Angioplasty की आवश्यकता थी और उन्हें Aspirin 75mg और Atorvastatin 20mg दिया गया था क्योंकि उनका Lipid Profile खराब था और उन्हें तेज़ सिर दर्द भी था।,और,O
+10,रोगी को हृदय रोग के कारण Angioplasty की आवश्यकता थी और उन्हें Aspirin 75mg और Atorvastatin 20mg दिया गया था क्योंकि उनका Lipid Profile खराब था और उन्हें तेज़ सिर दर्द भी था।,उन्हें,O
+10,रोगी को हृदय रोग के कारण Angioplasty की आवश्यकता थी और उन्हें Aspirin 75mg और Atorvastatin 20mg दिया गया था क्योंकि उनका Lipid Profile खराब था और उन्हें तेज़ सिर दर्द भी था।,तेज़,B-SYMPTOM
+10,रोगी को हृदय रोग के कारण Angioplasty की आवश्यकता थी और उन्हें Aspirin 75mg और Atorvastatin 20mg दिया गया था क्योंकि उनका Lipid Profile खराब था और उन्हें तेज़ सिर दर्द भी था।,सिर,I-SYMPTOM
+10,रोगी को हृदय रोग के कारण Angioplasty की आवश्यकता थी और उन्हें Aspirin 75mg और Atorvastatin 20mg दिया गया था क्योंकि उनका Lipid Profile खराब था और उन्हें तेज़ सिर दर्द भी था।,दर्द,I-SYMPTOM
+10,रोगी को हृदय रोग के कारण Angioplasty की आवश्यकता थी और उन्हें Aspirin 75mg और Atorvastatin 20mg दिया गया था क्योंकि उनका Lipid Profile खराब था और उन्हें तेज़ सिर दर्द भी था।,भी,O
+10,रोगी को हृदय रोग के कारण Angioplasty की आवश्यकता थी और उन्हें Aspirin 75mg और Atorvastatin 20mg दिया गया था क्योंकि उनका Lipid Profile खराब था और उन्हें तेज़ सिर दर्द भी था।,था,O
+10,रोगी को हृदय रोग के कारण Angioplasty की आवश्यकता थी और उन्हें Aspirin 75mg और Atorvastatin 20mg दिया गया था क्योंकि उनका Lipid Profile खराब था और उन्हें तेज़ सिर दर्द भी था।,।,O
+11,रोगी को तेज़ सिर दर्द और बुखार के कारण डॉक्टर ने 5mg Paracetamol और एक ब्लड टेस्ट की सलाह दी,रोगी,O
+11,रोगी को तेज़ सिर दर्द और बुखार के कारण डॉक्टर ने 5mg Paracetamol और एक ब्लड टेस्ट की सलाह दी,को,O
+11,रोगी को तेज़ सिर दर्द और बुखार के कारण डॉक्टर ने 5mg Paracetamol और एक ब्लड टेस्ट की सलाह दी,तेज़,B-SYMPTOM
+11,रोगी को तेज़ सिर दर्द और बुखार के कारण डॉक्टर ने 5mg Paracetamol और एक ब्लड टेस्ट की सलाह दी,सिर,I-SYMPTOM
+11,रोगी को तेज़ सिर दर्द और बुखार के कारण डॉक्टर ने 5mg Paracetamol और एक ब्लड टेस्ट की सलाह दी,दर्द,I-SYMPTOM
+11,रोगी को तेज़ सिर दर्द और बुखार के कारण डॉक्टर ने 5mg Paracetamol और एक ब्लड टेस्ट की सलाह दी,और,O
+11,रोगी को तेज़ सिर दर्द और बुखार के कारण डॉक्टर ने 5mg Paracetamol और एक ब्लड टेस्ट की सलाह दी,बुखार,B-SYMPTOM
+11,रोगी को तेज़ सिर दर्द और बुखार के कारण डॉक्टर ने 5mg Paracetamol और एक ब्लड टेस्ट की सलाह दी,के,O
+11,रोगी को तेज़ सिर दर्द और बुखार के कारण डॉक्टर ने 5mg Paracetamol और एक ब्लड टेस्ट की सलाह दी,कारण,O
+11,रोगी को तेज़ सिर दर्द और बुखार के कारण डॉक्टर ने 5mg Paracetamol और एक ब्लड टेस्ट की सलाह दी,डॉक्टर,O
+11,रोगी को तेज़ सिर दर्द और बुखार के कारण डॉक्टर ने 5mg Paracetamol और एक ब्लड टेस्ट की सलाह दी,ने,O
+11,रोगी को तेज़ सिर दर्द और बुखार के कारण डॉक्टर ने 5mg Paracetamol और एक ब्लड टेस्ट की सलाह दी,5mg,B-DOSAGE
+11,रोगी को तेज़ सिर दर्द और बुखार के कारण डॉक्टर ने 5mg Paracetamol और एक ब्लड टेस्ट की सलाह दी,Paracetamol,B-MEDICATION
+11,रोगी को तेज़ सिर दर्द और बुखार के कारण डॉक्टर ने 5mg Paracetamol और एक ब्लड टेस्ट की सलाह दी,और,O
+11,रोगी को तेज़ सिर दर्द और बुखार के कारण डॉक्टर ने 5mg Paracetamol और एक ब्लड टेस्ट की सलाह दी,एक,O
+11,रोगी को तेज़ सिर दर्द और बुखार के कारण डॉक्टर ने 5mg Paracetamol और एक ब्लड टेस्ट की सलाह दी,ब्लड,B-TEST
+11,रोगी को तेज़ सिर दर्द और बुखार के कारण डॉक्टर ने 5mg Paracetamol और एक ब्लड टेस्ट की सलाह दी,टेस्ट,I-TEST
+11,रोगी को तेज़ सिर दर्द और बुखार के कारण डॉक्टर ने 5mg Paracetamol और एक ब्लड टेस्ट की सलाह दी,की,O
+11,रोगी को तेज़ सिर दर्द और बुखार के कारण डॉक्टर ने 5mg Paracetamol और एक ब्लड टेस्ट की सलाह दी,सलाह,O
+11,रोगी को तेज़ सिर दर्द और बुखार के कारण डॉक्टर ने 5mg Paracetamol और एक ब्लड टेस्ट की सलाह दी,दी,O
+12,"एक 35 वर्षीय पेशेंट को तेज़ बुखार और सिर दर्द था, इसलिए डॉक्टर ने 5mg Paracetamol और एक ब्लड टेस्ट की सलाह दी",एक,O
+12,"एक 35 वर्षीय पेशेंट को तेज़ बुखार और सिर दर्द था, इसलिए डॉक्टर ने 5mg Paracetamol और एक ब्लड टेस्ट की सलाह दी",35,O
+12,"एक 35 वर्षीय पेशेंट को तेज़ बुखार और सिर दर्द था, इसलिए डॉक्टर ने 5mg Paracetamol और एक ब्लड टेस्ट की सलाह दी",वर्षीय,O
+12,"एक 35 वर्षीय पेशेंट को तेज़ बुखार और सिर दर्द था, इसलिए डॉक्टर ने 5mg Paracetamol और एक ब्लड टेस्ट की सलाह दी",पेशेंट,O
+12,"एक 35 वर्षीय पेशेंट को तेज़ बुखार और सिर दर्द था, इसलिए डॉक्टर ने 5mg Paracetamol और एक ब्लड टेस्ट की सलाह दी",को,O
+12,"एक 35 वर्षीय पेशेंट को तेज़ बुखार और सिर दर्द था, इसलिए डॉक्टर ने 5mg Paracetamol और एक ब्लड टेस्ट की सलाह दी",तेज़,B-SYMPTOM
+12,"एक 35 वर्षीय पेशेंट को तेज़ बुखार और सिर दर्द था, इसलिए डॉक्टर ने 5mg Paracetamol और एक ब्लड टेस्ट की सलाह दी",बुखार,I-SYMPTOM
+12,"एक 35 वर्षीय पेशेंट को तेज़ बुखार और सिर दर्द था, इसलिए डॉक्टर ने 5mg Paracetamol और एक ब्लड टेस्ट की सलाह दी",और,O
+12,"एक 35 वर्षीय पेशेंट को तेज़ बुखार और सिर दर्द था, इसलिए डॉक्टर ने 5mg Paracetamol और एक ब्लड टेस्ट की सलाह दी",सिर,B-SYMPTOM
+12,"एक 35 वर्षीय पेशेंट को तेज़ बुखार और सिर दर्द था, इसलिए डॉक्टर ने 5mg Paracetamol और एक ब्लड टेस्ट की सलाह दी",दर्द,I-SYMPTOM
+12,"एक 35 वर्षीय पेशेंट को तेज़ बुखार और सिर दर्द था, इसलिए डॉक्टर ने 5mg Paracetamol और एक ब्लड टेस्ट की सलाह दी",था,O
+12,"एक 35 वर्षीय पेशेंट को तेज़ बुखार और सिर दर्द था, इसलिए डॉक्टर ने 5mg Paracetamol और एक ब्लड टेस्ट की सलाह दी",",",O
+12,"एक 35 वर्षीय पेशेंट को तेज़ बुखार और सिर दर्द था, इसलिए डॉक्टर ने 5mg Paracetamol और एक ब्लड टेस्ट की सलाह दी",इसलिए,O
+12,"एक 35 वर्षीय पेशेंट को तेज़ बुखार और सिर दर्द था, इसलिए डॉक्टर ने 5mg Paracetamol और एक ब्लड टेस्ट की सलाह दी",डॉक्टर,O
+12,"एक 35 वर्षीय पेशेंट को तेज़ बुखार और सिर दर्द था, इसलिए डॉक्टर ने 5mg Paracetamol और एक ब्लड टेस्ट की सलाह दी",ने,O
+12,"एक 35 वर्षीय पेशेंट को तेज़ बुखार और सिर दर्द था, इसलिए डॉक्टर ने 5mg Paracetamol और एक ब्लड टेस्ट की सलाह दी",5mg,B-DOSAGE
+12,"एक 35 वर्षीय पेशेंट को तेज़ बुखार और सिर दर्द था, इसलिए डॉक्टर ने 5mg Paracetamol और एक ब्लड टेस्ट की सलाह दी",Paracetamol,B-MEDICATION
+12,"एक 35 वर्षीय पेशेंट को तेज़ बुखार और सिर दर्द था, इसलिए डॉक्टर ने 5mg Paracetamol और एक ब्लड टेस्ट की सलाह दी",और,O
+12,"एक 35 वर्षीय पेशेंट को तेज़ बुखार और सिर दर्द था, इसलिए डॉक्टर ने 5mg Paracetamol और एक ब्लड टेस्ट की सलाह दी",एक,O
+12,"एक 35 वर्षीय पेशेंट को तेज़ बुखार और सिर दर्द था, इसलिए डॉक्टर ने 5mg Paracetamol और एक ब्लड टेस्ट की सलाह दी",ब्लड,B-TEST
+12,"एक 35 वर्षीय पेशेंट को तेज़ बुखार और सिर दर्द था, इसलिए डॉक्टर ने 5mg Paracetamol और एक ब्लड टेस्ट की सलाह दी",टेस्ट,I-TEST
+12,"एक 35 वर्षीय पेशेंट को तेज़ बुखार और सिर दर्द था, इसलिए डॉक्टर ने 5mg Paracetamol और एक ब्लड टेस्ट की सलाह दी",की,O
+12,"एक 35 वर्षीय पेशेंट को तेज़ बुखार और सिर दर्द था, इसलिए डॉक्टर ने 5mg Paracetamol और एक ब्लड टेस्ट की सलाह दी",सलाह,O
+12,"एक 35 वर्षीय पेशेंट को तेज़ बुखार और सिर दर्द था, इसलिए डॉक्टर ने 5mg Paracetamol और एक ब्लड टेस्ट की सलाह दी",दी,O
+13,डॉक्टर ने मरीज़ को तेज़ बुखार और सिर दर्द के लिए Paracetamol 650mg दो बार दिन में देने की सलाह दी और एक पूरा ब्लड टेस्ट कराने के लिए कहा।,डॉक्टर,O
+13,डॉक्टर ने मरीज़ को तेज़ बुखार और सिर दर्द के लिए Paracetamol 650mg दो बार दिन में देने की सलाह दी और एक पूरा ब्लड टेस्ट कराने के लिए कहा।,ने,O
+13,डॉक्टर ने मरीज़ को तेज़ बुखार और सिर दर्द के लिए Paracetamol 650mg दो बार दिन में देने की सलाह दी और एक पूरा ब्लड टेस्ट कराने के लिए कहा।,मरीज़,O
+13,डॉक्टर ने मरीज़ को तेज़ बुखार और सिर दर्द के लिए Paracetamol 650mg दो बार दिन में देने की सलाह दी और एक पूरा ब्लड टेस्ट कराने के लिए कहा।,को,O
+13,डॉक्टर ने मरीज़ को तेज़ बुखार और सिर दर्द के लिए Paracetamol 650mg दो बार दिन में देने की सलाह दी और एक पूरा ब्लड टेस्ट कराने के लिए कहा।,तेज़,B-SYMPTOM
+13,डॉक्टर ने मरीज़ को तेज़ बुखार और सिर दर्द के लिए Paracetamol 650mg दो बार दिन में देने की सलाह दी और एक पूरा ब्लड टेस्ट कराने के लिए कहा।,बुखार,I-SYMPTOM
+13,डॉक्टर ने मरीज़ को तेज़ बुखार और सिर दर्द के लिए Paracetamol 650mg दो बार दिन में देने की सलाह दी और एक पूरा ब्लड टेस्ट कराने के लिए कहा।,और,O
+13,डॉक्टर ने मरीज़ को तेज़ बुखार और सिर दर्द के लिए Paracetamol 650mg दो बार दिन में देने की सलाह दी और एक पूरा ब्लड टेस्ट कराने के लिए कहा।,सिर,B-SYMPTOM
+13,डॉक्टर ने मरीज़ को तेज़ बुखार और सिर दर्द के लिए Paracetamol 650mg दो बार दिन में देने की सलाह दी और एक पूरा ब्लड टेस्ट कराने के लिए कहा।,दर्द,I-SYMPTOM
+13,डॉक्टर ने मरीज़ को तेज़ बुखार और सिर दर्द के लिए Paracetamol 650mg दो बार दिन में देने की सलाह दी और एक पूरा ब्लड टेस्ट कराने के लिए कहा।,के,O
+13,डॉक्टर ने मरीज़ को तेज़ बुखार और सिर दर्द के लिए Paracetamol 650mg दो बार दिन में देने की सलाह दी और एक पूरा ब्लड टेस्ट कराने के लिए कहा।,लिए,O
+13,डॉक्टर ने मरीज़ को तेज़ बुखार और सिर दर्द के लिए Paracetamol 650mg दो बार दिन में देने की सलाह दी और एक पूरा ब्लड टेस्ट कराने के लिए कहा।,Paracetamol,B-MEDICATION
+13,डॉक्टर ने मरीज़ को तेज़ बुखार और सिर दर्द के लिए Paracetamol 650mg दो बार दिन में देने की सलाह दी और एक पूरा ब्लड टेस्ट कराने के लिए कहा।,650mg,B-DOSAGE
+13,डॉक्टर ने मरीज़ को तेज़ बुखार और सिर दर्द के लिए Paracetamol 650mg दो बार दिन में देने की सलाह दी और एक पूरा ब्लड टेस्ट कराने के लिए कहा।,दो,O
+13,डॉक्टर ने मरीज़ को तेज़ बुखार और सिर दर्द के लिए Paracetamol 650mg दो बार दिन में देने की सलाह दी और एक पूरा ब्लड टेस्ट कराने के लिए कहा।,बार,O
+13,डॉक्टर ने मरीज़ को तेज़ बुखार और सिर दर्द के लिए Paracetamol 650mg दो बार दिन में देने की सलाह दी और एक पूरा ब्लड टेस्ट कराने के लिए कहा।,दिन,O
+13,डॉक्टर ने मरीज़ को तेज़ बुखार और सिर दर्द के लिए Paracetamol 650mg दो बार दिन में देने की सलाह दी और एक पूरा ब्लड टेस्ट कराने के लिए कहा।,में,O
+13,डॉक्टर ने मरीज़ को तेज़ बुखार और सिर दर्द के लिए Paracetamol 650mg दो बार दिन में देने की सलाह दी और एक पूरा ब्लड टेस्ट कराने के लिए कहा।,देने,O
+13,डॉक्टर ने मरीज़ को तेज़ बुखार और सिर दर्द के लिए Paracetamol 650mg दो बार दिन में देने की सलाह दी और एक पूरा ब्लड टेस्ट कराने के लिए कहा।,की,O
+13,डॉक्टर ने मरीज़ को तेज़ बुखार और सिर दर्द के लिए Paracetamol 650mg दो बार दिन में देने की सलाह दी और एक पूरा ब्लड टेस्ट कराने के लिए कहा।,सलाह,O
+13,डॉक्टर ने मरीज़ को तेज़ बुखार और सिर दर्द के लिए Paracetamol 650mg दो बार दिन में देने की सलाह दी और एक पूरा ब्लड टेस्ट कराने के लिए कहा।,दी,O
+13,डॉक्टर ने मरीज़ को तेज़ बुखार और सिर दर्द के लिए Paracetamol 650mg दो बार दिन में देने की सलाह दी और एक पूरा ब्लड टेस्ट कराने के लिए कहा।,और,O
+13,डॉक्टर ने मरीज़ को तेज़ बुखार और सिर दर्द के लिए Paracetamol 650mg दो बार दिन में देने की सलाह दी और एक पूरा ब्लड टेस्ट कराने के लिए कहा।,एक,O
+13,डॉक्टर ने मरीज़ को तेज़ बुखार और सिर दर्द के लिए Paracetamol 650mg दो बार दिन में देने की सलाह दी और एक पूरा ब्लड टेस्ट कराने के लिए कहा।,पूरा,O
+13,डॉक्टर ने मरीज़ को तेज़ बुखार और सिर दर्द के लिए Paracetamol 650mg दो बार दिन में देने की सलाह दी और एक पूरा ब्लड टेस्ट कराने के लिए कहा।,ब्लड,B-TEST
+13,डॉक्टर ने मरीज़ को तेज़ बुखार और सिर दर्द के लिए Paracetamol 650mg दो बार दिन में देने की सलाह दी और एक पूरा ब्लड टेस्ट कराने के लिए कहा।,टेस्ट,I-TEST
+13,डॉक्टर ने मरीज़ को तेज़ बुखार और सिर दर्द के लिए Paracetamol 650mg दो बार दिन में देने की सलाह दी और एक पूरा ब्लड टेस्ट कराने के लिए कहा।,कराने,O
+13,डॉक्टर ने मरीज़ को तेज़ बुखार और सिर दर्द के लिए Paracetamol 650mg दो बार दिन में देने की सलाह दी और एक पूरा ब्लड टेस्ट कराने के लिए कहा।,के,O
+13,डॉक्टर ने मरीज़ को तेज़ बुखार और सिर दर्द के लिए Paracetamol 650mg दो बार दिन में देने की सलाह दी और एक पूरा ब्लड टेस्ट कराने के लिए कहा।,लिए,O
+13,डॉक्टर ने मरीज़ को तेज़ बुखार और सिर दर्द के लिए Paracetamol 650mg दो बार दिन में देने की सलाह दी और एक पूरा ब्लड टेस्ट कराने के लिए कहा।,कहा,O
+13,डॉक्टर ने मरीज़ को तेज़ बुखार और सिर दर्द के लिए Paracetamol 650mg दो बार दिन में देने की सलाह दी और एक पूरा ब्लड टेस्ट कराने के लिए कहा।,।,O
+14,रोगी को तेज़ सिर दर्द और बुखार के कारण डॉक्टर ने 500mg Paracetamol और एक ब्लड टेस्ट करवाने की सलाह दी थी।,रोगी,O
+14,रोगी को तेज़ सिर दर्द और बुखार के कारण डॉक्टर ने 500mg Paracetamol और एक ब्लड टेस्ट करवाने की सलाह दी थी।,को,O
+14,रोगी को तेज़ सिर दर्द और बुखार के कारण डॉक्टर ने 500mg Paracetamol और एक ब्लड टेस्ट करवाने की सलाह दी थी।,तेज़,B-SYMPTOM
+14,रोगी को तेज़ सिर दर्द और बुखार के कारण डॉक्टर ने 500mg Paracetamol और एक ब्लड टेस्ट करवाने की सलाह दी थी।,सिर,I-SYMPTOM
+14,रोगी को तेज़ सिर दर्द और बुखार के कारण डॉक्टर ने 500mg Paracetamol और एक ब्लड टेस्ट करवाने की सलाह दी थी।,दर्द,I-SYMPTOM
+14,रोगी को तेज़ सिर दर्द और बुखार के कारण डॉक्टर ने 500mg Paracetamol और एक ब्लड टेस्ट करवाने की सलाह दी थी।,और,O
+14,रोगी को तेज़ सिर दर्द और बुखार के कारण डॉक्टर ने 500mg Paracetamol और एक ब्लड टेस्ट करवाने की सलाह दी थी।,बुखार,B-SYMPTOM
+14,रोगी को तेज़ सिर दर्द और बुखार के कारण डॉक्टर ने 500mg Paracetamol और एक ब्लड टेस्ट करवाने की सलाह दी थी।,के,O
+14,रोगी को तेज़ सिर दर्द और बुखार के कारण डॉक्टर ने 500mg Paracetamol और एक ब्लड टेस्ट करवाने की सलाह दी थी।,कारण,O
+14,रोगी को तेज़ सिर दर्द और बुखार के कारण डॉक्टर ने 500mg Paracetamol और एक ब्लड टेस्ट करवाने की सलाह दी थी।,डॉक्टर,O
+14,रोगी को तेज़ सिर दर्द और बुखार के कारण डॉक्टर ने 500mg Paracetamol और एक ब्लड टेस्ट करवाने की सलाह दी थी।,ने,O
+14,रोगी को तेज़ सिर दर्द और बुखार के कारण डॉक्टर ने 500mg Paracetamol और एक ब्लड टेस्ट करवाने की सलाह दी थी।,500mg,B-DOSAGE
+14,रोगी को तेज़ सिर दर्द और बुखार के कारण डॉक्टर ने 500mg Paracetamol और एक ब्लड टेस्ट करवाने की सलाह दी थी।,Paracetamol,B-MEDICATION
+14,रोगी को तेज़ सिर दर्द और बुखार के कारण डॉक्टर ने 500mg Paracetamol और एक ब्लड टेस्ट करवाने की सलाह दी थी।,और,O
+14,रोगी को तेज़ सिर दर्द और बुखार के कारण डॉक्टर ने 500mg Paracetamol और एक ब्लड टेस्ट करवाने की सलाह दी थी।,एक,O
+14,रोगी को तेज़ सिर दर्द और बुखार के कारण डॉक्टर ने 500mg Paracetamol और एक ब्लड टेस्ट करवाने की सलाह दी थी।,ब्लड,B-TEST
+14,रोगी को तेज़ सिर दर्द और बुखार के कारण डॉक्टर ने 500mg Paracetamol और एक ब्लड टेस्ट करवाने की सलाह दी थी।,टेस्ट,I-TEST
+14,रोगी को तेज़ सिर दर्द और बुखार के कारण डॉक्टर ने 500mg Paracetamol और एक ब्लड टेस्ट करवाने की सलाह दी थी।,करवाने,O
+14,रोगी को तेज़ सिर दर्द और बुखार के कारण डॉक्टर ने 500mg Paracetamol और एक ब्लड टेस्ट करवाने की सलाह दी थी।,की,O
+14,रोगी को तेज़ सिर दर्द और बुखार के कारण डॉक्टर ने 500mg Paracetamol और एक ब्लड टेस्ट करवाने की सलाह दी थी।,सलाह,O
+14,रोगी को तेज़ सिर दर्द और बुखार के कारण डॉक्टर ने 500mg Paracetamol और एक ब्लड टेस्ट करवाने की सलाह दी थी।,दी,O
+14,रोगी को तेज़ सिर दर्द और बुखार के कारण डॉक्टर ने 500mg Paracetamol और एक ब्लड टेस्ट करवाने की सलाह दी थी।,थी,O
+14,रोगी को तेज़ सिर दर्द और बुखार के कारण डॉक्टर ने 500mg Paracetamol और एक ब्लड टेस्ट करवाने की सलाह दी थी।,।,O
+15,"रोगी को हृदय रोग की समस्या थी, जिसके लिए उन्हें Angioplasty की प्रक्रिया से गुजरना पड़ा और डॉक्टर ने 75mg Clopidogrel और 20mg Atorvastatin की दवा दी।",रोगी,O
+15,"रोगी को हृदय रोग की समस्या थी, जिसके लिए उन्हें Angioplasty की प्रक्रिया से गुजरना पड़ा और डॉक्टर ने 75mg Clopidogrel और 20mg Atorvastatin की दवा दी।",को,O
+15,"रोगी को हृदय रोग की समस्या थी, जिसके लिए उन्हें Angioplasty की प्रक्रिया से गुजरना पड़ा और डॉक्टर ने 75mg Clopidogrel और 20mg Atorvastatin की दवा दी।",हृदय,B-CONDITION
+15,"रोगी को हृदय रोग की समस्या थी, जिसके लिए उन्हें Angioplasty की प्रक्रिया से गुजरना पड़ा और डॉक्टर ने 75mg Clopidogrel और 20mg Atorvastatin की दवा दी।",रोग,I-CONDITION
+15,"रोगी को हृदय रोग की समस्या थी, जिसके लिए उन्हें Angioplasty की प्रक्रिया से गुजरना पड़ा और डॉक्टर ने 75mg Clopidogrel और 20mg Atorvastatin की दवा दी।",की,O
+15,"रोगी को हृदय रोग की समस्या थी, जिसके लिए उन्हें Angioplasty की प्रक्रिया से गुजरना पड़ा और डॉक्टर ने 75mg Clopidogrel और 20mg Atorvastatin की दवा दी।",समस्या,O
+15,"रोगी को हृदय रोग की समस्या थी, जिसके लिए उन्हें Angioplasty की प्रक्रिया से गुजरना पड़ा और डॉक्टर ने 75mg Clopidogrel और 20mg Atorvastatin की दवा दी।",थी,O
+15,"रोगी को हृदय रोग की समस्या थी, जिसके लिए उन्हें Angioplasty की प्रक्रिया से गुजरना पड़ा और डॉक्टर ने 75mg Clopidogrel और 20mg Atorvastatin की दवा दी।",",",O
+15,"रोगी को हृदय रोग की समस्या थी, जिसके लिए उन्हें Angioplasty की प्रक्रिया से गुजरना पड़ा और डॉक्टर ने 75mg Clopidogrel और 20mg Atorvastatin की दवा दी।",जिसके,O
+15,"रोगी को हृदय रोग की समस्या थी, जिसके लिए उन्हें Angioplasty की प्रक्रिया से गुजरना पड़ा और डॉक्टर ने 75mg Clopidogrel और 20mg Atorvastatin की दवा दी।",लिए,O
+15,"रोगी को हृदय रोग की समस्या थी, जिसके लिए उन्हें Angioplasty की प्रक्रिया से गुजरना पड़ा और डॉक्टर ने 75mg Clopidogrel और 20mg Atorvastatin की दवा दी।",उन्हें,O
+15,"रोगी को हृदय रोग की समस्या थी, जिसके लिए उन्हें Angioplasty की प्रक्रिया से गुजरना पड़ा और डॉक्टर ने 75mg Clopidogrel और 20mg Atorvastatin की दवा दी।",Angioplasty,B-PROCEDURE
+15,"रोगी को हृदय रोग की समस्या थी, जिसके लिए उन्हें Angioplasty की प्रक्रिया से गुजरना पड़ा और डॉक्टर ने 75mg Clopidogrel और 20mg Atorvastatin की दवा दी।",की,O
+15,"रोगी को हृदय रोग की समस्या थी, जिसके लिए उन्हें Angioplasty की प्रक्रिया से गुजरना पड़ा और डॉक्टर ने 75mg Clopidogrel और 20mg Atorvastatin की दवा दी।",प्रक्रिया,I-PROCEDURE
+15,"रोगी को हृदय रोग की समस्या थी, जिसके लिए उन्हें Angioplasty की प्रक्रिया से गुजरना पड़ा और डॉक्टर ने 75mg Clopidogrel और 20mg Atorvastatin की दवा दी।",से,O
+15,"रोगी को हृदय रोग की समस्या थी, जिसके लिए उन्हें Angioplasty की प्रक्रिया से गुजरना पड़ा और डॉक्टर ने 75mg Clopidogrel और 20mg Atorvastatin की दवा दी।",गुजरना,O
+15,"रोगी को हृदय रोग की समस्या थी, जिसके लिए उन्हें Angioplasty की प्रक्रिया से गुजरना पड़ा और डॉक्टर ने 75mg Clopidogrel और 20mg Atorvastatin की दवा दी।",पड़ा,O
+15,"रोगी को हृदय रोग की समस्या थी, जिसके लिए उन्हें Angioplasty की प्रक्रिया से गुजरना पड़ा और डॉक्टर ने 75mg Clopidogrel और 20mg Atorvastatin की दवा दी।",और,O
+15,"रोगी को हृदय रोग की समस्या थी, जिसके लिए उन्हें Angioplasty की प्रक्रिया से गुजरना पड़ा और डॉक्टर ने 75mg Clopidogrel और 20mg Atorvastatin की दवा दी।",डॉक्टर,O
+15,"रोगी को हृदय रोग की समस्या थी, जिसके लिए उन्हें Angioplasty की प्रक्रिया से गुजरना पड़ा और डॉक्टर ने 75mg Clopidogrel और 20mg Atorvastatin की दवा दी।",ने,O
+15,"रोगी को हृदय रोग की समस्या थी, जिसके लिए उन्हें Angioplasty की प्रक्रिया से गुजरना पड़ा और डॉक्टर ने 75mg Clopidogrel और 20mg Atorvastatin की दवा दी।",75mg,B-DOSAGE
+15,"रोगी को हृदय रोग की समस्या थी, जिसके लिए उन्हें Angioplasty की प्रक्रिया से गुजरना पड़ा और डॉक्टर ने 75mg Clopidogrel और 20mg Atorvastatin की दवा दी।",Clopidogrel,B-MEDICATION
+15,"रोगी को हृदय रोग की समस्या थी, जिसके लिए उन्हें Angioplasty की प्रक्रिया से गुजरना पड़ा और डॉक्टर ने 75mg Clopidogrel और 20mg Atorvastatin की दवा दी।",और,O
+15,"रोगी को हृदय रोग की समस्या थी, जिसके लिए उन्हें Angioplasty की प्रक्रिया से गुजरना पड़ा और डॉक्टर ने 75mg Clopidogrel और 20mg Atorvastatin की दवा दी।",20mg,B-DOSAGE
+15,"रोगी को हृदय रोग की समस्या थी, जिसके लिए उन्हें Angioplasty की प्रक्रिया से गुजरना पड़ा और डॉक्टर ने 75mg Clopidogrel और 20mg Atorvastatin की दवा दी।",Atorvastatin,B-MEDICATION
+15,"रोगी को हृदय रोग की समस्या थी, जिसके लिए उन्हें Angioplasty की प्रक्रिया से गुजरना पड़ा और डॉक्टर ने 75mg Clopidogrel और 20mg Atorvastatin की दवा दी।",की,O
+15,"रोगी को हृदय रोग की समस्या थी, जिसके लिए उन्हें Angioplasty की प्रक्रिया से गुजरना पड़ा और डॉक्टर ने 75mg Clopidogrel और 20mg Atorvastatin की दवा दी।",दवा,O
+15,"रोगी को हृदय रोग की समस्या थी, जिसके लिए उन्हें Angioplasty की प्रक्रिया से गुजरना पड़ा और डॉक्टर ने 75mg Clopidogrel और 20mg Atorvastatin की दवा दी।",दी,O
+15,"रोगी को हृदय रोग की समस्या थी, जिसके लिए उन्हें Angioplasty की प्रक्रिया से गुजरना पड़ा और डॉक्टर ने 75mg Clopidogrel और 20mg Atorvastatin की दवा दी।",।,O
+16,रोगी को तेज़ बुखार और सिर दर्द के कारण डॉक्टर ने 5mg Paracetamol और एक ब्लड टेस्ट की सिफारिश की थी जिसमें लिपिड प्रोफाइल भी शामिल था।,रोगी,O
+16,रोगी को तेज़ बुखार और सिर दर्द के कारण डॉक्टर ने 5mg Paracetamol और एक ब्लड टेस्ट की सिफारिश की थी जिसमें लिपिड प्रोफाइल भी शामिल था।,को,O
+16,रोगी को तेज़ बुखार और सिर दर्द के कारण डॉक्टर ने 5mg Paracetamol और एक ब्लड टेस्ट की सिफारिश की थी जिसमें लिपिड प्रोफाइल भी शामिल था।,तेज़,B-SYMPTOM
+16,रोगी को तेज़ बुखार और सिर दर्द के कारण डॉक्टर ने 5mg Paracetamol और एक ब्लड टेस्ट की सिफारिश की थी जिसमें लिपिड प्रोफाइल भी शामिल था।,बुखार,I-SYMPTOM
+16,रोगी को तेज़ बुखार और सिर दर्द के कारण डॉक्टर ने 5mg Paracetamol और एक ब्लड टेस्ट की सिफारिश की थी जिसमें लिपिड प्रोफाइल भी शामिल था।,और,O
+16,रोगी को तेज़ बुखार और सिर दर्द के कारण डॉक्टर ने 5mg Paracetamol और एक ब्लड टेस्ट की सिफारिश की थी जिसमें लिपिड प्रोफाइल भी शामिल था।,सिर,B-SYMPTOM
+16,रोगी को तेज़ बुखार और सिर दर्द के कारण डॉक्टर ने 5mg Paracetamol और एक ब्लड टेस्ट की सिफारिश की थी जिसमें लिपिड प्रोफाइल भी शामिल था।,दर्द,I-SYMPTOM
+16,रोगी को तेज़ बुखार और सिर दर्द के कारण डॉक्टर ने 5mg Paracetamol और एक ब्लड टेस्ट की सिफारिश की थी जिसमें लिपिड प्रोफाइल भी शामिल था।,के,O
+16,रोगी को तेज़ बुखार और सिर दर्द के कारण डॉक्टर ने 5mg Paracetamol और एक ब्लड टेस्ट की सिफारिश की थी जिसमें लिपिड प्रोफाइल भी शामिल था।,कारण,O
+16,रोगी को तेज़ बुखार और सिर दर्द के कारण डॉक्टर ने 5mg Paracetamol और एक ब्लड टेस्ट की सिफारिश की थी जिसमें लिपिड प्रोफाइल भी शामिल था।,डॉक्टर,O
+16,रोगी को तेज़ बुखार और सिर दर्द के कारण डॉक्टर ने 5mg Paracetamol और एक ब्लड टेस्ट की सिफारिश की थी जिसमें लिपिड प्रोफाइल भी शामिल था।,ने,O
+16,रोगी को तेज़ बुखार और सिर दर्द के कारण डॉक्टर ने 5mg Paracetamol और एक ब्लड टेस्ट की सिफारिश की थी जिसमें लिपिड प्रोफाइल भी शामिल था।,5mg,B-DOSAGE
+16,रोगी को तेज़ बुखार और सिर दर्द के कारण डॉक्टर ने 5mg Paracetamol और एक ब्लड टेस्ट की सिफारिश की थी जिसमें लिपिड प्रोफाइल भी शामिल था।,Paracetamol,B-MEDICATION
+16,रोगी को तेज़ बुखार और सिर दर्द के कारण डॉक्टर ने 5mg Paracetamol और एक ब्लड टेस्ट की सिफारिश की थी जिसमें लिपिड प्रोफाइल भी शामिल था।,और,O
+16,रोगी को तेज़ बुखार और सिर दर्द के कारण डॉक्टर ने 5mg Paracetamol और एक ब्लड टेस्ट की सिफारिश की थी जिसमें लिपिड प्रोफाइल भी शामिल था।,एक,O
+16,रोगी को तेज़ बुखार और सिर दर्द के कारण डॉक्टर ने 5mg Paracetamol और एक ब्लड टेस्ट की सिफारिश की थी जिसमें लिपिड प्रोफाइल भी शामिल था।,ब्लड,B-TEST
+16,रोगी को तेज़ बुखार और सिर दर्द के कारण डॉक्टर ने 5mg Paracetamol और एक ब्लड टेस्ट की सिफारिश की थी जिसमें लिपिड प्रोफाइल भी शामिल था।,टेस्ट,I-TEST
+16,रोगी को तेज़ बुखार और सिर दर्द के कारण डॉक्टर ने 5mg Paracetamol और एक ब्लड टेस्ट की सिफारिश की थी जिसमें लिपिड प्रोफाइल भी शामिल था।,की,O
+16,रोगी को तेज़ बुखार और सिर दर्द के कारण डॉक्टर ने 5mg Paracetamol और एक ब्लड टेस्ट की सिफारिश की थी जिसमें लिपिड प्रोफाइल भी शामिल था।,सिफारिश,O
+16,रोगी को तेज़ बुखार और सिर दर्द के कारण डॉक्टर ने 5mg Paracetamol और एक ब्लड टेस्ट की सिफारिश की थी जिसमें लिपिड प्रोफाइल भी शामिल था।,की,O
+16,रोगी को तेज़ बुखार और सिर दर्द के कारण डॉक्टर ने 5mg Paracetamol और एक ब्लड टेस्ट की सिफारिश की थी जिसमें लिपिड प्रोफाइल भी शामिल था।,थी,O
+16,रोगी को तेज़ बुखार और सिर दर्द के कारण डॉक्टर ने 5mg Paracetamol और एक ब्लड टेस्ट की सिफारिश की थी जिसमें लिपिड प्रोफाइल भी शामिल था।,जिसमें,O
+16,रोगी को तेज़ बुखार और सिर दर्द के कारण डॉक्टर ने 5mg Paracetamol और एक ब्लड टेस्ट की सिफारिश की थी जिसमें लिपिड प्रोफाइल भी शामिल था।,लिपिड,B-TEST
+16,रोगी को तेज़ बुखार और सिर दर्द के कारण डॉक्टर ने 5mg Paracetamol और एक ब्लड टेस्ट की सिफारिश की थी जिसमें लिपिड प्रोफाइल भी शामिल था।,प्रोफाइल,I-TEST
+16,रोगी को तेज़ बुखार और सिर दर्द के कारण डॉक्टर ने 5mg Paracetamol और एक ब्लड टेस्ट की सिफारिश की थी जिसमें लिपिड प्रोफाइल भी शामिल था।,भी,O
+16,रोगी को तेज़ बुखार और सिर दर्द के कारण डॉक्टर ने 5mg Paracetamol और एक ब्लड टेस्ट की सिफारिश की थी जिसमें लिपिड प्रोफाइल भी शामिल था।,शामिल,O
+16,रोगी को तेज़ बुखार और सिर दर्द के कारण डॉक्टर ने 5mg Paracetamol और एक ब्लड टेस्ट की सिफारिश की थी जिसमें लिपिड प्रोफाइल भी शामिल था।,था।,O
+17,The patient with तेज़ बुखार and सिर दर्द was prescribed 200mL Paracetamol syrup after an abnormal ब्लड टेस्ट report and advised to undergo डायलिसिस procedure.,The,O
+17,The patient with तेज़ बुखार and सिर दर्द was prescribed 200mL Paracetamol syrup after an abnormal ब्लड टेस्ट report and advised to undergo डायलिसिस procedure.,patient,O
+17,The patient with तेज़ बुखार and सिर दर्द was prescribed 200mL Paracetamol syrup after an abnormal ब्लड टेस्ट report and advised to undergo डायलिसिस procedure.,with,O
+17,The patient with तेज़ बुखार and सिर दर्द was prescribed 200mL Paracetamol syrup after an abnormal ब्लड टेस्ट report and advised to undergo डायलिसिस procedure.,तेज़,B-SYMPTOM
+17,The patient with तेज़ बुखार and सिर दर्द was prescribed 200mL Paracetamol syrup after an abnormal ब्लड टेस्ट report and advised to undergo डायलिसिस procedure.,बुखार,I-SYMPTOM
+17,The patient with तेज़ बुखार and सिर दर्द was prescribed 200mL Paracetamol syrup after an abnormal ब्लड टेस्ट report and advised to undergo डायलिसिस procedure.,and,O
+17,The patient with तेज़ बुखार and सिर दर्द was prescribed 200mL Paracetamol syrup after an abnormal ब्लड टेस्ट report and advised to undergo डायलिसिस procedure.,सिर,B-SYMPTOM
+17,The patient with तेज़ बुखार and सिर दर्द was prescribed 200mL Paracetamol syrup after an abnormal ब्लड टेस्ट report and advised to undergo डायलिसिस procedure.,दर्द,I-SYMPTOM
+17,The patient with तेज़ बुखार and सिर दर्द was prescribed 200mL Paracetamol syrup after an abnormal ब्लड टेस्ट report and advised to undergo डायलिसिस procedure.,was,O
+17,The patient with तेज़ बुखार and सिर दर्द was prescribed 200mL Paracetamol syrup after an abnormal ब्लड टेस्ट report and advised to undergo डायलिसिस procedure.,prescribed,O
+17,The patient with तेज़ बुखार and सिर दर्द was prescribed 200mL Paracetamol syrup after an abnormal ब्लड टेस्ट report and advised to undergo डायलिसिस procedure.,200mL,B-DOSAGE
+17,The patient with तेज़ बुखार and सिर दर्द was prescribed 200mL Paracetamol syrup after an abnormal ब्लड टेस्ट report and advised to undergo डायलिसिस procedure.,Paracetamol,B-MEDICATION
+17,The patient with तेज़ बुखार and सिर दर्द was prescribed 200mL Paracetamol syrup after an abnormal ब्लड टेस्ट report and advised to undergo डायलिसिस procedure.,syrup,I-MEDICATION
+17,The patient with तेज़ बुखार and सिर दर्द was prescribed 200mL Paracetamol syrup after an abnormal ब्लड टेस्ट report and advised to undergo डायलिसिस procedure.,after,O
+17,The patient with तेज़ बुखार and सिर दर्द was prescribed 200mL Paracetamol syrup after an abnormal ब्लड टेस्ट report and advised to undergo डायलिसिस procedure.,an,O
+17,The patient with तेज़ बुखार and सिर दर्द was prescribed 200mL Paracetamol syrup after an abnormal ब्लड टेस्ट report and advised to undergo डायलिसिस procedure.,abnormal,O
+17,The patient with तेज़ बुखार and सिर दर्द was prescribed 200mL Paracetamol syrup after an abnormal ब्लड टेस्ट report and advised to undergo डायलिसिस procedure.,ब्लड,B-TEST
+17,The patient with तेज़ बुखार and सिर दर्द was prescribed 200mL Paracetamol syrup after an abnormal ब्लड टेस्ट report and advised to undergo डायलिसिस procedure.,टेस्ट,I-TEST
+17,The patient with तेज़ बुखार and सिर दर्द was prescribed 200mL Paracetamol syrup after an abnormal ब्लड टेस्ट report and advised to undergo डायलिसिस procedure.,report,O
+17,The patient with तेज़ बुखार and सिर दर्द was prescribed 200mL Paracetamol syrup after an abnormal ब्लड टेस्ट report and advised to undergo डायलिसिस procedure.,and,O
+17,The patient with तेज़ बुखार and सिर दर्द was prescribed 200mL Paracetamol syrup after an abnormal ब्लड टेस्ट report and advised to undergo डायलिसिस procedure.,advised,O
+17,The patient with तेज़ बुखार and सिर दर्द was prescribed 200mL Paracetamol syrup after an abnormal ब्लड टेस्ट report and advised to undergo डायलिसिस procedure.,to,O
+17,The patient with तेज़ बुखार and सिर दर्द was prescribed 200mL Paracetamol syrup after an abnormal ब्लड टेस्ट report and advised to undergo डायलिसिस procedure.,undergo,O
+17,The patient with तेज़ बुखार and सिर दर्द was prescribed 200mL Paracetamol syrup after an abnormal ब्लड टेस्ट report and advised to undergo डायलिसिस procedure.,डायलिसिस,B-PROCEDURE
+17,The patient with तेज़ बुखार and सिर दर्द was prescribed 200mL Paracetamol syrup after an abnormal ब्लड टेस्ट report and advised to undergo डायलिसिस procedure.,procedure,I-PROCEDURE
+17,The patient with तेज़ बुखार and सिर दर्द was prescribed 200mL Paracetamol syrup after an abnormal ब्लड टेस्ट report and advised to undergo डायलिसिस procedure.,.,O
+18,"एक 45 वर्षीय रोगी जिसको मधुमेह और हृदय रोग है, उसे डॉक्टर ने Angioplasty के लिए कहा और 5mg Aspirin दिया क्योंकि उसे तेज़ सीने में दर्द और सांस लेने में दिक्कत थी।",एक,O
+18,"एक 45 वर्षीय रोगी जिसको मधुमेह और हृदय रोग है, उसे डॉक्टर ने Angioplasty के लिए कहा और 5mg Aspirin दिया क्योंकि उसे तेज़ सीने में दर्द और सांस लेने में दिक्कत थी।",45,O
+18,"एक 45 वर्षीय रोगी जिसको मधुमेह और हृदय रोग है, उसे डॉक्टर ने Angioplasty के लिए कहा और 5mg Aspirin दिया क्योंकि उसे तेज़ सीने में दर्द और सांस लेने में दिक्कत थी।",वर्षीय,O
+18,"एक 45 वर्षीय रोगी जिसको मधुमेह और हृदय रोग है, उसे डॉक्टर ने Angioplasty के लिए कहा और 5mg Aspirin दिया क्योंकि उसे तेज़ सीने में दर्द और सांस लेने में दिक्कत थी।",रोगी,O
+18,"एक 45 वर्षीय रोगी जिसको मधुमेह और हृदय रोग है, उसे डॉक्टर ने Angioplasty के लिए कहा और 5mg Aspirin दिया क्योंकि उसे तेज़ सीने में दर्द और सांस लेने में दिक्कत थी।",जिसको,O
+18,"एक 45 वर्षीय रोगी जिसको मधुमेह और हृदय रोग है, उसे डॉक्टर ने Angioplasty के लिए कहा और 5mg Aspirin दिया क्योंकि उसे तेज़ सीने में दर्द और सांस लेने में दिक्कत थी।",मधुमेह,B-CONDITION
+18,"एक 45 वर्षीय रोगी जिसको मधुमेह और हृदय रोग है, उसे डॉक्टर ने Angioplasty के लिए कहा और 5mg Aspirin दिया क्योंकि उसे तेज़ सीने में दर्द और सांस लेने में दिक्कत थी।",और,O
+18,"एक 45 वर्षीय रोगी जिसको मधुमेह और हृदय रोग है, उसे डॉक्टर ने Angioplasty के लिए कहा और 5mg Aspirin दिया क्योंकि उसे तेज़ सीने में दर्द और सांस लेने में दिक्कत थी।",हृदय,B-CONDITION
+18,"एक 45 वर्षीय रोगी जिसको मधुमेह और हृदय रोग है, उसे डॉक्टर ने Angioplasty के लिए कहा और 5mg Aspirin दिया क्योंकि उसे तेज़ सीने में दर्द और सांस लेने में दिक्कत थी।",रोग,I-CONDITION
+18,"एक 45 वर्षीय रोगी जिसको मधुमेह और हृदय रोग है, उसे डॉक्टर ने Angioplasty के लिए कहा और 5mg Aspirin दिया क्योंकि उसे तेज़ सीने में दर्द और सांस लेने में दिक्कत थी।",है,O
+18,"एक 45 वर्षीय रोगी जिसको मधुमेह और हृदय रोग है, उसे डॉक्टर ने Angioplasty के लिए कहा और 5mg Aspirin दिया क्योंकि उसे तेज़ सीने में दर्द और सांस लेने में दिक्कत थी।",उसे,O
+18,"एक 45 वर्षीय रोगी जिसको मधुमेह और हृदय रोग है, उसे डॉक्टर ने Angioplasty के लिए कहा और 5mg Aspirin दिया क्योंकि उसे तेज़ सीने में दर्द और सांस लेने में दिक्कत थी।",डॉक्टर,O
+18,"एक 45 वर्षीय रोगी जिसको मधुमेह और हृदय रोग है, उसे डॉक्टर ने Angioplasty के लिए कहा और 5mg Aspirin दिया क्योंकि उसे तेज़ सीने में दर्द और सांस लेने में दिक्कत थी।",ने,O
+18,"एक 45 वर्षीय रोगी जिसको मधुमेह और हृदय रोग है, उसे डॉक्टर ने Angioplasty के लिए कहा और 5mg Aspirin दिया क्योंकि उसे तेज़ सीने में दर्द और सांस लेने में दिक्कत थी।",Angioplasty,B-PROCEDURE
+18,"एक 45 वर्षीय रोगी जिसको मधुमेह और हृदय रोग है, उसे डॉक्टर ने Angioplasty के लिए कहा और 5mg Aspirin दिया क्योंकि उसे तेज़ सीने में दर्द और सांस लेने में दिक्कत थी।",के,O
+18,"एक 45 वर्षीय रोगी जिसको मधुमेह और हृदय रोग है, उसे डॉक्टर ने Angioplasty के लिए कहा और 5mg Aspirin दिया क्योंकि उसे तेज़ सीने में दर्द और सांस लेने में दिक्कत थी।",लिए,O
+18,"एक 45 वर्षीय रोगी जिसको मधुमेह और हृदय रोग है, उसे डॉक्टर ने Angioplasty के लिए कहा और 5mg Aspirin दिया क्योंकि उसे तेज़ सीने में दर्द और सांस लेने में दिक्कत थी।",कहा,O
+18,"एक 45 वर्षीय रोगी जिसको मधुमेह और हृदय रोग है, उसे डॉक्टर ने Angioplasty के लिए कहा और 5mg Aspirin दिया क्योंकि उसे तेज़ सीने में दर्द और सांस लेने में दिक्कत थी।",और,O
+18,"एक 45 वर्षीय रोगी जिसको मधुमेह और हृदय रोग है, उसे डॉक्टर ने Angioplasty के लिए कहा और 5mg Aspirin दिया क्योंकि उसे तेज़ सीने में दर्द और सांस लेने में दिक्कत थी।",5mg,B-DOSAGE
+18,"एक 45 वर्षीय रोगी जिसको मधुमेह और हृदय रोग है, उसे डॉक्टर ने Angioplasty के लिए कहा और 5mg Aspirin दिया क्योंकि उसे तेज़ सीने में दर्द और सांस लेने में दिक्कत थी।",Aspirin,B-MEDICATION
+18,"एक 45 वर्षीय रोगी जिसको मधुमेह और हृदय रोग है, उसे डॉक्टर ने Angioplasty के लिए कहा और 5mg Aspirin दिया क्योंकि उसे तेज़ सीने में दर्द और सांस लेने में दिक्कत थी।",दिया,O
+18,"एक 45 वर्षीय रोगी जिसको मधुमेह और हृदय रोग है, उसे डॉक्टर ने Angioplasty के लिए कहा और 5mg Aspirin दिया क्योंकि उसे तेज़ सीने में दर्द और सांस लेने में दिक्कत थी।",क्योंकि,O
+18,"एक 45 वर्षीय रोगी जिसको मधुमेह और हृदय रोग है, उसे डॉक्टर ने Angioplasty के लिए कहा और 5mg Aspirin दिया क्योंकि उसे तेज़ सीने में दर्द और सांस लेने में दिक्कत थी।",उसे,O
+18,"एक 45 वर्षीय रोगी जिसको मधुमेह और हृदय रोग है, उसे डॉक्टर ने Angioplasty के लिए कहा और 5mg Aspirin दिया क्योंकि उसे तेज़ सीने में दर्द और सांस लेने में दिक्कत थी।",तेज़,O
+18,"एक 45 वर्षीय रोगी जिसको मधुमेह और हृदय रोग है, उसे डॉक्टर ने Angioplasty के लिए कहा और 5mg Aspirin दिया क्योंकि उसे तेज़ सीने में दर्द और सांस लेने में दिक्कत थी।",सीने,B-SYMPTOM
+18,"एक 45 वर्षीय रोगी जिसको मधुमेह और हृदय रोग है, उसे डॉक्टर ने Angioplasty के लिए कहा और 5mg Aspirin दिया क्योंकि उसे तेज़ सीने में दर्द और सांस लेने में दिक्कत थी।",में,O
+18,"एक 45 वर्षीय रोगी जिसको मधुमेह और हृदय रोग है, उसे डॉक्टर ने Angioplasty के लिए कहा और 5mg Aspirin दिया क्योंकि उसे तेज़ सीने में दर्द और सांस लेने में दिक्कत थी।",दर्द,I-SYMPTOM
+18,"एक 45 वर्षीय रोगी जिसको मधुमेह और हृदय रोग है, उसे डॉक्टर ने Angioplasty के लिए कहा और 5mg Aspirin दिया क्योंकि उसे तेज़ सीने में दर्द और सांस लेने में दिक्कत थी।",और,O
+18,"एक 45 वर्षीय रोगी जिसको मधुमेह और हृदय रोग है, उसे डॉक्टर ने Angioplasty के लिए कहा और 5mg Aspirin दिया क्योंकि उसे तेज़ सीने में दर्द और सांस लेने में दिक्कत थी।",सांस,B-SYMPTOM
+18,"एक 45 वर्षीय रोगी जिसको मधुमेह और हृदय रोग है, उसे डॉक्टर ने Angioplasty के लिए कहा और 5mg Aspirin दिया क्योंकि उसे तेज़ सीने में दर्द और सांस लेने में दिक्कत थी।",लेने,O
+18,"एक 45 वर्षीय रोगी जिसको मधुमेह और हृदय रोग है, उसे डॉक्टर ने Angioplasty के लिए कहा और 5mg Aspirin दिया क्योंकि उसे तेज़ सीने में दर्द और सांस लेने में दिक्कत थी।",में,O
+18,"एक 45 वर्षीय रोगी जिसको मधुमेह और हृदय रोग है, उसे डॉक्टर ने Angioplasty के लिए कहा और 5mg Aspirin दिया क्योंकि उसे तेज़ सीने में दर्द और सांस लेने में दिक्कत थी।",दिक्कत,I-SYMPTOM
+18,"एक 45 वर्षीय रोगी जिसको मधुमेह और हृदय रोग है, उसे डॉक्टर ने Angioplasty के लिए कहा और 5mg Aspirin दिया क्योंकि उसे तेज़ सीने में दर्द और सांस लेने में दिक्कत थी।",था,O
+18,"एक 45 वर्षीय रोगी जिसको मधुमेह और हृदय रोग है, उसे डॉक्टर ने Angioplasty के लिए कहा और 5mg Aspirin दिया क्योंकि उसे तेज़ सीने में दर्द और सांस लेने में दिक्कत थी।",।,O
+19,"Patient को तेज़ बुखार और सिर दर्द के साथ अस्पताल में भर्ती किया गया और डॉक्टर ने 1000mg Paracetamol और अन्य जरूरी दवाएं देने का फैसला किया, साथ ही एक ECG और ब्लड टेस्ट की सिफारिश की।",Patient,O
+19,"Patient को तेज़ बुखार और सिर दर्द के साथ अस्पताल में भर्ती किया गया और डॉक्टर ने 1000mg Paracetamol और अन्य जरूरी दवाएं देने का फैसला किया, साथ ही एक ECG और ब्लड टेस्ट की सिफारिश की।",को,O
+19,"Patient को तेज़ बुखार और सिर दर्द के साथ अस्पताल में भर्ती किया गया और डॉक्टर ने 1000mg Paracetamol और अन्य जरूरी दवाएं देने का फैसला किया, साथ ही एक ECG और ब्लड टेस्ट की सिफारिश की।",तेज़,B-SYMPTOM
+19,"Patient को तेज़ बुखार और सिर दर्द के साथ अस्पताल में भर्ती किया गया और डॉक्टर ने 1000mg Paracetamol और अन्य जरूरी दवाएं देने का फैसला किया, साथ ही एक ECG और ब्लड टेस्ट की सिफारिश की।",बुखार,I-SYMPTOM
+19,"Patient को तेज़ बुखार और सिर दर्द के साथ अस्पताल में भर्ती किया गया और डॉक्टर ने 1000mg Paracetamol और अन्य जरूरी दवाएं देने का फैसला किया, साथ ही एक ECG और ब्लड टेस्ट की सिफारिश की।",और,O
+19,"Patient को तेज़ बुखार और सिर दर्द के साथ अस्पताल में भर्ती किया गया और डॉक्टर ने 1000mg Paracetamol और अन्य जरूरी दवाएं देने का फैसला किया, साथ ही एक ECG और ब्लड टेस्ट की सिफारिश की।",सिर,B-SYMPTOM
+19,"Patient को तेज़ बुखार और सिर दर्द के साथ अस्पताल में भर्ती किया गया और डॉक्टर ने 1000mg Paracetamol और अन्य जरूरी दवाएं देने का फैसला किया, साथ ही एक ECG और ब्लड टेस्ट की सिफारिश की।",दर्द,I-SYMPTOM
+19,"Patient को तेज़ बुखार और सिर दर्द के साथ अस्पताल में भर्ती किया गया और डॉक्टर ने 1000mg Paracetamol और अन्य जरूरी दवाएं देने का फैसला किया, साथ ही एक ECG और ब्लड टेस्ट की सिफारिश की।",के,O
+19,"Patient को तेज़ बुखार और सिर दर्द के साथ अस्पताल में भर्ती किया गया और डॉक्टर ने 1000mg Paracetamol और अन्य जरूरी दवाएं देने का फैसला किया, साथ ही एक ECG और ब्लड टेस्ट की सिफारिश की।",साथ,O
+19,"Patient को तेज़ बुखार और सिर दर्द के साथ अस्पताल में भर्ती किया गया और डॉक्टर ने 1000mg Paracetamol और अन्य जरूरी दवाएं देने का फैसला किया, साथ ही एक ECG और ब्लड टेस्ट की सिफारिश की।",अस्पताल,O
+19,"Patient को तेज़ बुखार और सिर दर्द के साथ अस्पताल में भर्ती किया गया और डॉक्टर ने 1000mg Paracetamol और अन्य जरूरी दवाएं देने का फैसला किया, साथ ही एक ECG और ब्लड टेस्ट की सिफारिश की।",में,O
+19,"Patient को तेज़ बुखार और सिर दर्द के साथ अस्पताल में भर्ती किया गया और डॉक्टर ने 1000mg Paracetamol और अन्य जरूरी दवाएं देने का फैसला किया, साथ ही एक ECG और ब्लड टेस्ट की सिफारिश की।",भर्ती,O
+19,"Patient को तेज़ बुखार और सिर दर्द के साथ अस्पताल में भर्ती किया गया और डॉक्टर ने 1000mg Paracetamol और अन्य जरूरी दवाएं देने का फैसला किया, साथ ही एक ECG और ब्लड टेस्ट की सिफारिश की।",किया,O
+19,"Patient को तेज़ बुखार और सिर दर्द के साथ अस्पताल में भर्ती किया गया और डॉक्टर ने 1000mg Paracetamol और अन्य जरूरी दवाएं देने का फैसला किया, साथ ही एक ECG और ब्लड टेस्ट की सिफारिश की।",गया,O
+19,"Patient को तेज़ बुखार और सिर दर्द के साथ अस्पताल में भर्ती किया गया और डॉक्टर ने 1000mg Paracetamol और अन्य जरूरी दवाएं देने का फैसला किया, साथ ही एक ECG और ब्लड टेस्ट की सिफारिश की।",और,O
+19,"Patient को तेज़ बुखार और सिर दर्द के साथ अस्पताल में भर्ती किया गया और डॉक्टर ने 1000mg Paracetamol और अन्य जरूरी दवाएं देने का फैसला किया, साथ ही एक ECG और ब्लड टेस्ट की सिफारिश की।",डॉक्टर,O
+19,"Patient को तेज़ बुखार और सिर दर्द के साथ अस्पताल में भर्ती किया गया और डॉक्टर ने 1000mg Paracetamol और अन्य जरूरी दवाएं देने का फैसला किया, साथ ही एक ECG और ब्लड टेस्ट की सिफारिश की।",ने,O
+19,"Patient को तेज़ बुखार और सिर दर्द के साथ अस्पताल में भर्ती किया गया और डॉक्टर ने 1000mg Paracetamol और अन्य जरूरी दवाएं देने का फैसला किया, साथ ही एक ECG और ब्लड टेस्ट की सिफारिश की।",1000mg,B-DOSAGE
+19,"Patient को तेज़ बुखार और सिर दर्द के साथ अस्पताल में भर्ती किया गया और डॉक्टर ने 1000mg Paracetamol और अन्य जरूरी दवाएं देने का फैसला किया, साथ ही एक ECG और ब्लड टेस्ट की सिफारिश की।",Paracetamol,B-MEDICATION
+19,"Patient को तेज़ बुखार और सिर दर्द के साथ अस्पताल में भर्ती किया गया और डॉक्टर ने 1000mg Paracetamol और अन्य जरूरी दवाएं देने का फैसला किया, साथ ही एक ECG और ब्लड टेस्ट की सिफारिश की।",और,O
+19,"Patient को तेज़ बुखार और सिर दर्द के साथ अस्पताल में भर्ती किया गया और डॉक्टर ने 1000mg Paracetamol और अन्य जरूरी दवाएं देने का फैसला किया, साथ ही एक ECG और ब्लड टेस्ट की सिफारिश की।",अन्य,O
+19,"Patient को तेज़ बुखार और सिर दर्द के साथ अस्पताल में भर्ती किया गया और डॉक्टर ने 1000mg Paracetamol और अन्य जरूरी दवाएं देने का फैसला किया, साथ ही एक ECG और ब्लड टेस्ट की सिफारिश की।",जरूरी,O
+19,"Patient को तेज़ बुखार और सिर दर्द के साथ अस्पताल में भर्ती किया गया और डॉक्टर ने 1000mg Paracetamol और अन्य जरूरी दवाएं देने का फैसला किया, साथ ही एक ECG और ब्लड टेस्ट की सिफारिश की।",दवाएं,O
+19,"Patient को तेज़ बुखार और सिर दर्द के साथ अस्पताल में भर्ती किया गया और डॉक्टर ने 1000mg Paracetamol और अन्य जरूरी दवाएं देने का फैसला किया, साथ ही एक ECG और ब्लड टेस्ट की सिफारिश की।",देने,O
+19,"Patient को तेज़ बुखार और सिर दर्द के साथ अस्पताल में भर्ती किया गया और डॉक्टर ने 1000mg Paracetamol और अन्य जरूरी दवाएं देने का फैसला किया, साथ ही एक ECG और ब्लड टेस्ट की सिफारिश की।",का,O
+19,"Patient को तेज़ बुखार और सिर दर्द के साथ अस्पताल में भर्ती किया गया और डॉक्टर ने 1000mg Paracetamol और अन्य जरूरी दवाएं देने का फैसला किया, साथ ही एक ECG और ब्लड टेस्ट की सिफारिश की।",फैसला,O
+19,"Patient को तेज़ बुखार और सिर दर्द के साथ अस्पताल में भर्ती किया गया और डॉक्टर ने 1000mg Paracetamol और अन्य जरूरी दवाएं देने का फैसला किया, साथ ही एक ECG और ब्लड टेस्ट की सिफारिश की।",किया,O
+19,"Patient को तेज़ बुखार और सिर दर्द के साथ अस्पताल में भर्ती किया गया और डॉक्टर ने 1000mg Paracetamol और अन्य जरूरी दवाएं देने का फैसला किया, साथ ही एक ECG और ब्लड टेस्ट की सिफारिश की।",",",O
+19,"Patient को तेज़ बुखार और सिर दर्द के साथ अस्पताल में भर्ती किया गया और डॉक्टर ने 1000mg Paracetamol और अन्य जरूरी दवाएं देने का फैसला किया, साथ ही एक ECG और ब्लड टेस्ट की सिफारिश की।",साथ,O
+19,"Patient को तेज़ बुखार और सिर दर्द के साथ अस्पताल में भर्ती किया गया और डॉक्टर ने 1000mg Paracetamol और अन्य जरूरी दवाएं देने का फैसला किया, साथ ही एक ECG और ब्लड टेस्ट की सिफारिश की।",ही,O
+19,"Patient को तेज़ बुखार और सिर दर्द के साथ अस्पताल में भर्ती किया गया और डॉक्टर ने 1000mg Paracetamol और अन्य जरूरी दवाएं देने का फैसला किया, साथ ही एक ECG और ब्लड टेस्ट की सिफारिश की।",एक,O
+19,"Patient को तेज़ बुखार और सिर दर्द के साथ अस्पताल में भर्ती किया गया और डॉक्टर ने 1000mg Paracetamol और अन्य जरूरी दवाएं देने का फैसला किया, साथ ही एक ECG और ब्लड टेस्ट की सिफारिश की।",ECG,B-TEST
+19,"Patient को तेज़ बुखार और सिर दर्द के साथ अस्पताल में भर्ती किया गया और डॉक्टर ने 1000mg Paracetamol और अन्य जरूरी दवाएं देने का फैसला किया, साथ ही एक ECG और ब्लड टेस्ट की सिफारिश की।",और,O
+19,"Patient को तेज़ बुखार और सिर दर्द के साथ अस्पताल में भर्ती किया गया और डॉक्टर ने 1000mg Paracetamol और अन्य जरूरी दवाएं देने का फैसला किया, साथ ही एक ECG और ब्लड टेस्ट की सिफारिश की।",ब्लड,B-TEST
+19,"Patient को तेज़ बुखार और सिर दर्द के साथ अस्पताल में भर्ती किया गया और डॉक्टर ने 1000mg Paracetamol और अन्य जरूरी दवाएं देने का फैसला किया, साथ ही एक ECG और ब्लड टेस्ट की सिफारिश की।",टेस्ट,I-TEST
+19,"Patient को तेज़ बुखार और सिर दर्द के साथ अस्पताल में भर्ती किया गया और डॉक्टर ने 1000mg Paracetamol और अन्य जरूरी दवाएं देने का फैसला किया, साथ ही एक ECG और ब्लड टेस्ट की सिफारिश की।",की,O
+19,"Patient को तेज़ बुखार और सिर दर्द के साथ अस्पताल में भर्ती किया गया और डॉक्टर ने 1000mg Paracetamol और अन्य जरूरी दवाएं देने का फैसला किया, साथ ही एक ECG और ब्लड टेस्ट की सिफारिश की।",सिफारिश,O
+19,"Patient को तेज़ बुखार और सिर दर्द के साथ अस्पताल में भर्ती किया गया और डॉक्टर ने 1000mg Paracetamol और अन्य जरूरी दवाएं देने का फैसला किया, साथ ही एक ECG और ब्लड टेस्ट की सिफारिश की।",की,O
+19,"Patient को तेज़ बुखार और सिर दर्द के साथ अस्पताल में भर्ती किया गया और डॉक्टर ने 1000mg Paracetamol और अन्य जरूरी दवाएं देने का फैसला किया, साथ ही एक ECG और ब्लड टेस्ट की सिफारिश की।",।,O
+20,रोगी को तेज़ सिर दर्द और बुखार के कारण अस्पताल में भर्ती कराया गया और डॉक्टर ने 500mg Paracetamol के साथ एक ECG और ब्लड टेस्ट कराने का निर्देश दिया।,रोगी,O
+20,रोगी को तेज़ सिर दर्द और बुखार के कारण अस्पताल में भर्ती कराया गया और डॉक्टर ने 500mg Paracetamol के साथ एक ECG और ब्लड टेस्ट कराने का निर्देश दिया।,को,O
+20,रोगी को तेज़ सिर दर्द और बुखार के कारण अस्पताल में भर्ती कराया गया और डॉक्टर ने 500mg Paracetamol के साथ एक ECG और ब्लड टेस्ट कराने का निर्देश दिया।,तेज़,B-SYMPTOM
+20,रोगी को तेज़ सिर दर्द और बुखार के कारण अस्पताल में भर्ती कराया गया और डॉक्टर ने 500mg Paracetamol के साथ एक ECG और ब्लड टेस्ट कराने का निर्देश दिया।,सिर,I-SYMPTOM
+20,रोगी को तेज़ सिर दर्द और बुखार के कारण अस्पताल में भर्ती कराया गया और डॉक्टर ने 500mg Paracetamol के साथ एक ECG और ब्लड टेस्ट कराने का निर्देश दिया।,दर्द,I-SYMPTOM
+20,रोगी को तेज़ सिर दर्द और बुखार के कारण अस्पताल में भर्ती कराया गया और डॉक्टर ने 500mg Paracetamol के साथ एक ECG और ब्लड टेस्ट कराने का निर्देश दिया।,और,O
+20,रोगी को तेज़ सिर दर्द और बुखार के कारण अस्पताल में भर्ती कराया गया और डॉक्टर ने 500mg Paracetamol के साथ एक ECG और ब्लड टेस्ट कराने का निर्देश दिया।,बुखार,B-SYMPTOM
+20,रोगी को तेज़ सिर दर्द और बुखार के कारण अस्पताल में भर्ती कराया गया और डॉक्टर ने 500mg Paracetamol के साथ एक ECG और ब्लड टेस्ट कराने का निर्देश दिया।,के,O
+20,रोगी को तेज़ सिर दर्द और बुखार के कारण अस्पताल में भर्ती कराया गया और डॉक्टर ने 500mg Paracetamol के साथ एक ECG और ब्लड टेस्ट कराने का निर्देश दिया।,कारण,O
+20,रोगी को तेज़ सिर दर्द और बुखार के कारण अस्पताल में भर्ती कराया गया और डॉक्टर ने 500mg Paracetamol के साथ एक ECG और ब्लड टेस्ट कराने का निर्देश दिया।,अस्पताल,O
+20,रोगी को तेज़ सिर दर्द और बुखार के कारण अस्पताल में भर्ती कराया गया और डॉक्टर ने 500mg Paracetamol के साथ एक ECG और ब्लड टेस्ट कराने का निर्देश दिया।,में,O
+20,रोगी को तेज़ सिर दर्द और बुखार के कारण अस्पताल में भर्ती कराया गया और डॉक्टर ने 500mg Paracetamol के साथ एक ECG और ब्लड टेस्ट कराने का निर्देश दिया।,भरती,O
+20,रोगी को तेज़ सिर दर्द और बुखार के कारण अस्पताल में भर्ती कराया गया और डॉक्टर ने 500mg Paracetamol के साथ एक ECG और ब्लड टेस्ट कराने का निर्देश दिया।,कराया,O
+20,रोगी को तेज़ सिर दर्द और बुखार के कारण अस्पताल में भर्ती कराया गया और डॉक्टर ने 500mg Paracetamol के साथ एक ECG और ब्लड टेस्ट कराने का निर्देश दिया।,गया,O
+20,रोगी को तेज़ सिर दर्द और बुखार के कारण अस्पताल में भर्ती कराया गया और डॉक्टर ने 500mg Paracetamol के साथ एक ECG और ब्लड टेस्ट कराने का निर्देश दिया।,और,O
+20,रोगी को तेज़ सिर दर्द और बुखार के कारण अस्पताल में भर्ती कराया गया और डॉक्टर ने 500mg Paracetamol के साथ एक ECG और ब्लड टेस्ट कराने का निर्देश दिया।,डॉक्टर,O
+20,रोगी को तेज़ सिर दर्द और बुखार के कारण अस्पताल में भर्ती कराया गया और डॉक्टर ने 500mg Paracetamol के साथ एक ECG और ब्लड टेस्ट कराने का निर्देश दिया।,ने,O
+20,रोगी को तेज़ सिर दर्द और बुखार के कारण अस्पताल में भर्ती कराया गया और डॉक्टर ने 500mg Paracetamol के साथ एक ECG और ब्लड टेस्ट कराने का निर्देश दिया।,500mg,B-DOSAGE
+20,रोगी को तेज़ सिर दर्द और बुखार के कारण अस्पताल में भर्ती कराया गया और डॉक्टर ने 500mg Paracetamol के साथ एक ECG और ब्लड टेस्ट कराने का निर्देश दिया।,Paracetamol,B-MEDICATION
+20,रोगी को तेज़ सिर दर्द और बुखार के कारण अस्पताल में भर्ती कराया गया और डॉक्टर ने 500mg Paracetamol के साथ एक ECG और ब्लड टेस्ट कराने का निर्देश दिया।,के,O
+20,रोगी को तेज़ सिर दर्द और बुखार के कारण अस्पताल में भर्ती कराया गया और डॉक्टर ने 500mg Paracetamol के साथ एक ECG और ब्लड टेस्ट कराने का निर्देश दिया।,साथ,O
+20,रोगी को तेज़ सिर दर्द और बुखार के कारण अस्पताल में भर्ती कराया गया और डॉक्टर ने 500mg Paracetamol के साथ एक ECG और ब्लड टेस्ट कराने का निर्देश दिया।,एक,O
+20,रोगी को तेज़ सिर दर्द और बुखार के कारण अस्पताल में भर्ती कराया गया और डॉक्टर ने 500mg Paracetamol के साथ एक ECG और ब्लड टेस्ट कराने का निर्देश दिया।,ECG,B-TEST
+20,रोगी को तेज़ सिर दर्द और बुखार के कारण अस्पताल में भर्ती कराया गया और डॉक्टर ने 500mg Paracetamol के साथ एक ECG और ब्लड टेस्ट कराने का निर्देश दिया।,और,O
+20,रोगी को तेज़ सिर दर्द और बुखार के कारण अस्पताल में भर्ती कराया गया और डॉक्टर ने 500mg Paracetamol के साथ एक ECG और ब्लड टेस्ट कराने का निर्देश दिया।,ब्लड,B-TEST
+20,रोगी को तेज़ सिर दर्द और बुखार के कारण अस्पताल में भर्ती कराया गया और डॉक्टर ने 500mg Paracetamol के साथ एक ECG और ब्लड टेस्ट कराने का निर्देश दिया।,टेस्ट,I-TEST
+20,रोगी को तेज़ सिर दर्द और बुखार के कारण अस्पताल में भर्ती कराया गया और डॉक्टर ने 500mg Paracetamol के साथ एक ECG और ब्लड टेस्ट कराने का निर्देश दिया।,कराने,O
+20,रोगी को तेज़ सिर दर्द और बुखार के कारण अस्पताल में भर्ती कराया गया और डॉक्टर ने 500mg Paracetamol के साथ एक ECG और ब्लड टेस्ट कराने का निर्देश दिया।,का,O
+20,रोगी को तेज़ सिर दर्द और बुखार के कारण अस्पताल में भर्ती कराया गया और डॉक्टर ने 500mg Paracetamol के साथ एक ECG और ब्लड टेस्ट कराने का निर्देश दिया।,निर्देश,O
+20,रोगी को तेज़ सिर दर्द और बुखार के कारण अस्पताल में भर्ती कराया गया और डॉक्टर ने 500mg Paracetamol के साथ एक ECG और ब्लड टेस्ट कराने का निर्देश दिया।,दिया,O
+20,रोगी को तेज़ सिर दर्द और बुखार के कारण अस्पताल में भर्ती कराया गया और डॉक्टर ने 500mg Paracetamol के साथ एक ECG और ब्लड टेस्ट कराने का निर्देश दिया।,।,O
+21,रोगी को तेज़ बुखार और सीने में दर्द के कारण अस्पताल में भर्ती कराया गया और डॉक्टर ने 200mg Paracetamol और 5mg Morphine देने का फैसला किया और ECG और ब्लड टेस्ट कराने के लिए कहा।,रोगी,O
+21,रोगी को तेज़ बुखार और सीने में दर्द के कारण अस्पताल में भर्ती कराया गया और डॉक्टर ने 200mg Paracetamol और 5mg Morphine देने का फैसला किया और ECG और ब्लड टेस्ट कराने के लिए कहा।,को,O
+21,रोगी को तेज़ बुखार और सीने में दर्द के कारण अस्पताल में भर्ती कराया गया और डॉक्टर ने 200mg Paracetamol और 5mg Morphine देने का फैसला किया और ECG और ब्लड टेस्ट कराने के लिए कहा।,तेज़,B-SYMPTOM
+21,रोगी को तेज़ बुखार और सीने में दर्द के कारण अस्पताल में भर्ती कराया गया और डॉक्टर ने 200mg Paracetamol और 5mg Morphine देने का फैसला किया और ECG और ब्लड टेस्ट कराने के लिए कहा।,बुखार,I-SYMPTOM
+21,रोगी को तेज़ बुखार और सीने में दर्द के कारण अस्पताल में भर्ती कराया गया और डॉक्टर ने 200mg Paracetamol और 5mg Morphine देने का फैसला किया और ECG और ब्लड टेस्ट कराने के लिए कहा।,और,O
+21,रोगी को तेज़ बुखार और सीने में दर्द के कारण अस्पताल में भर्ती कराया गया और डॉक्टर ने 200mg Paracetamol और 5mg Morphine देने का फैसला किया और ECG और ब्लड टेस्ट कराने के लिए कहा।,सीने,B-SYMPTOM
+21,रोगी को तेज़ बुखार और सीने में दर्द के कारण अस्पताल में भर्ती कराया गया और डॉक्टर ने 200mg Paracetamol और 5mg Morphine देने का फैसला किया और ECG और ब्लड टेस्ट कराने के लिए कहा।,में,I-SYMPTOM
+21,रोगी को तेज़ बुखार और सीने में दर्द के कारण अस्पताल में भर्ती कराया गया और डॉक्टर ने 200mg Paracetamol और 5mg Morphine देने का फैसला किया और ECG और ब्लड टेस्ट कराने के लिए कहा।,दर्द,I-SYMPTOM
+21,रोगी को तेज़ बुखार और सीने में दर्द के कारण अस्पताल में भर्ती कराया गया और डॉक्टर ने 200mg Paracetamol और 5mg Morphine देने का फैसला किया और ECG और ब्लड टेस्ट कराने के लिए कहा।,के,O
+21,रोगी को तेज़ बुखार और सीने में दर्द के कारण अस्पताल में भर्ती कराया गया और डॉक्टर ने 200mg Paracetamol और 5mg Morphine देने का फैसला किया और ECG और ब्लड टेस्ट कराने के लिए कहा।,कारण,O
+21,रोगी को तेज़ बुखार और सीने में दर्द के कारण अस्पताल में भर्ती कराया गया और डॉक्टर ने 200mg Paracetamol और 5mg Morphine देने का फैसला किया और ECG और ब्लड टेस्ट कराने के लिए कहा।,अस्पताल,O
+21,रोगी को तेज़ बुखार और सीने में दर्द के कारण अस्पताल में भर्ती कराया गया और डॉक्टर ने 200mg Paracetamol और 5mg Morphine देने का फैसला किया और ECG और ब्लड टेस्ट कराने के लिए कहा।,में,O
+21,रोगी को तेज़ बुखार और सीने में दर्द के कारण अस्पताल में भर्ती कराया गया और डॉक्टर ने 200mg Paracetamol और 5mg Morphine देने का फैसला किया और ECG और ब्लड टेस्ट कराने के लिए कहा।,भर्ती,O
+21,रोगी को तेज़ बुखार और सीने में दर्द के कारण अस्पताल में भर्ती कराया गया और डॉक्टर ने 200mg Paracetamol और 5mg Morphine देने का फैसला किया और ECG और ब्लड टेस्ट कराने के लिए कहा।,कराया,O
+21,रोगी को तेज़ बुखार और सीने में दर्द के कारण अस्पताल में भर्ती कराया गया और डॉक्टर ने 200mg Paracetamol और 5mg Morphine देने का फैसला किया और ECG और ब्लड टेस्ट कराने के लिए कहा।,गया,O
+21,रोगी को तेज़ बुखार और सीने में दर्द के कारण अस्पताल में भर्ती कराया गया और डॉक्टर ने 200mg Paracetamol और 5mg Morphine देने का फैसला किया और ECG और ब्लड टेस्ट कराने के लिए कहा।,और,O
+21,रोगी को तेज़ बुखार और सीने में दर्द के कारण अस्पताल में भर्ती कराया गया और डॉक्टर ने 200mg Paracetamol और 5mg Morphine देने का फैसला किया और ECG और ब्लड टेस्ट कराने के लिए कहा।,डॉक्टर,O
+21,रोगी को तेज़ बुखार और सीने में दर्द के कारण अस्पताल में भर्ती कराया गया और डॉक्टर ने 200mg Paracetamol और 5mg Morphine देने का फैसला किया और ECG और ब्लड टेस्ट कराने के लिए कहा।,ने,O
+21,रोगी को तेज़ बुखार और सीने में दर्द के कारण अस्पताल में भर्ती कराया गया और डॉक्टर ने 200mg Paracetamol और 5mg Morphine देने का फैसला किया और ECG और ब्लड टेस्ट कराने के लिए कहा।,200mg,B-DOSAGE
+21,रोगी को तेज़ बुखार और सीने में दर्द के कारण अस्पताल में भर्ती कराया गया और डॉक्टर ने 200mg Paracetamol और 5mg Morphine देने का फैसला किया और ECG और ब्लड टेस्ट कराने के लिए कहा।,Paracetamol,B-MEDICATION
+21,रोगी को तेज़ बुखार और सीने में दर्द के कारण अस्पताल में भर्ती कराया गया और डॉक्टर ने 200mg Paracetamol और 5mg Morphine देने का फैसला किया और ECG और ब्लड टेस्ट कराने के लिए कहा।,और,O
+21,रोगी को तेज़ बुखार और सीने में दर्द के कारण अस्पताल में भर्ती कराया गया और डॉक्टर ने 200mg Paracetamol और 5mg Morphine देने का फैसला किया और ECG और ब्लड टेस्ट कराने के लिए कहा।,5mg,B-DOSAGE
+21,रोगी को तेज़ बुखार और सीने में दर्द के कारण अस्पताल में भर्ती कराया गया और डॉक्टर ने 200mg Paracetamol और 5mg Morphine देने का फैसला किया और ECG और ब्लड टेस्ट कराने के लिए कहा।,Morphine,B-MEDICATION
+21,रोगी को तेज़ बुखार और सीने में दर्द के कारण अस्पताल में भर्ती कराया गया और डॉक्टर ने 200mg Paracetamol और 5mg Morphine देने का फैसला किया और ECG और ब्लड टेस्ट कराने के लिए कहा।,देने,O
+21,रोगी को तेज़ बुखार और सीने में दर्द के कारण अस्पताल में भर्ती कराया गया और डॉक्टर ने 200mg Paracetamol और 5mg Morphine देने का फैसला किया और ECG और ब्लड टेस्ट कराने के लिए कहा।,का,O
+21,रोगी को तेज़ बुखार और सीने में दर्द के कारण अस्पताल में भर्ती कराया गया और डॉक्टर ने 200mg Paracetamol और 5mg Morphine देने का फैसला किया और ECG और ब्लड टेस्ट कराने के लिए कहा।,फैसला,O
+21,रोगी को तेज़ बुखार और सीने में दर्द के कारण अस्पताल में भर्ती कराया गया और डॉक्टर ने 200mg Paracetamol और 5mg Morphine देने का फैसला किया और ECG और ब्लड टेस्ट कराने के लिए कहा।,किया,O
+21,रोगी को तेज़ बुखार और सीने में दर्द के कारण अस्पताल में भर्ती कराया गया और डॉक्टर ने 200mg Paracetamol और 5mg Morphine देने का फैसला किया और ECG और ब्लड टेस्ट कराने के लिए कहा।,और,O
+21,रोगी को तेज़ बुखार और सीने में दर्द के कारण अस्पताल में भर्ती कराया गया और डॉक्टर ने 200mg Paracetamol और 5mg Morphine देने का फैसला किया और ECG और ब्लड टेस्ट कराने के लिए कहा।,ECG,B-TEST
+21,रोगी को तेज़ बुखार और सीने में दर्द के कारण अस्पताल में भर्ती कराया गया और डॉक्टर ने 200mg Paracetamol और 5mg Morphine देने का फैसला किया और ECG और ब्लड टेस्ट कराने के लिए कहा।,और,O
+21,रोगी को तेज़ बुखार और सीने में दर्द के कारण अस्पताल में भर्ती कराया गया और डॉक्टर ने 200mg Paracetamol और 5mg Morphine देने का फैसला किया और ECG और ब्लड टेस्ट कराने के लिए कहा।,ब्लड,B-TEST
+21,रोगी को तेज़ बुखार और सीने में दर्द के कारण अस्पताल में भर्ती कराया गया और डॉक्टर ने 200mg Paracetamol और 5mg Morphine देने का फैसला किया और ECG और ब्लड टेस्ट कराने के लिए कहा।,टेस्ट,I-TEST
+21,रोगी को तेज़ बुखार और सीने में दर्द के कारण अस्पताल में भर्ती कराया गया और डॉक्टर ने 200mg Paracetamol और 5mg Morphine देने का फैसला किया और ECG और ब्लड टेस्ट कराने के लिए कहा।,कराने,O
+21,रोगी को तेज़ बुखार और सीने में दर्द के कारण अस्पताल में भर्ती कराया गया और डॉक्टर ने 200mg Paracetamol और 5mg Morphine देने का फैसला किया और ECG और ब्लड टेस्ट कराने के लिए कहा।,के,O
+21,रोगी को तेज़ बुखार और सीने में दर्द के कारण अस्पताल में भर्ती कराया गया और डॉक्टर ने 200mg Paracetamol और 5mg Morphine देने का फैसला किया और ECG और ब्लड टेस्ट कराने के लिए कहा।,लिए,O
+21,रोगी को तेज़ बुखार और सीने में दर्द के कारण अस्पताल में भर्ती कराया गया और डॉक्टर ने 200mg Paracetamol और 5mg Morphine देने का फैसला किया और ECG और ब्लड टेस्ट कराने के लिए कहा।,कहा,O
+21,रोगी को तेज़ बुखार और सीने में दर्द के कारण अस्पताल में भर्ती कराया गया और डॉक्टर ने 200mg Paracetamol और 5mg Morphine देने का फैसला किया और ECG और ब्लड टेस्ट कराने के लिए कहा।,।,O
+22, Patient को तेज़ सिर दर्द और बुखार के कारण अस्पताल में भर्ती किया गया और CT स्कैन के बाद डॉक्टर ने 100mg Paracetamol और 200mL IV फ्लूइड देने का फैसला किया।,Patient,O
+22, Patient को तेज़ सिर दर्द और बुखार के कारण अस्पताल में भर्ती किया गया और CT स्कैन के बाद डॉक्टर ने 100mg Paracetamol और 200mL IV फ्लूइड देने का फैसला किया।,को,O
+22, Patient को तेज़ सिर दर्द और बुखार के कारण अस्पताल में भर्ती किया गया और CT स्कैन के बाद डॉक्टर ने 100mg Paracetamol और 200mL IV फ्लूइड देने का फैसला किया।,तेज़,B-SYMPTOM
+22, Patient को तेज़ सिर दर्द और बुखार के कारण अस्पताल में भर्ती किया गया और CT स्कैन के बाद डॉक्टर ने 100mg Paracetamol और 200mL IV फ्लूइड देने का फैसला किया।,सिर,I-SYMPTOM
+22, Patient को तेज़ सिर दर्द और बुखार के कारण अस्पताल में भर्ती किया गया और CT स्कैन के बाद डॉक्टर ने 100mg Paracetamol और 200mL IV फ्लूइड देने का फैसला किया।,दर्द,I-SYMPTOM
+22, Patient को तेज़ सिर दर्द और बुखार के कारण अस्पताल में भर्ती किया गया और CT स्कैन के बाद डॉक्टर ने 100mg Paracetamol और 200mL IV फ्लूइड देने का फैसला किया।,और,O
+22, Patient को तेज़ सिर दर्द और बुखार के कारण अस्पताल में भर्ती किया गया और CT स्कैन के बाद डॉक्टर ने 100mg Paracetamol और 200mL IV फ्लूइड देने का फैसला किया।,बुखार,B-SYMPTOM
+22, Patient को तेज़ सिर दर्द और बुखार के कारण अस्पताल में भर्ती किया गया और CT स्कैन के बाद डॉक्टर ने 100mg Paracetamol और 200mL IV फ्लूइड देने का फैसला किया।,के,O
+22, Patient को तेज़ सिर दर्द और बुखार के कारण अस्पताल में भर्ती किया गया और CT स्कैन के बाद डॉक्टर ने 100mg Paracetamol और 200mL IV फ्लूइड देने का फैसला किया।,कारण,O
+22, Patient को तेज़ सिर दर्द और बुखार के कारण अस्पताल में भर्ती किया गया और CT स्कैन के बाद डॉक्टर ने 100mg Paracetamol और 200mL IV फ्लूइड देने का फैसला किया।,अस्पताल,O
+22, Patient को तेज़ सिर दर्द और बुखार के कारण अस्पताल में भर्ती किया गया और CT स्कैन के बाद डॉक्टर ने 100mg Paracetamol और 200mL IV फ्लूइड देने का फैसला किया।,में,O
+22, Patient को तेज़ सिर दर्द और बुखार के कारण अस्पताल में भर्ती किया गया और CT स्कैन के बाद डॉक्टर ने 100mg Paracetamol और 200mL IV फ्लूइड देने का फैसला किया।,भर्ती,O
+22, Patient को तेज़ सिर दर्द और बुखार के कारण अस्पताल में भर्ती किया गया और CT स्कैन के बाद डॉक्टर ने 100mg Paracetamol और 200mL IV फ्लूइड देने का फैसला किया।,किया,O
+22, Patient को तेज़ सिर दर्द और बुखार के कारण अस्पताल में भर्ती किया गया और CT स्कैन के बाद डॉक्टर ने 100mg Paracetamol और 200mL IV फ्लूइड देने का फैसला किया।,गया,O
+22, Patient को तेज़ सिर दर्द और बुखार के कारण अस्पताल में भर्ती किया गया और CT स्कैन के बाद डॉक्टर ने 100mg Paracetamol और 200mL IV फ्लूइड देने का फैसला किया।,और,O
+22, Patient को तेज़ सिर दर्द और बुखार के कारण अस्पताल में भर्ती किया गया और CT स्कैन के बाद डॉक्टर ने 100mg Paracetamol और 200mL IV फ्लूइड देने का फैसला किया।,CT,B-TEST
+22, Patient को तेज़ सिर दर्द और बुखार के कारण अस्पताल में भर्ती किया गया और CT स्कैन के बाद डॉक्टर ने 100mg Paracetamol और 200mL IV फ्लूइड देने का फैसला किया।,स्कैन,I-TEST
+22, Patient को तेज़ सिर दर्द और बुखार के कारण अस्पताल में भर्ती किया गया और CT स्कैन के बाद डॉक्टर ने 100mg Paracetamol और 200mL IV फ्लूइड देने का फैसला किया।,के,O
+22, Patient को तेज़ सिर दर्द और बुखार के कारण अस्पताल में भर्ती किया गया और CT स्कैन के बाद डॉक्टर ने 100mg Paracetamol और 200mL IV फ्लूइड देने का फैसला किया।,बाद,O
+22, Patient को तेज़ सिर दर्द और बुखार के कारण अस्पताल में भर्ती किया गया और CT स्कैन के बाद डॉक्टर ने 100mg Paracetamol और 200mL IV फ्लूइड देने का फैसला किया।,डॉक्टर,O
+22, Patient को तेज़ सिर दर्द और बुखार के कारण अस्पताल में भर्ती किया गया और CT स्कैन के बाद डॉक्टर ने 100mg Paracetamol और 200mL IV फ्लूइड देने का फैसला किया।,ने,O
+22, Patient को तेज़ सिर दर्द और बुखार के कारण अस्पताल में भर्ती किया गया और CT स्कैन के बाद डॉक्टर ने 100mg Paracetamol और 200mL IV फ्लूइड देने का फैसला किया।,100mg,B-DOSAGE
+22, Patient को तेज़ सिर दर्द और बुखार के कारण अस्पताल में भर्ती किया गया और CT स्कैन के बाद डॉक्टर ने 100mg Paracetamol और 200mL IV फ्लूइड देने का फैसला किया।,Paracetamol,B-MEDICATION
+22, Patient को तेज़ सिर दर्द और बुखार के कारण अस्पताल में भर्ती किया गया और CT स्कैन के बाद डॉक्टर ने 100mg Paracetamol और 200mL IV फ्लूइड देने का फैसला किया।,और,O
+22, Patient को तेज़ सिर दर्द और बुखार के कारण अस्पताल में भर्ती किया गया और CT स्कैन के बाद डॉक्टर ने 100mg Paracetamol और 200mL IV फ्लूइड देने का फैसला किया।,200mL,B-DOSAGE
+22, Patient को तेज़ सिर दर्द और बुखार के कारण अस्पताल में भर्ती किया गया और CT स्कैन के बाद डॉक्टर ने 100mg Paracetamol और 200mL IV फ्लूइड देने का फैसला किया।,IV,B-PROCEDURE
+22, Patient को तेज़ सिर दर्द और बुखार के कारण अस्पताल में भर्ती किया गया और CT स्कैन के बाद डॉक्टर ने 100mg Paracetamol और 200mL IV फ्लूइड देने का फैसला किया।,फ्लूइड,I-PROCEDURE
+22, Patient को तेज़ सिर दर्द और बुखार के कारण अस्पताल में भर्ती किया गया और CT स्कैन के बाद डॉक्टर ने 100mg Paracetamol और 200mL IV फ्लूइड देने का फैसला किया।,देने,O
+22, Patient को तेज़ सिर दर्द और बुखार के कारण अस्पताल में भर्ती किया गया और CT स्कैन के बाद डॉक्टर ने 100mg Paracetamol और 200mL IV फ्लूइड देने का फैसला किया।,का,O
+22, Patient को तेज़ सिर दर्द और बुखार के कारण अस्पताल में भर्ती किया गया और CT स्कैन के बाद डॉक्टर ने 100mg Paracetamol और 200mL IV फ्लूइड देने का फैसला किया।,फैसला,O
+22, Patient को तेज़ सिर दर्द और बुखार के कारण अस्पताल में भर्ती किया गया और CT स्कैन के बाद डॉक्टर ने 100mg Paracetamol और 200mL IV फ्लूइड देने का फैसला किया।,किया,O
+22, Patient को तेज़ सिर दर्द और बुखार के कारण अस्पताल में भर्ती किया गया और CT स्कैन के बाद डॉक्टर ने 100mg Paracetamol और 200mL IV फ्लूइड देने का फैसला किया।,।,O
+23,"रोगी को तेज़ सिर दर्द और बुखार था, इसलिए डॉक्टर ने 200mL पानी में 5mg Paracetamol मिलाकर दिया और ECG और ब्लड टेस्ट कराने के लिए कहा।",रोगी,O
+23,"रोगी को तेज़ सिर दर्द और बुखार था, इसलिए डॉक्टर ने 200mL पानी में 5mg Paracetamol मिलाकर दिया और ECG और ब्लड टेस्ट कराने के लिए कहा।",को,O
+23,"रोगी को तेज़ सिर दर्द और बुखार था, इसलिए डॉक्टर ने 200mL पानी में 5mg Paracetamol मिलाकर दिया और ECG और ब्लड टेस्ट कराने के लिए कहा।",तेज़,B-SYMPTOM
+23,"रोगी को तेज़ सिर दर्द और बुखार था, इसलिए डॉक्टर ने 200mL पानी में 5mg Paracetamol मिलाकर दिया और ECG और ब्लड टेस्ट कराने के लिए कहा।",सिर,I-SYMPTOM
+23,"रोगी को तेज़ सिर दर्द और बुखार था, इसलिए डॉक्टर ने 200mL पानी में 5mg Paracetamol मिलाकर दिया और ECG और ब्लड टेस्ट कराने के लिए कहा।",दर्द,I-SYMPTOM
+23,"रोगी को तेज़ सिर दर्द और बुखार था, इसलिए डॉक्टर ने 200mL पानी में 5mg Paracetamol मिलाकर दिया और ECG और ब्लड टेस्ट कराने के लिए कहा।",और,O
+23,"रोगी को तेज़ सिर दर्द और बुखार था, इसलिए डॉक्टर ने 200mL पानी में 5mg Paracetamol मिलाकर दिया और ECG और ब्लड टेस्ट कराने के लिए कहा।",बुखार,B-SYMPTOM
+23,"रोगी को तेज़ सिर दर्द और बुखार था, इसलिए डॉक्टर ने 200mL पानी में 5mg Paracetamol मिलाकर दिया और ECG और ब्लड टेस्ट कराने के लिए कहा।",था,O
+23,"रोगी को तेज़ सिर दर्द और बुखार था, इसलिए डॉक्टर ने 200mL पानी में 5mg Paracetamol मिलाकर दिया और ECG और ब्लड टेस्ट कराने के लिए कहा।",",",O
+23,"रोगी को तेज़ सिर दर्द और बुखार था, इसलिए डॉक्टर ने 200mL पानी में 5mg Paracetamol मिलाकर दिया और ECG और ब्लड टेस्ट कराने के लिए कहा।",इसलिए,O
+23,"रोगी को तेज़ सिर दर्द और बुखार था, इसलिए डॉक्टर ने 200mL पानी में 5mg Paracetamol मिलाकर दिया और ECG और ब्लड टेस्ट कराने के लिए कहा।",डॉक्टर,O
+23,"रोगी को तेज़ सिर दर्द और बुखार था, इसलिए डॉक्टर ने 200mL पानी में 5mg Paracetamol मिलाकर दिया और ECG और ब्लड टेस्ट कराने के लिए कहा।",ने,O
+23,"रोगी को तेज़ सिर दर्द और बुखार था, इसलिए डॉक्टर ने 200mL पानी में 5mg Paracetamol मिलाकर दिया और ECG और ब्लड टेस्ट कराने के लिए कहा।",200mL,B-DOSAGE
+23,"रोगी को तेज़ सिर दर्द और बुखार था, इसलिए डॉक्टर ने 200mL पानी में 5mg Paracetamol मिलाकर दिया और ECG और ब्लड टेस्ट कराने के लिए कहा।",पानी,O
+23,"रोगी को तेज़ सिर दर्द और बुखार था, इसलिए डॉक्टर ने 200mL पानी में 5mg Paracetamol मिलाकर दिया और ECG और ब्लड टेस्ट कराने के लिए कहा।",में,O
+23,"रोगी को तेज़ सिर दर्द और बुखार था, इसलिए डॉक्टर ने 200mL पानी में 5mg Paracetamol मिलाकर दिया और ECG और ब्लड टेस्ट कराने के लिए कहा।",5mg,B-DOSAGE
+23,"रोगी को तेज़ सिर दर्द और बुखार था, इसलिए डॉक्टर ने 200mL पानी में 5mg Paracetamol मिलाकर दिया और ECG और ब्लड टेस्ट कराने के लिए कहा।",Paracetamol,B-MEDICATION
+23,"रोगी को तेज़ सिर दर्द और बुखार था, इसलिए डॉक्टर ने 200mL पानी में 5mg Paracetamol मिलाकर दिया और ECG और ब्लड टेस्ट कराने के लिए कहा।",मिलाकर,O
+23,"रोगी को तेज़ सिर दर्द और बुखार था, इसलिए डॉक्टर ने 200mL पानी में 5mg Paracetamol मिलाकर दिया और ECG और ब्लड टेस्ट कराने के लिए कहा।",दिया,O
+23,"रोगी को तेज़ सिर दर्द और बुखार था, इसलिए डॉक्टर ने 200mL पानी में 5mg Paracetamol मिलाकर दिया और ECG और ब्लड टेस्ट कराने के लिए कहा।",और,O
+23,"रोगी को तेज़ सिर दर्द और बुखार था, इसलिए डॉक्टर ने 200mL पानी में 5mg Paracetamol मिलाकर दिया और ECG और ब्लड टेस्ट कराने के लिए कहा।",ECG,B-TEST
+23,"रोगी को तेज़ सिर दर्द और बुखार था, इसलिए डॉक्टर ने 200mL पानी में 5mg Paracetamol मिलाकर दिया और ECG और ब्लड टेस्ट कराने के लिए कहा।",और,O
+23,"रोगी को तेज़ सिर दर्द और बुखार था, इसलिए डॉक्टर ने 200mL पानी में 5mg Paracetamol मिलाकर दिया और ECG और ब्लड टेस्ट कराने के लिए कहा।",ब्लड,B-TEST
+23,"रोगी को तेज़ सिर दर्द और बुखार था, इसलिए डॉक्टर ने 200mL पानी में 5mg Paracetamol मिलाकर दिया और ECG और ब्लड टेस्ट कराने के लिए कहा।",टेस्ट,I-TEST
+23,"रोगी को तेज़ सिर दर्द और बुखार था, इसलिए डॉक्टर ने 200mL पानी में 5mg Paracetamol मिलाकर दिया और ECG और ब्लड टेस्ट कराने के लिए कहा।",कराने,O
+23,"रोगी को तेज़ सिर दर्द और बुखार था, इसलिए डॉक्टर ने 200mL पानी में 5mg Paracetamol मिलाकर दिया और ECG और ब्लड टेस्ट कराने के लिए कहा।",के,O
+23,"रोगी को तेज़ सिर दर्द और बुखार था, इसलिए डॉक्टर ने 200mL पानी में 5mg Paracetamol मिलाकर दिया और ECG और ब्लड टेस्ट कराने के लिए कहा।",लिए,O
+23,"रोगी को तेज़ सिर दर्द और बुखार था, इसलिए डॉक्टर ने 200mL पानी में 5mg Paracetamol मिलाकर दिया और ECG और ब्लड टेस्ट कराने के लिए कहा।",कहा,O
+23,"रोगी को तेज़ सिर दर्द और बुखार था, इसलिए डॉक्टर ने 200mL पानी में 5mg Paracetamol मिलाकर दिया और ECG और ब्लड टेस्ट कराने के लिए कहा।",।,O
+24,"Patient को तेज़ बुखार और सिर दर्द था, इसलिए डॉक्टर ने 500mg Paracetamol और एक ब्लड टेस्ट करने की सलाह दी।",Patient,O
+24,"Patient को तेज़ बुखार और सिर दर्द था, इसलिए डॉक्टर ने 500mg Paracetamol और एक ब्लड टेस्ट करने की सलाह दी।",को,O
+24,"Patient को तेज़ बुखार और सिर दर्द था, इसलिए डॉक्टर ने 500mg Paracetamol और एक ब्लड टेस्ट करने की सलाह दी।",तेज़,B-SYMPTOM
+24,"Patient को तेज़ बुखार और सिर दर्द था, इसलिए डॉक्टर ने 500mg Paracetamol और एक ब्लड टेस्ट करने की सलाह दी।",बुखार,I-SYMPTOM
+24,"Patient को तेज़ बुखार और सिर दर्द था, इसलिए डॉक्टर ने 500mg Paracetamol और एक ब्लड टेस्ट करने की सलाह दी।",और,O
+24,"Patient को तेज़ बुखार और सिर दर्द था, इसलिए डॉक्टर ने 500mg Paracetamol और एक ब्लड टेस्ट करने की सलाह दी।",सिर,B-SYMPTOM
+24,"Patient को तेज़ बुखार और सिर दर्द था, इसलिए डॉक्टर ने 500mg Paracetamol और एक ब्लड टेस्ट करने की सलाह दी।",दर्द,I-SYMPTOM
+24,"Patient को तेज़ बुखार और सिर दर्द था, इसलिए डॉक्टर ने 500mg Paracetamol और एक ब्लड टेस्ट करने की सलाह दी।",था,O
+24,"Patient को तेज़ बुखार और सिर दर्द था, इसलिए डॉक्टर ने 500mg Paracetamol और एक ब्लड टेस्ट करने की सलाह दी।",",",O
+24,"Patient को तेज़ बुखार और सिर दर्द था, इसलिए डॉक्टर ने 500mg Paracetamol और एक ब्लड टेस्ट करने की सलाह दी।",इसलिए,O
+24,"Patient को तेज़ बुखार और सिर दर्द था, इसलिए डॉक्टर ने 500mg Paracetamol और एक ब्लड टेस्ट करने की सलाह दी।",डॉक्टर,O
+24,"Patient को तेज़ बुखार और सिर दर्द था, इसलिए डॉक्टर ने 500mg Paracetamol और एक ब्लड टेस्ट करने की सलाह दी।",ने,O
+24,"Patient को तेज़ बुखार और सिर दर्द था, इसलिए डॉक्टर ने 500mg Paracetamol और एक ब्लड टेस्ट करने की सलाह दी।",500mg,B-DOSAGE
+24,"Patient को तेज़ बुखार और सिर दर्द था, इसलिए डॉक्टर ने 500mg Paracetamol और एक ब्लड टेस्ट करने की सलाह दी।",Paracetamol,B-MEDICATION
+24,"Patient को तेज़ बुखार और सिर दर्द था, इसलिए डॉक्टर ने 500mg Paracetamol और एक ब्लड टेस्ट करने की सलाह दी।",और,O
+24,"Patient को तेज़ बुखार और सिर दर्द था, इसलिए डॉक्टर ने 500mg Paracetamol और एक ब्लड टेस्ट करने की सलाह दी।",एक,O
+24,"Patient को तेज़ बुखार और सिर दर्द था, इसलिए डॉक्टर ने 500mg Paracetamol और एक ब्लड टेस्ट करने की सलाह दी।",ब्लड,B-TEST
+24,"Patient को तेज़ बुखार और सिर दर्द था, इसलिए डॉक्टर ने 500mg Paracetamol और एक ब्लड टेस्ट करने की सलाह दी।",टेस्ट,I-TEST
+24,"Patient को तेज़ बुखार और सिर दर्द था, इसलिए डॉक्टर ने 500mg Paracetamol और एक ब्लड टेस्ट करने की सलाह दी।",करने,O
+24,"Patient को तेज़ बुखार और सिर दर्द था, इसलिए डॉक्टर ने 500mg Paracetamol और एक ब्लड टेस्ट करने की सलाह दी।",की,O
+24,"Patient को तेज़ बुखार और सिर दर्द था, इसलिए डॉक्टर ने 500mg Paracetamol और एक ब्लड टेस्ट करने की सलाह दी।",सलाह,O
+24,"Patient को तेज़ बुखार और सिर दर्द था, इसलिए डॉक्टर ने 500mg Paracetamol और एक ब्लड टेस्ट करने की सलाह दी।",दी,O
+24,"Patient को तेज़ बुखार और सिर दर्द था, इसलिए डॉक्टर ने 500mg Paracetamol और एक ब्लड टेस्ट करने की सलाह दी।",।,O
+25,एक 45 वर्षीय रोगी को तेज़ सिर दर्द और बुखार के साथ अस्पताल में भर्ती कराया गया और उसे 5mg Paracetamol और 200mL IV fluids के साथ Angioplasty के लिए तैयार किया गया।,एक,O
+25,एक 45 वर्षीय रोगी को तेज़ सिर दर्द और बुखार के साथ अस्पताल में भर्ती कराया गया और उसे 5mg Paracetamol और 200mL IV fluids के साथ Angioplasty के लिए तैयार किया गया।,45,O
+25,एक 45 वर्षीय रोगी को तेज़ सिर दर्द और बुखार के साथ अस्पताल में भर्ती कराया गया और उसे 5mg Paracetamol और 200mL IV fluids के साथ Angioplasty के लिए तैयार किया गया।,वर्षीय,O
+25,एक 45 वर्षीय रोगी को तेज़ सिर दर्द और बुखार के साथ अस्पताल में भर्ती कराया गया और उसे 5mg Paracetamol और 200mL IV fluids के साथ Angioplasty के लिए तैयार किया गया।,रोगी,O
+25,एक 45 वर्षीय रोगी को तेज़ सिर दर्द और बुखार के साथ अस्पताल में भर्ती कराया गया और उसे 5mg Paracetamol और 200mL IV fluids के साथ Angioplasty के लिए तैयार किया गया।,को,O
+25,एक 45 वर्षीय रोगी को तेज़ सिर दर्द और बुखार के साथ अस्पताल में भर्ती कराया गया और उसे 5mg Paracetamol और 200mL IV fluids के साथ Angioplasty के लिए तैयार किया गया।,तेज़,B-SYMPTOM
+25,एक 45 वर्षीय रोगी को तेज़ सिर दर्द और बुखार के साथ अस्पताल में भर्ती कराया गया और उसे 5mg Paracetamol और 200mL IV fluids के साथ Angioplasty के लिए तैयार किया गया।,सिर,I-SYMPTOM
+25,एक 45 वर्षीय रोगी को तेज़ सिर दर्द और बुखार के साथ अस्पताल में भर्ती कराया गया और उसे 5mg Paracetamol और 200mL IV fluids के साथ Angioplasty के लिए तैयार किया गया।,दर्द,I-SYMPTOM
+25,एक 45 वर्षीय रोगी को तेज़ सिर दर्द और बुखार के साथ अस्पताल में भर्ती कराया गया और उसे 5mg Paracetamol और 200mL IV fluids के साथ Angioplasty के लिए तैयार किया गया।,और,O
+25,एक 45 वर्षीय रोगी को तेज़ सिर दर्द और बुखार के साथ अस्पताल में भर्ती कराया गया और उसे 5mg Paracetamol और 200mL IV fluids के साथ Angioplasty के लिए तैयार किया गया।,बुखार,B-SYMPTOM
+25,एक 45 वर्षीय रोगी को तेज़ सिर दर्द और बुखार के साथ अस्पताल में भर्ती कराया गया और उसे 5mg Paracetamol और 200mL IV fluids के साथ Angioplasty के लिए तैयार किया गया।,के,O
+25,एक 45 वर्षीय रोगी को तेज़ सिर दर्द और बुखार के साथ अस्पताल में भर्ती कराया गया और उसे 5mg Paracetamol और 200mL IV fluids के साथ Angioplasty के लिए तैयार किया गया।,साथ,O
+25,एक 45 वर्षीय रोगी को तेज़ सिर दर्द और बुखार के साथ अस्पताल में भर्ती कराया गया और उसे 5mg Paracetamol और 200mL IV fluids के साथ Angioplasty के लिए तैयार किया गया।,अस्पताल,O
+25,एक 45 वर्षीय रोगी को तेज़ सिर दर्द और बुखार के साथ अस्पताल में भर्ती कराया गया और उसे 5mg Paracetamol और 200mL IV fluids के साथ Angioplasty के लिए तैयार किया गया।,में,O
+25,एक 45 वर्षीय रोगी को तेज़ सिर दर्द और बुखार के साथ अस्पताल में भर्ती कराया गया और उसे 5mg Paracetamol और 200mL IV fluids के साथ Angioplasty के लिए तैयार किया गया।,भर्ती,O
+25,एक 45 वर्षीय रोगी को तेज़ सिर दर्द और बुखार के साथ अस्पताल में भर्ती कराया गया और उसे 5mg Paracetamol और 200mL IV fluids के साथ Angioplasty के लिए तैयार किया गया।,कराया,O
+25,एक 45 वर्षीय रोगी को तेज़ सिर दर्द और बुखार के साथ अस्पताल में भर्ती कराया गया और उसे 5mg Paracetamol और 200mL IV fluids के साथ Angioplasty के लिए तैयार किया गया।,गया,O
+25,एक 45 वर्षीय रोगी को तेज़ सिर दर्द और बुखार के साथ अस्पताल में भर्ती कराया गया और उसे 5mg Paracetamol और 200mL IV fluids के साथ Angioplasty के लिए तैयार किया गया।,और,O
+25,एक 45 वर्षीय रोगी को तेज़ सिर दर्द और बुखार के साथ अस्पताल में भर्ती कराया गया और उसे 5mg Paracetamol और 200mL IV fluids के साथ Angioplasty के लिए तैयार किया गया।,उसे,O
+25,एक 45 वर्षीय रोगी को तेज़ सिर दर्द और बुखार के साथ अस्पताल में भर्ती कराया गया और उसे 5mg Paracetamol और 200mL IV fluids के साथ Angioplasty के लिए तैयार किया गया।,5mg,B-DOSAGE
+25,एक 45 वर्षीय रोगी को तेज़ सिर दर्द और बुखार के साथ अस्पताल में भर्ती कराया गया और उसे 5mg Paracetamol और 200mL IV fluids के साथ Angioplasty के लिए तैयार किया गया।,Paracetamol,B-MEDICATION
+25,एक 45 वर्षीय रोगी को तेज़ सिर दर्द और बुखार के साथ अस्पताल में भर्ती कराया गया और उसे 5mg Paracetamol और 200mL IV fluids के साथ Angioplasty के लिए तैयार किया गया।,और,O
+25,एक 45 वर्षीय रोगी को तेज़ सिर दर्द और बुखार के साथ अस्पताल में भर्ती कराया गया और उसे 5mg Paracetamol और 200mL IV fluids के साथ Angioplasty के लिए तैयार किया गया।,200mL,B-DOSAGE
+25,एक 45 वर्षीय रोगी को तेज़ सिर दर्द और बुखार के साथ अस्पताल में भर्ती कराया गया और उसे 5mg Paracetamol और 200mL IV fluids के साथ Angioplasty के लिए तैयार किया गया।,IV,B-PROCEDURE
+25,एक 45 वर्षीय रोगी को तेज़ सिर दर्द और बुखार के साथ अस्पताल में भर्ती कराया गया और उसे 5mg Paracetamol और 200mL IV fluids के साथ Angioplasty के लिए तैयार किया गया।,fluids,I-PROCEDURE
+25,एक 45 वर्षीय रोगी को तेज़ सिर दर्द और बुखार के साथ अस्पताल में भर्ती कराया गया और उसे 5mg Paracetamol और 200mL IV fluids के साथ Angioplasty के लिए तैयार किया गया।,के,O
+25,एक 45 वर्षीय रोगी को तेज़ सिर दर्द और बुखार के साथ अस्पताल में भर्ती कराया गया और उसे 5mg Paracetamol और 200mL IV fluids के साथ Angioplasty के लिए तैयार किया गया।,साथ,O
+25,एक 45 वर्षीय रोगी को तेज़ सिर दर्द और बुखार के साथ अस्पताल में भर्ती कराया गया और उसे 5mg Paracetamol और 200mL IV fluids के साथ Angioplasty के लिए तैयार किया गया।,Angioplasty,B-PROCEDURE
+25,एक 45 वर्षीय रोगी को तेज़ सिर दर्द और बुखार के साथ अस्पताल में भर्ती कराया गया और उसे 5mg Paracetamol और 200mL IV fluids के साथ Angioplasty के लिए तैयार किया गया।,के,O
+25,एक 45 वर्षीय रोगी को तेज़ सिर दर्द और बुखार के साथ अस्पताल में भर्ती कराया गया और उसे 5mg Paracetamol और 200mL IV fluids के साथ Angioplasty के लिए तैयार किया गया।,लिए,O
+25,एक 45 वर्षीय रोगी को तेज़ सिर दर्द और बुखार के साथ अस्पताल में भर्ती कराया गया और उसे 5mg Paracetamol और 200mL IV fluids के साथ Angioplasty के लिए तैयार किया गया।,तैयार,O
+25,एक 45 वर्षीय रोगी को तेज़ सिर दर्द और बुखार के साथ अस्पताल में भर्ती कराया गया और उसे 5mg Paracetamol और 200mL IV fluids के साथ Angioplasty के लिए तैयार किया गया।,किया,O
+25,एक 45 वर्षीय रोगी को तेज़ सिर दर्द और बुखार के साथ अस्पताल में भर्ती कराया गया और उसे 5mg Paracetamol और 200mL IV fluids के साथ Angioplasty के लिए तैयार किया गया।,गया,O
+25,एक 45 वर्षीय रोगी को तेज़ सिर दर्द और बुखार के साथ अस्पताल में भर्ती कराया गया और उसे 5mg Paracetamol और 200mL IV fluids के साथ Angioplasty के लिए तैयार किया गया।,।,O
+26,Patient को तेज़ बुखार और सिर दर्द के साथ अस्पताल में भर्ती कराया गया और डॉक्टर ने 5mg Paracetamol देने के साथ-साथ ECG और ब्लड टेस्ट भी करवाया।,Patient,O
+26,Patient को तेज़ बुखार और सिर दर्द के साथ अस्पताल में भर्ती कराया गया और डॉक्टर ने 5mg Paracetamol देने के साथ-साथ ECG और ब्लड टेस्ट भी करवाया।,को,O
+26,Patient को तेज़ बुखार और सिर दर्द के साथ अस्पताल में भर्ती कराया गया और डॉक्टर ने 5mg Paracetamol देने के साथ-साथ ECG और ब्लड टेस्ट भी करवाया।,तेज़,B-SYMPTOM
+26,Patient को तेज़ बुखार और सिर दर्द के साथ अस्पताल में भर्ती कराया गया और डॉक्टर ने 5mg Paracetamol देने के साथ-साथ ECG और ब्लड टेस्ट भी करवाया।,बुखार,I-SYMPTOM
+26,Patient को तेज़ बुखार और सिर दर्द के साथ अस्पताल में भर्ती कराया गया और डॉक्टर ने 5mg Paracetamol देने के साथ-साथ ECG और ब्लड टेस्ट भी करवाया।,और,O
+26,Patient को तेज़ बुखार और सिर दर्द के साथ अस्पताल में भर्ती कराया गया और डॉक्टर ने 5mg Paracetamol देने के साथ-साथ ECG और ब्लड टेस्ट भी करवाया।,सिर,B-SYMPTOM
+26,Patient को तेज़ बुखार और सिर दर्द के साथ अस्पताल में भर्ती कराया गया और डॉक्टर ने 5mg Paracetamol देने के साथ-साथ ECG और ब्लड टेस्ट भी करवाया।,दर्द,I-SYMPTOM
+26,Patient को तेज़ बुखार और सिर दर्द के साथ अस्पताल में भर्ती कराया गया और डॉक्टर ने 5mg Paracetamol देने के साथ-साथ ECG और ब्लड टेस्ट भी करवाया।,के,O
+26,Patient को तेज़ बुखार और सिर दर्द के साथ अस्पताल में भर्ती कराया गया और डॉक्टर ने 5mg Paracetamol देने के साथ-साथ ECG और ब्लड टेस्ट भी करवाया।,साथ,O
+26,Patient को तेज़ बुखार और सिर दर्द के साथ अस्पताल में भर्ती कराया गया और डॉक्टर ने 5mg Paracetamol देने के साथ-साथ ECG और ब्लड टेस्ट भी करवाया।,अस्पताल,O
+26,Patient को तेज़ बुखार और सिर दर्द के साथ अस्पताल में भर्ती कराया गया और डॉक्टर ने 5mg Paracetamol देने के साथ-साथ ECG और ब्लड टेस्ट भी करवाया।,में,O
+26,Patient को तेज़ बुखार और सिर दर्द के साथ अस्पताल में भर्ती कराया गया और डॉक्टर ने 5mg Paracetamol देने के साथ-साथ ECG और ब्लड टेस्ट भी करवाया।,भर्ती,O
+26,Patient को तेज़ बुखार और सिर दर्द के साथ अस्पताल में भर्ती कराया गया और डॉक्टर ने 5mg Paracetamol देने के साथ-साथ ECG और ब्लड टेस्ट भी करवाया।,कराया,O
+26,Patient को तेज़ बुखार और सिर दर्द के साथ अस्पताल में भर्ती कराया गया और डॉक्टर ने 5mg Paracetamol देने के साथ-साथ ECG और ब्लड टेस्ट भी करवाया।,गया,O
+26,Patient को तेज़ बुखार और सिर दर्द के साथ अस्पताल में भर्ती कराया गया और डॉक्टर ने 5mg Paracetamol देने के साथ-साथ ECG और ब्लड टेस्ट भी करवाया।,और,O
+26,Patient को तेज़ बुखार और सिर दर्द के साथ अस्पताल में भर्ती कराया गया और डॉक्टर ने 5mg Paracetamol देने के साथ-साथ ECG और ब्लड टेस्ट भी करवाया।,डॉक्टर,O
+26,Patient को तेज़ बुखार और सिर दर्द के साथ अस्पताल में भर्ती कराया गया और डॉक्टर ने 5mg Paracetamol देने के साथ-साथ ECG और ब्लड टेस्ट भी करवाया।,ने,O
+26,Patient को तेज़ बुखार और सिर दर्द के साथ अस्पताल में भर्ती कराया गया और डॉक्टर ने 5mg Paracetamol देने के साथ-साथ ECG और ब्लड टेस्ट भी करवाया।,5mg,B-DOSAGE
+26,Patient को तेज़ बुखार और सिर दर्द के साथ अस्पताल में भर्ती कराया गया और डॉक्टर ने 5mg Paracetamol देने के साथ-साथ ECG और ब्लड टेस्ट भी करवाया।,Paracetamol,B-MEDICATION
+26,Patient को तेज़ बुखार और सिर दर्द के साथ अस्पताल में भर्ती कराया गया और डॉक्टर ने 5mg Paracetamol देने के साथ-साथ ECG और ब्लड टेस्ट भी करवाया।,देने,O
+26,Patient को तेज़ बुखार और सिर दर्द के साथ अस्पताल में भर्ती कराया गया और डॉक्टर ने 5mg Paracetamol देने के साथ-साथ ECG और ब्लड टेस्ट भी करवाया।,के,O
+26,Patient को तेज़ बुखार और सिर दर्द के साथ अस्पताल में भर्ती कराया गया और डॉक्टर ने 5mg Paracetamol देने के साथ-साथ ECG और ब्लड टेस्ट भी करवाया।,साथ-साथ,O
+26,Patient को तेज़ बुखार और सिर दर्द के साथ अस्पताल में भर्ती कराया गया और डॉक्टर ने 5mg Paracetamol देने के साथ-साथ ECG और ब्लड टेस्ट भी करवाया।,ECG,B-TEST
+26,Patient को तेज़ बुखार और सिर दर्द के साथ अस्पताल में भर्ती कराया गया और डॉक्टर ने 5mg Paracetamol देने के साथ-साथ ECG और ब्लड टेस्ट भी करवाया।,और,O
+26,Patient को तेज़ बुखार और सिर दर्द के साथ अस्पताल में भर्ती कराया गया और डॉक्टर ने 5mg Paracetamol देने के साथ-साथ ECG और ब्लड टेस्ट भी करवाया।,ब्लड,B-TEST
+26,Patient को तेज़ बुखार और सिर दर्द के साथ अस्पताल में भर्ती कराया गया और डॉक्टर ने 5mg Paracetamol देने के साथ-साथ ECG और ब्लड टेस्ट भी करवाया।,टेस्ट,I-TEST
+26,Patient को तेज़ बुखार और सिर दर्द के साथ अस्पताल में भर्ती कराया गया और डॉक्टर ने 5mg Paracetamol देने के साथ-साथ ECG और ब्लड टेस्ट भी करवाया।,भी,O
+26,Patient को तेज़ बुखार और सिर दर्द के साथ अस्पताल में भर्ती कराया गया और डॉक्टर ने 5mg Paracetamol देने के साथ-साथ ECG और ब्लड टेस्ट भी करवाया।,करवाया,O
+26,Patient को तेज़ बुखार और सिर दर्द के साथ अस्पताल में भर्ती कराया गया और डॉक्टर ने 5mg Paracetamol देने के साथ-साथ ECG और ब्लड टेस्ट भी करवाया।,।,O
+27,एक 45 वर्षीय रोगी को तेज़ सिर दर्द और बुखार के कारण अस्पताल में भर्ती किया गया और 5mg Paracetamol और 200mL पानी के साथ डॉक्टर ने उसे एक ECG और ब्लड टेस्ट कराने की सलाह दी।,एक,O
+27,एक 45 वर्षीय रोगी को तेज़ सिर दर्द और बुखार के कारण अस्पताल में भर्ती किया गया और 5mg Paracetamol और 200mL पानी के साथ डॉक्टर ने उसे एक ECG और ब्लड टेस्ट कराने की सलाह दी।,45,O
+27,एक 45 वर्षीय रोगी को तेज़ सिर दर्द और बुखार के कारण अस्पताल में भर्ती किया गया और 5mg Paracetamol और 200mL पानी के साथ डॉक्टर ने उसे एक ECG और ब्लड टेस्ट कराने की सलाह दी।,वर्षीय,O
+27,एक 45 वर्षीय रोगी को तेज़ सिर दर्द और बुखार के कारण अस्पताल में भर्ती किया गया और 5mg Paracetamol और 200mL पानी के साथ डॉक्टर ने उसे एक ECG और ब्लड टेस्ट कराने की सलाह दी।,रोगी,O
+27,एक 45 वर्षीय रोगी को तेज़ सिर दर्द और बुखार के कारण अस्पताल में भर्ती किया गया और 5mg Paracetamol और 200mL पानी के साथ डॉक्टर ने उसे एक ECG और ब्लड टेस्ट कराने की सलाह दी।,को,O
+27,एक 45 वर्षीय रोगी को तेज़ सिर दर्द और बुखार के कारण अस्पताल में भर्ती किया गया और 5mg Paracetamol और 200mL पानी के साथ डॉक्टर ने उसे एक ECG और ब्लड टेस्ट कराने की सलाह दी।,तेज़,B-SYMPTOM
+27,एक 45 वर्षीय रोगी को तेज़ सिर दर्द और बुखार के कारण अस्पताल में भर्ती किया गया और 5mg Paracetamol और 200mL पानी के साथ डॉक्टर ने उसे एक ECG और ब्लड टेस्ट कराने की सलाह दी।,सिर,I-SYMPTOM
+27,एक 45 वर्षीय रोगी को तेज़ सिर दर्द और बुखार के कारण अस्पताल में भर्ती किया गया और 5mg Paracetamol और 200mL पानी के साथ डॉक्टर ने उसे एक ECG और ब्लड टेस्ट कराने की सलाह दी।,दर्द,I-SYMPTOM
+27,एक 45 वर्षीय रोगी को तेज़ सिर दर्द और बुखार के कारण अस्पताल में भर्ती किया गया और 5mg Paracetamol और 200mL पानी के साथ डॉक्टर ने उसे एक ECG और ब्लड टेस्ट कराने की सलाह दी।,और,O
+27,एक 45 वर्षीय रोगी को तेज़ सिर दर्द और बुखार के कारण अस्पताल में भर्ती किया गया और 5mg Paracetamol और 200mL पानी के साथ डॉक्टर ने उसे एक ECG और ब्लड टेस्ट कराने की सलाह दी।,बुखार,B-SYMPTOM
+27,एक 45 वर्षीय रोगी को तेज़ सिर दर्द और बुखार के कारण अस्पताल में भर्ती किया गया और 5mg Paracetamol और 200mL पानी के साथ डॉक्टर ने उसे एक ECG और ब्लड टेस्ट कराने की सलाह दी।,के,O
+27,एक 45 वर्षीय रोगी को तेज़ सिर दर्द और बुखार के कारण अस्पताल में भर्ती किया गया और 5mg Paracetamol और 200mL पानी के साथ डॉक्टर ने उसे एक ECG और ब्लड टेस्ट कराने की सलाह दी।,कारण,O
+27,एक 45 वर्षीय रोगी को तेज़ सिर दर्द और बुखार के कारण अस्पताल में भर्ती किया गया और 5mg Paracetamol और 200mL पानी के साथ डॉक्टर ने उसे एक ECG और ब्लड टेस्ट कराने की सलाह दी।,अस्पताल,O
+27,एक 45 वर्षीय रोगी को तेज़ सिर दर्द और बुखार के कारण अस्पताल में भर्ती किया गया और 5mg Paracetamol और 200mL पानी के साथ डॉक्टर ने उसे एक ECG और ब्लड टेस्ट कराने की सलाह दी।,में,O
+27,एक 45 वर्षीय रोगी को तेज़ सिर दर्द और बुखार के कारण अस्पताल में भर्ती किया गया और 5mg Paracetamol और 200mL पानी के साथ डॉक्टर ने उसे एक ECG और ब्लड टेस्ट कराने की सलाह दी।,भर्ती,O
+27,एक 45 वर्षीय रोगी को तेज़ सिर दर्द और बुखार के कारण अस्पताल में भर्ती किया गया और 5mg Paracetamol और 200mL पानी के साथ डॉक्टर ने उसे एक ECG और ब्लड टेस्ट कराने की सलाह दी।,किया,O
+27,एक 45 वर्षीय रोगी को तेज़ सिर दर्द और बुखार के कारण अस्पताल में भर्ती किया गया और 5mg Paracetamol और 200mL पानी के साथ डॉक्टर ने उसे एक ECG और ब्लड टेस्ट कराने की सलाह दी।,गया,O
+27,एक 45 वर्षीय रोगी को तेज़ सिर दर्द और बुखार के कारण अस्पताल में भर्ती किया गया और 5mg Paracetamol और 200mL पानी के साथ डॉक्टर ने उसे एक ECG और ब्लड टेस्ट कराने की सलाह दी।,और,O
+27,एक 45 वर्षीय रोगी को तेज़ सिर दर्द और बुखार के कारण अस्पताल में भर्ती किया गया और 5mg Paracetamol और 200mL पानी के साथ डॉक्टर ने उसे एक ECG और ब्लड टेस्ट कराने की सलाह दी।,5mg,B-DOSAGE
+27,एक 45 वर्षीय रोगी को तेज़ सिर दर्द और बुखार के कारण अस्पताल में भर्ती किया गया और 5mg Paracetamol और 200mL पानी के साथ डॉक्टर ने उसे एक ECG और ब्लड टेस्ट कराने की सलाह दी।,Paracetamol,B-MEDICATION
+27,एक 45 वर्षीय रोगी को तेज़ सिर दर्द और बुखार के कारण अस्पताल में भर्ती किया गया और 5mg Paracetamol और 200mL पानी के साथ डॉक्टर ने उसे एक ECG और ब्लड टेस्ट कराने की सलाह दी।,और,O
+27,एक 45 वर्षीय रोगी को तेज़ सिर दर्द और बुखार के कारण अस्पताल में भर्ती किया गया और 5mg Paracetamol और 200mL पानी के साथ डॉक्टर ने उसे एक ECG और ब्लड टेस्ट कराने की सलाह दी।,200mL,B-DOSAGE
+27,एक 45 वर्षीय रोगी को तेज़ सिर दर्द और बुखार के कारण अस्पताल में भर्ती किया गया और 5mg Paracetamol और 200mL पानी के साथ डॉक्टर ने उसे एक ECG और ब्लड टेस्ट कराने की सलाह दी।,पानी,O
+27,एक 45 वर्षीय रोगी को तेज़ सिर दर्द और बुखार के कारण अस्पताल में भर्ती किया गया और 5mg Paracetamol और 200mL पानी के साथ डॉक्टर ने उसे एक ECG और ब्लड टेस्ट कराने की सलाह दी।,के,O
+27,एक 45 वर्षीय रोगी को तेज़ सिर दर्द और बुखार के कारण अस्पताल में भर्ती किया गया और 5mg Paracetamol और 200mL पानी के साथ डॉक्टर ने उसे एक ECG और ब्लड टेस्ट कराने की सलाह दी।,साथ,O
+27,एक 45 वर्षीय रोगी को तेज़ सिर दर्द और बुखार के कारण अस्पताल में भर्ती किया गया और 5mg Paracetamol और 200mL पानी के साथ डॉक्टर ने उसे एक ECG और ब्लड टेस्ट कराने की सलाह दी।,डॉक्टर,O
+27,एक 45 वर्षीय रोगी को तेज़ सिर दर्द और बुखार के कारण अस्पताल में भर्ती किया गया और 5mg Paracetamol और 200mL पानी के साथ डॉक्टर ने उसे एक ECG और ब्लड टेस्ट कराने की सलाह दी।,ने,O
+27,एक 45 वर्षीय रोगी को तेज़ सिर दर्द और बुखार के कारण अस्पताल में भर्ती किया गया और 5mg Paracetamol और 200mL पानी के साथ डॉक्टर ने उसे एक ECG और ब्लड टेस्ट कराने की सलाह दी।,उसे,O
+27,एक 45 वर्षीय रोगी को तेज़ सिर दर्द और बुखार के कारण अस्पताल में भर्ती किया गया और 5mg Paracetamol और 200mL पानी के साथ डॉक्टर ने उसे एक ECG और ब्लड टेस्ट कराने की सलाह दी।,एक,O
+27,एक 45 वर्षीय रोगी को तेज़ सिर दर्द और बुखार के कारण अस्पताल में भर्ती किया गया और 5mg Paracetamol और 200mL पानी के साथ डॉक्टर ने उसे एक ECG और ब्लड टेस्ट कराने की सलाह दी।,ECG,B-TEST
+27,एक 45 वर्षीय रोगी को तेज़ सिर दर्द और बुखार के कारण अस्पताल में भर्ती किया गया और 5mg Paracetamol और 200mL पानी के साथ डॉक्टर ने उसे एक ECG और ब्लड टेस्ट कराने की सलाह दी।,और,O
+27,एक 45 वर्षीय रोगी को तेज़ सिर दर्द और बुखार के कारण अस्पताल में भर्ती किया गया और 5mg Paracetamol और 200mL पानी के साथ डॉक्टर ने उसे एक ECG और ब्लड टेस्ट कराने की सलाह दी।,ब्लड,B-TEST
+27,एक 45 वर्षीय रोगी को तेज़ सिर दर्द और बुखार के कारण अस्पताल में भर्ती किया गया और 5mg Paracetamol और 200mL पानी के साथ डॉक्टर ने उसे एक ECG और ब्लड टेस्ट कराने की सलाह दी।,टेस्ट,I-TEST
+27,एक 45 वर्षीय रोगी को तेज़ सिर दर्द और बुखार के कारण अस्पताल में भर्ती किया गया और 5mg Paracetamol और 200mL पानी के साथ डॉक्टर ने उसे एक ECG और ब्लड टेस्ट कराने की सलाह दी।,कराने,O
+27,एक 45 वर्षीय रोगी को तेज़ सिर दर्द और बुखार के कारण अस्पताल में भर्ती किया गया और 5mg Paracetamol और 200mL पानी के साथ डॉक्टर ने उसे एक ECG और ब्लड टेस्ट कराने की सलाह दी।,की,O
+27,एक 45 वर्षीय रोगी को तेज़ सिर दर्द और बुखार के कारण अस्पताल में भर्ती किया गया और 5mg Paracetamol और 200mL पानी के साथ डॉक्टर ने उसे एक ECG और ब्लड टेस्ट कराने की सलाह दी।,सलाह,O
+27,एक 45 वर्षीय रोगी को तेज़ सिर दर्द और बुखार के कारण अस्पताल में भर्ती किया गया और 5mg Paracetamol और 200mL पानी के साथ डॉक्टर ने उसे एक ECG और ब्लड टेस्ट कराने की सलाह दी।,दी,O
+27,एक 45 वर्षीय रोगी को तेज़ सिर दर्द और बुखार के कारण अस्पताल में भर्ती किया गया और 5mg Paracetamol और 200mL पानी के साथ डॉक्टर ने उसे एक ECG और ब्लड टेस्ट कराने की सलाह दी।,।,O
+28,"रोगी को खून बहुत तेज़ बह रहा था, इसलिए उसे तत्काल Angioplasty की आवश्यकता थी और डॉक्टर ने 200mL प्लेटलेट्स के साथ 5mg Aspirin दिया।",रोगी,O
+28,"रोगी को खून बहुत तेज़ बह रहा था, इसलिए उसे तत्काल Angioplasty की आवश्यकता थी और डॉक्टर ने 200mL प्लेटलेट्स के साथ 5mg Aspirin दिया।",को,O
+28,"रोगी को खून बहुत तेज़ बह रहा था, इसलिए उसे तत्काल Angioplasty की आवश्यकता थी और डॉक्टर ने 200mL प्लेटलेट्स के साथ 5mg Aspirin दिया।",खून,B-SYMPTOM
+28,"रोगी को खून बहुत तेज़ बह रहा था, इसलिए उसे तत्काल Angioplasty की आवश्यकता थी और डॉक्टर ने 200mL प्लेटलेट्स के साथ 5mg Aspirin दिया।",बहुत,O
+28,"रोगी को खून बहुत तेज़ बह रहा था, इसलिए उसे तत्काल Angioplasty की आवश्यकता थी और डॉक्टर ने 200mL प्लेटलेट्स के साथ 5mg Aspirin दिया।",तेज़,I-SYMPTOM
+28,"रोगी को खून बहुत तेज़ बह रहा था, इसलिए उसे तत्काल Angioplasty की आवश्यकता थी और डॉक्टर ने 200mL प्लेटलेट्स के साथ 5mg Aspirin दिया।",बह,I-SYMPTOM
+28,"रोगी को खून बहुत तेज़ बह रहा था, इसलिए उसे तत्काल Angioplasty की आवश्यकता थी और डॉक्टर ने 200mL प्लेटलेट्स के साथ 5mg Aspirin दिया।",रहा,I-SYMPTOM
+28,"रोगी को खून बहुत तेज़ बह रहा था, इसलिए उसे तत्काल Angioplasty की आवश्यकता थी और डॉक्टर ने 200mL प्लेटलेट्स के साथ 5mg Aspirin दिया।",था,O
+28,"रोगी को खून बहुत तेज़ बह रहा था, इसलिए उसे तत्काल Angioplasty की आवश्यकता थी और डॉक्टर ने 200mL प्लेटलेट्स के साथ 5mg Aspirin दिया।",",",O
+28,"रोगी को खून बहुत तेज़ बह रहा था, इसलिए उसे तत्काल Angioplasty की आवश्यकता थी और डॉक्टर ने 200mL प्लेटलेट्स के साथ 5mg Aspirin दिया।",इसलिए,O
+28,"रोगी को खून बहुत तेज़ बह रहा था, इसलिए उसे तत्काल Angioplasty की आवश्यकता थी और डॉक्टर ने 200mL प्लेटलेट्स के साथ 5mg Aspirin दिया।",उसे,O
+28,"रोगी को खून बहुत तेज़ बह रहा था, इसलिए उसे तत्काल Angioplasty की आवश्यकता थी और डॉक्टर ने 200mL प्लेटलेट्स के साथ 5mg Aspirin दिया।",तत्काल,O
+28,"रोगी को खून बहुत तेज़ बह रहा था, इसलिए उसे तत्काल Angioplasty की आवश्यकता थी और डॉक्टर ने 200mL प्लेटलेट्स के साथ 5mg Aspirin दिया।",Angioplasty,B-PROCEDURE
+28,"रोगी को खून बहुत तेज़ बह रहा था, इसलिए उसे तत्काल Angioplasty की आवश्यकता थी और डॉक्टर ने 200mL प्लेटलेट्स के साथ 5mg Aspirin दिया।",की,O
+28,"रोगी को खून बहुत तेज़ बह रहा था, इसलिए उसे तत्काल Angioplasty की आवश्यकता थी और डॉक्टर ने 200mL प्लेटलेट्स के साथ 5mg Aspirin दिया।",आवश्यकता,O
+28,"रोगी को खून बहुत तेज़ बह रहा था, इसलिए उसे तत्काल Angioplasty की आवश्यकता थी और डॉक्टर ने 200mL प्लेटलेट्स के साथ 5mg Aspirin दिया।",थी,O
+28,"रोगी को खून बहुत तेज़ बह रहा था, इसलिए उसे तत्काल Angioplasty की आवश्यकता थी और डॉक्टर ने 200mL प्लेटलेट्स के साथ 5mg Aspirin दिया।",और,O
+28,"रोगी को खून बहुत तेज़ बह रहा था, इसलिए उसे तत्काल Angioplasty की आवश्यकता थी और डॉक्टर ने 200mL प्लेटलेट्स के साथ 5mg Aspirin दिया।",डॉक्टर,O
+28,"रोगी को खून बहुत तेज़ बह रहा था, इसलिए उसे तत्काल Angioplasty की आवश्यकता थी और डॉक्टर ने 200mL प्लेटलेट्स के साथ 5mg Aspirin दिया।",ने,O
+28,"रोगी को खून बहुत तेज़ बह रहा था, इसलिए उसे तत्काल Angioplasty की आवश्यकता थी और डॉक्टर ने 200mL प्लेटलेट्स के साथ 5mg Aspirin दिया।",200mL,B-DOSAGE
+28,"रोगी को खून बहुत तेज़ बह रहा था, इसलिए उसे तत्काल Angioplasty की आवश्यकता थी और डॉक्टर ने 200mL प्लेटलेट्स के साथ 5mg Aspirin दिया।",प्लेटलेट्स,B-MEDICATION
+28,"रोगी को खून बहुत तेज़ बह रहा था, इसलिए उसे तत्काल Angioplasty की आवश्यकता थी और डॉक्टर ने 200mL प्लेटलेट्स के साथ 5mg Aspirin दिया।",के,O
+28,"रोगी को खून बहुत तेज़ बह रहा था, इसलिए उसे तत्काल Angioplasty की आवश्यकता थी और डॉक्टर ने 200mL प्लेटलेट्स के साथ 5mg Aspirin दिया।",साथ,O
+28,"रोगी को खून बहुत तेज़ बह रहा था, इसलिए उसे तत्काल Angioplasty की आवश्यकता थी और डॉक्टर ने 200mL प्लेटलेट्स के साथ 5mg Aspirin दिया।",5mg,B-DOSAGE
+28,"रोगी को खून बहुत तेज़ बह रहा था, इसलिए उसे तत्काल Angioplasty की आवश्यकता थी और डॉक्टर ने 200mL प्लेटलेट्स के साथ 5mg Aspirin दिया।",Aspirin,B-MEDICATION
+28,"रोगी को खून बहुत तेज़ बह रहा था, इसलिए उसे तत्काल Angioplasty की आवश्यकता थी और डॉक्टर ने 200mL प्लेटलेट्स के साथ 5mg Aspirin दिया।",दिया,O
+28,"रोगी को खून बहुत तेज़ बह रहा था, इसलिए उसे तत्काल Angioplasty की आवश्यकता थी और डॉक्टर ने 200mL प्लेटलेट्स के साथ 5mg Aspirin दिया।",।,O
+29,"The patient with हृदय रोग was prescribed 25mg Atorvastatin twice daily after a chest X-ray and ECG, due to symptoms of तेज़ सांस लेना and कमजोरी.",The,O
+29,"The patient with हृदय रोग was prescribed 25mg Atorvastatin twice daily after a chest X-ray and ECG, due to symptoms of तेज़ सांस लेना and कमजोरी.",patient,O
+29,"The patient with हृदय रोग was prescribed 25mg Atorvastatin twice daily after a chest X-ray and ECG, due to symptoms of तेज़ सांस लेना and कमजोरी.",with,O
+29,"The patient with हृदय रोग was prescribed 25mg Atorvastatin twice daily after a chest X-ray and ECG, due to symptoms of तेज़ सांस लेना and कमजोरी.",हृदय,B-CONDITION
+29,"The patient with हृदय रोग was prescribed 25mg Atorvastatin twice daily after a chest X-ray and ECG, due to symptoms of तेज़ सांस लेना and कमजोरी.",रोग,I-CONDITION
+29,"The patient with हृदय रोग was prescribed 25mg Atorvastatin twice daily after a chest X-ray and ECG, due to symptoms of तेज़ सांस लेना and कमजोरी.",was,O
+29,"The patient with हृदय रोग was prescribed 25mg Atorvastatin twice daily after a chest X-ray and ECG, due to symptoms of तेज़ सांस लेना and कमजोरी.",prescribed,O
+29,"The patient with हृदय रोग was prescribed 25mg Atorvastatin twice daily after a chest X-ray and ECG, due to symptoms of तेज़ सांस लेना and कमजोरी.",25mg,B-DOSAGE
+29,"The patient with हृदय रोग was prescribed 25mg Atorvastatin twice daily after a chest X-ray and ECG, due to symptoms of तेज़ सांस लेना and कमजोरी.",Atorvastatin,B-MEDICATION
+29,"The patient with हृदय रोग was prescribed 25mg Atorvastatin twice daily after a chest X-ray and ECG, due to symptoms of तेज़ सांस लेना and कमजोरी.",twice,B-DOSAGE
+29,"The patient with हृदय रोग was prescribed 25mg Atorvastatin twice daily after a chest X-ray and ECG, due to symptoms of तेज़ सांस लेना and कमजोरी.",daily,I-DOSAGE
+29,"The patient with हृदय रोग was prescribed 25mg Atorvastatin twice daily after a chest X-ray and ECG, due to symptoms of तेज़ सांस लेना and कमजोरी.",after,O
+29,"The patient with हृदय रोग was prescribed 25mg Atorvastatin twice daily after a chest X-ray and ECG, due to symptoms of तेज़ सांस लेना and कमजोरी.",a,O
+29,"The patient with हृदय रोग was prescribed 25mg Atorvastatin twice daily after a chest X-ray and ECG, due to symptoms of तेज़ सांस लेना and कमजोरी.",chest,B-PROCEDURE
+29,"The patient with हृदय रोग was prescribed 25mg Atorvastatin twice daily after a chest X-ray and ECG, due to symptoms of तेज़ सांस लेना and कमजोरी.",X-ray,I-PROCEDURE
+29,"The patient with हृदय रोग was prescribed 25mg Atorvastatin twice daily after a chest X-ray and ECG, due to symptoms of तेज़ सांस लेना and कमजोरी.",and,O
+29,"The patient with हृदय रोग was prescribed 25mg Atorvastatin twice daily after a chest X-ray and ECG, due to symptoms of तेज़ सांस लेना and कमजोरी.",ECG,B-TEST
+29,"The patient with हृदय रोग was prescribed 25mg Atorvastatin twice daily after a chest X-ray and ECG, due to symptoms of तेज़ सांस लेना and कमजोरी.",due,O
+29,"The patient with हृदय रोग was prescribed 25mg Atorvastatin twice daily after a chest X-ray and ECG, due to symptoms of तेज़ सांस लेना and कमजोरी.",to,O
+29,"The patient with हृदय रोग was prescribed 25mg Atorvastatin twice daily after a chest X-ray and ECG, due to symptoms of तेज़ सांस लेना and कमजोरी.",symptoms,O
+29,"The patient with हृदय रोग was prescribed 25mg Atorvastatin twice daily after a chest X-ray and ECG, due to symptoms of तेज़ सांस लेना and कमजोरी.",of,O
+29,"The patient with हृदय रोग was prescribed 25mg Atorvastatin twice daily after a chest X-ray and ECG, due to symptoms of तेज़ सांस लेना and कमजोरी.",तेज़,B-SYMPTOM
+29,"The patient with हृदय रोग was prescribed 25mg Atorvastatin twice daily after a chest X-ray and ECG, due to symptoms of तेज़ सांस लेना and कमजोरी.",सांस,I-SYMPTOM
+29,"The patient with हृदय रोग was prescribed 25mg Atorvastatin twice daily after a chest X-ray and ECG, due to symptoms of तेज़ सांस लेना and कमजोरी.",लेना,I-SYMPTOM
+29,"The patient with हृदय रोग was prescribed 25mg Atorvastatin twice daily after a chest X-ray and ECG, due to symptoms of तेज़ सांस लेना and कमजोरी.",and,O
+29,"The patient with हृदय रोग was prescribed 25mg Atorvastatin twice daily after a chest X-ray and ECG, due to symptoms of तेज़ सांस लेना and कमजोरी.",कमजोरी,B-SYMPTOM
+29,"The patient with हृदय रोग was prescribed 25mg Atorvastatin twice daily after a chest X-ray and ECG, due to symptoms of तेज़ सांस लेना and कमजोरी.",.,O
+30,The patient with stage 2 मधुमेह was prescribed 10mg Metformin twice daily after an abnormal लिपिड प्रोफाइल report and complained of तेज़ सिर दर्द and चक्कर आना।,The,O
+30,The patient with stage 2 मधुमेह was prescribed 10mg Metformin twice daily after an abnormal लिपिड प्रोफाइल report and complained of तेज़ सिर दर्द and चक्कर आना।,patient,O
+30,The patient with stage 2 मधुमेह was prescribed 10mg Metformin twice daily after an abnormal लिपिड प्रोफाइल report and complained of तेज़ सिर दर्द and चक्कर आना।,with,O
+30,The patient with stage 2 मधुमेह was prescribed 10mg Metformin twice daily after an abnormal लिपिड प्रोफाइल report and complained of तेज़ सिर दर्द and चक्कर आना।,stage 2,B-CONDITION
+30,The patient with stage 2 मधुमेह was prescribed 10mg Metformin twice daily after an abnormal लिपिड प्रोफाइल report and complained of तेज़ सिर दर्द and चक्कर आना।,मधुमेह,I-CONDITION
+30,The patient with stage 2 मधुमेह was prescribed 10mg Metformin twice daily after an abnormal लिपिड प्रोफाइल report and complained of तेज़ सिर दर्द and चक्कर आना।,was,O
+30,The patient with stage 2 मधुमेह was prescribed 10mg Metformin twice daily after an abnormal लिपिड प्रोफाइल report and complained of तेज़ सिर दर्द and चक्कर आना।,prescribed,O
+30,The patient with stage 2 मधुमेह was prescribed 10mg Metformin twice daily after an abnormal लिपिड प्रोफाइल report and complained of तेज़ सिर दर्द and चक्कर आना।,10mg,B-DOSAGE
+30,The patient with stage 2 मधुमेह was prescribed 10mg Metformin twice daily after an abnormal लिपिड प्रोफाइल report and complained of तेज़ सिर दर्द and चक्कर आना।,Metformin,B-MEDICATION
+30,The patient with stage 2 मधुमेह was prescribed 10mg Metformin twice daily after an abnormal लिपिड प्रोफाइल report and complained of तेज़ सिर दर्द and चक्कर आना।,twice,B-DOSAGE
+30,The patient with stage 2 मधुमेह was prescribed 10mg Metformin twice daily after an abnormal लिपिड प्रोफाइल report and complained of तेज़ सिर दर्द and चक्कर आना।,daily,I-DOSAGE
+30,The patient with stage 2 मधुमेह was prescribed 10mg Metformin twice daily after an abnormal लिपिड प्रोफाइल report and complained of तेज़ सिर दर्द and चक्कर आना।,after,O
+30,The patient with stage 2 मधुमेह was prescribed 10mg Metformin twice daily after an abnormal लिपिड प्रोफाइल report and complained of तेज़ सिर दर्द and चक्कर आना।,an,O
+30,The patient with stage 2 मधुमेह was prescribed 10mg Metformin twice daily after an abnormal लिपिड प्रोफाइल report and complained of तेज़ सिर दर्द and चक्कर आना।,abnormal,O
+30,The patient with stage 2 मधुमेह was prescribed 10mg Metformin twice daily after an abnormal लिपिड प्रोफाइल report and complained of तेज़ सिर दर्द and चक्कर आना।,लिपिड प्रोफाइल,B-TEST
+30,The patient with stage 2 मधुमेह was prescribed 10mg Metformin twice daily after an abnormal लिपिड प्रोफाइल report and complained of तेज़ सिर दर्द and चक्कर आना।,report,O
+30,The patient with stage 2 मधुमेह was prescribed 10mg Metformin twice daily after an abnormal लिपिड प्रोफाइल report and complained of तेज़ सिर दर्द and चक्कर आना।,and,O
+30,The patient with stage 2 मधुमेह was prescribed 10mg Metformin twice daily after an abnormal लिपिड प्रोफाइल report and complained of तेज़ सिर दर्द and चक्कर आना।,complained,O
+30,The patient with stage 2 मधुमेह was prescribed 10mg Metformin twice daily after an abnormal लिपिड प्रोफाइल report and complained of तेज़ सिर दर्द and चक्कर आना।,of,O
+30,The patient with stage 2 मधुमेह was prescribed 10mg Metformin twice daily after an abnormal लिपिड प्रोफाइल report and complained of तेज़ सिर दर्द and चक्कर आना।,तेज़,B-SYMPTOM
+30,The patient with stage 2 मधुमेह was prescribed 10mg Metformin twice daily after an abnormal लिपिड प्रोफाइल report and complained of तेज़ सिर दर्द and चक्कर आना।,सिर,I-SYMPTOM
+30,The patient with stage 2 मधुमेह was prescribed 10mg Metformin twice daily after an abnormal लिपिड प्रोफाइल report and complained of तेज़ सिर दर्द and चक्कर आना।,दर्द,I-SYMPTOM
+30,The patient with stage 2 मधुमेह was prescribed 10mg Metformin twice daily after an abnormal लिपिड प्रोफाइल report and complained of तेज़ सिर दर्द and चक्कर आना।,and,O
+30,The patient with stage 2 मधुमेह was prescribed 10mg Metformin twice daily after an abnormal लिपिड प्रोफाइल report and complained of तेज़ सिर दर्द and चक्कर आना।,चक्कर,B-SYMPTOM
+30,The patient with stage 2 मधुमेह was prescribed 10mg Metformin twice daily after an abnormal लिपिड प्रोफाइल report and complained of तेज़ सिर दर्द and चक्कर आना।,आना,I-SYMPTOM
+30,The patient with stage 2 मधुमेह was prescribed 10mg Metformin twice daily after an abnormal लिपिड प्रोफाइल report and complained of तेज़ सिर दर्द and चक्कर आना।,।,O

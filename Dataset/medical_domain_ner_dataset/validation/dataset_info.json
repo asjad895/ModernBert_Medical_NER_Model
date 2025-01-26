@@ -1,0 +1,42 @@
+{
+  "citation": "",
+  "dataset_name": "Medical Domain NER Datasets",
+  "description": "\nNER Tag Definitions:\n{\n    \"B-CONDITION\": \"Medical condition (e.g., Diabetes, \u0939\u0943\u0926\u092f \u0930\u094b\u0917, Asthma, TB)\",\n    \"I-CONDITION\": \"Continuation of condition\",\n    \"B-MEDICATION\": \"Medicines (e.g., Insulin, Paracetamol, Dolo-650)\",\n    \"I-MEDICATION\": \"Continuation of medication\",\n    \"B-PROCEDURE\": \"Medical procedure (e.g., Angioplasty, X-ray, \u0921\u093e\u092f\u0932\u093f\u0938\u093f\u0938)\",\n    \"I-PROCEDURE\": \"Continuation of procedure\",\n    \"B-SYMPTOM\": \"Symptoms (e.g., \u092c\u0941\u0916\u093e\u0930, Chest pain, Fatigue)\",\n    \"I-SYMPTOM\": \"Continuation of symptom\",\n    \"B-TEST\": \"Lab/diagnostic test (e.g., ECG, Lipid Profile, \u092c\u094d\u0932\u0921 \u091f\u0947\u0938\u094d\u091f)\",\n    \"I-TEST\": \"Continuation of test\",\n    \"B-DOSAGE\": \"Dosage/measurement (e.g., 5mg, 200mL, twice daily)\",\n    \"B-ALLERGEN\": \"Allergens (e.g., Penicillin, \u0927\u0942\u0932, Peanuts)\",\n    \"I-ALLERGEN\": \"Continuation of allergen\",\n    \"O\": \"Non-entity tokens\"\n}\n",
+  "features": {
+    "text": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "tokens": {
+      "feature": {
+        "dtype": "string",
+        "_type": "Value"
+      },
+      "_type": "Sequence"
+    },
+    "ner_tags": {
+      "feature": {
+        "names": [
+          "O",
+          "B-CONDITION",
+          "I-CONDITION",
+          "B-MEDICATION",
+          "I-MEDICATION",
+          "B-PROCEDURE",
+          "I-PROCEDURE",
+          "B-SYMPTOM",
+          "I-SYMPTOM",
+          "B-TEST",
+          "I-TEST",
+          "B-DOSAGE",
+          "B-ALLERGEN",
+          "I-ALLERGEN"
+        ],
+        "_type": "ClassLabel"
+      },
+      "_type": "Sequence"
+    }
+  },
+  "homepage": "",
+  "license": ""
+}

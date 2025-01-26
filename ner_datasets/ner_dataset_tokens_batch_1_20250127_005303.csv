@@ -1,0 +1,800 @@
+sentence_id,text,token,ner_tag
+0,"Patient ko तेज बुखार (high fever) aur सीने में दर्द (chest pain) ki shikayat thi, isliye doctor ne usko immediate ECG aur blood test karne ko kaha,  aur 500mg Paracetamol  prescribed kiya.",Patient,O
+0,"Patient ko तेज बुखार (high fever) aur सीने में दर्द (chest pain) ki shikayat thi, isliye doctor ne usko immediate ECG aur blood test karne ko kaha,  aur 500mg Paracetamol  prescribed kiya.",ko,O
+0,"Patient ko तेज बुखार (high fever) aur सीने में दर्द (chest pain) ki shikayat thi, isliye doctor ne usko immediate ECG aur blood test karne ko kaha,  aur 500mg Paracetamol  prescribed kiya.",तेज,B-SYMPTOM
+0,"Patient ko तेज बुखार (high fever) aur सीने में दर्द (chest pain) ki shikayat thi, isliye doctor ne usko immediate ECG aur blood test karne ko kaha,  aur 500mg Paracetamol  prescribed kiya.",बुखार,I-SYMPTOM
+0,"Patient ko तेज बुखार (high fever) aur सीने में दर्द (chest pain) ki shikayat thi, isliye doctor ne usko immediate ECG aur blood test karne ko kaha,  aur 500mg Paracetamol  prescribed kiya.",(high,I-SYMPTOM
+0,"Patient ko तेज बुखार (high fever) aur सीने में दर्द (chest pain) ki shikayat thi, isliye doctor ne usko immediate ECG aur blood test karne ko kaha,  aur 500mg Paracetamol  prescribed kiya.",fever),I-SYMPTOM
+0,"Patient ko तेज बुखार (high fever) aur सीने में दर्द (chest pain) ki shikayat thi, isliye doctor ne usko immediate ECG aur blood test karne ko kaha,  aur 500mg Paracetamol  prescribed kiya.",aur,O
+0,"Patient ko तेज बुखार (high fever) aur सीने में दर्द (chest pain) ki shikayat thi, isliye doctor ne usko immediate ECG aur blood test karne ko kaha,  aur 500mg Paracetamol  prescribed kiya.",सीने,B-SYMPTOM
+0,"Patient ko तेज बुखार (high fever) aur सीने में दर्द (chest pain) ki shikayat thi, isliye doctor ne usko immediate ECG aur blood test karne ko kaha,  aur 500mg Paracetamol  prescribed kiya.",में,I-SYMPTOM
+0,"Patient ko तेज बुखार (high fever) aur सीने में दर्द (chest pain) ki shikayat thi, isliye doctor ne usko immediate ECG aur blood test karne ko kaha,  aur 500mg Paracetamol  prescribed kiya.",दर्द,I-SYMPTOM
+0,"Patient ko तेज बुखार (high fever) aur सीने में दर्द (chest pain) ki shikayat thi, isliye doctor ne usko immediate ECG aur blood test karne ko kaha,  aur 500mg Paracetamol  prescribed kiya.",(chest,I-SYMPTOM
+0,"Patient ko तेज बुखार (high fever) aur सीने में दर्द (chest pain) ki shikayat thi, isliye doctor ne usko immediate ECG aur blood test karne ko kaha,  aur 500mg Paracetamol  prescribed kiya.",pain),I-SYMPTOM
+0,"Patient ko तेज बुखार (high fever) aur सीने में दर्द (chest pain) ki shikayat thi, isliye doctor ne usko immediate ECG aur blood test karne ko kaha,  aur 500mg Paracetamol  prescribed kiya.",ki,O
+0,"Patient ko तेज बुखार (high fever) aur सीने में दर्द (chest pain) ki shikayat thi, isliye doctor ne usko immediate ECG aur blood test karne ko kaha,  aur 500mg Paracetamol  prescribed kiya.",shikayat,O
+0,"Patient ko तेज बुखार (high fever) aur सीने में दर्द (chest pain) ki shikayat thi, isliye doctor ne usko immediate ECG aur blood test karne ko kaha,  aur 500mg Paracetamol  prescribed kiya.","thi,",O
+0,"Patient ko तेज बुखार (high fever) aur सीने में दर्द (chest pain) ki shikayat thi, isliye doctor ne usko immediate ECG aur blood test karne ko kaha,  aur 500mg Paracetamol  prescribed kiya.",isliye,O
+0,"Patient ko तेज बुखार (high fever) aur सीने में दर्द (chest pain) ki shikayat thi, isliye doctor ne usko immediate ECG aur blood test karne ko kaha,  aur 500mg Paracetamol  prescribed kiya.",doctor,O
+0,"Patient ko तेज बुखार (high fever) aur सीने में दर्द (chest pain) ki shikayat thi, isliye doctor ne usko immediate ECG aur blood test karne ko kaha,  aur 500mg Paracetamol  prescribed kiya.",ne,O
+0,"Patient ko तेज बुखार (high fever) aur सीने में दर्द (chest pain) ki shikayat thi, isliye doctor ne usko immediate ECG aur blood test karne ko kaha,  aur 500mg Paracetamol  prescribed kiya.",usko,O
+0,"Patient ko तेज बुखार (high fever) aur सीने में दर्द (chest pain) ki shikayat thi, isliye doctor ne usko immediate ECG aur blood test karne ko kaha,  aur 500mg Paracetamol  prescribed kiya.",immediate,O
+0,"Patient ko तेज बुखार (high fever) aur सीने में दर्द (chest pain) ki shikayat thi, isliye doctor ne usko immediate ECG aur blood test karne ko kaha,  aur 500mg Paracetamol  prescribed kiya.",ECG,B-TEST
+0,"Patient ko तेज बुखार (high fever) aur सीने में दर्द (chest pain) ki shikayat thi, isliye doctor ne usko immediate ECG aur blood test karne ko kaha,  aur 500mg Paracetamol  prescribed kiya.",aur,O
+0,"Patient ko तेज बुखार (high fever) aur सीने में दर्द (chest pain) ki shikayat thi, isliye doctor ne usko immediate ECG aur blood test karne ko kaha,  aur 500mg Paracetamol  prescribed kiya.",blood,B-TEST
+0,"Patient ko तेज बुखार (high fever) aur सीने में दर्द (chest pain) ki shikayat thi, isliye doctor ne usko immediate ECG aur blood test karne ko kaha,  aur 500mg Paracetamol  prescribed kiya.",test,I-TEST
+0,"Patient ko तेज बुखार (high fever) aur सीने में दर्द (chest pain) ki shikayat thi, isliye doctor ne usko immediate ECG aur blood test karne ko kaha,  aur 500mg Paracetamol  prescribed kiya.",karne,O
+0,"Patient ko तेज बुखार (high fever) aur सीने में दर्द (chest pain) ki shikayat thi, isliye doctor ne usko immediate ECG aur blood test karne ko kaha,  aur 500mg Paracetamol  prescribed kiya.",ko,O
+0,"Patient ko तेज बुखार (high fever) aur सीने में दर्द (chest pain) ki shikayat thi, isliye doctor ne usko immediate ECG aur blood test karne ko kaha,  aur 500mg Paracetamol  prescribed kiya.","kaha,",O
+0,"Patient ko तेज बुखार (high fever) aur सीने में दर्द (chest pain) ki shikayat thi, isliye doctor ne usko immediate ECG aur blood test karne ko kaha,  aur 500mg Paracetamol  prescribed kiya.",aur,O
+0,"Patient ko तेज बुखार (high fever) aur सीने में दर्द (chest pain) ki shikayat thi, isliye doctor ne usko immediate ECG aur blood test karne ko kaha,  aur 500mg Paracetamol  prescribed kiya.",500mg,B-DOSAGE
+0,"Patient ko तेज बुखार (high fever) aur सीने में दर्द (chest pain) ki shikayat thi, isliye doctor ne usko immediate ECG aur blood test karne ko kaha,  aur 500mg Paracetamol  prescribed kiya.",Paracetamol,B-MEDICATION
+0,"Patient ko तेज बुखार (high fever) aur सीने में दर्द (chest pain) ki shikayat thi, isliye doctor ne usko immediate ECG aur blood test karne ko kaha,  aur 500mg Paracetamol  prescribed kiya.",prescribed,O
+0,"Patient ko तेज बुखार (high fever) aur सीने में दर्द (chest pain) ki shikayat thi, isliye doctor ne usko immediate ECG aur blood test karne ko kaha,  aur 500mg Paracetamol  prescribed kiya.",kiya,O
+0,"Patient ko तेज बुखार (high fever) aur सीने में दर्द (chest pain) ki shikayat thi, isliye doctor ne usko immediate ECG aur blood test karne ko kaha,  aur 500mg Paracetamol  prescribed kiya.",.,O
+1,"Patient ko तेज़ बुखार tha, aur usse सीने में दर्द भी हो रहा था.  Doctor ne usko immediate blood test karne ko kaha aur 250mg Paracetamol दिया।",Patient,O
+1,"Patient ko तेज़ बुखार tha, aur usse सीने में दर्द भी हो रहा था.  Doctor ne usko immediate blood test karne ko kaha aur 250mg Paracetamol दिया।",ko,O
+1,"Patient ko तेज़ बुखार tha, aur usse सीने में दर्द भी हो रहा था.  Doctor ne usko immediate blood test karne ko kaha aur 250mg Paracetamol दिया।",तेज़,B-SYMPTOM
+1,"Patient ko तेज़ बुखार tha, aur usse सीने में दर्द भी हो रहा था.  Doctor ne usko immediate blood test karne ko kaha aur 250mg Paracetamol दिया।",बुखार,I-SYMPTOM
+1,"Patient ko तेज़ बुखार tha, aur usse सीने में दर्द भी हो रहा था.  Doctor ne usko immediate blood test karne ko kaha aur 250mg Paracetamol दिया।",tha,O
+1,"Patient ko तेज़ बुखार tha, aur usse सीने में दर्द भी हो रहा था.  Doctor ne usko immediate blood test karne ko kaha aur 250mg Paracetamol दिया।",aur,O
+1,"Patient ko तेज़ बुखार tha, aur usse सीने में दर्द भी हो रहा था.  Doctor ne usko immediate blood test karne ko kaha aur 250mg Paracetamol दिया।",usse,O
+1,"Patient ko तेज़ बुखार tha, aur usse सीने में दर्द भी हो रहा था.  Doctor ne usko immediate blood test karne ko kaha aur 250mg Paracetamol दिया।",सीने,B-SYMPTOM
+1,"Patient ko तेज़ बुखार tha, aur usse सीने में दर्द भी हो रहा था.  Doctor ne usko immediate blood test karne ko kaha aur 250mg Paracetamol दिया।",में,I-SYMPTOM
+1,"Patient ko तेज़ बुखार tha, aur usse सीने में दर्द भी हो रहा था.  Doctor ne usko immediate blood test karne ko kaha aur 250mg Paracetamol दिया।",दर्द,I-SYMPTOM
+1,"Patient ko तेज़ बुखार tha, aur usse सीने में दर्द भी हो रहा था.  Doctor ne usko immediate blood test karne ko kaha aur 250mg Paracetamol दिया।",भी,O
+1,"Patient ko तेज़ बुखार tha, aur usse सीने में दर्द भी हो रहा था.  Doctor ne usko immediate blood test karne ko kaha aur 250mg Paracetamol दिया।",हो,O
+1,"Patient ko तेज़ बुखार tha, aur usse सीने में दर्द भी हो रहा था.  Doctor ne usko immediate blood test karne ko kaha aur 250mg Paracetamol दिया।",रहा,O
+1,"Patient ko तेज़ बुखार tha, aur usse सीने में दर्द भी हो रहा था.  Doctor ne usko immediate blood test karne ko kaha aur 250mg Paracetamol दिया।",था,O
+1,"Patient ko तेज़ बुखार tha, aur usse सीने में दर्द भी हो रहा था.  Doctor ne usko immediate blood test karne ko kaha aur 250mg Paracetamol दिया।",Doctor,O
+1,"Patient ko तेज़ बुखार tha, aur usse सीने में दर्द भी हो रहा था.  Doctor ne usko immediate blood test karne ko kaha aur 250mg Paracetamol दिया।",ne,O
+1,"Patient ko तेज़ बुखार tha, aur usse सीने में दर्द भी हो रहा था.  Doctor ne usko immediate blood test karne ko kaha aur 250mg Paracetamol दिया।",usko,O
+1,"Patient ko तेज़ बुखार tha, aur usse सीने में दर्द भी हो रहा था.  Doctor ne usko immediate blood test karne ko kaha aur 250mg Paracetamol दिया।",immediate,O
+1,"Patient ko तेज़ बुखार tha, aur usse सीने में दर्द भी हो रहा था.  Doctor ne usko immediate blood test karne ko kaha aur 250mg Paracetamol दिया।",blood,B-TEST
+1,"Patient ko तेज़ बुखार tha, aur usse सीने में दर्द भी हो रहा था.  Doctor ne usko immediate blood test karne ko kaha aur 250mg Paracetamol दिया।",test,I-TEST
+1,"Patient ko तेज़ बुखार tha, aur usse सीने में दर्द भी हो रहा था.  Doctor ne usko immediate blood test karne ko kaha aur 250mg Paracetamol दिया।",karne,O
+1,"Patient ko तेज़ बुखार tha, aur usse सीने में दर्द भी हो रहा था.  Doctor ne usko immediate blood test karne ko kaha aur 250mg Paracetamol दिया।",ko,O
+1,"Patient ko तेज़ बुखार tha, aur usse सीने में दर्द भी हो रहा था.  Doctor ne usko immediate blood test karne ko kaha aur 250mg Paracetamol दिया।",kaha,O
+1,"Patient ko तेज़ बुखार tha, aur usse सीने में दर्द भी हो रहा था.  Doctor ne usko immediate blood test karne ko kaha aur 250mg Paracetamol दिया।",aur,O
+1,"Patient ko तेज़ बुखार tha, aur usse सीने में दर्द भी हो रहा था.  Doctor ne usko immediate blood test karne ko kaha aur 250mg Paracetamol दिया।",250mg,B-DOSAGE
+1,"Patient ko तेज़ बुखार tha, aur usse सीने में दर्द भी हो रहा था.  Doctor ne usko immediate blood test karne ko kaha aur 250mg Paracetamol दिया।",Paracetamol,B-MEDICATION
+1,"Patient ko तेज़ बुखार tha, aur usse सीने में दर्द भी हो रहा था.  Doctor ne usko immediate blood test karne ko kaha aur 250mg Paracetamol दिया।",दिया,O
+1,"Patient ko तेज़ बुखार tha, aur usse सीने में दर्द भी हो रहा था.  Doctor ne usko immediate blood test karne ko kaha aur 250mg Paracetamol दिया।",।,O
+2,"Patient ke blood reports mein high cholesterol aur triglycerides dikh rahe hain, isliye doctor ne usko ek strict diet plan aur daily exercise ki salah di hai.",Patient,O
+2,"Patient ke blood reports mein high cholesterol aur triglycerides dikh rahe hain, isliye doctor ne usko ek strict diet plan aur daily exercise ki salah di hai.",ke,O
+2,"Patient ke blood reports mein high cholesterol aur triglycerides dikh rahe hain, isliye doctor ne usko ek strict diet plan aur daily exercise ki salah di hai.",blood,B-TEST
+2,"Patient ke blood reports mein high cholesterol aur triglycerides dikh rahe hain, isliye doctor ne usko ek strict diet plan aur daily exercise ki salah di hai.",reports,I-TEST
+2,"Patient ke blood reports mein high cholesterol aur triglycerides dikh rahe hain, isliye doctor ne usko ek strict diet plan aur daily exercise ki salah di hai.",mein,O
+2,"Patient ke blood reports mein high cholesterol aur triglycerides dikh rahe hain, isliye doctor ne usko ek strict diet plan aur daily exercise ki salah di hai.",high,B-CONDITION
+2,"Patient ke blood reports mein high cholesterol aur triglycerides dikh rahe hain, isliye doctor ne usko ek strict diet plan aur daily exercise ki salah di hai.",cholesterol,I-CONDITION
+2,"Patient ke blood reports mein high cholesterol aur triglycerides dikh rahe hain, isliye doctor ne usko ek strict diet plan aur daily exercise ki salah di hai.",aur,O
+2,"Patient ke blood reports mein high cholesterol aur triglycerides dikh rahe hain, isliye doctor ne usko ek strict diet plan aur daily exercise ki salah di hai.",triglycerides,I-CONDITION
+2,"Patient ke blood reports mein high cholesterol aur triglycerides dikh rahe hain, isliye doctor ne usko ek strict diet plan aur daily exercise ki salah di hai.",dikh,O
+2,"Patient ke blood reports mein high cholesterol aur triglycerides dikh rahe hain, isliye doctor ne usko ek strict diet plan aur daily exercise ki salah di hai.",rahe,O
+2,"Patient ke blood reports mein high cholesterol aur triglycerides dikh rahe hain, isliye doctor ne usko ek strict diet plan aur daily exercise ki salah di hai.",hain,O
+2,"Patient ke blood reports mein high cholesterol aur triglycerides dikh rahe hain, isliye doctor ne usko ek strict diet plan aur daily exercise ki salah di hai.",isliye,O
+2,"Patient ke blood reports mein high cholesterol aur triglycerides dikh rahe hain, isliye doctor ne usko ek strict diet plan aur daily exercise ki salah di hai.",doctor,O
+2,"Patient ke blood reports mein high cholesterol aur triglycerides dikh rahe hain, isliye doctor ne usko ek strict diet plan aur daily exercise ki salah di hai.",ne,O
+2,"Patient ke blood reports mein high cholesterol aur triglycerides dikh rahe hain, isliye doctor ne usko ek strict diet plan aur daily exercise ki salah di hai.",usko,O
+2,"Patient ke blood reports mein high cholesterol aur triglycerides dikh rahe hain, isliye doctor ne usko ek strict diet plan aur daily exercise ki salah di hai.",ek,O
+2,"Patient ke blood reports mein high cholesterol aur triglycerides dikh rahe hain, isliye doctor ne usko ek strict diet plan aur daily exercise ki salah di hai.",strict,O
+2,"Patient ke blood reports mein high cholesterol aur triglycerides dikh rahe hain, isliye doctor ne usko ek strict diet plan aur daily exercise ki salah di hai.",diet,B-PROCEDURE
+2,"Patient ke blood reports mein high cholesterol aur triglycerides dikh rahe hain, isliye doctor ne usko ek strict diet plan aur daily exercise ki salah di hai.",plan,I-PROCEDURE
+2,"Patient ke blood reports mein high cholesterol aur triglycerides dikh rahe hain, isliye doctor ne usko ek strict diet plan aur daily exercise ki salah di hai.",aur,O
+2,"Patient ke blood reports mein high cholesterol aur triglycerides dikh rahe hain, isliye doctor ne usko ek strict diet plan aur daily exercise ki salah di hai.",daily,O
+2,"Patient ke blood reports mein high cholesterol aur triglycerides dikh rahe hain, isliye doctor ne usko ek strict diet plan aur daily exercise ki salah di hai.",exercise,B-PROCEDURE
+2,"Patient ke blood reports mein high cholesterol aur triglycerides dikh rahe hain, isliye doctor ne usko ek strict diet plan aur daily exercise ki salah di hai.",ki,O
+2,"Patient ke blood reports mein high cholesterol aur triglycerides dikh rahe hain, isliye doctor ne usko ek strict diet plan aur daily exercise ki salah di hai.",salah,O
+2,"Patient ke blood reports mein high cholesterol aur triglycerides dikh rahe hain, isliye doctor ne usko ek strict diet plan aur daily exercise ki salah di hai.",di,O
+2,"Patient ke blood reports mein high cholesterol aur triglycerides dikh rahe hain, isliye doctor ne usko ek strict diet plan aur daily exercise ki salah di hai.",hai,O
+3,"Patient के ख़ून में sugar level बहुत ज़्यादा था, इसलिए doctor ने उसको diabetes के लिए Insulin injection और strict diet plan बताया।",Patient,O
+3,"Patient के ख़ून में sugar level बहुत ज़्यादा था, इसलिए doctor ने उसको diabetes के लिए Insulin injection और strict diet plan बताया।",के,O
+3,"Patient के ख़ून में sugar level बहुत ज़्यादा था, इसलिए doctor ने उसको diabetes के लिए Insulin injection और strict diet plan बताया।",ख़ून,O
+3,"Patient के ख़ून में sugar level बहुत ज़्यादा था, इसलिए doctor ने उसको diabetes के लिए Insulin injection और strict diet plan बताया।",में,O
+3,"Patient के ख़ून में sugar level बहुत ज़्यादा था, इसलिए doctor ने उसको diabetes के लिए Insulin injection और strict diet plan बताया।",sugar,B-SYMPTOM
+3,"Patient के ख़ून में sugar level बहुत ज़्यादा था, इसलिए doctor ने उसको diabetes के लिए Insulin injection और strict diet plan बताया।",level,I-SYMPTOM
+3,"Patient के ख़ून में sugar level बहुत ज़्यादा था, इसलिए doctor ने उसको diabetes के लिए Insulin injection और strict diet plan बताया।",बहुत,O
+3,"Patient के ख़ून में sugar level बहुत ज़्यादा था, इसलिए doctor ने उसको diabetes के लिए Insulin injection और strict diet plan बताया।",ज़्यादा,O
+3,"Patient के ख़ून में sugar level बहुत ज़्यादा था, इसलिए doctor ने उसको diabetes के लिए Insulin injection और strict diet plan बताया।",था,O
+3,"Patient के ख़ून में sugar level बहुत ज़्यादा था, इसलिए doctor ने उसको diabetes के लिए Insulin injection और strict diet plan बताया।",इसलिए,O
+3,"Patient के ख़ून में sugar level बहुत ज़्यादा था, इसलिए doctor ने उसको diabetes के लिए Insulin injection और strict diet plan बताया।",doctor,O
+3,"Patient के ख़ून में sugar level बहुत ज़्यादा था, इसलिए doctor ने उसको diabetes के लिए Insulin injection और strict diet plan बताया।",ने,O
+3,"Patient के ख़ून में sugar level बहुत ज़्यादा था, इसलिए doctor ने उसको diabetes के लिए Insulin injection और strict diet plan बताया।",उसको,O
+3,"Patient के ख़ून में sugar level बहुत ज़्यादा था, इसलिए doctor ने उसको diabetes के लिए Insulin injection और strict diet plan बताया।",diabetes,B-CONDITION
+3,"Patient के ख़ून में sugar level बहुत ज़्यादा था, इसलिए doctor ने उसको diabetes के लिए Insulin injection और strict diet plan बताया।",के,O
+3,"Patient के ख़ून में sugar level बहुत ज़्यादा था, इसलिए doctor ने उसको diabetes के लिए Insulin injection और strict diet plan बताया।",लिए,O
+3,"Patient के ख़ून में sugar level बहुत ज़्यादा था, इसलिए doctor ने उसको diabetes के लिए Insulin injection और strict diet plan बताया।",Insulin,B-MEDICATION
+3,"Patient के ख़ून में sugar level बहुत ज़्यादा था, इसलिए doctor ने उसको diabetes के लिए Insulin injection और strict diet plan बताया।",injection,I-MEDICATION
+3,"Patient के ख़ून में sugar level बहुत ज़्यादा था, इसलिए doctor ने उसको diabetes के लिए Insulin injection और strict diet plan बताया।",और,O
+3,"Patient के ख़ून में sugar level बहुत ज़्यादा था, इसलिए doctor ने उसको diabetes के लिए Insulin injection और strict diet plan बताया।",strict,O
+3,"Patient के ख़ून में sugar level बहुत ज़्यादा था, इसलिए doctor ने उसको diabetes के लिए Insulin injection और strict diet plan बताया।",diet,B-PROCEDURE
+3,"Patient के ख़ून में sugar level बहुत ज़्यादा था, इसलिए doctor ने उसको diabetes के लिए Insulin injection और strict diet plan बताया।",plan,I-PROCEDURE
+3,"Patient के ख़ून में sugar level बहुत ज़्यादा था, इसलिए doctor ने उसको diabetes के लिए Insulin injection और strict diet plan बताया।",बताया,O
+3,"Patient के ख़ून में sugar level बहुत ज़्यादा था, इसलिए doctor ने उसको diabetes के लिए Insulin injection और strict diet plan बताया।",।,O
+4,"Patient ke saath continuous chest pain hai, aur usko emergency mein angioplasty ki jarurat hai, isliye doctor ne ECG aur blood test karne ko kaha hai.",Patient,O
+4,"Patient ke saath continuous chest pain hai, aur usko emergency mein angioplasty ki jarurat hai, isliye doctor ne ECG aur blood test karne ko kaha hai.",ke,O
+4,"Patient ke saath continuous chest pain hai, aur usko emergency mein angioplasty ki jarurat hai, isliye doctor ne ECG aur blood test karne ko kaha hai.",saath,O
+4,"Patient ke saath continuous chest pain hai, aur usko emergency mein angioplasty ki jarurat hai, isliye doctor ne ECG aur blood test karne ko kaha hai.",continuous,B-SYMPTOM
+4,"Patient ke saath continuous chest pain hai, aur usko emergency mein angioplasty ki jarurat hai, isliye doctor ne ECG aur blood test karne ko kaha hai.",chest,I-SYMPTOM
+4,"Patient ke saath continuous chest pain hai, aur usko emergency mein angioplasty ki jarurat hai, isliye doctor ne ECG aur blood test karne ko kaha hai.",pain,I-SYMPTOM
+4,"Patient ke saath continuous chest pain hai, aur usko emergency mein angioplasty ki jarurat hai, isliye doctor ne ECG aur blood test karne ko kaha hai.",hai,O
+4,"Patient ke saath continuous chest pain hai, aur usko emergency mein angioplasty ki jarurat hai, isliye doctor ne ECG aur blood test karne ko kaha hai.",aur,O
+4,"Patient ke saath continuous chest pain hai, aur usko emergency mein angioplasty ki jarurat hai, isliye doctor ne ECG aur blood test karne ko kaha hai.",usko,O
+4,"Patient ke saath continuous chest pain hai, aur usko emergency mein angioplasty ki jarurat hai, isliye doctor ne ECG aur blood test karne ko kaha hai.",emergency,O
+4,"Patient ke saath continuous chest pain hai, aur usko emergency mein angioplasty ki jarurat hai, isliye doctor ne ECG aur blood test karne ko kaha hai.",mein,O
+4,"Patient ke saath continuous chest pain hai, aur usko emergency mein angioplasty ki jarurat hai, isliye doctor ne ECG aur blood test karne ko kaha hai.",angioplasty,B-PROCEDURE
+4,"Patient ke saath continuous chest pain hai, aur usko emergency mein angioplasty ki jarurat hai, isliye doctor ne ECG aur blood test karne ko kaha hai.",ki,O
+4,"Patient ke saath continuous chest pain hai, aur usko emergency mein angioplasty ki jarurat hai, isliye doctor ne ECG aur blood test karne ko kaha hai.",jarurat,O
+4,"Patient ke saath continuous chest pain hai, aur usko emergency mein angioplasty ki jarurat hai, isliye doctor ne ECG aur blood test karne ko kaha hai.",hai,O
+4,"Patient ke saath continuous chest pain hai, aur usko emergency mein angioplasty ki jarurat hai, isliye doctor ne ECG aur blood test karne ko kaha hai.",isliye,O
+4,"Patient ke saath continuous chest pain hai, aur usko emergency mein angioplasty ki jarurat hai, isliye doctor ne ECG aur blood test karne ko kaha hai.",doctor,O
+4,"Patient ke saath continuous chest pain hai, aur usko emergency mein angioplasty ki jarurat hai, isliye doctor ne ECG aur blood test karne ko kaha hai.",ne,O
+4,"Patient ke saath continuous chest pain hai, aur usko emergency mein angioplasty ki jarurat hai, isliye doctor ne ECG aur blood test karne ko kaha hai.",ECG,B-TEST
+4,"Patient ke saath continuous chest pain hai, aur usko emergency mein angioplasty ki jarurat hai, isliye doctor ne ECG aur blood test karne ko kaha hai.",aur,O
+4,"Patient ke saath continuous chest pain hai, aur usko emergency mein angioplasty ki jarurat hai, isliye doctor ne ECG aur blood test karne ko kaha hai.",blood,B-TEST
+4,"Patient ke saath continuous chest pain hai, aur usko emergency mein angioplasty ki jarurat hai, isliye doctor ne ECG aur blood test karne ko kaha hai.",test,I-TEST
+4,"Patient ke saath continuous chest pain hai, aur usko emergency mein angioplasty ki jarurat hai, isliye doctor ne ECG aur blood test karne ko kaha hai.",karne,O
+4,"Patient ke saath continuous chest pain hai, aur usko emergency mein angioplasty ki jarurat hai, isliye doctor ne ECG aur blood test karne ko kaha hai.",ko,O
+4,"Patient ke saath continuous chest pain hai, aur usko emergency mein angioplasty ki jarurat hai, isliye doctor ne ECG aur blood test karne ko kaha hai.",kaha,O
+4,"Patient ke saath continuous chest pain hai, aur usko emergency mein angioplasty ki jarurat hai, isliye doctor ne ECG aur blood test karne ko kaha hai.",hai,O
+5,"Patient ko  तेज़ बुखार  tha,  aur usse  severe chest pain  bhi tha.  Doctor ne  ECG aur Blood test  kiya, aur  250mg Paracetamol  prescribed kiya.",Patient,O
+5,"Patient ko  तेज़ बुखार  tha,  aur usse  severe chest pain  bhi tha.  Doctor ne  ECG aur Blood test  kiya, aur  250mg Paracetamol  prescribed kiya.",ko,O
+5,"Patient ko  तेज़ बुखार  tha,  aur usse  severe chest pain  bhi tha.  Doctor ne  ECG aur Blood test  kiya, aur  250mg Paracetamol  prescribed kiya.",तेज़,B-SYMPTOM
+5,"Patient ko  तेज़ बुखार  tha,  aur usse  severe chest pain  bhi tha.  Doctor ne  ECG aur Blood test  kiya, aur  250mg Paracetamol  prescribed kiya.",बुखार,I-SYMPTOM
+5,"Patient ko  तेज़ बुखार  tha,  aur usse  severe chest pain  bhi tha.  Doctor ne  ECG aur Blood test  kiya, aur  250mg Paracetamol  prescribed kiya.","tha,",O
+5,"Patient ko  तेज़ बुखार  tha,  aur usse  severe chest pain  bhi tha.  Doctor ne  ECG aur Blood test  kiya, aur  250mg Paracetamol  prescribed kiya.",aur,O
+5,"Patient ko  तेज़ बुखार  tha,  aur usse  severe chest pain  bhi tha.  Doctor ne  ECG aur Blood test  kiya, aur  250mg Paracetamol  prescribed kiya.",usse,O
+5,"Patient ko  तेज़ बुखार  tha,  aur usse  severe chest pain  bhi tha.  Doctor ne  ECG aur Blood test  kiya, aur  250mg Paracetamol  prescribed kiya.",severe,B-SYMPTOM
+5,"Patient ko  तेज़ बुखार  tha,  aur usse  severe chest pain  bhi tha.  Doctor ne  ECG aur Blood test  kiya, aur  250mg Paracetamol  prescribed kiya.",chest,I-SYMPTOM
+5,"Patient ko  तेज़ बुखार  tha,  aur usse  severe chest pain  bhi tha.  Doctor ne  ECG aur Blood test  kiya, aur  250mg Paracetamol  prescribed kiya.",pain,I-SYMPTOM
+5,"Patient ko  तेज़ बुखार  tha,  aur usse  severe chest pain  bhi tha.  Doctor ne  ECG aur Blood test  kiya, aur  250mg Paracetamol  prescribed kiya.",bhi,O
+5,"Patient ko  तेज़ बुखार  tha,  aur usse  severe chest pain  bhi tha.  Doctor ne  ECG aur Blood test  kiya, aur  250mg Paracetamol  prescribed kiya.",tha.,O
+5,"Patient ko  तेज़ बुखार  tha,  aur usse  severe chest pain  bhi tha.  Doctor ne  ECG aur Blood test  kiya, aur  250mg Paracetamol  prescribed kiya.",Doctor,O
+5,"Patient ko  तेज़ बुखार  tha,  aur usse  severe chest pain  bhi tha.  Doctor ne  ECG aur Blood test  kiya, aur  250mg Paracetamol  prescribed kiya.",ne,O
+5,"Patient ko  तेज़ बुखार  tha,  aur usse  severe chest pain  bhi tha.  Doctor ne  ECG aur Blood test  kiya, aur  250mg Paracetamol  prescribed kiya.",ECG,B-TEST
+5,"Patient ko  तेज़ बुखार  tha,  aur usse  severe chest pain  bhi tha.  Doctor ne  ECG aur Blood test  kiya, aur  250mg Paracetamol  prescribed kiya.",aur,O
+5,"Patient ko  तेज़ बुखार  tha,  aur usse  severe chest pain  bhi tha.  Doctor ne  ECG aur Blood test  kiya, aur  250mg Paracetamol  prescribed kiya.",Blood,B-TEST
+5,"Patient ko  तेज़ बुखार  tha,  aur usse  severe chest pain  bhi tha.  Doctor ne  ECG aur Blood test  kiya, aur  250mg Paracetamol  prescribed kiya.",test,I-TEST
+5,"Patient ko  तेज़ बुखार  tha,  aur usse  severe chest pain  bhi tha.  Doctor ne  ECG aur Blood test  kiya, aur  250mg Paracetamol  prescribed kiya.","kiya,",O
+5,"Patient ko  तेज़ बुखार  tha,  aur usse  severe chest pain  bhi tha.  Doctor ne  ECG aur Blood test  kiya, aur  250mg Paracetamol  prescribed kiya.",aur,O
+5,"Patient ko  तेज़ बुखार  tha,  aur usse  severe chest pain  bhi tha.  Doctor ne  ECG aur Blood test  kiya, aur  250mg Paracetamol  prescribed kiya.",250mg,B-DOSAGE
+5,"Patient ko  तेज़ बुखार  tha,  aur usse  severe chest pain  bhi tha.  Doctor ne  ECG aur Blood test  kiya, aur  250mg Paracetamol  prescribed kiya.",Paracetamol,B-MEDICATION
+5,"Patient ko  तेज़ बुखार  tha,  aur usse  severe chest pain  bhi tha.  Doctor ne  ECG aur Blood test  kiya, aur  250mg Paracetamol  prescribed kiya.",prescribed,O
+5,"Patient ko  तेज़ बुखार  tha,  aur usse  severe chest pain  bhi tha.  Doctor ne  ECG aur Blood test  kiya, aur  250mg Paracetamol  prescribed kiya.",kiya,O
+5,"Patient ko  तेज़ बुखार  tha,  aur usse  severe chest pain  bhi tha.  Doctor ne  ECG aur Blood test  kiya, aur  250mg Paracetamol  prescribed kiya.",.,O
+6,"Patient ko तेज बुखार (high fever) aur सीने में दर्द (chest pain) hai, isliye doctor ne Blood test aur ECG karne ko kaha hai.",Patient,O
+6,"Patient ko तेज बुखार (high fever) aur सीने में दर्द (chest pain) hai, isliye doctor ne Blood test aur ECG karne ko kaha hai.",ko,O
+6,"Patient ko तेज बुखार (high fever) aur सीने में दर्द (chest pain) hai, isliye doctor ne Blood test aur ECG karne ko kaha hai.",तेज,B-SYMPTOM
+6,"Patient ko तेज बुखार (high fever) aur सीने में दर्द (chest pain) hai, isliye doctor ne Blood test aur ECG karne ko kaha hai.",बुखार,I-SYMPTOM
+6,"Patient ko तेज बुखार (high fever) aur सीने में दर्द (chest pain) hai, isliye doctor ne Blood test aur ECG karne ko kaha hai.",(high,B-SYMPTOM
+6,"Patient ko तेज बुखार (high fever) aur सीने में दर्द (chest pain) hai, isliye doctor ne Blood test aur ECG karne ko kaha hai.",fever),I-SYMPTOM
+6,"Patient ko तेज बुखार (high fever) aur सीने में दर्द (chest pain) hai, isliye doctor ne Blood test aur ECG karne ko kaha hai.",aur,O
+6,"Patient ko तेज बुखार (high fever) aur सीने में दर्द (chest pain) hai, isliye doctor ne Blood test aur ECG karne ko kaha hai.",सीने,B-SYMPTOM
+6,"Patient ko तेज बुखार (high fever) aur सीने में दर्द (chest pain) hai, isliye doctor ne Blood test aur ECG karne ko kaha hai.",में,I-SYMPTOM
+6,"Patient ko तेज बुखार (high fever) aur सीने में दर्द (chest pain) hai, isliye doctor ne Blood test aur ECG karne ko kaha hai.",दर्द,I-SYMPTOM
+6,"Patient ko तेज बुखार (high fever) aur सीने में दर्द (chest pain) hai, isliye doctor ne Blood test aur ECG karne ko kaha hai.",(chest,B-SYMPTOM
+6,"Patient ko तेज बुखार (high fever) aur सीने में दर्द (chest pain) hai, isliye doctor ne Blood test aur ECG karne ko kaha hai.",pain),I-SYMPTOM
+6,"Patient ko तेज बुखार (high fever) aur सीने में दर्द (chest pain) hai, isliye doctor ne Blood test aur ECG karne ko kaha hai.","hai,",O
+6,"Patient ko तेज बुखार (high fever) aur सीने में दर्द (chest pain) hai, isliye doctor ne Blood test aur ECG karne ko kaha hai.",isliye,O
+6,"Patient ko तेज बुखार (high fever) aur सीने में दर्द (chest pain) hai, isliye doctor ne Blood test aur ECG karne ko kaha hai.",doctor,O
+6,"Patient ko तेज बुखार (high fever) aur सीने में दर्द (chest pain) hai, isliye doctor ne Blood test aur ECG karne ko kaha hai.",ne,O
+6,"Patient ko तेज बुखार (high fever) aur सीने में दर्द (chest pain) hai, isliye doctor ne Blood test aur ECG karne ko kaha hai.",Blood,B-TEST
+6,"Patient ko तेज बुखार (high fever) aur सीने में दर्द (chest pain) hai, isliye doctor ne Blood test aur ECG karne ko kaha hai.",test,I-TEST
+6,"Patient ko तेज बुखार (high fever) aur सीने में दर्द (chest pain) hai, isliye doctor ne Blood test aur ECG karne ko kaha hai.",aur,O
+6,"Patient ko तेज बुखार (high fever) aur सीने में दर्द (chest pain) hai, isliye doctor ne Blood test aur ECG karne ko kaha hai.",ECG,B-TEST
+6,"Patient ko तेज बुखार (high fever) aur सीने में दर्द (chest pain) hai, isliye doctor ne Blood test aur ECG karne ko kaha hai.",karne,O
+6,"Patient ko तेज बुखार (high fever) aur सीने में दर्द (chest pain) hai, isliye doctor ne Blood test aur ECG karne ko kaha hai.",ko,O
+6,"Patient ko तेज बुखार (high fever) aur सीने में दर्द (chest pain) hai, isliye doctor ne Blood test aur ECG karne ko kaha hai.",kaha,O
+6,"Patient ko तेज बुखार (high fever) aur सीने में दर्द (chest pain) hai, isliye doctor ne Blood test aur ECG karne ko kaha hai.",hai,O
+6,"Patient ko तेज बुखार (high fever) aur सीने में दर्द (chest pain) hai, isliye doctor ne Blood test aur ECG karne ko kaha hai.",.,O
+7,"Emergency में patient को  chest pain की शिकायत थी,  ECG किया गया जिसमे ST elevation दिखाई दिया,  फिर angioplasty की गई।",Emergency,O
+7,"Emergency में patient को  chest pain की शिकायत थी,  ECG किया गया जिसमे ST elevation दिखाई दिया,  फिर angioplasty की गई।",में,O
+7,"Emergency में patient को  chest pain की शिकायत थी,  ECG किया गया जिसमे ST elevation दिखाई दिया,  फिर angioplasty की गई।",patient,O
+7,"Emergency में patient को  chest pain की शिकायत थी,  ECG किया गया जिसमे ST elevation दिखाई दिया,  फिर angioplasty की गई।",को,O
+7,"Emergency में patient को  chest pain की शिकायत थी,  ECG किया गया जिसमे ST elevation दिखाई दिया,  फिर angioplasty की गई।",chest,B-SYMPTOM
+7,"Emergency में patient को  chest pain की शिकायत थी,  ECG किया गया जिसमे ST elevation दिखाई दिया,  फिर angioplasty की गई।",pain,I-SYMPTOM
+7,"Emergency में patient को  chest pain की शिकायत थी,  ECG किया गया जिसमे ST elevation दिखाई दिया,  फिर angioplasty की गई।",की,O
+7,"Emergency में patient को  chest pain की शिकायत थी,  ECG किया गया जिसमे ST elevation दिखाई दिया,  फिर angioplasty की गई।",शिकायत,O
+7,"Emergency में patient को  chest pain की शिकायत थी,  ECG किया गया जिसमे ST elevation दिखाई दिया,  फिर angioplasty की गई।",थी,O
+7,"Emergency में patient को  chest pain की शिकायत थी,  ECG किया गया जिसमे ST elevation दिखाई दिया,  फिर angioplasty की गई।",ECG,B-TEST
+7,"Emergency में patient को  chest pain की शिकायत थी,  ECG किया गया जिसमे ST elevation दिखाई दिया,  फिर angioplasty की गई।",किया,O
+7,"Emergency में patient को  chest pain की शिकायत थी,  ECG किया गया जिसमे ST elevation दिखाई दिया,  फिर angioplasty की गई।",गया,O
+7,"Emergency में patient को  chest pain की शिकायत थी,  ECG किया गया जिसमे ST elevation दिखाई दिया,  फिर angioplasty की गई।",जिसमे,O
+7,"Emergency में patient को  chest pain की शिकायत थी,  ECG किया गया जिसमे ST elevation दिखाई दिया,  फिर angioplasty की गई।",ST,B-SYMPTOM
+7,"Emergency में patient को  chest pain की शिकायत थी,  ECG किया गया जिसमे ST elevation दिखाई दिया,  फिर angioplasty की गई।",elevation,I-SYMPTOM
+7,"Emergency में patient को  chest pain की शिकायत थी,  ECG किया गया जिसमे ST elevation दिखाई दिया,  फिर angioplasty की गई।",दिखाई,O
+7,"Emergency में patient को  chest pain की शिकायत थी,  ECG किया गया जिसमे ST elevation दिखाई दिया,  फिर angioplasty की गई।",दिया,O
+7,"Emergency में patient को  chest pain की शिकायत थी,  ECG किया गया जिसमे ST elevation दिखाई दिया,  फिर angioplasty की गई।",फिर,O
+7,"Emergency में patient को  chest pain की शिकायत थी,  ECG किया गया जिसमे ST elevation दिखाई दिया,  फिर angioplasty की गई।",angioplasty,B-PROCEDURE
+7,"Emergency में patient को  chest pain की शिकायत थी,  ECG किया गया जिसमे ST elevation दिखाई दिया,  फिर angioplasty की गई।",की,O
+7,"Emergency में patient को  chest pain की शिकायत थी,  ECG किया गया जिसमे ST elevation दिखाई दिया,  फिर angioplasty की गई।",गई,O
+7,"Emergency में patient को  chest pain की शिकायत थी,  ECG किया गया जिसमे ST elevation दिखाई दिया,  फिर angioplasty की गई।",।,O
+8,"Patient ko तेज बुखार (high fever) aur सीने में दर्द (chest pain) ki shikayat thi, isliye doctor ne immediate ECG aur blood test karaya, phir unhe 10mg Panadol diya.",Patient,O
+8,"Patient ko तेज बुखार (high fever) aur सीने में दर्द (chest pain) ki shikayat thi, isliye doctor ne immediate ECG aur blood test karaya, phir unhe 10mg Panadol diya.",ko,O
+8,"Patient ko तेज बुखार (high fever) aur सीने में दर्द (chest pain) ki shikayat thi, isliye doctor ne immediate ECG aur blood test karaya, phir unhe 10mg Panadol diya.",तेज,B-SYMPTOM
+8,"Patient ko तेज बुखार (high fever) aur सीने में दर्द (chest pain) ki shikayat thi, isliye doctor ne immediate ECG aur blood test karaya, phir unhe 10mg Panadol diya.",बुखार,I-SYMPTOM
+8,"Patient ko तेज बुखार (high fever) aur सीने में दर्द (chest pain) ki shikayat thi, isliye doctor ne immediate ECG aur blood test karaya, phir unhe 10mg Panadol diya.",(high,I-SYMPTOM
+8,"Patient ko तेज बुखार (high fever) aur सीने में दर्द (chest pain) ki shikayat thi, isliye doctor ne immediate ECG aur blood test karaya, phir unhe 10mg Panadol diya.",fever),I-SYMPTOM
+8,"Patient ko तेज बुखार (high fever) aur सीने में दर्द (chest pain) ki shikayat thi, isliye doctor ne immediate ECG aur blood test karaya, phir unhe 10mg Panadol diya.",aur,O
+8,"Patient ko तेज बुखार (high fever) aur सीने में दर्द (chest pain) ki shikayat thi, isliye doctor ne immediate ECG aur blood test karaya, phir unhe 10mg Panadol diya.",सीने,B-SYMPTOM
+8,"Patient ko तेज बुखार (high fever) aur सीने में दर्द (chest pain) ki shikayat thi, isliye doctor ne immediate ECG aur blood test karaya, phir unhe 10mg Panadol diya.",में,I-SYMPTOM
+8,"Patient ko तेज बुखार (high fever) aur सीने में दर्द (chest pain) ki shikayat thi, isliye doctor ne immediate ECG aur blood test karaya, phir unhe 10mg Panadol diya.",दर्द,I-SYMPTOM
+8,"Patient ko तेज बुखार (high fever) aur सीने में दर्द (chest pain) ki shikayat thi, isliye doctor ne immediate ECG aur blood test karaya, phir unhe 10mg Panadol diya.",(chest,I-SYMPTOM
+8,"Patient ko तेज बुखार (high fever) aur सीने में दर्द (chest pain) ki shikayat thi, isliye doctor ne immediate ECG aur blood test karaya, phir unhe 10mg Panadol diya.",pain),I-SYMPTOM
+8,"Patient ko तेज बुखार (high fever) aur सीने में दर्द (chest pain) ki shikayat thi, isliye doctor ne immediate ECG aur blood test karaya, phir unhe 10mg Panadol diya.",ki,O
+8,"Patient ko तेज बुखार (high fever) aur सीने में दर्द (chest pain) ki shikayat thi, isliye doctor ne immediate ECG aur blood test karaya, phir unhe 10mg Panadol diya.",shikayat,O
+8,"Patient ko तेज बुखार (high fever) aur सीने में दर्द (chest pain) ki shikayat thi, isliye doctor ne immediate ECG aur blood test karaya, phir unhe 10mg Panadol diya.","thi,",O
+8,"Patient ko तेज बुखार (high fever) aur सीने में दर्द (chest pain) ki shikayat thi, isliye doctor ne immediate ECG aur blood test karaya, phir unhe 10mg Panadol diya.",isliye,O
+8,"Patient ko तेज बुखार (high fever) aur सीने में दर्द (chest pain) ki shikayat thi, isliye doctor ne immediate ECG aur blood test karaya, phir unhe 10mg Panadol diya.",doctor,O
+8,"Patient ko तेज बुखार (high fever) aur सीने में दर्द (chest pain) ki shikayat thi, isliye doctor ne immediate ECG aur blood test karaya, phir unhe 10mg Panadol diya.",ne,O
+8,"Patient ko तेज बुखार (high fever) aur सीने में दर्द (chest pain) ki shikayat thi, isliye doctor ne immediate ECG aur blood test karaya, phir unhe 10mg Panadol diya.",immediate,O
+8,"Patient ko तेज बुखार (high fever) aur सीने में दर्द (chest pain) ki shikayat thi, isliye doctor ne immediate ECG aur blood test karaya, phir unhe 10mg Panadol diya.",ECG,B-TEST
+8,"Patient ko तेज बुखार (high fever) aur सीने में दर्द (chest pain) ki shikayat thi, isliye doctor ne immediate ECG aur blood test karaya, phir unhe 10mg Panadol diya.",aur,O
+8,"Patient ko तेज बुखार (high fever) aur सीने में दर्द (chest pain) ki shikayat thi, isliye doctor ne immediate ECG aur blood test karaya, phir unhe 10mg Panadol diya.",blood,B-TEST
+8,"Patient ko तेज बुखार (high fever) aur सीने में दर्द (chest pain) ki shikayat thi, isliye doctor ne immediate ECG aur blood test karaya, phir unhe 10mg Panadol diya.",test,I-TEST
+8,"Patient ko तेज बुखार (high fever) aur सीने में दर्द (chest pain) ki shikayat thi, isliye doctor ne immediate ECG aur blood test karaya, phir unhe 10mg Panadol diya.","karaya,",O
+8,"Patient ko तेज बुखार (high fever) aur सीने में दर्द (chest pain) ki shikayat thi, isliye doctor ne immediate ECG aur blood test karaya, phir unhe 10mg Panadol diya.",phir,O
+8,"Patient ko तेज बुखार (high fever) aur सीने में दर्द (chest pain) ki shikayat thi, isliye doctor ne immediate ECG aur blood test karaya, phir unhe 10mg Panadol diya.",unhe,O
+8,"Patient ko तेज बुखार (high fever) aur सीने में दर्द (chest pain) ki shikayat thi, isliye doctor ne immediate ECG aur blood test karaya, phir unhe 10mg Panadol diya.",10mg,B-DOSAGE
+8,"Patient ko तेज बुखार (high fever) aur सीने में दर्द (chest pain) ki shikayat thi, isliye doctor ne immediate ECG aur blood test karaya, phir unhe 10mg Panadol diya.",Panadol,B-MEDICATION
+8,"Patient ko तेज बुखार (high fever) aur सीने में दर्द (chest pain) ki shikayat thi, isliye doctor ne immediate ECG aur blood test karaya, phir unhe 10mg Panadol diya.",diya,O
+8,"Patient ko तेज बुखार (high fever) aur सीने में दर्द (chest pain) ki shikayat thi, isliye doctor ne immediate ECG aur blood test karaya, phir unhe 10mg Panadol diya.",.,O
+9,"Emergency में, patient को  तेज़ सीने में दर्द (B-SYMPTOM)  था,  ECG (B-TEST)  किया गया,  जिसमें STEMI (B-CONDITION)  दिखा और उसे तुरंत Angioplasty (B-PROCEDURE) की ज़रूरत थी।",Emergency,O
+9,"Emergency में, patient को  तेज़ सीने में दर्द (B-SYMPTOM)  था,  ECG (B-TEST)  किया गया,  जिसमें STEMI (B-CONDITION)  दिखा और उसे तुरंत Angioplasty (B-PROCEDURE) की ज़रूरत थी।",में,O
+9,"Emergency में, patient को  तेज़ सीने में दर्द (B-SYMPTOM)  था,  ECG (B-TEST)  किया गया,  जिसमें STEMI (B-CONDITION)  दिखा और उसे तुरंत Angioplasty (B-PROCEDURE) की ज़रूरत थी।",",",O
+9,"Emergency में, patient को  तेज़ सीने में दर्द (B-SYMPTOM)  था,  ECG (B-TEST)  किया गया,  जिसमें STEMI (B-CONDITION)  दिखा और उसे तुरंत Angioplasty (B-PROCEDURE) की ज़रूरत थी।",patient,O
+9,"Emergency में, patient को  तेज़ सीने में दर्द (B-SYMPTOM)  था,  ECG (B-TEST)  किया गया,  जिसमें STEMI (B-CONDITION)  दिखा और उसे तुरंत Angioplasty (B-PROCEDURE) की ज़रूरत थी।",को,O
+9,"Emergency में, patient को  तेज़ सीने में दर्द (B-SYMPTOM)  था,  ECG (B-TEST)  किया गया,  जिसमें STEMI (B-CONDITION)  दिखा और उसे तुरंत Angioplasty (B-PROCEDURE) की ज़रूरत थी।",तेज़,B-SYMPTOM
+9,"Emergency में, patient को  तेज़ सीने में दर्द (B-SYMPTOM)  था,  ECG (B-TEST)  किया गया,  जिसमें STEMI (B-CONDITION)  दिखा और उसे तुरंत Angioplasty (B-PROCEDURE) की ज़रूरत थी।",सीने,I-SYMPTOM
+9,"Emergency में, patient को  तेज़ सीने में दर्द (B-SYMPTOM)  था,  ECG (B-TEST)  किया गया,  जिसमें STEMI (B-CONDITION)  दिखा और उसे तुरंत Angioplasty (B-PROCEDURE) की ज़रूरत थी।",में,I-SYMPTOM
+9,"Emergency में, patient को  तेज़ सीने में दर्द (B-SYMPTOM)  था,  ECG (B-TEST)  किया गया,  जिसमें STEMI (B-CONDITION)  दिखा और उसे तुरंत Angioplasty (B-PROCEDURE) की ज़रूरत थी।",दर्द,I-SYMPTOM
+9,"Emergency में, patient को  तेज़ सीने में दर्द (B-SYMPTOM)  था,  ECG (B-TEST)  किया गया,  जिसमें STEMI (B-CONDITION)  दिखा और उसे तुरंत Angioplasty (B-PROCEDURE) की ज़रूरत थी।",(,O
+9,"Emergency में, patient को  तेज़ सीने में दर्द (B-SYMPTOM)  था,  ECG (B-TEST)  किया गया,  जिसमें STEMI (B-CONDITION)  दिखा और उसे तुरंत Angioplasty (B-PROCEDURE) की ज़रूरत थी।",B-SYMPTOM,O
+9,"Emergency में, patient को  तेज़ सीने में दर्द (B-SYMPTOM)  था,  ECG (B-TEST)  किया गया,  जिसमें STEMI (B-CONDITION)  दिखा और उसे तुरंत Angioplasty (B-PROCEDURE) की ज़रूरत थी।",),O
+9,"Emergency में, patient को  तेज़ सीने में दर्द (B-SYMPTOM)  था,  ECG (B-TEST)  किया गया,  जिसमें STEMI (B-CONDITION)  दिखा और उसे तुरंत Angioplasty (B-PROCEDURE) की ज़रूरत थी।",था,O
+9,"Emergency में, patient को  तेज़ सीने में दर्द (B-SYMPTOM)  था,  ECG (B-TEST)  किया गया,  जिसमें STEMI (B-CONDITION)  दिखा और उसे तुरंत Angioplasty (B-PROCEDURE) की ज़रूरत थी।",",",O
+9,"Emergency में, patient को  तेज़ सीने में दर्द (B-SYMPTOM)  था,  ECG (B-TEST)  किया गया,  जिसमें STEMI (B-CONDITION)  दिखा और उसे तुरंत Angioplasty (B-PROCEDURE) की ज़रूरत थी।",ECG,B-TEST
+9,"Emergency में, patient को  तेज़ सीने में दर्द (B-SYMPTOM)  था,  ECG (B-TEST)  किया गया,  जिसमें STEMI (B-CONDITION)  दिखा और उसे तुरंत Angioplasty (B-PROCEDURE) की ज़रूरत थी।",(,O
+9,"Emergency में, patient को  तेज़ सीने में दर्द (B-SYMPTOM)  था,  ECG (B-TEST)  किया गया,  जिसमें STEMI (B-CONDITION)  दिखा और उसे तुरंत Angioplasty (B-PROCEDURE) की ज़रूरत थी।",B-TEST,O
+9,"Emergency में, patient को  तेज़ सीने में दर्द (B-SYMPTOM)  था,  ECG (B-TEST)  किया गया,  जिसमें STEMI (B-CONDITION)  दिखा और उसे तुरंत Angioplasty (B-PROCEDURE) की ज़रूरत थी।",),O
+9,"Emergency में, patient को  तेज़ सीने में दर्द (B-SYMPTOM)  था,  ECG (B-TEST)  किया गया,  जिसमें STEMI (B-CONDITION)  दिखा और उसे तुरंत Angioplasty (B-PROCEDURE) की ज़रूरत थी।",किया,O
+9,"Emergency में, patient को  तेज़ सीने में दर्द (B-SYMPTOM)  था,  ECG (B-TEST)  किया गया,  जिसमें STEMI (B-CONDITION)  दिखा और उसे तुरंत Angioplasty (B-PROCEDURE) की ज़रूरत थी।",गया,O
+9,"Emergency में, patient को  तेज़ सीने में दर्द (B-SYMPTOM)  था,  ECG (B-TEST)  किया गया,  जिसमें STEMI (B-CONDITION)  दिखा और उसे तुरंत Angioplasty (B-PROCEDURE) की ज़रूरत थी।",",",O
+9,"Emergency में, patient को  तेज़ सीने में दर्द (B-SYMPTOM)  था,  ECG (B-TEST)  किया गया,  जिसमें STEMI (B-CONDITION)  दिखा और उसे तुरंत Angioplasty (B-PROCEDURE) की ज़रूरत थी।",जिसमें,O
+9,"Emergency में, patient को  तेज़ सीने में दर्द (B-SYMPTOM)  था,  ECG (B-TEST)  किया गया,  जिसमें STEMI (B-CONDITION)  दिखा और उसे तुरंत Angioplasty (B-PROCEDURE) की ज़रूरत थी।",STEMI,B-CONDITION
+9,"Emergency में, patient को  तेज़ सीने में दर्द (B-SYMPTOM)  था,  ECG (B-TEST)  किया गया,  जिसमें STEMI (B-CONDITION)  दिखा और उसे तुरंत Angioplasty (B-PROCEDURE) की ज़रूरत थी।",(,O
+9,"Emergency में, patient को  तेज़ सीने में दर्द (B-SYMPTOM)  था,  ECG (B-TEST)  किया गया,  जिसमें STEMI (B-CONDITION)  दिखा और उसे तुरंत Angioplasty (B-PROCEDURE) की ज़रूरत थी।",B-CONDITION,O
+9,"Emergency में, patient को  तेज़ सीने में दर्द (B-SYMPTOM)  था,  ECG (B-TEST)  किया गया,  जिसमें STEMI (B-CONDITION)  दिखा और उसे तुरंत Angioplasty (B-PROCEDURE) की ज़रूरत थी।",),O
+9,"Emergency में, patient को  तेज़ सीने में दर्द (B-SYMPTOM)  था,  ECG (B-TEST)  किया गया,  जिसमें STEMI (B-CONDITION)  दिखा और उसे तुरंत Angioplasty (B-PROCEDURE) की ज़रूरत थी।",दिखा,O
+9,"Emergency में, patient को  तेज़ सीने में दर्द (B-SYMPTOM)  था,  ECG (B-TEST)  किया गया,  जिसमें STEMI (B-CONDITION)  दिखा और उसे तुरंत Angioplasty (B-PROCEDURE) की ज़रूरत थी।",और,O
+9,"Emergency में, patient को  तेज़ सीने में दर्द (B-SYMPTOM)  था,  ECG (B-TEST)  किया गया,  जिसमें STEMI (B-CONDITION)  दिखा और उसे तुरंत Angioplasty (B-PROCEDURE) की ज़रूरत थी।",उसे,O
+9,"Emergency में, patient को  तेज़ सीने में दर्द (B-SYMPTOM)  था,  ECG (B-TEST)  किया गया,  जिसमें STEMI (B-CONDITION)  दिखा और उसे तुरंत Angioplasty (B-PROCEDURE) की ज़रूरत थी।",तुरंत,O
+9,"Emergency में, patient को  तेज़ सीने में दर्द (B-SYMPTOM)  था,  ECG (B-TEST)  किया गया,  जिसमें STEMI (B-CONDITION)  दिखा और उसे तुरंत Angioplasty (B-PROCEDURE) की ज़रूरत थी।",Angioplasty,B-PROCEDURE
+9,"Emergency में, patient को  तेज़ सीने में दर्द (B-SYMPTOM)  था,  ECG (B-TEST)  किया गया,  जिसमें STEMI (B-CONDITION)  दिखा और उसे तुरंत Angioplasty (B-PROCEDURE) की ज़रूरत थी।",(,O
+9,"Emergency में, patient को  तेज़ सीने में दर्द (B-SYMPTOM)  था,  ECG (B-TEST)  किया गया,  जिसमें STEMI (B-CONDITION)  दिखा और उसे तुरंत Angioplasty (B-PROCEDURE) की ज़रूरत थी।",B-PROCEDURE,O
+9,"Emergency में, patient को  तेज़ सीने में दर्द (B-SYMPTOM)  था,  ECG (B-TEST)  किया गया,  जिसमें STEMI (B-CONDITION)  दिखा और उसे तुरंत Angioplasty (B-PROCEDURE) की ज़रूरत थी।",),O
+9,"Emergency में, patient को  तेज़ सीने में दर्द (B-SYMPTOM)  था,  ECG (B-TEST)  किया गया,  जिसमें STEMI (B-CONDITION)  दिखा और उसे तुरंत Angioplasty (B-PROCEDURE) की ज़रूरत थी।",की,O
+9,"Emergency में, patient को  तेज़ सीने में दर्द (B-SYMPTOM)  था,  ECG (B-TEST)  किया गया,  जिसमें STEMI (B-CONDITION)  दिखा और उसे तुरंत Angioplasty (B-PROCEDURE) की ज़रूरत थी।",ज़रूरत,O
+9,"Emergency में, patient को  तेज़ सीने में दर्द (B-SYMPTOM)  था,  ECG (B-TEST)  किया गया,  जिसमें STEMI (B-CONDITION)  दिखा और उसे तुरंत Angioplasty (B-PROCEDURE) की ज़रूरत थी।",थी।,O
+10,"Patient ko  तेज़ बुखार tha,  aur usse सीने में दर्द  bhi tha.  Doctor ne usko  blood test karne ko kaha aur 250mg Paracetamol  prescribed kiya.",Patient,O
+10,"Patient ko  तेज़ बुखार tha,  aur usse सीने में दर्द  bhi tha.  Doctor ne usko  blood test karne ko kaha aur 250mg Paracetamol  prescribed kiya.",ko,O
+10,"Patient ko  तेज़ बुखार tha,  aur usse सीने में दर्द  bhi tha.  Doctor ne usko  blood test karne ko kaha aur 250mg Paracetamol  prescribed kiya.",तेज़,B-SYMPTOM
+10,"Patient ko  तेज़ बुखार tha,  aur usse सीने में दर्द  bhi tha.  Doctor ne usko  blood test karne ko kaha aur 250mg Paracetamol  prescribed kiya.",बुखार,I-SYMPTOM
+10,"Patient ko  तेज़ बुखार tha,  aur usse सीने में दर्द  bhi tha.  Doctor ne usko  blood test karne ko kaha aur 250mg Paracetamol  prescribed kiya.",tha,O
+10,"Patient ko  तेज़ बुखार tha,  aur usse सीने में दर्द  bhi tha.  Doctor ne usko  blood test karne ko kaha aur 250mg Paracetamol  prescribed kiya.",aur,O
+10,"Patient ko  तेज़ बुखार tha,  aur usse सीने में दर्द  bhi tha.  Doctor ne usko  blood test karne ko kaha aur 250mg Paracetamol  prescribed kiya.",usse,O
+10,"Patient ko  तेज़ बुखार tha,  aur usse सीने में दर्द  bhi tha.  Doctor ne usko  blood test karne ko kaha aur 250mg Paracetamol  prescribed kiya.",सीने,B-SYMPTOM
+10,"Patient ko  तेज़ बुखार tha,  aur usse सीने में दर्द  bhi tha.  Doctor ne usko  blood test karne ko kaha aur 250mg Paracetamol  prescribed kiya.",में,I-SYMPTOM
+10,"Patient ko  तेज़ बुखार tha,  aur usse सीने में दर्द  bhi tha.  Doctor ne usko  blood test karne ko kaha aur 250mg Paracetamol  prescribed kiya.",दर्द,I-SYMPTOM
+10,"Patient ko  तेज़ बुखार tha,  aur usse सीने में दर्द  bhi tha.  Doctor ne usko  blood test karne ko kaha aur 250mg Paracetamol  prescribed kiya.",bhi,O
+10,"Patient ko  तेज़ बुखार tha,  aur usse सीने में दर्द  bhi tha.  Doctor ne usko  blood test karne ko kaha aur 250mg Paracetamol  prescribed kiya.",tha,O
+10,"Patient ko  तेज़ बुखार tha,  aur usse सीने में दर्द  bhi tha.  Doctor ne usko  blood test karne ko kaha aur 250mg Paracetamol  prescribed kiya.",Doctor,O
+10,"Patient ko  तेज़ बुखार tha,  aur usse सीने में दर्द  bhi tha.  Doctor ne usko  blood test karne ko kaha aur 250mg Paracetamol  prescribed kiya.",ne,O
+10,"Patient ko  तेज़ बुखार tha,  aur usse सीने में दर्द  bhi tha.  Doctor ne usko  blood test karne ko kaha aur 250mg Paracetamol  prescribed kiya.",usko,O
+10,"Patient ko  तेज़ बुखार tha,  aur usse सीने में दर्द  bhi tha.  Doctor ne usko  blood test karne ko kaha aur 250mg Paracetamol  prescribed kiya.",blood,B-TEST
+10,"Patient ko  तेज़ बुखार tha,  aur usse सीने में दर्द  bhi tha.  Doctor ne usko  blood test karne ko kaha aur 250mg Paracetamol  prescribed kiya.",test,I-TEST
+10,"Patient ko  तेज़ बुखार tha,  aur usse सीने में दर्द  bhi tha.  Doctor ne usko  blood test karne ko kaha aur 250mg Paracetamol  prescribed kiya.",karne,O
+10,"Patient ko  तेज़ बुखार tha,  aur usse सीने में दर्द  bhi tha.  Doctor ne usko  blood test karne ko kaha aur 250mg Paracetamol  prescribed kiya.",ko,O
+10,"Patient ko  तेज़ बुखार tha,  aur usse सीने में दर्द  bhi tha.  Doctor ne usko  blood test karne ko kaha aur 250mg Paracetamol  prescribed kiya.",kaha,O
+10,"Patient ko  तेज़ बुखार tha,  aur usse सीने में दर्द  bhi tha.  Doctor ne usko  blood test karne ko kaha aur 250mg Paracetamol  prescribed kiya.",aur,O
+10,"Patient ko  तेज़ बुखार tha,  aur usse सीने में दर्द  bhi tha.  Doctor ne usko  blood test karne ko kaha aur 250mg Paracetamol  prescribed kiya.",250mg,B-DOSAGE
+10,"Patient ko  तेज़ बुखार tha,  aur usse सीने में दर्द  bhi tha.  Doctor ne usko  blood test karne ko kaha aur 250mg Paracetamol  prescribed kiya.",Paracetamol,B-MEDICATION
+10,"Patient ko  तेज़ बुखार tha,  aur usse सीने में दर्द  bhi tha.  Doctor ne usko  blood test karne ko kaha aur 250mg Paracetamol  prescribed kiya.",prescribed,O
+10,"Patient ko  तेज़ बुखार tha,  aur usse सीने में दर्द  bhi tha.  Doctor ne usko  blood test karne ko kaha aur 250mg Paracetamol  prescribed kiya.",kiya,O
+11,"Patient के खून में  high cholesterol  था, इसलिए doctor ने  lipid profile test  कराया और  Atorvastatin 20mg  दवा  prescribed की।",Patient,O
+11,"Patient के खून में  high cholesterol  था, इसलिए doctor ने  lipid profile test  कराया और  Atorvastatin 20mg  दवा  prescribed की।",के,O
+11,"Patient के खून में  high cholesterol  था, इसलिए doctor ने  lipid profile test  कराया और  Atorvastatin 20mg  दवा  prescribed की।",खून,O
+11,"Patient के खून में  high cholesterol  था, इसलिए doctor ने  lipid profile test  कराया और  Atorvastatin 20mg  दवा  prescribed की।",में,O
+11,"Patient के खून में  high cholesterol  था, इसलिए doctor ने  lipid profile test  कराया और  Atorvastatin 20mg  दवा  prescribed की।",high,B-SYMPTOM
+11,"Patient के खून में  high cholesterol  था, इसलिए doctor ने  lipid profile test  कराया और  Atorvastatin 20mg  दवा  prescribed की।",cholesterol,I-SYMPTOM
+11,"Patient के खून में  high cholesterol  था, इसलिए doctor ने  lipid profile test  कराया और  Atorvastatin 20mg  दवा  prescribed की।",था,O
+11,"Patient के खून में  high cholesterol  था, इसलिए doctor ने  lipid profile test  कराया और  Atorvastatin 20mg  दवा  prescribed की।",इसलिए,O
+11,"Patient के खून में  high cholesterol  था, इसलिए doctor ने  lipid profile test  कराया और  Atorvastatin 20mg  दवा  prescribed की।",doctor,O
+11,"Patient के खून में  high cholesterol  था, इसलिए doctor ने  lipid profile test  कराया और  Atorvastatin 20mg  दवा  prescribed की।",ने,O
+11,"Patient के खून में  high cholesterol  था, इसलिए doctor ने  lipid profile test  कराया और  Atorvastatin 20mg  दवा  prescribed की।",lipid,B-TEST
+11,"Patient के खून में  high cholesterol  था, इसलिए doctor ने  lipid profile test  कराया और  Atorvastatin 20mg  दवा  prescribed की।",profile,I-TEST
+11,"Patient के खून में  high cholesterol  था, इसलिए doctor ने  lipid profile test  कराया और  Atorvastatin 20mg  दवा  prescribed की।",test,I-TEST
+11,"Patient के खून में  high cholesterol  था, इसलिए doctor ने  lipid profile test  कराया और  Atorvastatin 20mg  दवा  prescribed की।",कराया,O
+11,"Patient के खून में  high cholesterol  था, इसलिए doctor ने  lipid profile test  कराया और  Atorvastatin 20mg  दवा  prescribed की।",और,O
+11,"Patient के खून में  high cholesterol  था, इसलिए doctor ने  lipid profile test  कराया और  Atorvastatin 20mg  दवा  prescribed की।",Atorvastatin,B-MEDICATION
+11,"Patient के खून में  high cholesterol  था, इसलिए doctor ने  lipid profile test  कराया और  Atorvastatin 20mg  दवा  prescribed की।",20mg,B-DOSAGE
+11,"Patient के खून में  high cholesterol  था, इसलिए doctor ने  lipid profile test  कराया और  Atorvastatin 20mg  दवा  prescribed की।",दवा,O
+11,"Patient के खून में  high cholesterol  था, इसलिए doctor ने  lipid profile test  कराया और  Atorvastatin 20mg  दवा  prescribed की।",prescribed,O
+11,"Patient के खून में  high cholesterol  था, इसलिए doctor ने  lipid profile test  कराया और  Atorvastatin 20mg  दवा  prescribed की।",की,O
+11,"Patient के खून में  high cholesterol  था, इसलिए doctor ने  lipid profile test  कराया और  Atorvastatin 20mg  दवा  prescribed की।",।,O
+12,"Patient के खून में sugar का level बहुत ज़्यादा था, इसलिए doctor ने उसे type 2 diabetes के लिए insulin injection और strict diet plan बताया।",Patient,O
+12,"Patient के खून में sugar का level बहुत ज़्यादा था, इसलिए doctor ने उसे type 2 diabetes के लिए insulin injection और strict diet plan बताया।",के,O
+12,"Patient के खून में sugar का level बहुत ज़्यादा था, इसलिए doctor ने उसे type 2 diabetes के लिए insulin injection और strict diet plan बताया।",खून,O
+12,"Patient के खून में sugar का level बहुत ज़्यादा था, इसलिए doctor ने उसे type 2 diabetes के लिए insulin injection और strict diet plan बताया।",में,O
+12,"Patient के खून में sugar का level बहुत ज़्यादा था, इसलिए doctor ने उसे type 2 diabetes के लिए insulin injection और strict diet plan बताया।",sugar,B-CONDITION
+12,"Patient के खून में sugar का level बहुत ज़्यादा था, इसलिए doctor ने उसे type 2 diabetes के लिए insulin injection और strict diet plan बताया।",का,O
+12,"Patient के खून में sugar का level बहुत ज़्यादा था, इसलिए doctor ने उसे type 2 diabetes के लिए insulin injection और strict diet plan बताया।",level,O
+12,"Patient के खून में sugar का level बहुत ज़्यादा था, इसलिए doctor ने उसे type 2 diabetes के लिए insulin injection और strict diet plan बताया।",बहुत,O
+12,"Patient के खून में sugar का level बहुत ज़्यादा था, इसलिए doctor ने उसे type 2 diabetes के लिए insulin injection और strict diet plan बताया।",ज़्यादा,O
+12,"Patient के खून में sugar का level बहुत ज़्यादा था, इसलिए doctor ने उसे type 2 diabetes के लिए insulin injection और strict diet plan बताया।",था,O
+12,"Patient के खून में sugar का level बहुत ज़्यादा था, इसलिए doctor ने उसे type 2 diabetes के लिए insulin injection और strict diet plan बताया।",इसलिए,O
+12,"Patient के खून में sugar का level बहुत ज़्यादा था, इसलिए doctor ने उसे type 2 diabetes के लिए insulin injection और strict diet plan बताया।",doctor,O
+12,"Patient के खून में sugar का level बहुत ज़्यादा था, इसलिए doctor ने उसे type 2 diabetes के लिए insulin injection और strict diet plan बताया।",ने,O
+12,"Patient के खून में sugar का level बहुत ज़्यादा था, इसलिए doctor ने उसे type 2 diabetes के लिए insulin injection और strict diet plan बताया।",उसे,O
+12,"Patient के खून में sugar का level बहुत ज़्यादा था, इसलिए doctor ने उसे type 2 diabetes के लिए insulin injection और strict diet plan बताया।",type 2 diabetes,B-CONDITION
+12,"Patient के खून में sugar का level बहुत ज़्यादा था, इसलिए doctor ने उसे type 2 diabetes के लिए insulin injection और strict diet plan बताया।",के,O
+12,"Patient के खून में sugar का level बहुत ज़्यादा था, इसलिए doctor ने उसे type 2 diabetes के लिए insulin injection और strict diet plan बताया।",लिए,O
+12,"Patient के खून में sugar का level बहुत ज़्यादा था, इसलिए doctor ने उसे type 2 diabetes के लिए insulin injection और strict diet plan बताया।",insulin,B-MEDICATION
+12,"Patient के खून में sugar का level बहुत ज़्यादा था, इसलिए doctor ने उसे type 2 diabetes के लिए insulin injection और strict diet plan बताया।",injection,I-MEDICATION
+12,"Patient के खून में sugar का level बहुत ज़्यादा था, इसलिए doctor ने उसे type 2 diabetes के लिए insulin injection और strict diet plan बताया।",और,O
+12,"Patient के खून में sugar का level बहुत ज़्यादा था, इसलिए doctor ने उसे type 2 diabetes के लिए insulin injection और strict diet plan बताया।",strict,O
+12,"Patient के खून में sugar का level बहुत ज़्यादा था, इसलिए doctor ने उसे type 2 diabetes के लिए insulin injection और strict diet plan बताया।",diet,B-PROCEDURE
+12,"Patient के खून में sugar का level बहुत ज़्यादा था, इसलिए doctor ने उसे type 2 diabetes के लिए insulin injection और strict diet plan बताया।",plan,I-PROCEDURE
+12,"Patient के खून में sugar का level बहुत ज़्यादा था, इसलिए doctor ने उसे type 2 diabetes के लिए insulin injection और strict diet plan बताया।",बताया,O
+12,"Patient के खून में sugar का level बहुत ज़्यादा था, इसलिए doctor ने उसे type 2 diabetes के लिए insulin injection और strict diet plan बताया।",।,O
+13,"Patient ko तेज बुखार (high fever) aur सीने में दर्द (chest pain) tha, isliye doctor ne ECG aur Blood test kiya, phir unhe 5mg Paracetamol teen baar diye.",Patient,O
+13,"Patient ko तेज बुखार (high fever) aur सीने में दर्द (chest pain) tha, isliye doctor ne ECG aur Blood test kiya, phir unhe 5mg Paracetamol teen baar diye.",ko,O
+13,"Patient ko तेज बुखार (high fever) aur सीने में दर्द (chest pain) tha, isliye doctor ne ECG aur Blood test kiya, phir unhe 5mg Paracetamol teen baar diye.",तेज,B-SYMPTOM
+13,"Patient ko तेज बुखार (high fever) aur सीने में दर्द (chest pain) tha, isliye doctor ne ECG aur Blood test kiya, phir unhe 5mg Paracetamol teen baar diye.",बुखार,I-SYMPTOM
+13,"Patient ko तेज बुखार (high fever) aur सीने में दर्द (chest pain) tha, isliye doctor ne ECG aur Blood test kiya, phir unhe 5mg Paracetamol teen baar diye.",(high,B-SYMPTOM
+13,"Patient ko तेज बुखार (high fever) aur सीने में दर्द (chest pain) tha, isliye doctor ne ECG aur Blood test kiya, phir unhe 5mg Paracetamol teen baar diye.",fever),I-SYMPTOM
+13,"Patient ko तेज बुखार (high fever) aur सीने में दर्द (chest pain) tha, isliye doctor ne ECG aur Blood test kiya, phir unhe 5mg Paracetamol teen baar diye.",aur,O
+13,"Patient ko तेज बुखार (high fever) aur सीने में दर्द (chest pain) tha, isliye doctor ne ECG aur Blood test kiya, phir unhe 5mg Paracetamol teen baar diye.",सीने,B-SYMPTOM
+13,"Patient ko तेज बुखार (high fever) aur सीने में दर्द (chest pain) tha, isliye doctor ne ECG aur Blood test kiya, phir unhe 5mg Paracetamol teen baar diye.",में,I-SYMPTOM
+13,"Patient ko तेज बुखार (high fever) aur सीने में दर्द (chest pain) tha, isliye doctor ne ECG aur Blood test kiya, phir unhe 5mg Paracetamol teen baar diye.",दर्द,I-SYMPTOM
+13,"Patient ko तेज बुखार (high fever) aur सीने में दर्द (chest pain) tha, isliye doctor ne ECG aur Blood test kiya, phir unhe 5mg Paracetamol teen baar diye.",(chest,B-SYMPTOM
+13,"Patient ko तेज बुखार (high fever) aur सीने में दर्द (chest pain) tha, isliye doctor ne ECG aur Blood test kiya, phir unhe 5mg Paracetamol teen baar diye.",pain),I-SYMPTOM
+13,"Patient ko तेज बुखार (high fever) aur सीने में दर्द (chest pain) tha, isliye doctor ne ECG aur Blood test kiya, phir unhe 5mg Paracetamol teen baar diye.","tha,",O
+13,"Patient ko तेज बुखार (high fever) aur सीने में दर्द (chest pain) tha, isliye doctor ne ECG aur Blood test kiya, phir unhe 5mg Paracetamol teen baar diye.",isliye,O
+13,"Patient ko तेज बुखार (high fever) aur सीने में दर्द (chest pain) tha, isliye doctor ne ECG aur Blood test kiya, phir unhe 5mg Paracetamol teen baar diye.",doctor,O
+13,"Patient ko तेज बुखार (high fever) aur सीने में दर्द (chest pain) tha, isliye doctor ne ECG aur Blood test kiya, phir unhe 5mg Paracetamol teen baar diye.",ne,O
+13,"Patient ko तेज बुखार (high fever) aur सीने में दर्द (chest pain) tha, isliye doctor ne ECG aur Blood test kiya, phir unhe 5mg Paracetamol teen baar diye.",ECG,B-TEST
+13,"Patient ko तेज बुखार (high fever) aur सीने में दर्द (chest pain) tha, isliye doctor ne ECG aur Blood test kiya, phir unhe 5mg Paracetamol teen baar diye.",aur,O
+13,"Patient ko तेज बुखार (high fever) aur सीने में दर्द (chest pain) tha, isliye doctor ne ECG aur Blood test kiya, phir unhe 5mg Paracetamol teen baar diye.",Blood,B-TEST
+13,"Patient ko तेज बुखार (high fever) aur सीने में दर्द (chest pain) tha, isliye doctor ne ECG aur Blood test kiya, phir unhe 5mg Paracetamol teen baar diye.",test,I-TEST
+13,"Patient ko तेज बुखार (high fever) aur सीने में दर्द (chest pain) tha, isliye doctor ne ECG aur Blood test kiya, phir unhe 5mg Paracetamol teen baar diye.","kiya,",O
+13,"Patient ko तेज बुखार (high fever) aur सीने में दर्द (chest pain) tha, isliye doctor ne ECG aur Blood test kiya, phir unhe 5mg Paracetamol teen baar diye.",phir,O
+13,"Patient ko तेज बुखार (high fever) aur सीने में दर्द (chest pain) tha, isliye doctor ne ECG aur Blood test kiya, phir unhe 5mg Paracetamol teen baar diye.",unhe,O
+13,"Patient ko तेज बुखार (high fever) aur सीने में दर्द (chest pain) tha, isliye doctor ne ECG aur Blood test kiya, phir unhe 5mg Paracetamol teen baar diye.",5mg,B-DOSAGE
+13,"Patient ko तेज बुखार (high fever) aur सीने में दर्द (chest pain) tha, isliye doctor ne ECG aur Blood test kiya, phir unhe 5mg Paracetamol teen baar diye.",Paracetamol,B-MEDICATION
+13,"Patient ko तेज बुखार (high fever) aur सीने में दर्द (chest pain) tha, isliye doctor ne ECG aur Blood test kiya, phir unhe 5mg Paracetamol teen baar diye.",teen,B-DOSAGE
+13,"Patient ko तेज बुखार (high fever) aur सीने में दर्द (chest pain) tha, isliye doctor ne ECG aur Blood test kiya, phir unhe 5mg Paracetamol teen baar diye.",baar,I-DOSAGE
+13,"Patient ko तेज बुखार (high fever) aur सीने में दर्द (chest pain) tha, isliye doctor ne ECG aur Blood test kiya, phir unhe 5mg Paracetamol teen baar diye.",diye,O
+13,"Patient ko तेज बुखार (high fever) aur सीने में दर्द (chest pain) tha, isliye doctor ne ECG aur Blood test kiya, phir unhe 5mg Paracetamol teen baar diye.",.,O
+14,Patient ke खांसी aur breathlessness ki wajah se doctor ne chest X-ray karwaya aur pneumonia ki diagnosis ki.,Patient,O
+14,Patient ke खांसी aur breathlessness ki wajah se doctor ne chest X-ray karwaya aur pneumonia ki diagnosis ki.,ke,O
+14,Patient ke खांसी aur breathlessness ki wajah se doctor ne chest X-ray karwaya aur pneumonia ki diagnosis ki.,खांसी,B-SYMPTOM
+14,Patient ke खांसी aur breathlessness ki wajah se doctor ne chest X-ray karwaya aur pneumonia ki diagnosis ki.,aur,O
+14,Patient ke खांसी aur breathlessness ki wajah se doctor ne chest X-ray karwaya aur pneumonia ki diagnosis ki.,breathlessness,B-SYMPTOM
+14,Patient ke खांसी aur breathlessness ki wajah se doctor ne chest X-ray karwaya aur pneumonia ki diagnosis ki.,ki,O
+14,Patient ke खांसी aur breathlessness ki wajah se doctor ne chest X-ray karwaya aur pneumonia ki diagnosis ki.,wajah,O
+14,Patient ke खांसी aur breathlessness ki wajah se doctor ne chest X-ray karwaya aur pneumonia ki diagnosis ki.,se,O
+14,Patient ke खांसी aur breathlessness ki wajah se doctor ne chest X-ray karwaya aur pneumonia ki diagnosis ki.,doctor,O
+14,Patient ke खांसी aur breathlessness ki wajah se doctor ne chest X-ray karwaya aur pneumonia ki diagnosis ki.,ne,O
+14,Patient ke खांसी aur breathlessness ki wajah se doctor ne chest X-ray karwaya aur pneumonia ki diagnosis ki.,chest,O
+14,Patient ke खांसी aur breathlessness ki wajah se doctor ne chest X-ray karwaya aur pneumonia ki diagnosis ki.,X-ray,B-PROCEDURE
+14,Patient ke खांसी aur breathlessness ki wajah se doctor ne chest X-ray karwaya aur pneumonia ki diagnosis ki.,karwaya,O
+14,Patient ke खांसी aur breathlessness ki wajah se doctor ne chest X-ray karwaya aur pneumonia ki diagnosis ki.,aur,O
+14,Patient ke खांसी aur breathlessness ki wajah se doctor ne chest X-ray karwaya aur pneumonia ki diagnosis ki.,pneumonia,B-CONDITION
+14,Patient ke खांसी aur breathlessness ki wajah se doctor ne chest X-ray karwaya aur pneumonia ki diagnosis ki.,ki,O
+14,Patient ke खांसी aur breathlessness ki wajah se doctor ne chest X-ray karwaya aur pneumonia ki diagnosis ki.,diagnosis,O
+14,Patient ke खांसी aur breathlessness ki wajah se doctor ne chest X-ray karwaya aur pneumonia ki diagnosis ki.,ki,O
+14,Patient ke खांसी aur breathlessness ki wajah se doctor ne chest X-ray karwaya aur pneumonia ki diagnosis ki.,.,O
+15,"Patient ko severe chest pain hai, aur usne ECG test karwaya hai jismein abnormalities dikhai di. Doctor ne Angioplasty karne ka faisla kiya hai.",Patient,O
+15,"Patient ko severe chest pain hai, aur usne ECG test karwaya hai jismein abnormalities dikhai di. Doctor ne Angioplasty karne ka faisla kiya hai.",ko,O
+15,"Patient ko severe chest pain hai, aur usne ECG test karwaya hai jismein abnormalities dikhai di. Doctor ne Angioplasty karne ka faisla kiya hai.",severe,B-SYMPTOM
+15,"Patient ko severe chest pain hai, aur usne ECG test karwaya hai jismein abnormalities dikhai di. Doctor ne Angioplasty karne ka faisla kiya hai.",chest,I-SYMPTOM
+15,"Patient ko severe chest pain hai, aur usne ECG test karwaya hai jismein abnormalities dikhai di. Doctor ne Angioplasty karne ka faisla kiya hai.",pain,I-SYMPTOM
+15,"Patient ko severe chest pain hai, aur usne ECG test karwaya hai jismein abnormalities dikhai di. Doctor ne Angioplasty karne ka faisla kiya hai.",hai,O
+15,"Patient ko severe chest pain hai, aur usne ECG test karwaya hai jismein abnormalities dikhai di. Doctor ne Angioplasty karne ka faisla kiya hai.",aur,O
+15,"Patient ko severe chest pain hai, aur usne ECG test karwaya hai jismein abnormalities dikhai di. Doctor ne Angioplasty karne ka faisla kiya hai.",usne,O
+15,"Patient ko severe chest pain hai, aur usne ECG test karwaya hai jismein abnormalities dikhai di. Doctor ne Angioplasty karne ka faisla kiya hai.",ECG,B-TEST
+15,"Patient ko severe chest pain hai, aur usne ECG test karwaya hai jismein abnormalities dikhai di. Doctor ne Angioplasty karne ka faisla kiya hai.",test,I-TEST
+15,"Patient ko severe chest pain hai, aur usne ECG test karwaya hai jismein abnormalities dikhai di. Doctor ne Angioplasty karne ka faisla kiya hai.",karwaya,O
+15,"Patient ko severe chest pain hai, aur usne ECG test karwaya hai jismein abnormalities dikhai di. Doctor ne Angioplasty karne ka faisla kiya hai.",hai,O
+15,"Patient ko severe chest pain hai, aur usne ECG test karwaya hai jismein abnormalities dikhai di. Doctor ne Angioplasty karne ka faisla kiya hai.",jismein,O
+15,"Patient ko severe chest pain hai, aur usne ECG test karwaya hai jismein abnormalities dikhai di. Doctor ne Angioplasty karne ka faisla kiya hai.",abnormalities,O
+15,"Patient ko severe chest pain hai, aur usne ECG test karwaya hai jismein abnormalities dikhai di. Doctor ne Angioplasty karne ka faisla kiya hai.",dikhai,O
+15,"Patient ko severe chest pain hai, aur usne ECG test karwaya hai jismein abnormalities dikhai di. Doctor ne Angioplasty karne ka faisla kiya hai.",di,O
+15,"Patient ko severe chest pain hai, aur usne ECG test karwaya hai jismein abnormalities dikhai di. Doctor ne Angioplasty karne ka faisla kiya hai.",Doctor,O
+15,"Patient ko severe chest pain hai, aur usne ECG test karwaya hai jismein abnormalities dikhai di. Doctor ne Angioplasty karne ka faisla kiya hai.",ne,O
+15,"Patient ko severe chest pain hai, aur usne ECG test karwaya hai jismein abnormalities dikhai di. Doctor ne Angioplasty karne ka faisla kiya hai.",Angioplasty,B-PROCEDURE
+15,"Patient ko severe chest pain hai, aur usne ECG test karwaya hai jismein abnormalities dikhai di. Doctor ne Angioplasty karne ka faisla kiya hai.",karne,O
+15,"Patient ko severe chest pain hai, aur usne ECG test karwaya hai jismein abnormalities dikhai di. Doctor ne Angioplasty karne ka faisla kiya hai.",ka,O
+15,"Patient ko severe chest pain hai, aur usne ECG test karwaya hai jismein abnormalities dikhai di. Doctor ne Angioplasty karne ka faisla kiya hai.",faisla,O
+15,"Patient ko severe chest pain hai, aur usne ECG test karwaya hai jismein abnormalities dikhai di. Doctor ne Angioplasty karne ka faisla kiya hai.",kiya,O
+15,"Patient ko severe chest pain hai, aur usne ECG test karwaya hai jismein abnormalities dikhai di. Doctor ne Angioplasty karne ka faisla kiya hai.",hai,O
+16,"The patient presented with a severe headache (तेज़ सिर दर्द) and high fever, prompting an immediate CT scan which revealed a brain hemorrhage; the neurosurgeon recommended emergency surgery and prescribed 1000mg of Mannitol immediately.",The,O
+16,"The patient presented with a severe headache (तेज़ सिर दर्द) and high fever, prompting an immediate CT scan which revealed a brain hemorrhage; the neurosurgeon recommended emergency surgery and prescribed 1000mg of Mannitol immediately.",patient,O
+16,"The patient presented with a severe headache (तेज़ सिर दर्द) and high fever, prompting an immediate CT scan which revealed a brain hemorrhage; the neurosurgeon recommended emergency surgery and prescribed 1000mg of Mannitol immediately.",presented,O
+16,"The patient presented with a severe headache (तेज़ सिर दर्द) and high fever, prompting an immediate CT scan which revealed a brain hemorrhage; the neurosurgeon recommended emergency surgery and prescribed 1000mg of Mannitol immediately.",with,O
+16,"The patient presented with a severe headache (तेज़ सिर दर्द) and high fever, prompting an immediate CT scan which revealed a brain hemorrhage; the neurosurgeon recommended emergency surgery and prescribed 1000mg of Mannitol immediately.",a,O
+16,"The patient presented with a severe headache (तेज़ सिर दर्द) and high fever, prompting an immediate CT scan which revealed a brain hemorrhage; the neurosurgeon recommended emergency surgery and prescribed 1000mg of Mannitol immediately.",severe,B-SYMPTOM
+16,"The patient presented with a severe headache (तेज़ सिर दर्द) and high fever, prompting an immediate CT scan which revealed a brain hemorrhage; the neurosurgeon recommended emergency surgery and prescribed 1000mg of Mannitol immediately.",headache,I-SYMPTOM
+16,"The patient presented with a severe headache (तेज़ सिर दर्द) and high fever, prompting an immediate CT scan which revealed a brain hemorrhage; the neurosurgeon recommended emergency surgery and prescribed 1000mg of Mannitol immediately.",(तेज़,B-SYMPTOM
+16,"The patient presented with a severe headache (तेज़ सिर दर्द) and high fever, prompting an immediate CT scan which revealed a brain hemorrhage; the neurosurgeon recommended emergency surgery and prescribed 1000mg of Mannitol immediately.",सिर,I-SYMPTOM
+16,"The patient presented with a severe headache (तेज़ सिर दर्द) and high fever, prompting an immediate CT scan which revealed a brain hemorrhage; the neurosurgeon recommended emergency surgery and prescribed 1000mg of Mannitol immediately.",दर्द),I-SYMPTOM
+16,"The patient presented with a severe headache (तेज़ सिर दर्द) and high fever, prompting an immediate CT scan which revealed a brain hemorrhage; the neurosurgeon recommended emergency surgery and prescribed 1000mg of Mannitol immediately.",and,O
+16,"The patient presented with a severe headache (तेज़ सिर दर्द) and high fever, prompting an immediate CT scan which revealed a brain hemorrhage; the neurosurgeon recommended emergency surgery and prescribed 1000mg of Mannitol immediately.",high,B-SYMPTOM
+16,"The patient presented with a severe headache (तेज़ सिर दर्द) and high fever, prompting an immediate CT scan which revealed a brain hemorrhage; the neurosurgeon recommended emergency surgery and prescribed 1000mg of Mannitol immediately.",fever,I-SYMPTOM
+16,"The patient presented with a severe headache (तेज़ सिर दर्द) and high fever, prompting an immediate CT scan which revealed a brain hemorrhage; the neurosurgeon recommended emergency surgery and prescribed 1000mg of Mannitol immediately.",",",O
+16,"The patient presented with a severe headache (तेज़ सिर दर्द) and high fever, prompting an immediate CT scan which revealed a brain hemorrhage; the neurosurgeon recommended emergency surgery and prescribed 1000mg of Mannitol immediately.",prompting,O
+16,"The patient presented with a severe headache (तेज़ सिर दर्द) and high fever, prompting an immediate CT scan which revealed a brain hemorrhage; the neurosurgeon recommended emergency surgery and prescribed 1000mg of Mannitol immediately.",an,O
+16,"The patient presented with a severe headache (तेज़ सिर दर्द) and high fever, prompting an immediate CT scan which revealed a brain hemorrhage; the neurosurgeon recommended emergency surgery and prescribed 1000mg of Mannitol immediately.",immediate,O
+16,"The patient presented with a severe headache (तेज़ सिर दर्द) and high fever, prompting an immediate CT scan which revealed a brain hemorrhage; the neurosurgeon recommended emergency surgery and prescribed 1000mg of Mannitol immediately.",CT,B-TEST
+16,"The patient presented with a severe headache (तेज़ सिर दर्द) and high fever, prompting an immediate CT scan which revealed a brain hemorrhage; the neurosurgeon recommended emergency surgery and prescribed 1000mg of Mannitol immediately.",scan,I-TEST
+16,"The patient presented with a severe headache (तेज़ सिर दर्द) and high fever, prompting an immediate CT scan which revealed a brain hemorrhage; the neurosurgeon recommended emergency surgery and prescribed 1000mg of Mannitol immediately.",which,O
+16,"The patient presented with a severe headache (तेज़ सिर दर्द) and high fever, prompting an immediate CT scan which revealed a brain hemorrhage; the neurosurgeon recommended emergency surgery and prescribed 1000mg of Mannitol immediately.",revealed,O
+16,"The patient presented with a severe headache (तेज़ सिर दर्द) and high fever, prompting an immediate CT scan which revealed a brain hemorrhage; the neurosurgeon recommended emergency surgery and prescribed 1000mg of Mannitol immediately.",a,O
+16,"The patient presented with a severe headache (तेज़ सिर दर्द) and high fever, prompting an immediate CT scan which revealed a brain hemorrhage; the neurosurgeon recommended emergency surgery and prescribed 1000mg of Mannitol immediately.",brain,B-CONDITION
+16,"The patient presented with a severe headache (तेज़ सिर दर्द) and high fever, prompting an immediate CT scan which revealed a brain hemorrhage; the neurosurgeon recommended emergency surgery and prescribed 1000mg of Mannitol immediately.",hemorrhage,I-CONDITION
+16,"The patient presented with a severe headache (तेज़ सिर दर्द) and high fever, prompting an immediate CT scan which revealed a brain hemorrhage; the neurosurgeon recommended emergency surgery and prescribed 1000mg of Mannitol immediately.",;,O
+16,"The patient presented with a severe headache (तेज़ सिर दर्द) and high fever, prompting an immediate CT scan which revealed a brain hemorrhage; the neurosurgeon recommended emergency surgery and prescribed 1000mg of Mannitol immediately.",the,O
+16,"The patient presented with a severe headache (तेज़ सिर दर्द) and high fever, prompting an immediate CT scan which revealed a brain hemorrhage; the neurosurgeon recommended emergency surgery and prescribed 1000mg of Mannitol immediately.",neurosurgeon,O
+16,"The patient presented with a severe headache (तेज़ सिर दर्द) and high fever, prompting an immediate CT scan which revealed a brain hemorrhage; the neurosurgeon recommended emergency surgery and prescribed 1000mg of Mannitol immediately.",recommended,O
+16,"The patient presented with a severe headache (तेज़ सिर दर्द) and high fever, prompting an immediate CT scan which revealed a brain hemorrhage; the neurosurgeon recommended emergency surgery and prescribed 1000mg of Mannitol immediately.",emergency,B-PROCEDURE
+16,"The patient presented with a severe headache (तेज़ सिर दर्द) and high fever, prompting an immediate CT scan which revealed a brain hemorrhage; the neurosurgeon recommended emergency surgery and prescribed 1000mg of Mannitol immediately.",surgery,I-PROCEDURE
+16,"The patient presented with a severe headache (तेज़ सिर दर्द) and high fever, prompting an immediate CT scan which revealed a brain hemorrhage; the neurosurgeon recommended emergency surgery and prescribed 1000mg of Mannitol immediately.",and,O
+16,"The patient presented with a severe headache (तेज़ सिर दर्द) and high fever, prompting an immediate CT scan which revealed a brain hemorrhage; the neurosurgeon recommended emergency surgery and prescribed 1000mg of Mannitol immediately.",prescribed,O
+16,"The patient presented with a severe headache (तेज़ सिर दर्द) and high fever, prompting an immediate CT scan which revealed a brain hemorrhage; the neurosurgeon recommended emergency surgery and prescribed 1000mg of Mannitol immediately.",1000mg,B-DOSAGE
+16,"The patient presented with a severe headache (तेज़ सिर दर्द) and high fever, prompting an immediate CT scan which revealed a brain hemorrhage; the neurosurgeon recommended emergency surgery and prescribed 1000mg of Mannitol immediately.",of,O
+16,"The patient presented with a severe headache (तेज़ सिर दर्द) and high fever, prompting an immediate CT scan which revealed a brain hemorrhage; the neurosurgeon recommended emergency surgery and prescribed 1000mg of Mannitol immediately.",Mannitol,B-MEDICATION
+16,"The patient presented with a severe headache (तेज़ सिर दर्द) and high fever, prompting an immediate CT scan which revealed a brain hemorrhage; the neurosurgeon recommended emergency surgery and prescribed 1000mg of Mannitol immediately.",immediately,O
+16,"The patient presented with a severe headache (तेज़ सिर दर्द) and high fever, prompting an immediate CT scan which revealed a brain hemorrhage; the neurosurgeon recommended emergency surgery and prescribed 1000mg of Mannitol immediately.",.,O
+17,"Patient ko तेज बुखार (high fever) aur सीने में दर्द (chest pain) tha; doctor ne Blood test aur ECG karaya, phir 5mg Paracetamol diye.",Patient,O
+17,"Patient ko तेज बुखार (high fever) aur सीने में दर्द (chest pain) tha; doctor ne Blood test aur ECG karaya, phir 5mg Paracetamol diye.",ko,O
+17,"Patient ko तेज बुखार (high fever) aur सीने में दर्द (chest pain) tha; doctor ne Blood test aur ECG karaya, phir 5mg Paracetamol diye.",तेज,B-SYMPTOM
+17,"Patient ko तेज बुखार (high fever) aur सीने में दर्द (chest pain) tha; doctor ne Blood test aur ECG karaya, phir 5mg Paracetamol diye.",बुखार,I-SYMPTOM
+17,"Patient ko तेज बुखार (high fever) aur सीने में दर्द (chest pain) tha; doctor ne Blood test aur ECG karaya, phir 5mg Paracetamol diye.",(high,I-SYMPTOM
+17,"Patient ko तेज बुखार (high fever) aur सीने में दर्द (chest pain) tha; doctor ne Blood test aur ECG karaya, phir 5mg Paracetamol diye.",fever),I-SYMPTOM
+17,"Patient ko तेज बुखार (high fever) aur सीने में दर्द (chest pain) tha; doctor ne Blood test aur ECG karaya, phir 5mg Paracetamol diye.",aur,O
+17,"Patient ko तेज बुखार (high fever) aur सीने में दर्द (chest pain) tha; doctor ne Blood test aur ECG karaya, phir 5mg Paracetamol diye.",सीने,B-SYMPTOM
+17,"Patient ko तेज बुखार (high fever) aur सीने में दर्द (chest pain) tha; doctor ne Blood test aur ECG karaya, phir 5mg Paracetamol diye.",में,I-SYMPTOM
+17,"Patient ko तेज बुखार (high fever) aur सीने में दर्द (chest pain) tha; doctor ne Blood test aur ECG karaya, phir 5mg Paracetamol diye.",दर्द,I-SYMPTOM
+17,"Patient ko तेज बुखार (high fever) aur सीने में दर्द (chest pain) tha; doctor ne Blood test aur ECG karaya, phir 5mg Paracetamol diye.",(chest,I-SYMPTOM
+17,"Patient ko तेज बुखार (high fever) aur सीने में दर्द (chest pain) tha; doctor ne Blood test aur ECG karaya, phir 5mg Paracetamol diye.",pain),I-SYMPTOM
+17,"Patient ko तेज बुखार (high fever) aur सीने में दर्द (chest pain) tha; doctor ne Blood test aur ECG karaya, phir 5mg Paracetamol diye.",tha,O
+17,"Patient ko तेज बुखार (high fever) aur सीने में दर्द (chest pain) tha; doctor ne Blood test aur ECG karaya, phir 5mg Paracetamol diye.",;,O
+17,"Patient ko तेज बुखार (high fever) aur सीने में दर्द (chest pain) tha; doctor ne Blood test aur ECG karaya, phir 5mg Paracetamol diye.",doctor,O
+17,"Patient ko तेज बुखार (high fever) aur सीने में दर्द (chest pain) tha; doctor ne Blood test aur ECG karaya, phir 5mg Paracetamol diye.",ne,O
+17,"Patient ko तेज बुखार (high fever) aur सीने में दर्द (chest pain) tha; doctor ne Blood test aur ECG karaya, phir 5mg Paracetamol diye.",Blood,B-TEST
+17,"Patient ko तेज बुखार (high fever) aur सीने में दर्द (chest pain) tha; doctor ne Blood test aur ECG karaya, phir 5mg Paracetamol diye.",test,I-TEST
+17,"Patient ko तेज बुखार (high fever) aur सीने में दर्द (chest pain) tha; doctor ne Blood test aur ECG karaya, phir 5mg Paracetamol diye.",aur,O
+17,"Patient ko तेज बुखार (high fever) aur सीने में दर्द (chest pain) tha; doctor ne Blood test aur ECG karaya, phir 5mg Paracetamol diye.",ECG,B-TEST
+17,"Patient ko तेज बुखार (high fever) aur सीने में दर्द (chest pain) tha; doctor ne Blood test aur ECG karaya, phir 5mg Paracetamol diye.",karaya,O
+17,"Patient ko तेज बुखार (high fever) aur सीने में दर्द (chest pain) tha; doctor ne Blood test aur ECG karaya, phir 5mg Paracetamol diye.",",",O
+17,"Patient ko तेज बुखार (high fever) aur सीने में दर्द (chest pain) tha; doctor ne Blood test aur ECG karaya, phir 5mg Paracetamol diye.",phir,O
+17,"Patient ko तेज बुखार (high fever) aur सीने में दर्द (chest pain) tha; doctor ne Blood test aur ECG karaya, phir 5mg Paracetamol diye.",5mg,B-DOSAGE
+17,"Patient ko तेज बुखार (high fever) aur सीने में दर्द (chest pain) tha; doctor ne Blood test aur ECG karaya, phir 5mg Paracetamol diye.",Paracetamol,B-MEDICATION
+17,"Patient ko तेज बुखार (high fever) aur सीने में दर्द (chest pain) tha; doctor ne Blood test aur ECG karaya, phir 5mg Paracetamol diye.",diye,O
+17,"Patient ko तेज बुखार (high fever) aur सीने में दर्द (chest pain) tha; doctor ne Blood test aur ECG karaya, phir 5mg Paracetamol diye.",.,O
+18,"Patient ke खून में sugar ka level bahut ज़्यादा hai, isliye doctor ne usko diabetes ke liye Insulin injection, 10 units subcutaneously, likha hai aur ek blood test bhi recommend kiya hai.",Patient,O
+18,"Patient ke खून में sugar ka level bahut ज़्यादा hai, isliye doctor ne usko diabetes ke liye Insulin injection, 10 units subcutaneously, likha hai aur ek blood test bhi recommend kiya hai.",ke,O
+18,"Patient ke खून में sugar ka level bahut ज़्यादा hai, isliye doctor ne usko diabetes ke liye Insulin injection, 10 units subcutaneously, likha hai aur ek blood test bhi recommend kiya hai.",खून,O
+18,"Patient ke खून में sugar ka level bahut ज़्यादा hai, isliye doctor ne usko diabetes ke liye Insulin injection, 10 units subcutaneously, likha hai aur ek blood test bhi recommend kiya hai.",में,O
+18,"Patient ke खून में sugar ka level bahut ज़्यादा hai, isliye doctor ne usko diabetes ke liye Insulin injection, 10 units subcutaneously, likha hai aur ek blood test bhi recommend kiya hai.",sugar,B-CONDITION
+18,"Patient ke खून में sugar ka level bahut ज़्यादा hai, isliye doctor ne usko diabetes ke liye Insulin injection, 10 units subcutaneously, likha hai aur ek blood test bhi recommend kiya hai.",ka,O
+18,"Patient ke खून में sugar ka level bahut ज़्यादा hai, isliye doctor ne usko diabetes ke liye Insulin injection, 10 units subcutaneously, likha hai aur ek blood test bhi recommend kiya hai.",level,I-CONDITION
+18,"Patient ke खून में sugar ka level bahut ज़्यादा hai, isliye doctor ne usko diabetes ke liye Insulin injection, 10 units subcutaneously, likha hai aur ek blood test bhi recommend kiya hai.",bahut,O
+18,"Patient ke खून में sugar ka level bahut ज़्यादा hai, isliye doctor ne usko diabetes ke liye Insulin injection, 10 units subcutaneously, likha hai aur ek blood test bhi recommend kiya hai.",ज़्यादा,I-CONDITION
+18,"Patient ke खून में sugar ka level bahut ज़्यादा hai, isliye doctor ne usko diabetes ke liye Insulin injection, 10 units subcutaneously, likha hai aur ek blood test bhi recommend kiya hai.",hai,O
+18,"Patient ke खून में sugar ka level bahut ज़्यादा hai, isliye doctor ne usko diabetes ke liye Insulin injection, 10 units subcutaneously, likha hai aur ek blood test bhi recommend kiya hai.",इसलिए,O
+18,"Patient ke खून में sugar ka level bahut ज़्यादा hai, isliye doctor ne usko diabetes ke liye Insulin injection, 10 units subcutaneously, likha hai aur ek blood test bhi recommend kiya hai.",doctor,O
+18,"Patient ke खून में sugar ka level bahut ज़्यादा hai, isliye doctor ne usko diabetes ke liye Insulin injection, 10 units subcutaneously, likha hai aur ek blood test bhi recommend kiya hai.",ने,O
+18,"Patient ke खून में sugar ka level bahut ज़्यादा hai, isliye doctor ne usko diabetes ke liye Insulin injection, 10 units subcutaneously, likha hai aur ek blood test bhi recommend kiya hai.",उसको,O
+18,"Patient ke खून में sugar ka level bahut ज़्यादा hai, isliye doctor ne usko diabetes ke liye Insulin injection, 10 units subcutaneously, likha hai aur ek blood test bhi recommend kiya hai.",diabetes,B-CONDITION
+18,"Patient ke खून में sugar ka level bahut ज़्यादा hai, isliye doctor ne usko diabetes ke liye Insulin injection, 10 units subcutaneously, likha hai aur ek blood test bhi recommend kiya hai.",के,O
+18,"Patient ke खून में sugar ka level bahut ज़्यादा hai, isliye doctor ne usko diabetes ke liye Insulin injection, 10 units subcutaneously, likha hai aur ek blood test bhi recommend kiya hai.",लिए,O
+18,"Patient ke खून में sugar ka level bahut ज़्यादा hai, isliye doctor ne usko diabetes ke liye Insulin injection, 10 units subcutaneously, likha hai aur ek blood test bhi recommend kiya hai.",Insulin,B-MEDICATION
+18,"Patient ke खून में sugar ka level bahut ज़्यादा hai, isliye doctor ne usko diabetes ke liye Insulin injection, 10 units subcutaneously, likha hai aur ek blood test bhi recommend kiya hai.",injection,I-MEDICATION
+18,"Patient ke खून में sugar ka level bahut ज़्यादा hai, isliye doctor ne usko diabetes ke liye Insulin injection, 10 units subcutaneously, likha hai aur ek blood test bhi recommend kiya hai.",10 units,B-DOSAGE
+18,"Patient ke खून में sugar ka level bahut ज़्यादा hai, isliye doctor ne usko diabetes ke liye Insulin injection, 10 units subcutaneously, likha hai aur ek blood test bhi recommend kiya hai.",subcutaneously,O
+18,"Patient ke खून में sugar ka level bahut ज़्यादा hai, isliye doctor ne usko diabetes ke liye Insulin injection, 10 units subcutaneously, likha hai aur ek blood test bhi recommend kiya hai.",लिखा,O
+18,"Patient ke खून में sugar ka level bahut ज़्यादा hai, isliye doctor ne usko diabetes ke liye Insulin injection, 10 units subcutaneously, likha hai aur ek blood test bhi recommend kiya hai.",है,O
+18,"Patient ke खून में sugar ka level bahut ज़्यादा hai, isliye doctor ne usko diabetes ke liye Insulin injection, 10 units subcutaneously, likha hai aur ek blood test bhi recommend kiya hai.",और,O
+18,"Patient ke खून में sugar ka level bahut ज़्यादा hai, isliye doctor ne usko diabetes ke liye Insulin injection, 10 units subcutaneously, likha hai aur ek blood test bhi recommend kiya hai.",एक,O
+18,"Patient ke खून में sugar ka level bahut ज़्यादा hai, isliye doctor ne usko diabetes ke liye Insulin injection, 10 units subcutaneously, likha hai aur ek blood test bhi recommend kiya hai.",blood,B-TEST
+18,"Patient ke खून में sugar ka level bahut ज़्यादा hai, isliye doctor ne usko diabetes ke liye Insulin injection, 10 units subcutaneously, likha hai aur ek blood test bhi recommend kiya hai.",test,I-TEST
+18,"Patient ke खून में sugar ka level bahut ज़्यादा hai, isliye doctor ne usko diabetes ke liye Insulin injection, 10 units subcutaneously, likha hai aur ek blood test bhi recommend kiya hai.",भी,O
+18,"Patient ke खून में sugar ka level bahut ज़्यादा hai, isliye doctor ne usko diabetes ke liye Insulin injection, 10 units subcutaneously, likha hai aur ek blood test bhi recommend kiya hai.",recommend,O
+18,"Patient ke खून में sugar ka level bahut ज़्यादा hai, isliye doctor ne usko diabetes ke liye Insulin injection, 10 units subcutaneously, likha hai aur ek blood test bhi recommend kiya hai.",किया,O
+18,"Patient ke खून में sugar ka level bahut ज़्यादा hai, isliye doctor ne usko diabetes ke liye Insulin injection, 10 units subcutaneously, likha hai aur ek blood test bhi recommend kiya hai.",है,O
+18,"Patient ke खून में sugar ka level bahut ज़्यादा hai, isliye doctor ne usko diabetes ke liye Insulin injection, 10 units subcutaneously, likha hai aur ek blood test bhi recommend kiya hai.",.,O
+19,"Patient ko  तेज़ बुखार था,  उसके ब्लड टेस्ट में  high cholesterol  दिखाया गया, इसलिए doctor ने Lipitor 20mg  दवा लिखी।",Patient,O
+19,"Patient ko  तेज़ बुखार था,  उसके ब्लड टेस्ट में  high cholesterol  दिखाया गया, इसलिए doctor ने Lipitor 20mg  दवा लिखी।",ko,O
+19,"Patient ko  तेज़ बुखार था,  उसके ब्लड टेस्ट में  high cholesterol  दिखाया गया, इसलिए doctor ने Lipitor 20mg  दवा लिखी।",तेज़,B-SYMPTOM
+19,"Patient ko  तेज़ बुखार था,  उसके ब्लड टेस्ट में  high cholesterol  दिखाया गया, इसलिए doctor ने Lipitor 20mg  दवा लिखी।",बुखार,I-SYMPTOM
+19,"Patient ko  तेज़ बुखार था,  उसके ब्लड टेस्ट में  high cholesterol  दिखाया गया, इसलिए doctor ने Lipitor 20mg  दवा लिखी।","था,",O
+19,"Patient ko  तेज़ बुखार था,  उसके ब्लड टेस्ट में  high cholesterol  दिखाया गया, इसलिए doctor ने Lipitor 20mg  दवा लिखी।",उसके,O
+19,"Patient ko  तेज़ बुखार था,  उसके ब्लड टेस्ट में  high cholesterol  दिखाया गया, इसलिए doctor ने Lipitor 20mg  दवा लिखी।",ब्लड,B-TEST
+19,"Patient ko  तेज़ बुखार था,  उसके ब्लड टेस्ट में  high cholesterol  दिखाया गया, इसलिए doctor ने Lipitor 20mg  दवा लिखी।",टेस्ट,I-TEST
+19,"Patient ko  तेज़ बुखार था,  उसके ब्लड टेस्ट में  high cholesterol  दिखाया गया, इसलिए doctor ने Lipitor 20mg  दवा लिखी।",में,O
+19,"Patient ko  तेज़ बुखार था,  उसके ब्लड टेस्ट में  high cholesterol  दिखाया गया, इसलिए doctor ने Lipitor 20mg  दवा लिखी।",high,B-CONDITION
+19,"Patient ko  तेज़ बुखार था,  उसके ब्लड टेस्ट में  high cholesterol  दिखाया गया, इसलिए doctor ने Lipitor 20mg  दवा लिखी।",cholesterol,I-CONDITION
+19,"Patient ko  तेज़ बुखार था,  उसके ब्लड टेस्ट में  high cholesterol  दिखाया गया, इसलिए doctor ने Lipitor 20mg  दवा लिखी।",दिखाया,O
+19,"Patient ko  तेज़ बुखार था,  उसके ब्लड टेस्ट में  high cholesterol  दिखाया गया, इसलिए doctor ने Lipitor 20mg  दवा लिखी।","गया,",O
+19,"Patient ko  तेज़ बुखार था,  उसके ब्लड टेस्ट में  high cholesterol  दिखाया गया, इसलिए doctor ने Lipitor 20mg  दवा लिखी।",इसलिए,O
+19,"Patient ko  तेज़ बुखार था,  उसके ब्लड टेस्ट में  high cholesterol  दिखाया गया, इसलिए doctor ने Lipitor 20mg  दवा लिखी।",doctor,O
+19,"Patient ko  तेज़ बुखार था,  उसके ब्लड टेस्ट में  high cholesterol  दिखाया गया, इसलिए doctor ने Lipitor 20mg  दवा लिखी।",ने,O
+19,"Patient ko  तेज़ बुखार था,  उसके ब्लड टेस्ट में  high cholesterol  दिखाया गया, इसलिए doctor ने Lipitor 20mg  दवा लिखी।",Lipitor,B-MEDICATION
+19,"Patient ko  तेज़ बुखार था,  उसके ब्लड टेस्ट में  high cholesterol  दिखाया गया, इसलिए doctor ने Lipitor 20mg  दवा लिखी।",20mg,B-DOSAGE
+19,"Patient ko  तेज़ बुखार था,  उसके ब्लड टेस्ट में  high cholesterol  दिखाया गया, इसलिए doctor ने Lipitor 20mg  दवा लिखी।",दवा,O
+19,"Patient ko  तेज़ बुखार था,  उसके ब्लड टेस्ट में  high cholesterol  दिखाया गया, इसलिए doctor ने Lipitor 20mg  दवा लिखी।",लिखी।,O
+20,"Patient ko तेज बुखार (high fever) aur सीने में दर्द (chest pain) tha, isliye doctor ne immediate ECG aur blood test kiya, phir unhe 10mg Panadol diya.",Patient,O
+20,"Patient ko तेज बुखार (high fever) aur सीने में दर्द (chest pain) tha, isliye doctor ne immediate ECG aur blood test kiya, phir unhe 10mg Panadol diya.",ko,O
+20,"Patient ko तेज बुखार (high fever) aur सीने में दर्द (chest pain) tha, isliye doctor ne immediate ECG aur blood test kiya, phir unhe 10mg Panadol diya.",तेज,B-SYMPTOM
+20,"Patient ko तेज बुखार (high fever) aur सीने में दर्द (chest pain) tha, isliye doctor ne immediate ECG aur blood test kiya, phir unhe 10mg Panadol diya.",बुखार,I-SYMPTOM
+20,"Patient ko तेज बुखार (high fever) aur सीने में दर्द (chest pain) tha, isliye doctor ne immediate ECG aur blood test kiya, phir unhe 10mg Panadol diya.",(high,I-SYMPTOM
+20,"Patient ko तेज बुखार (high fever) aur सीने में दर्द (chest pain) tha, isliye doctor ne immediate ECG aur blood test kiya, phir unhe 10mg Panadol diya.",fever),I-SYMPTOM
+20,"Patient ko तेज बुखार (high fever) aur सीने में दर्द (chest pain) tha, isliye doctor ne immediate ECG aur blood test kiya, phir unhe 10mg Panadol diya.",aur,O
+20,"Patient ko तेज बुखार (high fever) aur सीने में दर्द (chest pain) tha, isliye doctor ne immediate ECG aur blood test kiya, phir unhe 10mg Panadol diya.",सीने,B-SYMPTOM
+20,"Patient ko तेज बुखार (high fever) aur सीने में दर्द (chest pain) tha, isliye doctor ne immediate ECG aur blood test kiya, phir unhe 10mg Panadol diya.",में,I-SYMPTOM
+20,"Patient ko तेज बुखार (high fever) aur सीने में दर्द (chest pain) tha, isliye doctor ne immediate ECG aur blood test kiya, phir unhe 10mg Panadol diya.",दर्द,I-SYMPTOM
+20,"Patient ko तेज बुखार (high fever) aur सीने में दर्द (chest pain) tha, isliye doctor ne immediate ECG aur blood test kiya, phir unhe 10mg Panadol diya.",(chest,I-SYMPTOM
+20,"Patient ko तेज बुखार (high fever) aur सीने में दर्द (chest pain) tha, isliye doctor ne immediate ECG aur blood test kiya, phir unhe 10mg Panadol diya.",pain),I-SYMPTOM
+20,"Patient ko तेज बुखार (high fever) aur सीने में दर्द (chest pain) tha, isliye doctor ne immediate ECG aur blood test kiya, phir unhe 10mg Panadol diya.","tha,",O
+20,"Patient ko तेज बुखार (high fever) aur सीने में दर्द (chest pain) tha, isliye doctor ne immediate ECG aur blood test kiya, phir unhe 10mg Panadol diya.",isliye,O
+20,"Patient ko तेज बुखार (high fever) aur सीने में दर्द (chest pain) tha, isliye doctor ne immediate ECG aur blood test kiya, phir unhe 10mg Panadol diya.",doctor,O
+20,"Patient ko तेज बुखार (high fever) aur सीने में दर्द (chest pain) tha, isliye doctor ne immediate ECG aur blood test kiya, phir unhe 10mg Panadol diya.",ne,O
+20,"Patient ko तेज बुखार (high fever) aur सीने में दर्द (chest pain) tha, isliye doctor ne immediate ECG aur blood test kiya, phir unhe 10mg Panadol diya.",immediate,O
+20,"Patient ko तेज बुखार (high fever) aur सीने में दर्द (chest pain) tha, isliye doctor ne immediate ECG aur blood test kiya, phir unhe 10mg Panadol diya.",ECG,B-TEST
+20,"Patient ko तेज बुखार (high fever) aur सीने में दर्द (chest pain) tha, isliye doctor ne immediate ECG aur blood test kiya, phir unhe 10mg Panadol diya.",aur,O
+20,"Patient ko तेज बुखार (high fever) aur सीने में दर्द (chest pain) tha, isliye doctor ne immediate ECG aur blood test kiya, phir unhe 10mg Panadol diya.",blood,B-TEST
+20,"Patient ko तेज बुखार (high fever) aur सीने में दर्द (chest pain) tha, isliye doctor ne immediate ECG aur blood test kiya, phir unhe 10mg Panadol diya.",test,I-TEST
+20,"Patient ko तेज बुखार (high fever) aur सीने में दर्द (chest pain) tha, isliye doctor ne immediate ECG aur blood test kiya, phir unhe 10mg Panadol diya.","kiya,",O
+20,"Patient ko तेज बुखार (high fever) aur सीने में दर्द (chest pain) tha, isliye doctor ne immediate ECG aur blood test kiya, phir unhe 10mg Panadol diya.",phir,O
+20,"Patient ko तेज बुखार (high fever) aur सीने में दर्द (chest pain) tha, isliye doctor ne immediate ECG aur blood test kiya, phir unhe 10mg Panadol diya.",unhe,O
+20,"Patient ko तेज बुखार (high fever) aur सीने में दर्द (chest pain) tha, isliye doctor ne immediate ECG aur blood test kiya, phir unhe 10mg Panadol diya.",10mg,B-DOSAGE
+20,"Patient ko तेज बुखार (high fever) aur सीने में दर्द (chest pain) tha, isliye doctor ne immediate ECG aur blood test kiya, phir unhe 10mg Panadol diya.",Panadol,B-MEDICATION
+20,"Patient ko तेज बुखार (high fever) aur सीने में दर्द (chest pain) tha, isliye doctor ne immediate ECG aur blood test kiya, phir unhe 10mg Panadol diya.",diya,O
+20,"Patient ko तेज बुखार (high fever) aur सीने में दर्द (chest pain) tha, isliye doctor ne immediate ECG aur blood test kiya, phir unhe 10mg Panadol diya.",.,O
+21,"Patient ko तेज़ बुखार hai, aur usne blood test karaya hai jismein uske WBCs bahut zyada the. Doctor ne antibiotics B-MEDICATION prescribed kiye hai.",Patient,O
+21,"Patient ko तेज़ बुखार hai, aur usne blood test karaya hai jismein uske WBCs bahut zyada the. Doctor ne antibiotics B-MEDICATION prescribed kiye hai.",ko,O
+21,"Patient ko तेज़ बुखार hai, aur usne blood test karaya hai jismein uske WBCs bahut zyada the. Doctor ne antibiotics B-MEDICATION prescribed kiye hai.",तेज़,B-SYMPTOM
+21,"Patient ko तेज़ बुखार hai, aur usne blood test karaya hai jismein uske WBCs bahut zyada the. Doctor ne antibiotics B-MEDICATION prescribed kiye hai.",बुखार,I-SYMPTOM
+21,"Patient ko तेज़ बुखार hai, aur usne blood test karaya hai jismein uske WBCs bahut zyada the. Doctor ne antibiotics B-MEDICATION prescribed kiye hai.",hai,O
+21,"Patient ko तेज़ बुखार hai, aur usne blood test karaya hai jismein uske WBCs bahut zyada the. Doctor ne antibiotics B-MEDICATION prescribed kiye hai.",aur,O
+21,"Patient ko तेज़ बुखार hai, aur usne blood test karaya hai jismein uske WBCs bahut zyada the. Doctor ne antibiotics B-MEDICATION prescribed kiye hai.",usne,O
+21,"Patient ko तेज़ बुखार hai, aur usne blood test karaya hai jismein uske WBCs bahut zyada the. Doctor ne antibiotics B-MEDICATION prescribed kiye hai.",blood,B-TEST
+21,"Patient ko तेज़ बुखार hai, aur usne blood test karaya hai jismein uske WBCs bahut zyada the. Doctor ne antibiotics B-MEDICATION prescribed kiye hai.",test,I-TEST
+21,"Patient ko तेज़ बुखार hai, aur usne blood test karaya hai jismein uske WBCs bahut zyada the. Doctor ne antibiotics B-MEDICATION prescribed kiye hai.",karaya,O
+21,"Patient ko तेज़ बुखार hai, aur usne blood test karaya hai jismein uske WBCs bahut zyada the. Doctor ne antibiotics B-MEDICATION prescribed kiye hai.",hai,O
+21,"Patient ko तेज़ बुखार hai, aur usne blood test karaya hai jismein uske WBCs bahut zyada the. Doctor ne antibiotics B-MEDICATION prescribed kiye hai.",jismein,O
+21,"Patient ko तेज़ बुखार hai, aur usne blood test karaya hai jismein uske WBCs bahut zyada the. Doctor ne antibiotics B-MEDICATION prescribed kiye hai.",uske,O
+21,"Patient ko तेज़ बुखार hai, aur usne blood test karaya hai jismein uske WBCs bahut zyada the. Doctor ne antibiotics B-MEDICATION prescribed kiye hai.",WBCs,B-CONDITION
+21,"Patient ko तेज़ बुखार hai, aur usne blood test karaya hai jismein uske WBCs bahut zyada the. Doctor ne antibiotics B-MEDICATION prescribed kiye hai.",bahut,O
+21,"Patient ko तेज़ बुखार hai, aur usne blood test karaya hai jismein uske WBCs bahut zyada the. Doctor ne antibiotics B-MEDICATION prescribed kiye hai.",zyada,O
+21,"Patient ko तेज़ बुखार hai, aur usne blood test karaya hai jismein uske WBCs bahut zyada the. Doctor ne antibiotics B-MEDICATION prescribed kiye hai.",the,O
+21,"Patient ko तेज़ बुखार hai, aur usne blood test karaya hai jismein uske WBCs bahut zyada the. Doctor ne antibiotics B-MEDICATION prescribed kiye hai.",Doctor,O
+21,"Patient ko तेज़ बुखार hai, aur usne blood test karaya hai jismein uske WBCs bahut zyada the. Doctor ne antibiotics B-MEDICATION prescribed kiye hai.",ne,O
+21,"Patient ko तेज़ बुखार hai, aur usne blood test karaya hai jismein uske WBCs bahut zyada the. Doctor ne antibiotics B-MEDICATION prescribed kiye hai.",antibiotics,B-MEDICATION
+21,"Patient ko तेज़ बुखार hai, aur usne blood test karaya hai jismein uske WBCs bahut zyada the. Doctor ne antibiotics B-MEDICATION prescribed kiye hai.",prescribed,O
+21,"Patient ko तेज़ बुखार hai, aur usne blood test karaya hai jismein uske WBCs bahut zyada the. Doctor ne antibiotics B-MEDICATION prescribed kiye hai.",kiye,O
+21,"Patient ko तेज़ बुखार hai, aur usne blood test karaya hai jismein uske WBCs bahut zyada the. Doctor ne antibiotics B-MEDICATION prescribed kiye hai.",hai,O
+22,"Patient ko तेज बुखार (high fever) aur सीने में दर्द (chest pain) hai.  Usko emergency mein  ECG aur Blood test kiya gaya tha, aur doctor ne prescribed किया 500mg Paracetamol हर 6 घंटे पे।",Patient,O
+22,"Patient ko तेज बुखार (high fever) aur सीने में दर्द (chest pain) hai.  Usko emergency mein  ECG aur Blood test kiya gaya tha, aur doctor ne prescribed किया 500mg Paracetamol हर 6 घंटे पे।",ko,O
+22,"Patient ko तेज बुखार (high fever) aur सीने में दर्द (chest pain) hai.  Usko emergency mein  ECG aur Blood test kiya gaya tha, aur doctor ne prescribed किया 500mg Paracetamol हर 6 घंटे पे।",तेज,B-SYMPTOM
+22,"Patient ko तेज बुखार (high fever) aur सीने में दर्द (chest pain) hai.  Usko emergency mein  ECG aur Blood test kiya gaya tha, aur doctor ne prescribed किया 500mg Paracetamol हर 6 घंटे पे।",बुखार,I-SYMPTOM
+22,"Patient ko तेज बुखार (high fever) aur सीने में दर्द (chest pain) hai.  Usko emergency mein  ECG aur Blood test kiya gaya tha, aur doctor ne prescribed किया 500mg Paracetamol हर 6 घंटे पे।",(high,I-SYMPTOM
+22,"Patient ko तेज बुखार (high fever) aur सीने में दर्द (chest pain) hai.  Usko emergency mein  ECG aur Blood test kiya gaya tha, aur doctor ne prescribed किया 500mg Paracetamol हर 6 घंटे पे।",fever),I-SYMPTOM
+22,"Patient ko तेज बुखार (high fever) aur सीने में दर्द (chest pain) hai.  Usko emergency mein  ECG aur Blood test kiya gaya tha, aur doctor ne prescribed किया 500mg Paracetamol हर 6 घंटे पे।",aur,O
+22,"Patient ko तेज बुखार (high fever) aur सीने में दर्द (chest pain) hai.  Usko emergency mein  ECG aur Blood test kiya gaya tha, aur doctor ne prescribed किया 500mg Paracetamol हर 6 घंटे पे।",सीने,B-SYMPTOM
+22,"Patient ko तेज बुखार (high fever) aur सीने में दर्द (chest pain) hai.  Usko emergency mein  ECG aur Blood test kiya gaya tha, aur doctor ne prescribed किया 500mg Paracetamol हर 6 घंटे पे।",में,I-SYMPTOM
+22,"Patient ko तेज बुखार (high fever) aur सीने में दर्द (chest pain) hai.  Usko emergency mein  ECG aur Blood test kiya gaya tha, aur doctor ne prescribed किया 500mg Paracetamol हर 6 घंटे पे।",दर्द,I-SYMPTOM
+22,"Patient ko तेज बुखार (high fever) aur सीने में दर्द (chest pain) hai.  Usko emergency mein  ECG aur Blood test kiya gaya tha, aur doctor ne prescribed किया 500mg Paracetamol हर 6 घंटे पे।",(chest,I-SYMPTOM
+22,"Patient ko तेज बुखार (high fever) aur सीने में दर्द (chest pain) hai.  Usko emergency mein  ECG aur Blood test kiya gaya tha, aur doctor ne prescribed किया 500mg Paracetamol हर 6 घंटे पे।",pain),I-SYMPTOM
+22,"Patient ko तेज बुखार (high fever) aur सीने में दर्द (chest pain) hai.  Usko emergency mein  ECG aur Blood test kiya gaya tha, aur doctor ne prescribed किया 500mg Paracetamol हर 6 घंटे पे।",hai,O
+22,"Patient ko तेज बुखार (high fever) aur सीने में दर्द (chest pain) hai.  Usko emergency mein  ECG aur Blood test kiya gaya tha, aur doctor ne prescribed किया 500mg Paracetamol हर 6 घंटे पे।",Usko,O
+22,"Patient ko तेज बुखार (high fever) aur सीने में दर्द (chest pain) hai.  Usko emergency mein  ECG aur Blood test kiya gaya tha, aur doctor ne prescribed किया 500mg Paracetamol हर 6 घंटे पे।",emergency,O
+22,"Patient ko तेज बुखार (high fever) aur सीने में दर्द (chest pain) hai.  Usko emergency mein  ECG aur Blood test kiya gaya tha, aur doctor ne prescribed किया 500mg Paracetamol हर 6 घंटे पे।",mein,O
+22,"Patient ko तेज बुखार (high fever) aur सीने में दर्द (chest pain) hai.  Usko emergency mein  ECG aur Blood test kiya gaya tha, aur doctor ne prescribed किया 500mg Paracetamol हर 6 घंटे पे।",ECG,B-TEST
+22,"Patient ko तेज बुखार (high fever) aur सीने में दर्द (chest pain) hai.  Usko emergency mein  ECG aur Blood test kiya gaya tha, aur doctor ne prescribed किया 500mg Paracetamol हर 6 घंटे पे।",aur,O
+22,"Patient ko तेज बुखार (high fever) aur सीने में दर्द (chest pain) hai.  Usko emergency mein  ECG aur Blood test kiya gaya tha, aur doctor ne prescribed किया 500mg Paracetamol हर 6 घंटे पे।",Blood,B-TEST
+22,"Patient ko तेज बुखार (high fever) aur सीने में दर्द (chest pain) hai.  Usko emergency mein  ECG aur Blood test kiya gaya tha, aur doctor ne prescribed किया 500mg Paracetamol हर 6 घंटे पे।",test,I-TEST
+22,"Patient ko तेज बुखार (high fever) aur सीने में दर्द (chest pain) hai.  Usko emergency mein  ECG aur Blood test kiya gaya tha, aur doctor ne prescribed किया 500mg Paracetamol हर 6 घंटे पे।",kiya,O
+22,"Patient ko तेज बुखार (high fever) aur सीने में दर्द (chest pain) hai.  Usko emergency mein  ECG aur Blood test kiya gaya tha, aur doctor ne prescribed किया 500mg Paracetamol हर 6 घंटे पे।",gaya,O
+22,"Patient ko तेज बुखार (high fever) aur सीने में दर्द (chest pain) hai.  Usko emergency mein  ECG aur Blood test kiya gaya tha, aur doctor ne prescribed किया 500mg Paracetamol हर 6 घंटे पे।",tha,O
+22,"Patient ko तेज बुखार (high fever) aur सीने में दर्द (chest pain) hai.  Usko emergency mein  ECG aur Blood test kiya gaya tha, aur doctor ne prescribed किया 500mg Paracetamol हर 6 घंटे पे।",aur,O
+22,"Patient ko तेज बुखार (high fever) aur सीने में दर्द (chest pain) hai.  Usko emergency mein  ECG aur Blood test kiya gaya tha, aur doctor ne prescribed किया 500mg Paracetamol हर 6 घंटे पे।",doctor,O
+22,"Patient ko तेज बुखार (high fever) aur सीने में दर्द (chest pain) hai.  Usko emergency mein  ECG aur Blood test kiya gaya tha, aur doctor ne prescribed किया 500mg Paracetamol हर 6 घंटे पे।",ne,O
+22,"Patient ko तेज बुखार (high fever) aur सीने में दर्द (chest pain) hai.  Usko emergency mein  ECG aur Blood test kiya gaya tha, aur doctor ne prescribed किया 500mg Paracetamol हर 6 घंटे पे।",prescribed,O
+22,"Patient ko तेज बुखार (high fever) aur सीने में दर्द (chest pain) hai.  Usko emergency mein  ECG aur Blood test kiya gaya tha, aur doctor ne prescribed किया 500mg Paracetamol हर 6 घंटे पे।",किया,O
+22,"Patient ko तेज बुखार (high fever) aur सीने में दर्द (chest pain) hai.  Usko emergency mein  ECG aur Blood test kiya gaya tha, aur doctor ne prescribed किया 500mg Paracetamol हर 6 घंटे पे।",500mg,B-DOSAGE
+22,"Patient ko तेज बुखार (high fever) aur सीने में दर्द (chest pain) hai.  Usko emergency mein  ECG aur Blood test kiya gaya tha, aur doctor ne prescribed किया 500mg Paracetamol हर 6 घंटे पे।",Paracetamol,B-MEDICATION
+22,"Patient ko तेज बुखार (high fever) aur सीने में दर्द (chest pain) hai.  Usko emergency mein  ECG aur Blood test kiya gaya tha, aur doctor ne prescribed किया 500mg Paracetamol हर 6 घंटे पे।",हर,O
+22,"Patient ko तेज बुखार (high fever) aur सीने में दर्द (chest pain) hai.  Usko emergency mein  ECG aur Blood test kiya gaya tha, aur doctor ne prescribed किया 500mg Paracetamol हर 6 घंटे पे।",6,B-DOSAGE
+22,"Patient ko तेज बुखार (high fever) aur सीने में दर्द (chest pain) hai.  Usko emergency mein  ECG aur Blood test kiya gaya tha, aur doctor ne prescribed किया 500mg Paracetamol हर 6 घंटे पे।",घंटे,O
+22,"Patient ko तेज बुखार (high fever) aur सीने में दर्द (chest pain) hai.  Usko emergency mein  ECG aur Blood test kiya gaya tha, aur doctor ne prescribed किया 500mg Paracetamol हर 6 घंटे पे।",पे,O
+22,"Patient ko तेज बुखार (high fever) aur सीने में दर्द (chest pain) hai.  Usko emergency mein  ECG aur Blood test kiya gaya tha, aur doctor ne prescribed किया 500mg Paracetamol हर 6 घंटे पे।",।,O
+23,"Emergency में patient को chest pain की शिकायत थी, ECG किया गया जिसमे ST elevation दिखा,  फिर angioplasty की गई।",Emergency,O
+23,"Emergency में patient को chest pain की शिकायत थी, ECG किया गया जिसमे ST elevation दिखा,  फिर angioplasty की गई।",में,O
+23,"Emergency में patient को chest pain की शिकायत थी, ECG किया गया जिसमे ST elevation दिखा,  फिर angioplasty की गई।",patient,O
+23,"Emergency में patient को chest pain की शिकायत थी, ECG किया गया जिसमे ST elevation दिखा,  फिर angioplasty की गई।",को,O
+23,"Emergency में patient को chest pain की शिकायत थी, ECG किया गया जिसमे ST elevation दिखा,  फिर angioplasty की गई।",chest pain,B-SYMPTOM
+23,"Emergency में patient को chest pain की शिकायत थी, ECG किया गया जिसमे ST elevation दिखा,  फिर angioplasty की गई।",की,O
+23,"Emergency में patient को chest pain की शिकायत थी, ECG किया गया जिसमे ST elevation दिखा,  फिर angioplasty की गई।",शिकायत,O
+23,"Emergency में patient को chest pain की शिकायत थी, ECG किया गया जिसमे ST elevation दिखा,  फिर angioplasty की गई।",थी,O
+23,"Emergency में patient को chest pain की शिकायत थी, ECG किया गया जिसमे ST elevation दिखा,  फिर angioplasty की गई।",ECG,B-TEST
+23,"Emergency में patient को chest pain की शिकायत थी, ECG किया गया जिसमे ST elevation दिखा,  फिर angioplasty की गई।",किया,O
+23,"Emergency में patient को chest pain की शिकायत थी, ECG किया गया जिसमे ST elevation दिखा,  फिर angioplasty की गई।",गया,O
+23,"Emergency में patient को chest pain की शिकायत थी, ECG किया गया जिसमे ST elevation दिखा,  फिर angioplasty की गई।",जिसमे,O
+23,"Emergency में patient को chest pain की शिकायत थी, ECG किया गया जिसमे ST elevation दिखा,  फिर angioplasty की गई।",ST elevation,B-SYMPTOM
+23,"Emergency में patient को chest pain की शिकायत थी, ECG किया गया जिसमे ST elevation दिखा,  फिर angioplasty की गई।",दिखा,O
+23,"Emergency में patient को chest pain की शिकायत थी, ECG किया गया जिसमे ST elevation दिखा,  फिर angioplasty की गई।",फिर,O
+23,"Emergency में patient को chest pain की शिकायत थी, ECG किया गया जिसमे ST elevation दिखा,  फिर angioplasty की गई।",angioplasty,B-PROCEDURE
+23,"Emergency में patient को chest pain की शिकायत थी, ECG किया गया जिसमे ST elevation दिखा,  फिर angioplasty की गई।",की,O
+23,"Emergency में patient को chest pain की शिकायत थी, ECG किया गया जिसमे ST elevation दिखा,  फिर angioplasty की गई।",गई,O
+23,"Emergency में patient को chest pain की शिकायत थी, ECG किया गया जिसमे ST elevation दिखा,  फिर angioplasty की गई।",।,O
+24,"Patient ko तेज़ बुखार tha, aur usne chest pain ki shikayat ki; doctor ne immediate ECG aur blood test karne ka order diya.",Patient,O
+24,"Patient ko तेज़ बुखार tha, aur usne chest pain ki shikayat ki; doctor ne immediate ECG aur blood test karne ka order diya.",ko,O
+24,"Patient ko तेज़ बुखार tha, aur usne chest pain ki shikayat ki; doctor ne immediate ECG aur blood test karne ka order diya.",तेज़,B-SYMPTOM
+24,"Patient ko तेज़ बुखार tha, aur usne chest pain ki shikayat ki; doctor ne immediate ECG aur blood test karne ka order diya.",बुखार,I-SYMPTOM
+24,"Patient ko तेज़ बुखार tha, aur usne chest pain ki shikayat ki; doctor ne immediate ECG aur blood test karne ka order diya.",tha,O
+24,"Patient ko तेज़ बुखार tha, aur usne chest pain ki shikayat ki; doctor ne immediate ECG aur blood test karne ka order diya.",aur,O
+24,"Patient ko तेज़ बुखार tha, aur usne chest pain ki shikayat ki; doctor ne immediate ECG aur blood test karne ka order diya.",usne,O
+24,"Patient ko तेज़ बुखार tha, aur usne chest pain ki shikayat ki; doctor ne immediate ECG aur blood test karne ka order diya.",chest,B-SYMPTOM
+24,"Patient ko तेज़ बुखार tha, aur usne chest pain ki shikayat ki; doctor ne immediate ECG aur blood test karne ka order diya.",pain,I-SYMPTOM
+24,"Patient ko तेज़ बुखार tha, aur usne chest pain ki shikayat ki; doctor ne immediate ECG aur blood test karne ka order diya.",ki,O
+24,"Patient ko तेज़ बुखार tha, aur usne chest pain ki shikayat ki; doctor ne immediate ECG aur blood test karne ka order diya.",shikayat,O
+24,"Patient ko तेज़ बुखार tha, aur usne chest pain ki shikayat ki; doctor ne immediate ECG aur blood test karne ka order diya.",ki,O
+24,"Patient ko तेज़ बुखार tha, aur usne chest pain ki shikayat ki; doctor ne immediate ECG aur blood test karne ka order diya.",doctor,O
+24,"Patient ko तेज़ बुखार tha, aur usne chest pain ki shikayat ki; doctor ne immediate ECG aur blood test karne ka order diya.",ne,O
+24,"Patient ko तेज़ बुखार tha, aur usne chest pain ki shikayat ki; doctor ne immediate ECG aur blood test karne ka order diya.",immediate,O
+24,"Patient ko तेज़ बुखार tha, aur usne chest pain ki shikayat ki; doctor ne immediate ECG aur blood test karne ka order diya.",ECG,B-TEST
+24,"Patient ko तेज़ बुखार tha, aur usne chest pain ki shikayat ki; doctor ne immediate ECG aur blood test karne ka order diya.",aur,O
+24,"Patient ko तेज़ बुखार tha, aur usne chest pain ki shikayat ki; doctor ne immediate ECG aur blood test karne ka order diya.",blood,B-TEST
+24,"Patient ko तेज़ बुखार tha, aur usne chest pain ki shikayat ki; doctor ne immediate ECG aur blood test karne ka order diya.",test,I-TEST
+24,"Patient ko तेज़ बुखार tha, aur usne chest pain ki shikayat ki; doctor ne immediate ECG aur blood test karne ka order diya.",karne,O
+24,"Patient ko तेज़ बुखार tha, aur usne chest pain ki shikayat ki; doctor ne immediate ECG aur blood test karne ka order diya.",ka,O
+24,"Patient ko तेज़ बुखार tha, aur usne chest pain ki shikayat ki; doctor ne immediate ECG aur blood test karne ka order diya.",order,O
+24,"Patient ko तेज़ बुखार tha, aur usne chest pain ki shikayat ki; doctor ne immediate ECG aur blood test karne ka order diya.",diya,O
+25,"Patient ko तेज बुखार (high fever) aur सीने में दर्द (chest pain) ki shikayat thi, isliye doctor ne Blood test aur ECG karne ko kaha, aur 500mg Paracetamol  prescribed kiya.",Patient,O
+25,"Patient ko तेज बुखार (high fever) aur सीने में दर्द (chest pain) ki shikayat thi, isliye doctor ne Blood test aur ECG karne ko kaha, aur 500mg Paracetamol  prescribed kiya.",ko,O
+25,"Patient ko तेज बुखार (high fever) aur सीने में दर्द (chest pain) ki shikayat thi, isliye doctor ne Blood test aur ECG karne ko kaha, aur 500mg Paracetamol  prescribed kiya.",तेज,B-SYMPTOM
+25,"Patient ko तेज बुखार (high fever) aur सीने में दर्द (chest pain) ki shikayat thi, isliye doctor ne Blood test aur ECG karne ko kaha, aur 500mg Paracetamol  prescribed kiya.",बुखार,I-SYMPTOM
+25,"Patient ko तेज बुखार (high fever) aur सीने में दर्द (chest pain) ki shikayat thi, isliye doctor ne Blood test aur ECG karne ko kaha, aur 500mg Paracetamol  prescribed kiya.",(high,B-SYMPTOM
+25,"Patient ko तेज बुखार (high fever) aur सीने में दर्द (chest pain) ki shikayat thi, isliye doctor ne Blood test aur ECG karne ko kaha, aur 500mg Paracetamol  prescribed kiya.",fever),I-SYMPTOM
+25,"Patient ko तेज बुखार (high fever) aur सीने में दर्द (chest pain) ki shikayat thi, isliye doctor ne Blood test aur ECG karne ko kaha, aur 500mg Paracetamol  prescribed kiya.",aur,O
+25,"Patient ko तेज बुखार (high fever) aur सीने में दर्द (chest pain) ki shikayat thi, isliye doctor ne Blood test aur ECG karne ko kaha, aur 500mg Paracetamol  prescribed kiya.",सीने,B-SYMPTOM
+25,"Patient ko तेज बुखार (high fever) aur सीने में दर्द (chest pain) ki shikayat thi, isliye doctor ne Blood test aur ECG karne ko kaha, aur 500mg Paracetamol  prescribed kiya.",में,I-SYMPTOM
+25,"Patient ko तेज बुखार (high fever) aur सीने में दर्द (chest pain) ki shikayat thi, isliye doctor ne Blood test aur ECG karne ko kaha, aur 500mg Paracetamol  prescribed kiya.",दर्द,I-SYMPTOM
+25,"Patient ko तेज बुखार (high fever) aur सीने में दर्द (chest pain) ki shikayat thi, isliye doctor ne Blood test aur ECG karne ko kaha, aur 500mg Paracetamol  prescribed kiya.",(chest,B-SYMPTOM
+25,"Patient ko तेज बुखार (high fever) aur सीने में दर्द (chest pain) ki shikayat thi, isliye doctor ne Blood test aur ECG karne ko kaha, aur 500mg Paracetamol  prescribed kiya.",pain),I-SYMPTOM
+25,"Patient ko तेज बुखार (high fever) aur सीने में दर्द (chest pain) ki shikayat thi, isliye doctor ne Blood test aur ECG karne ko kaha, aur 500mg Paracetamol  prescribed kiya.",ki,O
+25,"Patient ko तेज बुखार (high fever) aur सीने में दर्द (chest pain) ki shikayat thi, isliye doctor ne Blood test aur ECG karne ko kaha, aur 500mg Paracetamol  prescribed kiya.",shikayat,O
+25,"Patient ko तेज बुखार (high fever) aur सीने में दर्द (chest pain) ki shikayat thi, isliye doctor ne Blood test aur ECG karne ko kaha, aur 500mg Paracetamol  prescribed kiya.","thi,",O
+25,"Patient ko तेज बुखार (high fever) aur सीने में दर्द (chest pain) ki shikayat thi, isliye doctor ne Blood test aur ECG karne ko kaha, aur 500mg Paracetamol  prescribed kiya.",isliye,O
+25,"Patient ko तेज बुखार (high fever) aur सीने में दर्द (chest pain) ki shikayat thi, isliye doctor ne Blood test aur ECG karne ko kaha, aur 500mg Paracetamol  prescribed kiya.",doctor,O
+25,"Patient ko तेज बुखार (high fever) aur सीने में दर्द (chest pain) ki shikayat thi, isliye doctor ne Blood test aur ECG karne ko kaha, aur 500mg Paracetamol  prescribed kiya.",ne,O
+25,"Patient ko तेज बुखार (high fever) aur सीने में दर्द (chest pain) ki shikayat thi, isliye doctor ne Blood test aur ECG karne ko kaha, aur 500mg Paracetamol  prescribed kiya.",Blood,B-TEST
+25,"Patient ko तेज बुखार (high fever) aur सीने में दर्द (chest pain) ki shikayat thi, isliye doctor ne Blood test aur ECG karne ko kaha, aur 500mg Paracetamol  prescribed kiya.",test,I-TEST
+25,"Patient ko तेज बुखार (high fever) aur सीने में दर्द (chest pain) ki shikayat thi, isliye doctor ne Blood test aur ECG karne ko kaha, aur 500mg Paracetamol  prescribed kiya.",aur,O
+25,"Patient ko तेज बुखार (high fever) aur सीने में दर्द (chest pain) ki shikayat thi, isliye doctor ne Blood test aur ECG karne ko kaha, aur 500mg Paracetamol  prescribed kiya.",ECG,B-TEST
+25,"Patient ko तेज बुखार (high fever) aur सीने में दर्द (chest pain) ki shikayat thi, isliye doctor ne Blood test aur ECG karne ko kaha, aur 500mg Paracetamol  prescribed kiya.",karne,O
+25,"Patient ko तेज बुखार (high fever) aur सीने में दर्द (chest pain) ki shikayat thi, isliye doctor ne Blood test aur ECG karne ko kaha, aur 500mg Paracetamol  prescribed kiya.",ko,O
+25,"Patient ko तेज बुखार (high fever) aur सीने में दर्द (chest pain) ki shikayat thi, isliye doctor ne Blood test aur ECG karne ko kaha, aur 500mg Paracetamol  prescribed kiya.","kaha,",O
+25,"Patient ko तेज बुखार (high fever) aur सीने में दर्द (chest pain) ki shikayat thi, isliye doctor ne Blood test aur ECG karne ko kaha, aur 500mg Paracetamol  prescribed kiya.",aur,O
+25,"Patient ko तेज बुखार (high fever) aur सीने में दर्द (chest pain) ki shikayat thi, isliye doctor ne Blood test aur ECG karne ko kaha, aur 500mg Paracetamol  prescribed kiya.",500mg,B-DOSAGE
+25,"Patient ko तेज बुखार (high fever) aur सीने में दर्द (chest pain) ki shikayat thi, isliye doctor ne Blood test aur ECG karne ko kaha, aur 500mg Paracetamol  prescribed kiya.",Paracetamol,B-MEDICATION
+25,"Patient ko तेज बुखार (high fever) aur सीने में दर्द (chest pain) ki shikayat thi, isliye doctor ne Blood test aur ECG karne ko kaha, aur 500mg Paracetamol  prescribed kiya.",prescribed,O
+25,"Patient ko तेज बुखार (high fever) aur सीने में दर्द (chest pain) ki shikayat thi, isliye doctor ne Blood test aur ECG karne ko kaha, aur 500mg Paracetamol  prescribed kiya.",kiya,O
+25,"Patient ko तेज बुखार (high fever) aur सीने में दर्द (chest pain) ki shikayat thi, isliye doctor ne Blood test aur ECG karne ko kaha, aur 500mg Paracetamol  prescribed kiya.",.,O
+26,"Emergency में patient को  chest pain की शिकायत के साथ लाया गया, ECG किया गया, जिसमें ST elevation दिखा, फिर angioplasty की गई।",Emergency,O
+26,"Emergency में patient को  chest pain की शिकायत के साथ लाया गया, ECG किया गया, जिसमें ST elevation दिखा, फिर angioplasty की गई।",में,O
+26,"Emergency में patient को  chest pain की शिकायत के साथ लाया गया, ECG किया गया, जिसमें ST elevation दिखा, फिर angioplasty की गई।",patient,O
+26,"Emergency में patient को  chest pain की शिकायत के साथ लाया गया, ECG किया गया, जिसमें ST elevation दिखा, फिर angioplasty की गई।",को,O
+26,"Emergency में patient को  chest pain की शिकायत के साथ लाया गया, ECG किया गया, जिसमें ST elevation दिखा, फिर angioplasty की गई।",chest pain,B-SYMPTOM
+26,"Emergency में patient को  chest pain की शिकायत के साथ लाया गया, ECG किया गया, जिसमें ST elevation दिखा, फिर angioplasty की गई।",की,O
+26,"Emergency में patient को  chest pain की शिकायत के साथ लाया गया, ECG किया गया, जिसमें ST elevation दिखा, फिर angioplasty की गई।",शिकायत,O
+26,"Emergency में patient को  chest pain की शिकायत के साथ लाया गया, ECG किया गया, जिसमें ST elevation दिखा, फिर angioplasty की गई।",के,O
+26,"Emergency में patient को  chest pain की शिकायत के साथ लाया गया, ECG किया गया, जिसमें ST elevation दिखा, फिर angioplasty की गई।",साथ,O
+26,"Emergency में patient को  chest pain की शिकायत के साथ लाया गया, ECG किया गया, जिसमें ST elevation दिखा, फिर angioplasty की गई।",लाया,O
+26,"Emergency में patient को  chest pain की शिकायत के साथ लाया गया, ECG किया गया, जिसमें ST elevation दिखा, फिर angioplasty की गई।",गया,O
+26,"Emergency में patient को  chest pain की शिकायत के साथ लाया गया, ECG किया गया, जिसमें ST elevation दिखा, फिर angioplasty की गई।",",",O
+26,"Emergency में patient को  chest pain की शिकायत के साथ लाया गया, ECG किया गया, जिसमें ST elevation दिखा, फिर angioplasty की गई।",ECG,B-TEST
+26,"Emergency में patient को  chest pain की शिकायत के साथ लाया गया, ECG किया गया, जिसमें ST elevation दिखा, फिर angioplasty की गई।",किया,O
+26,"Emergency में patient को  chest pain की शिकायत के साथ लाया गया, ECG किया गया, जिसमें ST elevation दिखा, फिर angioplasty की गई।",गया,O
+26,"Emergency में patient को  chest pain की शिकायत के साथ लाया गया, ECG किया गया, जिसमें ST elevation दिखा, फिर angioplasty की गई।",",",O
+26,"Emergency में patient को  chest pain की शिकायत के साथ लाया गया, ECG किया गया, जिसमें ST elevation दिखा, फिर angioplasty की गई।",जिसमें,O
+26,"Emergency में patient को  chest pain की शिकायत के साथ लाया गया, ECG किया गया, जिसमें ST elevation दिखा, फिर angioplasty की गई।",ST elevation,B-SYMPTOM
+26,"Emergency में patient को  chest pain की शिकायत के साथ लाया गया, ECG किया गया, जिसमें ST elevation दिखा, फिर angioplasty की गई।",दिखा,O
+26,"Emergency में patient को  chest pain की शिकायत के साथ लाया गया, ECG किया गया, जिसमें ST elevation दिखा, फिर angioplasty की गई।",",",O
+26,"Emergency में patient को  chest pain की शिकायत के साथ लाया गया, ECG किया गया, जिसमें ST elevation दिखा, फिर angioplasty की गई।",फिर,O
+26,"Emergency में patient को  chest pain की शिकायत के साथ लाया गया, ECG किया गया, जिसमें ST elevation दिखा, फिर angioplasty की गई।",angioplasty,B-PROCEDURE
+26,"Emergency में patient को  chest pain की शिकायत के साथ लाया गया, ECG किया गया, जिसमें ST elevation दिखा, फिर angioplasty की गई।",की,O
+26,"Emergency में patient को  chest pain की शिकायत के साथ लाया गया, ECG किया गया, जिसमें ST elevation दिखा, फिर angioplasty की गई।",गई,O
+26,"Emergency में patient को  chest pain की शिकायत के साथ लाया गया, ECG किया गया, जिसमें ST elevation दिखा, फिर angioplasty की गई।",।,O
+27,"Patient ko तेज बुखार (high fever) aur सीने में दर्द (chest pain) ki shikayat thi, isliye doctor ne Blood test aur ECG karne ko kaha,  aur 500mg Paracetamol  prescribed kiya.",Patient,O
+27,"Patient ko तेज बुखार (high fever) aur सीने में दर्द (chest pain) ki shikayat thi, isliye doctor ne Blood test aur ECG karne ko kaha,  aur 500mg Paracetamol  prescribed kiya.",ko,O
+27,"Patient ko तेज बुखार (high fever) aur सीने में दर्द (chest pain) ki shikayat thi, isliye doctor ne Blood test aur ECG karne ko kaha,  aur 500mg Paracetamol  prescribed kiya.",तेज,B-SYMPTOM
+27,"Patient ko तेज बुखार (high fever) aur सीने में दर्द (chest pain) ki shikayat thi, isliye doctor ne Blood test aur ECG karne ko kaha,  aur 500mg Paracetamol  prescribed kiya.",बुखार,I-SYMPTOM
+27,"Patient ko तेज बुखार (high fever) aur सीने में दर्द (chest pain) ki shikayat thi, isliye doctor ne Blood test aur ECG karne ko kaha,  aur 500mg Paracetamol  prescribed kiya.",(high,B-SYMPTOM
+27,"Patient ko तेज बुखार (high fever) aur सीने में दर्द (chest pain) ki shikayat thi, isliye doctor ne Blood test aur ECG karne ko kaha,  aur 500mg Paracetamol  prescribed kiya.",fever),I-SYMPTOM
+27,"Patient ko तेज बुखार (high fever) aur सीने में दर्द (chest pain) ki shikayat thi, isliye doctor ne Blood test aur ECG karne ko kaha,  aur 500mg Paracetamol  prescribed kiya.",aur,O
+27,"Patient ko तेज बुखार (high fever) aur सीने में दर्द (chest pain) ki shikayat thi, isliye doctor ne Blood test aur ECG karne ko kaha,  aur 500mg Paracetamol  prescribed kiya.",सीने,B-SYMPTOM
+27,"Patient ko तेज बुखार (high fever) aur सीने में दर्द (chest pain) ki shikayat thi, isliye doctor ne Blood test aur ECG karne ko kaha,  aur 500mg Paracetamol  prescribed kiya.",में,I-SYMPTOM
+27,"Patient ko तेज बुखार (high fever) aur सीने में दर्द (chest pain) ki shikayat thi, isliye doctor ne Blood test aur ECG karne ko kaha,  aur 500mg Paracetamol  prescribed kiya.",दर्द,I-SYMPTOM
+27,"Patient ko तेज बुखार (high fever) aur सीने में दर्द (chest pain) ki shikayat thi, isliye doctor ne Blood test aur ECG karne ko kaha,  aur 500mg Paracetamol  prescribed kiya.",(chest,B-SYMPTOM
+27,"Patient ko तेज बुखार (high fever) aur सीने में दर्द (chest pain) ki shikayat thi, isliye doctor ne Blood test aur ECG karne ko kaha,  aur 500mg Paracetamol  prescribed kiya.",pain),I-SYMPTOM
+27,"Patient ko तेज बुखार (high fever) aur सीने में दर्द (chest pain) ki shikayat thi, isliye doctor ne Blood test aur ECG karne ko kaha,  aur 500mg Paracetamol  prescribed kiya.",ki,O
+27,"Patient ko तेज बुखार (high fever) aur सीने में दर्द (chest pain) ki shikayat thi, isliye doctor ne Blood test aur ECG karne ko kaha,  aur 500mg Paracetamol  prescribed kiya.",shikayat,O
+27,"Patient ko तेज बुखार (high fever) aur सीने में दर्द (chest pain) ki shikayat thi, isliye doctor ne Blood test aur ECG karne ko kaha,  aur 500mg Paracetamol  prescribed kiya.","thi,",O
+27,"Patient ko तेज बुखार (high fever) aur सीने में दर्द (chest pain) ki shikayat thi, isliye doctor ne Blood test aur ECG karne ko kaha,  aur 500mg Paracetamol  prescribed kiya.",isliye,O
+27,"Patient ko तेज बुखार (high fever) aur सीने में दर्द (chest pain) ki shikayat thi, isliye doctor ne Blood test aur ECG karne ko kaha,  aur 500mg Paracetamol  prescribed kiya.",doctor,O
+27,"Patient ko तेज बुखार (high fever) aur सीने में दर्द (chest pain) ki shikayat thi, isliye doctor ne Blood test aur ECG karne ko kaha,  aur 500mg Paracetamol  prescribed kiya.",ne,O
+27,"Patient ko तेज बुखार (high fever) aur सीने में दर्द (chest pain) ki shikayat thi, isliye doctor ne Blood test aur ECG karne ko kaha,  aur 500mg Paracetamol  prescribed kiya.",Blood,B-TEST
+27,"Patient ko तेज बुखार (high fever) aur सीने में दर्द (chest pain) ki shikayat thi, isliye doctor ne Blood test aur ECG karne ko kaha,  aur 500mg Paracetamol  prescribed kiya.",test,I-TEST
+27,"Patient ko तेज बुखार (high fever) aur सीने में दर्द (chest pain) ki shikayat thi, isliye doctor ne Blood test aur ECG karne ko kaha,  aur 500mg Paracetamol  prescribed kiya.",aur,O
+27,"Patient ko तेज बुखार (high fever) aur सीने में दर्द (chest pain) ki shikayat thi, isliye doctor ne Blood test aur ECG karne ko kaha,  aur 500mg Paracetamol  prescribed kiya.",ECG,B-TEST
+27,"Patient ko तेज बुखार (high fever) aur सीने में दर्द (chest pain) ki shikayat thi, isliye doctor ne Blood test aur ECG karne ko kaha,  aur 500mg Paracetamol  prescribed kiya.",karne,O
+27,"Patient ko तेज बुखार (high fever) aur सीने में दर्द (chest pain) ki shikayat thi, isliye doctor ne Blood test aur ECG karne ko kaha,  aur 500mg Paracetamol  prescribed kiya.",ko,O
+27,"Patient ko तेज बुखार (high fever) aur सीने में दर्द (chest pain) ki shikayat thi, isliye doctor ne Blood test aur ECG karne ko kaha,  aur 500mg Paracetamol  prescribed kiya.","kaha,",O
+27,"Patient ko तेज बुखार (high fever) aur सीने में दर्द (chest pain) ki shikayat thi, isliye doctor ne Blood test aur ECG karne ko kaha,  aur 500mg Paracetamol  prescribed kiya.",aur,O
+27,"Patient ko तेज बुखार (high fever) aur सीने में दर्द (chest pain) ki shikayat thi, isliye doctor ne Blood test aur ECG karne ko kaha,  aur 500mg Paracetamol  prescribed kiya.",500mg,B-DOSAGE
+27,"Patient ko तेज बुखार (high fever) aur सीने में दर्द (chest pain) ki shikayat thi, isliye doctor ne Blood test aur ECG karne ko kaha,  aur 500mg Paracetamol  prescribed kiya.",Paracetamol,B-MEDICATION
+27,"Patient ko तेज बुखार (high fever) aur सीने में दर्द (chest pain) ki shikayat thi, isliye doctor ne Blood test aur ECG karne ko kaha,  aur 500mg Paracetamol  prescribed kiya.",prescribed,O
+27,"Patient ko तेज बुखार (high fever) aur सीने में दर्द (chest pain) ki shikayat thi, isliye doctor ne Blood test aur ECG karne ko kaha,  aur 500mg Paracetamol  prescribed kiya.",kiya,O
+27,"Patient ko तेज बुखार (high fever) aur सीने में दर्द (chest pain) ki shikayat thi, isliye doctor ne Blood test aur ECG karne ko kaha,  aur 500mg Paracetamol  prescribed kiya.",.,O
+28,"Patient के खून में sugar level बहुत ज़्यादा था, इसलिए doctor ने immediate insulin injection और ब्लड टेस्ट  prescribed किया।",Patient,O
+28,"Patient के खून में sugar level बहुत ज़्यादा था, इसलिए doctor ने immediate insulin injection और ब्लड टेस्ट  prescribed किया।",के,O
+28,"Patient के खून में sugar level बहुत ज़्यादा था, इसलिए doctor ने immediate insulin injection और ब्लड टेस्ट  prescribed किया।",खून,O
+28,"Patient के खून में sugar level बहुत ज़्यादा था, इसलिए doctor ने immediate insulin injection और ब्लड टेस्ट  prescribed किया।",में,O
+28,"Patient के खून में sugar level बहुत ज़्यादा था, इसलिए doctor ने immediate insulin injection और ब्लड टेस्ट  prescribed किया।",sugar,B-CONDITION
+28,"Patient के खून में sugar level बहुत ज़्यादा था, इसलिए doctor ने immediate insulin injection और ब्लड टेस्ट  prescribed किया।",level,I-CONDITION
+28,"Patient के खून में sugar level बहुत ज़्यादा था, इसलिए doctor ने immediate insulin injection और ब्लड टेस्ट  prescribed किया।",बहुत,O
+28,"Patient के खून में sugar level बहुत ज़्यादा था, इसलिए doctor ने immediate insulin injection और ब्लड टेस्ट  prescribed किया।",ज़्यादा,O
+28,"Patient के खून में sugar level बहुत ज़्यादा था, इसलिए doctor ने immediate insulin injection और ब्लड टेस्ट  prescribed किया।",था,O
+28,"Patient के खून में sugar level बहुत ज़्यादा था, इसलिए doctor ने immediate insulin injection और ब्लड टेस्ट  prescribed किया।",इसलिए,O
+28,"Patient के खून में sugar level बहुत ज़्यादा था, इसलिए doctor ने immediate insulin injection और ब्लड टेस्ट  prescribed किया।",doctor,O
+28,"Patient के खून में sugar level बहुत ज़्यादा था, इसलिए doctor ने immediate insulin injection और ब्लड टेस्ट  prescribed किया।",ने,O
+28,"Patient के खून में sugar level बहुत ज़्यादा था, इसलिए doctor ने immediate insulin injection और ब्लड टेस्ट  prescribed किया।",immediate,O
+28,"Patient के खून में sugar level बहुत ज़्यादा था, इसलिए doctor ने immediate insulin injection और ब्लड टेस्ट  prescribed किया।",insulin,B-MEDICATION
+28,"Patient के खून में sugar level बहुत ज़्यादा था, इसलिए doctor ने immediate insulin injection और ब्लड टेस्ट  prescribed किया।",injection,B-PROCEDURE
+28,"Patient के खून में sugar level बहुत ज़्यादा था, इसलिए doctor ने immediate insulin injection और ब्लड टेस्ट  prescribed किया।",और,O
+28,"Patient के खून में sugar level बहुत ज़्यादा था, इसलिए doctor ने immediate insulin injection और ब्लड टेस्ट  prescribed किया।",ब्लड,B-TEST
+28,"Patient के खून में sugar level बहुत ज़्यादा था, इसलिए doctor ने immediate insulin injection और ब्लड टेस्ट  prescribed किया।",टेस्ट,I-TEST
+28,"Patient के खून में sugar level बहुत ज़्यादा था, इसलिए doctor ने immediate insulin injection और ब्लड टेस्ट  prescribed किया।",prescribed,O
+28,"Patient के खून में sugar level बहुत ज़्यादा था, इसलिए doctor ने immediate insulin injection और ब्लड टेस्ट  prescribed किया।",किया,O
+28,"Patient के खून में sugar level बहुत ज़्यादा था, इसलिए doctor ने immediate insulin injection और ब्लड टेस्ट  prescribed किया।",।,O
+29,"Patient ke blood pressure mein sudden drop tha, isliye doctor ne immediately ECG aur blood test kiya, aur usko emergency mein Angioplasty ki procedure karni padi.",Patient,O
+29,"Patient ke blood pressure mein sudden drop tha, isliye doctor ne immediately ECG aur blood test kiya, aur usko emergency mein Angioplasty ki procedure karni padi.",ke,O
+29,"Patient ke blood pressure mein sudden drop tha, isliye doctor ne immediately ECG aur blood test kiya, aur usko emergency mein Angioplasty ki procedure karni padi.",blood,B-TEST
+29,"Patient ke blood pressure mein sudden drop tha, isliye doctor ne immediately ECG aur blood test kiya, aur usko emergency mein Angioplasty ki procedure karni padi.",pressure,I-TEST
+29,"Patient ke blood pressure mein sudden drop tha, isliye doctor ne immediately ECG aur blood test kiya, aur usko emergency mein Angioplasty ki procedure karni padi.",mein,O
+29,"Patient ke blood pressure mein sudden drop tha, isliye doctor ne immediately ECG aur blood test kiya, aur usko emergency mein Angioplasty ki procedure karni padi.",sudden,B-SYMPTOM
+29,"Patient ke blood pressure mein sudden drop tha, isliye doctor ne immediately ECG aur blood test kiya, aur usko emergency mein Angioplasty ki procedure karni padi.",drop,I-SYMPTOM
+29,"Patient ke blood pressure mein sudden drop tha, isliye doctor ne immediately ECG aur blood test kiya, aur usko emergency mein Angioplasty ki procedure karni padi.",tha,O
+29,"Patient ke blood pressure mein sudden drop tha, isliye doctor ne immediately ECG aur blood test kiya, aur usko emergency mein Angioplasty ki procedure karni padi.",isliye,O
+29,"Patient ke blood pressure mein sudden drop tha, isliye doctor ne immediately ECG aur blood test kiya, aur usko emergency mein Angioplasty ki procedure karni padi.",doctor,O
+29,"Patient ke blood pressure mein sudden drop tha, isliye doctor ne immediately ECG aur blood test kiya, aur usko emergency mein Angioplasty ki procedure karni padi.",ne,O
+29,"Patient ke blood pressure mein sudden drop tha, isliye doctor ne immediately ECG aur blood test kiya, aur usko emergency mein Angioplasty ki procedure karni padi.",immediately,O
+29,"Patient ke blood pressure mein sudden drop tha, isliye doctor ne immediately ECG aur blood test kiya, aur usko emergency mein Angioplasty ki procedure karni padi.",ECG,B-TEST
+29,"Patient ke blood pressure mein sudden drop tha, isliye doctor ne immediately ECG aur blood test kiya, aur usko emergency mein Angioplasty ki procedure karni padi.",aur,O
+29,"Patient ke blood pressure mein sudden drop tha, isliye doctor ne immediately ECG aur blood test kiya, aur usko emergency mein Angioplasty ki procedure karni padi.",blood,B-TEST
+29,"Patient ke blood pressure mein sudden drop tha, isliye doctor ne immediately ECG aur blood test kiya, aur usko emergency mein Angioplasty ki procedure karni padi.",test,I-TEST
+29,"Patient ke blood pressure mein sudden drop tha, isliye doctor ne immediately ECG aur blood test kiya, aur usko emergency mein Angioplasty ki procedure karni padi.",kiya,O
+29,"Patient ke blood pressure mein sudden drop tha, isliye doctor ne immediately ECG aur blood test kiya, aur usko emergency mein Angioplasty ki procedure karni padi.",aur,O
+29,"Patient ke blood pressure mein sudden drop tha, isliye doctor ne immediately ECG aur blood test kiya, aur usko emergency mein Angioplasty ki procedure karni padi.",usko,O
+29,"Patient ke blood pressure mein sudden drop tha, isliye doctor ne immediately ECG aur blood test kiya, aur usko emergency mein Angioplasty ki procedure karni padi.",emergency,O
+29,"Patient ke blood pressure mein sudden drop tha, isliye doctor ne immediately ECG aur blood test kiya, aur usko emergency mein Angioplasty ki procedure karni padi.",mein,O
+29,"Patient ke blood pressure mein sudden drop tha, isliye doctor ne immediately ECG aur blood test kiya, aur usko emergency mein Angioplasty ki procedure karni padi.",Angioplasty,B-PROCEDURE
+29,"Patient ke blood pressure mein sudden drop tha, isliye doctor ne immediately ECG aur blood test kiya, aur usko emergency mein Angioplasty ki procedure karni padi.",ki,O
+29,"Patient ke blood pressure mein sudden drop tha, isliye doctor ne immediately ECG aur blood test kiya, aur usko emergency mein Angioplasty ki procedure karni padi.",procedure,I-PROCEDURE
+29,"Patient ke blood pressure mein sudden drop tha, isliye doctor ne immediately ECG aur blood test kiya, aur usko emergency mein Angioplasty ki procedure karni padi.",karni,O
+29,"Patient ke blood pressure mein sudden drop tha, isliye doctor ne immediately ECG aur blood test kiya, aur usko emergency mein Angioplasty ki procedure karni padi.",padi,O
+29,"Patient ke blood pressure mein sudden drop tha, isliye doctor ne immediately ECG aur blood test kiya, aur usko emergency mein Angioplasty ki procedure karni padi.",.,O

@@ -1,0 +1,866 @@
+sentence_id,text,token,ner_tag
+0,A patient with stage 2 हृदय रोग underwent an emergency Angioplasty procedure due to severe chest pain and बुखार after an abnormal Lipid Profile report.,A,O
+0,A patient with stage 2 हृदय रोग underwent an emergency Angioplasty procedure due to severe chest pain and बुखार after an abnormal Lipid Profile report.,patient,O
+0,A patient with stage 2 हृदय रोग underwent an emergency Angioplasty procedure due to severe chest pain and बुखार after an abnormal Lipid Profile report.,with,O
+0,A patient with stage 2 हृदय रोग underwent an emergency Angioplasty procedure due to severe chest pain and बुखार after an abnormal Lipid Profile report.,stage 2,B-CONDITION
+0,A patient with stage 2 हृदय रोग underwent an emergency Angioplasty procedure due to severe chest pain and बुखार after an abnormal Lipid Profile report.,हृदय रोग,I-CONDITION
+0,A patient with stage 2 हृदय रोग underwent an emergency Angioplasty procedure due to severe chest pain and बुखार after an abnormal Lipid Profile report.,underwent,O
+0,A patient with stage 2 हृदय रोग underwent an emergency Angioplasty procedure due to severe chest pain and बुखार after an abnormal Lipid Profile report.,an,O
+0,A patient with stage 2 हृदय रोग underwent an emergency Angioplasty procedure due to severe chest pain and बुखार after an abnormal Lipid Profile report.,emergency,O
+0,A patient with stage 2 हृदय रोग underwent an emergency Angioplasty procedure due to severe chest pain and बुखार after an abnormal Lipid Profile report.,Angioplasty,B-PROCEDURE
+0,A patient with stage 2 हृदय रोग underwent an emergency Angioplasty procedure due to severe chest pain and बुखार after an abnormal Lipid Profile report.,procedure,I-PROCEDURE
+0,A patient with stage 2 हृदय रोग underwent an emergency Angioplasty procedure due to severe chest pain and बुखार after an abnormal Lipid Profile report.,due,O
+0,A patient with stage 2 हृदय रोग underwent an emergency Angioplasty procedure due to severe chest pain and बुखार after an abnormal Lipid Profile report.,to,O
+0,A patient with stage 2 हृदय रोग underwent an emergency Angioplasty procedure due to severe chest pain and बुखार after an abnormal Lipid Profile report.,severe,O
+0,A patient with stage 2 हृदय रोग underwent an emergency Angioplasty procedure due to severe chest pain and बुखार after an abnormal Lipid Profile report.,chest pain,B-SYMPTOM
+0,A patient with stage 2 हृदय रोग underwent an emergency Angioplasty procedure due to severe chest pain and बुखार after an abnormal Lipid Profile report.,and,O
+0,A patient with stage 2 हृदय रोग underwent an emergency Angioplasty procedure due to severe chest pain and बुखार after an abnormal Lipid Profile report.,बुखार,B-SYMPTOM
+0,A patient with stage 2 हृदय रोग underwent an emergency Angioplasty procedure due to severe chest pain and बुखार after an abnormal Lipid Profile report.,after,O
+0,A patient with stage 2 हृदय रोग underwent an emergency Angioplasty procedure due to severe chest pain and बुखार after an abnormal Lipid Profile report.,an,O
+0,A patient with stage 2 हृदय रोग underwent an emergency Angioplasty procedure due to severe chest pain and बुखार after an abnormal Lipid Profile report.,abnormal,O
+0,A patient with stage 2 हृदय रोग underwent an emergency Angioplasty procedure due to severe chest pain and बुखार after an abnormal Lipid Profile report.,Lipid Profile,B-TEST
+0,A patient with stage 2 हृदय रोग underwent an emergency Angioplasty procedure due to severe chest pain and बुखार after an abnormal Lipid Profile report.,report,O
+0,A patient with stage 2 हृदय रोग underwent an emergency Angioplasty procedure due to severe chest pain and बुखार after an abnormal Lipid Profile report.,.,O
+1,"A 35-year-old patient, diagnosed with मधुमेह (Diabetes) and हृदय रोग (Cardiac disease), was administered 5mg Metformin and 20mg Atorvastatin daily after a routine ब्लड टेस्ट (Blood test) and ECG report.",A,O
+1,"A 35-year-old patient, diagnosed with मधुमेह (Diabetes) and हृदय रोग (Cardiac disease), was administered 5mg Metformin and 20mg Atorvastatin daily after a routine ब्लड टेस्ट (Blood test) and ECG report.",35-year-old,O
+1,"A 35-year-old patient, diagnosed with मधुमेह (Diabetes) and हृदय रोग (Cardiac disease), was administered 5mg Metformin and 20mg Atorvastatin daily after a routine ब्लड टेस्ट (Blood test) and ECG report.",patient,O
+1,"A 35-year-old patient, diagnosed with मधुमेह (Diabetes) and हृदय रोग (Cardiac disease), was administered 5mg Metformin and 20mg Atorvastatin daily after a routine ब्लड टेस्ट (Blood test) and ECG report.",",",O
+1,"A 35-year-old patient, diagnosed with मधुमेह (Diabetes) and हृदय रोग (Cardiac disease), was administered 5mg Metformin and 20mg Atorvastatin daily after a routine ब्लड टेस्ट (Blood test) and ECG report.",diagnosed,O
+1,"A 35-year-old patient, diagnosed with मधुमेह (Diabetes) and हृदय रोग (Cardiac disease), was administered 5mg Metformin and 20mg Atorvastatin daily after a routine ब्लड टेस्ट (Blood test) and ECG report.",with,O
+1,"A 35-year-old patient, diagnosed with मधुमेह (Diabetes) and हृदय रोग (Cardiac disease), was administered 5mg Metformin and 20mg Atorvastatin daily after a routine ब्लड टेस्ट (Blood test) and ECG report.",मधुमेह,B-CONDITION
+1,"A 35-year-old patient, diagnosed with मधुमेह (Diabetes) and हृदय रोग (Cardiac disease), was administered 5mg Metformin and 20mg Atorvastatin daily after a routine ब्लड टेस्ट (Blood test) and ECG report.",(Diabetes),I-CONDITION
+1,"A 35-year-old patient, diagnosed with मधुमेह (Diabetes) and हृदय रोग (Cardiac disease), was administered 5mg Metformin and 20mg Atorvastatin daily after a routine ब्लड टेस्ट (Blood test) and ECG report.",and,O
+1,"A 35-year-old patient, diagnosed with मधुमेह (Diabetes) and हृदय रोग (Cardiac disease), was administered 5mg Metformin and 20mg Atorvastatin daily after a routine ब्लड टेस्ट (Blood test) and ECG report.",हृदय,B-CONDITION
+1,"A 35-year-old patient, diagnosed with मधुमेह (Diabetes) and हृदय रोग (Cardiac disease), was administered 5mg Metformin and 20mg Atorvastatin daily after a routine ब्लड टेस्ट (Blood test) and ECG report.",रोग,I-CONDITION
+1,"A 35-year-old patient, diagnosed with मधुमेह (Diabetes) and हृदय रोग (Cardiac disease), was administered 5mg Metformin and 20mg Atorvastatin daily after a routine ब्लड टेस्ट (Blood test) and ECG report.",(Cardiac,I-CONDITION
+1,"A 35-year-old patient, diagnosed with मधुमेह (Diabetes) and हृदय रोग (Cardiac disease), was administered 5mg Metformin and 20mg Atorvastatin daily after a routine ब्लड टेस्ट (Blood test) and ECG report.",disease),I-CONDITION
+1,"A 35-year-old patient, diagnosed with मधुमेह (Diabetes) and हृदय रोग (Cardiac disease), was administered 5mg Metformin and 20mg Atorvastatin daily after a routine ब्लड टेस्ट (Blood test) and ECG report.",",",O
+1,"A 35-year-old patient, diagnosed with मधुमेह (Diabetes) and हृदय रोग (Cardiac disease), was administered 5mg Metformin and 20mg Atorvastatin daily after a routine ब्लड टेस्ट (Blood test) and ECG report.",was,O
+1,"A 35-year-old patient, diagnosed with मधुमेह (Diabetes) and हृदय रोग (Cardiac disease), was administered 5mg Metformin and 20mg Atorvastatin daily after a routine ब्लड टेस्ट (Blood test) and ECG report.",administered,O
+1,"A 35-year-old patient, diagnosed with मधुमेह (Diabetes) and हृदय रोग (Cardiac disease), was administered 5mg Metformin and 20mg Atorvastatin daily after a routine ब्लड टेस्ट (Blood test) and ECG report.",5mg,B-DOSAGE
+1,"A 35-year-old patient, diagnosed with मधुमेह (Diabetes) and हृदय रोग (Cardiac disease), was administered 5mg Metformin and 20mg Atorvastatin daily after a routine ब्लड टेस्ट (Blood test) and ECG report.",Metformin,B-MEDICATION
+1,"A 35-year-old patient, diagnosed with मधुमेह (Diabetes) and हृदय रोग (Cardiac disease), was administered 5mg Metformin and 20mg Atorvastatin daily after a routine ब्लड टेस्ट (Blood test) and ECG report.",and,O
+1,"A 35-year-old patient, diagnosed with मधुमेह (Diabetes) and हृदय रोग (Cardiac disease), was administered 5mg Metformin and 20mg Atorvastatin daily after a routine ब्लड टेस्ट (Blood test) and ECG report.",20mg,B-DOSAGE
+1,"A 35-year-old patient, diagnosed with मधुमेह (Diabetes) and हृदय रोग (Cardiac disease), was administered 5mg Metformin and 20mg Atorvastatin daily after a routine ब्लड टेस्ट (Blood test) and ECG report.",Atorvastatin,B-MEDICATION
+1,"A 35-year-old patient, diagnosed with मधुमेह (Diabetes) and हृदय रोग (Cardiac disease), was administered 5mg Metformin and 20mg Atorvastatin daily after a routine ब्लड टेस्ट (Blood test) and ECG report.",daily,O
+1,"A 35-year-old patient, diagnosed with मधुमेह (Diabetes) and हृदय रोग (Cardiac disease), was administered 5mg Metformin and 20mg Atorvastatin daily after a routine ब्लड टेस्ट (Blood test) and ECG report.",after,O
+1,"A 35-year-old patient, diagnosed with मधुमेह (Diabetes) and हृदय रोग (Cardiac disease), was administered 5mg Metformin and 20mg Atorvastatin daily after a routine ब्लड टेस्ट (Blood test) and ECG report.",a,O
+1,"A 35-year-old patient, diagnosed with मधुमेह (Diabetes) and हृदय रोग (Cardiac disease), was administered 5mg Metformin and 20mg Atorvastatin daily after a routine ब्लड टेस्ट (Blood test) and ECG report.",routine,O
+1,"A 35-year-old patient, diagnosed with मधुमेह (Diabetes) and हृदय रोग (Cardiac disease), was administered 5mg Metformin and 20mg Atorvastatin daily after a routine ब्लड टेस्ट (Blood test) and ECG report.",ब्लड,B-TEST
+1,"A 35-year-old patient, diagnosed with मधुमेह (Diabetes) and हृदय रोग (Cardiac disease), was administered 5mg Metformin and 20mg Atorvastatin daily after a routine ब्लड टेस्ट (Blood test) and ECG report.",टेस्ट,I-TEST
+1,"A 35-year-old patient, diagnosed with मधुमेह (Diabetes) and हृदय रोग (Cardiac disease), was administered 5mg Metformin and 20mg Atorvastatin daily after a routine ब्लड टेस्ट (Blood test) and ECG report.",(Blood,I-TEST
+1,"A 35-year-old patient, diagnosed with मधुमेह (Diabetes) and हृदय रोग (Cardiac disease), was administered 5mg Metformin and 20mg Atorvastatin daily after a routine ब्लड टेस्ट (Blood test) and ECG report.",test),I-TEST
+1,"A 35-year-old patient, diagnosed with मधुमेह (Diabetes) and हृदय रोग (Cardiac disease), was administered 5mg Metformin and 20mg Atorvastatin daily after a routine ब्लड टेस्ट (Blood test) and ECG report.",and,O
+1,"A 35-year-old patient, diagnosed with मधुमेह (Diabetes) and हृदय रोग (Cardiac disease), was administered 5mg Metformin and 20mg Atorvastatin daily after a routine ब्लड टेस्ट (Blood test) and ECG report.",ECG,B-TEST
+1,"A 35-year-old patient, diagnosed with मधुमेह (Diabetes) and हृदय रोग (Cardiac disease), was administered 5mg Metformin and 20mg Atorvastatin daily after a routine ब्लड टेस्ट (Blood test) and ECG report.",report,O
+1,"A 35-year-old patient, diagnosed with मधुमेह (Diabetes) and हृदय रोग (Cardiac disease), was administered 5mg Metformin and 20mg Atorvastatin daily after a routine ब्लड टेस्ट (Blood test) and ECG report.",.,O
+2,Patient was diagnosed with stage 2 हृदय रोग and prescribed 25mg Metoprolol twice daily after a chest pain episode and abnormal lipid profile report.,Patient,O
+2,Patient was diagnosed with stage 2 हृदय रोग and prescribed 25mg Metoprolol twice daily after a chest pain episode and abnormal lipid profile report.,was,O
+2,Patient was diagnosed with stage 2 हृदय रोग and prescribed 25mg Metoprolol twice daily after a chest pain episode and abnormal lipid profile report.,diagnosed,O
+2,Patient was diagnosed with stage 2 हृदय रोग and prescribed 25mg Metoprolol twice daily after a chest pain episode and abnormal lipid profile report.,with,O
+2,Patient was diagnosed with stage 2 हृदय रोग and prescribed 25mg Metoprolol twice daily after a chest pain episode and abnormal lipid profile report.,stage 2,B-CONDITION
+2,Patient was diagnosed with stage 2 हृदय रोग and prescribed 25mg Metoprolol twice daily after a chest pain episode and abnormal lipid profile report.,हृदय रोग,I-CONDITION
+2,Patient was diagnosed with stage 2 हृदय रोग and prescribed 25mg Metoprolol twice daily after a chest pain episode and abnormal lipid profile report.,and,O
+2,Patient was diagnosed with stage 2 हृदय रोग and prescribed 25mg Metoprolol twice daily after a chest pain episode and abnormal lipid profile report.,prescribed,O
+2,Patient was diagnosed with stage 2 हृदय रोग and prescribed 25mg Metoprolol twice daily after a chest pain episode and abnormal lipid profile report.,25mg,B-DOSAGE
+2,Patient was diagnosed with stage 2 हृदय रोग and prescribed 25mg Metoprolol twice daily after a chest pain episode and abnormal lipid profile report.,Metoprolol,B-MEDICATION
+2,Patient was diagnosed with stage 2 हृदय रोग and prescribed 25mg Metoprolol twice daily after a chest pain episode and abnormal lipid profile report.,twice daily,B-DOSAGE
+2,Patient was diagnosed with stage 2 हृदय रोग and prescribed 25mg Metoprolol twice daily after a chest pain episode and abnormal lipid profile report.,after,O
+2,Patient was diagnosed with stage 2 हृदय रोग and prescribed 25mg Metoprolol twice daily after a chest pain episode and abnormal lipid profile report.,a,O
+2,Patient was diagnosed with stage 2 हृदय रोग and prescribed 25mg Metoprolol twice daily after a chest pain episode and abnormal lipid profile report.,chest pain,B-SYMPTOM
+2,Patient was diagnosed with stage 2 हृदय रोग and prescribed 25mg Metoprolol twice daily after a chest pain episode and abnormal lipid profile report.,episode,O
+2,Patient was diagnosed with stage 2 हृदय रोग and prescribed 25mg Metoprolol twice daily after a chest pain episode and abnormal lipid profile report.,and,O
+2,Patient was diagnosed with stage 2 हृदय रोग and prescribed 25mg Metoprolol twice daily after a chest pain episode and abnormal lipid profile report.,abnormal,O
+2,Patient was diagnosed with stage 2 हृदय रोग and prescribed 25mg Metoprolol twice daily after a chest pain episode and abnormal lipid profile report.,lipid profile,B-TEST
+2,Patient was diagnosed with stage 2 हृदय रोग and prescribed 25mg Metoprolol twice daily after a chest pain episode and abnormal lipid profile report.,report,O
+2,Patient was diagnosed with stage 2 हृदय रोग and prescribed 25mg Metoprolol twice daily after a chest pain episode and abnormal lipid profile report.,.,O
+3,The patient with तेज़ बुखार and सिर दर्द underwent an urgent CT scan and was prescribed 500mg Paracetamol twice daily for 5 days.,The,O
+3,The patient with तेज़ बुखार and सिर दर्द underwent an urgent CT scan and was prescribed 500mg Paracetamol twice daily for 5 days.,patient,O
+3,The patient with तेज़ बुखार and सिर दर्द underwent an urgent CT scan and was prescribed 500mg Paracetamol twice daily for 5 days.,with,O
+3,The patient with तेज़ बुखार and सिर दर्द underwent an urgent CT scan and was prescribed 500mg Paracetamol twice daily for 5 days.,तेज़,B-SYMPTOM
+3,The patient with तेज़ बुखार and सिर दर्द underwent an urgent CT scan and was prescribed 500mg Paracetamol twice daily for 5 days.,बुखार,I-SYMPTOM
+3,The patient with तेज़ बुखार and सिर दर्द underwent an urgent CT scan and was prescribed 500mg Paracetamol twice daily for 5 days.,and,O
+3,The patient with तेज़ बुखार and सिर दर्द underwent an urgent CT scan and was prescribed 500mg Paracetamol twice daily for 5 days.,सिर,B-SYMPTOM
+3,The patient with तेज़ बुखार and सिर दर्द underwent an urgent CT scan and was prescribed 500mg Paracetamol twice daily for 5 days.,दर्द,I-SYMPTOM
+3,The patient with तेज़ बुखार and सिर दर्द underwent an urgent CT scan and was prescribed 500mg Paracetamol twice daily for 5 days.,underwent,O
+3,The patient with तेज़ बुखार and सिर दर्द underwent an urgent CT scan and was prescribed 500mg Paracetamol twice daily for 5 days.,an,O
+3,The patient with तेज़ बुखार and सिर दर्द underwent an urgent CT scan and was prescribed 500mg Paracetamol twice daily for 5 days.,urgent,O
+3,The patient with तेज़ बुखार and सिर दर्द underwent an urgent CT scan and was prescribed 500mg Paracetamol twice daily for 5 days.,CT,B-TEST
+3,The patient with तेज़ बुखार and सिर दर्द underwent an urgent CT scan and was prescribed 500mg Paracetamol twice daily for 5 days.,scan,I-TEST
+3,The patient with तेज़ बुखार and सिर दर्द underwent an urgent CT scan and was prescribed 500mg Paracetamol twice daily for 5 days.,and,O
+3,The patient with तेज़ बुखार and सिर दर्द underwent an urgent CT scan and was prescribed 500mg Paracetamol twice daily for 5 days.,was,O
+3,The patient with तेज़ बुखार and सिर दर्द underwent an urgent CT scan and was prescribed 500mg Paracetamol twice daily for 5 days.,prescribed,O
+3,The patient with तेज़ बुखार and सिर दर्द underwent an urgent CT scan and was prescribed 500mg Paracetamol twice daily for 5 days.,500mg,B-DOSAGE
+3,The patient with तेज़ बुखार and सिर दर्द underwent an urgent CT scan and was prescribed 500mg Paracetamol twice daily for 5 days.,Paracetamol,B-MEDICATION
+3,The patient with तेज़ बुखार and सिर दर्द underwent an urgent CT scan and was prescribed 500mg Paracetamol twice daily for 5 days.,twice,O
+3,The patient with तेज़ बुखार and सिर दर्द underwent an urgent CT scan and was prescribed 500mg Paracetamol twice daily for 5 days.,daily,O
+3,The patient with तेज़ बुखार and सिर दर्द underwent an urgent CT scan and was prescribed 500mg Paracetamol twice daily for 5 days.,for,O
+3,The patient with तेज़ बुखार and सिर दर्द underwent an urgent CT scan and was prescribed 500mg Paracetamol twice daily for 5 days.,5,B-DOSAGE
+3,The patient with तेज़ बुखार and सिर दर्द underwent an urgent CT scan and was prescribed 500mg Paracetamol twice daily for 5 days.,days,O
+3,The patient with तेज़ बुखार and सिर दर्द underwent an urgent CT scan and was prescribed 500mg Paracetamol twice daily for 5 days.,.,O
+4,"Patient को तेज़ बुखार और सिर दर्द के साथ Angioplasty के बाद 5mg Aspirin और 200mL IV fluids दिए गए, लेकिन उन्हें ECG और Blood Test के लिए भेजा गया।",Patient,O
+4,"Patient को तेज़ बुखार और सिर दर्द के साथ Angioplasty के बाद 5mg Aspirin और 200mL IV fluids दिए गए, लेकिन उन्हें ECG और Blood Test के लिए भेजा गया।",को,O
+4,"Patient को तेज़ बुखार और सिर दर्द के साथ Angioplasty के बाद 5mg Aspirin और 200mL IV fluids दिए गए, लेकिन उन्हें ECG और Blood Test के लिए भेजा गया।",तेज़,B-SYMPTOM
+4,"Patient को तेज़ बुखार और सिर दर्द के साथ Angioplasty के बाद 5mg Aspirin और 200mL IV fluids दिए गए, लेकिन उन्हें ECG और Blood Test के लिए भेजा गया।",बुखार,I-SYMPTOM
+4,"Patient को तेज़ बुखार और सिर दर्द के साथ Angioplasty के बाद 5mg Aspirin और 200mL IV fluids दिए गए, लेकिन उन्हें ECG और Blood Test के लिए भेजा गया।",और,O
+4,"Patient को तेज़ बुखार और सिर दर्द के साथ Angioplasty के बाद 5mg Aspirin और 200mL IV fluids दिए गए, लेकिन उन्हें ECG और Blood Test के लिए भेजा गया।",सिर,B-SYMPTOM
+4,"Patient को तेज़ बुखार और सिर दर्द के साथ Angioplasty के बाद 5mg Aspirin और 200mL IV fluids दिए गए, लेकिन उन्हें ECG और Blood Test के लिए भेजा गया।",दर्द,I-SYMPTOM
+4,"Patient को तेज़ बुखार और सिर दर्द के साथ Angioplasty के बाद 5mg Aspirin और 200mL IV fluids दिए गए, लेकिन उन्हें ECG और Blood Test के लिए भेजा गया।",के,O
+4,"Patient को तेज़ बुखार और सिर दर्द के साथ Angioplasty के बाद 5mg Aspirin और 200mL IV fluids दिए गए, लेकिन उन्हें ECG और Blood Test के लिए भेजा गया।",साथ,O
+4,"Patient को तेज़ बुखार और सिर दर्द के साथ Angioplasty के बाद 5mg Aspirin और 200mL IV fluids दिए गए, लेकिन उन्हें ECG और Blood Test के लिए भेजा गया।",Angioplasty,B-PROCEDURE
+4,"Patient को तेज़ बुखार और सिर दर्द के साथ Angioplasty के बाद 5mg Aspirin और 200mL IV fluids दिए गए, लेकिन उन्हें ECG और Blood Test के लिए भेजा गया।",के,O
+4,"Patient को तेज़ बुखार और सिर दर्द के साथ Angioplasty के बाद 5mg Aspirin और 200mL IV fluids दिए गए, लेकिन उन्हें ECG और Blood Test के लिए भेजा गया।",बाद,O
+4,"Patient को तेज़ बुखार और सिर दर्द के साथ Angioplasty के बाद 5mg Aspirin और 200mL IV fluids दिए गए, लेकिन उन्हें ECG और Blood Test के लिए भेजा गया।",5mg,B-DOSAGE
+4,"Patient को तेज़ बुखार और सिर दर्द के साथ Angioplasty के बाद 5mg Aspirin और 200mL IV fluids दिए गए, लेकिन उन्हें ECG और Blood Test के लिए भेजा गया।",Aspirin,B-MEDICATION
+4,"Patient को तेज़ बुखार और सिर दर्द के साथ Angioplasty के बाद 5mg Aspirin और 200mL IV fluids दिए गए, लेकिन उन्हें ECG और Blood Test के लिए भेजा गया।",और,O
+4,"Patient को तेज़ बुखार और सिर दर्द के साथ Angioplasty के बाद 5mg Aspirin और 200mL IV fluids दिए गए, लेकिन उन्हें ECG और Blood Test के लिए भेजा गया।",200mL,B-DOSAGE
+4,"Patient को तेज़ बुखार और सिर दर्द के साथ Angioplasty के बाद 5mg Aspirin और 200mL IV fluids दिए गए, लेकिन उन्हें ECG और Blood Test के लिए भेजा गया।",IV,O
+4,"Patient को तेज़ बुखार और सिर दर्द के साथ Angioplasty के बाद 5mg Aspirin और 200mL IV fluids दिए गए, लेकिन उन्हें ECG और Blood Test के लिए भेजा गया।",fluids,I-MEDICATION
+4,"Patient को तेज़ बुखार और सिर दर्द के साथ Angioplasty के बाद 5mg Aspirin और 200mL IV fluids दिए गए, लेकिन उन्हें ECG और Blood Test के लिए भेजा गया।",दिए,O
+4,"Patient को तेज़ बुखार और सिर दर्द के साथ Angioplasty के बाद 5mg Aspirin और 200mL IV fluids दिए गए, लेकिन उन्हें ECG और Blood Test के लिए भेजा गया।",गए,O
+4,"Patient को तेज़ बुखार और सिर दर्द के साथ Angioplasty के बाद 5mg Aspirin और 200mL IV fluids दिए गए, लेकिन उन्हें ECG और Blood Test के लिए भेजा गया।",",",O
+4,"Patient को तेज़ बुखार और सिर दर्द के साथ Angioplasty के बाद 5mg Aspirin और 200mL IV fluids दिए गए, लेकिन उन्हें ECG और Blood Test के लिए भेजा गया।",लेकिन,O
+4,"Patient को तेज़ बुखार और सिर दर्द के साथ Angioplasty के बाद 5mg Aspirin और 200mL IV fluids दिए गए, लेकिन उन्हें ECG और Blood Test के लिए भेजा गया।",उन्हें,O
+4,"Patient को तेज़ बुखार और सिर दर्द के साथ Angioplasty के बाद 5mg Aspirin और 200mL IV fluids दिए गए, लेकिन उन्हें ECG और Blood Test के लिए भेजा गया।",ECG,B-TEST
+4,"Patient को तेज़ बुखार और सिर दर्द के साथ Angioplasty के बाद 5mg Aspirin और 200mL IV fluids दिए गए, लेकिन उन्हें ECG और Blood Test के लिए भेजा गया।",और,O
+4,"Patient को तेज़ बुखार और सिर दर्द के साथ Angioplasty के बाद 5mg Aspirin और 200mL IV fluids दिए गए, लेकिन उन्हें ECG और Blood Test के लिए भेजा गया।",Blood,B-TEST
+4,"Patient को तेज़ बुखार और सिर दर्द के साथ Angioplasty के बाद 5mg Aspirin और 200mL IV fluids दिए गए, लेकिन उन्हें ECG और Blood Test के लिए भेजा गया।",Test,I-TEST
+4,"Patient को तेज़ बुखार और सिर दर्द के साथ Angioplasty के बाद 5mg Aspirin और 200mL IV fluids दिए गए, लेकिन उन्हें ECG और Blood Test के लिए भेजा गया।",के,O
+4,"Patient को तेज़ बुखार और सिर दर्द के साथ Angioplasty के बाद 5mg Aspirin और 200mL IV fluids दिए गए, लेकिन उन्हें ECG और Blood Test के लिए भेजा गया।",लिए,O
+4,"Patient को तेज़ बुखार और सिर दर्द के साथ Angioplasty के बाद 5mg Aspirin और 200mL IV fluids दिए गए, लेकिन उन्हें ECG और Blood Test के लिए भेजा गया।",भेजा,O
+4,"Patient को तेज़ बुखार और सिर दर्द के साथ Angioplasty के बाद 5mg Aspirin और 200mL IV fluids दिए गए, लेकिन उन्हें ECG और Blood Test के लिए भेजा गया।",गया,O
+4,"Patient को तेज़ बुखार और सिर दर्द के साथ Angioplasty के बाद 5mg Aspirin और 200mL IV fluids दिए गए, लेकिन उन्हें ECG और Blood Test के लिए भेजा गया।",।,O
+5,"The patient with type 2 मधुमेह was admitted to the ICU for सीने में दर्द and underwent an emergency Angioplasty after a cardiac arrest, and was prescribed 10mg Aspirin and 40mg Atorvastatin daily.",The,O
+5,"The patient with type 2 मधुमेह was admitted to the ICU for सीने में दर्द and underwent an emergency Angioplasty after a cardiac arrest, and was prescribed 10mg Aspirin and 40mg Atorvastatin daily.",patient,O
+5,"The patient with type 2 मधुमेह was admitted to the ICU for सीने में दर्द and underwent an emergency Angioplasty after a cardiac arrest, and was prescribed 10mg Aspirin and 40mg Atorvastatin daily.",with,O
+5,"The patient with type 2 मधुमेह was admitted to the ICU for सीने में दर्द and underwent an emergency Angioplasty after a cardiac arrest, and was prescribed 10mg Aspirin and 40mg Atorvastatin daily.",type 2,B-CONDITION
+5,"The patient with type 2 मधुमेह was admitted to the ICU for सीने में दर्द and underwent an emergency Angioplasty after a cardiac arrest, and was prescribed 10mg Aspirin and 40mg Atorvastatin daily.",मधुमेह,I-CONDITION
+5,"The patient with type 2 मधुमेह was admitted to the ICU for सीने में दर्द and underwent an emergency Angioplasty after a cardiac arrest, and was prescribed 10mg Aspirin and 40mg Atorvastatin daily.",was,O
+5,"The patient with type 2 मधुमेह was admitted to the ICU for सीने में दर्द and underwent an emergency Angioplasty after a cardiac arrest, and was prescribed 10mg Aspirin and 40mg Atorvastatin daily.",admitted,O
+5,"The patient with type 2 मधुमेह was admitted to the ICU for सीने में दर्द and underwent an emergency Angioplasty after a cardiac arrest, and was prescribed 10mg Aspirin and 40mg Atorvastatin daily.",to,O
+5,"The patient with type 2 मधुमेह was admitted to the ICU for सीने में दर्द and underwent an emergency Angioplasty after a cardiac arrest, and was prescribed 10mg Aspirin and 40mg Atorvastatin daily.",the,O
+5,"The patient with type 2 मधुमेह was admitted to the ICU for सीने में दर्द and underwent an emergency Angioplasty after a cardiac arrest, and was prescribed 10mg Aspirin and 40mg Atorvastatin daily.",ICU,O
+5,"The patient with type 2 मधुमेह was admitted to the ICU for सीने में दर्द and underwent an emergency Angioplasty after a cardiac arrest, and was prescribed 10mg Aspirin and 40mg Atorvastatin daily.",for,O
+5,"The patient with type 2 मधुमेह was admitted to the ICU for सीने में दर्द and underwent an emergency Angioplasty after a cardiac arrest, and was prescribed 10mg Aspirin and 40mg Atorvastatin daily.",सीने,B-SYMPTOM
+5,"The patient with type 2 मधुमेह was admitted to the ICU for सीने में दर्द and underwent an emergency Angioplasty after a cardiac arrest, and was prescribed 10mg Aspirin and 40mg Atorvastatin daily.",में,I-SYMPTOM
+5,"The patient with type 2 मधुमेह was admitted to the ICU for सीने में दर्द and underwent an emergency Angioplasty after a cardiac arrest, and was prescribed 10mg Aspirin and 40mg Atorvastatin daily.",दर्द,I-SYMPTOM
+5,"The patient with type 2 मधुमेह was admitted to the ICU for सीने में दर्द and underwent an emergency Angioplasty after a cardiac arrest, and was prescribed 10mg Aspirin and 40mg Atorvastatin daily.",and,O
+5,"The patient with type 2 मधुमेह was admitted to the ICU for सीने में दर्द and underwent an emergency Angioplasty after a cardiac arrest, and was prescribed 10mg Aspirin and 40mg Atorvastatin daily.",underwent,O
+5,"The patient with type 2 मधुमेह was admitted to the ICU for सीने में दर्द and underwent an emergency Angioplasty after a cardiac arrest, and was prescribed 10mg Aspirin and 40mg Atorvastatin daily.",an,O
+5,"The patient with type 2 मधुमेह was admitted to the ICU for सीने में दर्द and underwent an emergency Angioplasty after a cardiac arrest, and was prescribed 10mg Aspirin and 40mg Atorvastatin daily.",emergency,O
+5,"The patient with type 2 मधुमेह was admitted to the ICU for सीने में दर्द and underwent an emergency Angioplasty after a cardiac arrest, and was prescribed 10mg Aspirin and 40mg Atorvastatin daily.",Angioplasty,B-PROCEDURE
+5,"The patient with type 2 मधुमेह was admitted to the ICU for सीने में दर्द and underwent an emergency Angioplasty after a cardiac arrest, and was prescribed 10mg Aspirin and 40mg Atorvastatin daily.",after,O
+5,"The patient with type 2 मधुमेह was admitted to the ICU for सीने में दर्द and underwent an emergency Angioplasty after a cardiac arrest, and was prescribed 10mg Aspirin and 40mg Atorvastatin daily.",a,O
+5,"The patient with type 2 मधुमेह was admitted to the ICU for सीने में दर्द and underwent an emergency Angioplasty after a cardiac arrest, and was prescribed 10mg Aspirin and 40mg Atorvastatin daily.",cardiac,B-CONDITION
+5,"The patient with type 2 मधुमेह was admitted to the ICU for सीने में दर्द and underwent an emergency Angioplasty after a cardiac arrest, and was prescribed 10mg Aspirin and 40mg Atorvastatin daily.",arrest,I-CONDITION
+5,"The patient with type 2 मधुमेह was admitted to the ICU for सीने में दर्द and underwent an emergency Angioplasty after a cardiac arrest, and was prescribed 10mg Aspirin and 40mg Atorvastatin daily.",",",O
+5,"The patient with type 2 मधुमेह was admitted to the ICU for सीने में दर्द and underwent an emergency Angioplasty after a cardiac arrest, and was prescribed 10mg Aspirin and 40mg Atorvastatin daily.",and,O
+5,"The patient with type 2 मधुमेह was admitted to the ICU for सीने में दर्द and underwent an emergency Angioplasty after a cardiac arrest, and was prescribed 10mg Aspirin and 40mg Atorvastatin daily.",was,O
+5,"The patient with type 2 मधुमेह was admitted to the ICU for सीने में दर्द and underwent an emergency Angioplasty after a cardiac arrest, and was prescribed 10mg Aspirin and 40mg Atorvastatin daily.",prescribed,O
+5,"The patient with type 2 मधुमेह was admitted to the ICU for सीने में दर्द and underwent an emergency Angioplasty after a cardiac arrest, and was prescribed 10mg Aspirin and 40mg Atorvastatin daily.",10mg,B-DOSAGE
+5,"The patient with type 2 मधुमेह was admitted to the ICU for सीने में दर्द and underwent an emergency Angioplasty after a cardiac arrest, and was prescribed 10mg Aspirin and 40mg Atorvastatin daily.",Aspirin,B-MEDICATION
+5,"The patient with type 2 मधुमेह was admitted to the ICU for सीने में दर्द and underwent an emergency Angioplasty after a cardiac arrest, and was prescribed 10mg Aspirin and 40mg Atorvastatin daily.",and,O
+5,"The patient with type 2 मधुमेह was admitted to the ICU for सीने में दर्द and underwent an emergency Angioplasty after a cardiac arrest, and was prescribed 10mg Aspirin and 40mg Atorvastatin daily.",40mg,B-DOSAGE
+5,"The patient with type 2 मधुमेह was admitted to the ICU for सीने में दर्द and underwent an emergency Angioplasty after a cardiac arrest, and was prescribed 10mg Aspirin and 40mg Atorvastatin daily.",Atorvastatin,B-MEDICATION
+5,"The patient with type 2 मधुमेह was admitted to the ICU for सीने में दर्द and underwent an emergency Angioplasty after a cardiac arrest, and was prescribed 10mg Aspirin and 40mg Atorvastatin daily.",daily,O
+5,"The patient with type 2 मधुमेह was admitted to the ICU for सीने में दर्द and underwent an emergency Angioplasty after a cardiac arrest, and was prescribed 10mg Aspirin and 40mg Atorvastatin daily.",.,O
+6,The patient who underwent Angioplasty was prescribed 5mg Aspirin twice daily to manage हृदय रोग and was advised to undergo a monthly Lipid Profile ब्लड टेस्ट to monitor cholesterol levels.,The,O
+6,The patient who underwent Angioplasty was prescribed 5mg Aspirin twice daily to manage हृदय रोग and was advised to undergo a monthly Lipid Profile ब्लड टेस्ट to monitor cholesterol levels.,patient,O
+6,The patient who underwent Angioplasty was prescribed 5mg Aspirin twice daily to manage हृदय रोग and was advised to undergo a monthly Lipid Profile ब्लड टेस्ट to monitor cholesterol levels.,who,O
+6,The patient who underwent Angioplasty was prescribed 5mg Aspirin twice daily to manage हृदय रोग and was advised to undergo a monthly Lipid Profile ब्लड टेस्ट to monitor cholesterol levels.,underwent,O
+6,The patient who underwent Angioplasty was prescribed 5mg Aspirin twice daily to manage हृदय रोग and was advised to undergo a monthly Lipid Profile ब्लड टेस्ट to monitor cholesterol levels.,Angioplasty,B-PROCEDURE
+6,The patient who underwent Angioplasty was prescribed 5mg Aspirin twice daily to manage हृदय रोग and was advised to undergo a monthly Lipid Profile ब्लड टेस्ट to monitor cholesterol levels.,was,O
+6,The patient who underwent Angioplasty was prescribed 5mg Aspirin twice daily to manage हृदय रोग and was advised to undergo a monthly Lipid Profile ब्लड टेस्ट to monitor cholesterol levels.,prescribed,O
+6,The patient who underwent Angioplasty was prescribed 5mg Aspirin twice daily to manage हृदय रोग and was advised to undergo a monthly Lipid Profile ब्लड टेस्ट to monitor cholesterol levels.,5mg,B-DOSAGE
+6,The patient who underwent Angioplasty was prescribed 5mg Aspirin twice daily to manage हृदय रोग and was advised to undergo a monthly Lipid Profile ब्लड टेस्ट to monitor cholesterol levels.,Aspirin,B-MEDICATION
+6,The patient who underwent Angioplasty was prescribed 5mg Aspirin twice daily to manage हृदय रोग and was advised to undergo a monthly Lipid Profile ब्लड टेस्ट to monitor cholesterol levels.,twice,O
+6,The patient who underwent Angioplasty was prescribed 5mg Aspirin twice daily to manage हृदय रोग and was advised to undergo a monthly Lipid Profile ब्लड टेस्ट to monitor cholesterol levels.,daily,O
+6,The patient who underwent Angioplasty was prescribed 5mg Aspirin twice daily to manage हृदय रोग and was advised to undergo a monthly Lipid Profile ब्लड टेस्ट to monitor cholesterol levels.,to,O
+6,The patient who underwent Angioplasty was prescribed 5mg Aspirin twice daily to manage हृदय रोग and was advised to undergo a monthly Lipid Profile ब्लड टेस्ट to monitor cholesterol levels.,manage,O
+6,The patient who underwent Angioplasty was prescribed 5mg Aspirin twice daily to manage हृदय रोग and was advised to undergo a monthly Lipid Profile ब्लड टेस्ट to monitor cholesterol levels.,हृदय,B-CONDITION
+6,The patient who underwent Angioplasty was prescribed 5mg Aspirin twice daily to manage हृदय रोग and was advised to undergo a monthly Lipid Profile ब्लड टेस्ट to monitor cholesterol levels.,रोग,I-CONDITION
+6,The patient who underwent Angioplasty was prescribed 5mg Aspirin twice daily to manage हृदय रोग and was advised to undergo a monthly Lipid Profile ब्लड टेस्ट to monitor cholesterol levels.,and,O
+6,The patient who underwent Angioplasty was prescribed 5mg Aspirin twice daily to manage हृदय रोग and was advised to undergo a monthly Lipid Profile ब्लड टेस्ट to monitor cholesterol levels.,was,O
+6,The patient who underwent Angioplasty was prescribed 5mg Aspirin twice daily to manage हृदय रोग and was advised to undergo a monthly Lipid Profile ब्लड टेस्ट to monitor cholesterol levels.,advised,O
+6,The patient who underwent Angioplasty was prescribed 5mg Aspirin twice daily to manage हृदय रोग and was advised to undergo a monthly Lipid Profile ब्लड टेस्ट to monitor cholesterol levels.,to,O
+6,The patient who underwent Angioplasty was prescribed 5mg Aspirin twice daily to manage हृदय रोग and was advised to undergo a monthly Lipid Profile ब्लड टेस्ट to monitor cholesterol levels.,undergo,O
+6,The patient who underwent Angioplasty was prescribed 5mg Aspirin twice daily to manage हृदय रोग and was advised to undergo a monthly Lipid Profile ब्लड टेस्ट to monitor cholesterol levels.,a,O
+6,The patient who underwent Angioplasty was prescribed 5mg Aspirin twice daily to manage हृदय रोग and was advised to undergo a monthly Lipid Profile ब्लड टेस्ट to monitor cholesterol levels.,monthly,O
+6,The patient who underwent Angioplasty was prescribed 5mg Aspirin twice daily to manage हृदय रोग and was advised to undergo a monthly Lipid Profile ब्लड टेस्ट to monitor cholesterol levels.,Lipid,B-TEST
+6,The patient who underwent Angioplasty was prescribed 5mg Aspirin twice daily to manage हृदय रोग and was advised to undergo a monthly Lipid Profile ब्लड टेस्ट to monitor cholesterol levels.,Profile,I-TEST
+6,The patient who underwent Angioplasty was prescribed 5mg Aspirin twice daily to manage हृदय रोग and was advised to undergo a monthly Lipid Profile ब्लड टेस्ट to monitor cholesterol levels.,ब्लड,I-TEST
+6,The patient who underwent Angioplasty was prescribed 5mg Aspirin twice daily to manage हृदय रोग and was advised to undergo a monthly Lipid Profile ब्लड टेस्ट to monitor cholesterol levels.,टेस्ट,I-TEST
+6,The patient who underwent Angioplasty was prescribed 5mg Aspirin twice daily to manage हृदय रोग and was advised to undergo a monthly Lipid Profile ब्लड टेस्ट to monitor cholesterol levels.,to,O
+6,The patient who underwent Angioplasty was prescribed 5mg Aspirin twice daily to manage हृदय रोग and was advised to undergo a monthly Lipid Profile ब्लड टेस्ट to monitor cholesterol levels.,monitor,O
+6,The patient who underwent Angioplasty was prescribed 5mg Aspirin twice daily to manage हृदय रोग and was advised to undergo a monthly Lipid Profile ब्लड टेस्ट to monitor cholesterol levels.,cholesterol,O
+6,The patient who underwent Angioplasty was prescribed 5mg Aspirin twice daily to manage हृदय रोग and was advised to undergo a monthly Lipid Profile ब्लड टेस्ट to monitor cholesterol levels.,levels,O
+6,The patient who underwent Angioplasty was prescribed 5mg Aspirin twice daily to manage हृदय रोग and was advised to undergo a monthly Lipid Profile ब्लड टेस्ट to monitor cholesterol levels.,.,O
+7,"Patient को तेज़ सिर दर्द और बुखार था, इसलिए doctor ने उसे 5mg Paracetamol और एक ब्लड टेस्ट कराने के लिए कहा।",Patient,O
+7,"Patient को तेज़ सिर दर्द और बुखार था, इसलिए doctor ने उसे 5mg Paracetamol और एक ब्लड टेस्ट कराने के लिए कहा।",को,O
+7,"Patient को तेज़ सिर दर्द और बुखार था, इसलिए doctor ने उसे 5mg Paracetamol और एक ब्लड टेस्ट कराने के लिए कहा।",तेज़,B-SYMPTOM
+7,"Patient को तेज़ सिर दर्द और बुखार था, इसलिए doctor ने उसे 5mg Paracetamol और एक ब्लड टेस्ट कराने के लिए कहा।",सिर,I-SYMPTOM
+7,"Patient को तेज़ सिर दर्द और बुखार था, इसलिए doctor ने उसे 5mg Paracetamol और एक ब्लड टेस्ट कराने के लिए कहा।",दर्द,I-SYMPTOM
+7,"Patient को तेज़ सिर दर्द और बुखार था, इसलिए doctor ने उसे 5mg Paracetamol और एक ब्लड टेस्ट कराने के लिए कहा।",और,O
+7,"Patient को तेज़ सिर दर्द और बुखार था, इसलिए doctor ने उसे 5mg Paracetamol और एक ब्लड टेस्ट कराने के लिए कहा।",बुखार,B-SYMPTOM
+7,"Patient को तेज़ सिर दर्द और बुखार था, इसलिए doctor ने उसे 5mg Paracetamol और एक ब्लड टेस्ट कराने के लिए कहा।",था,O
+7,"Patient को तेज़ सिर दर्द और बुखार था, इसलिए doctor ने उसे 5mg Paracetamol और एक ब्लड टेस्ट कराने के लिए कहा।",",",O
+7,"Patient को तेज़ सिर दर्द और बुखार था, इसलिए doctor ने उसे 5mg Paracetamol और एक ब्लड टेस्ट कराने के लिए कहा।",इसलिए,O
+7,"Patient को तेज़ सिर दर्द और बुखार था, इसलिए doctor ने उसे 5mg Paracetamol और एक ब्लड टेस्ट कराने के लिए कहा।",doctor,O
+7,"Patient को तेज़ सिर दर्द और बुखार था, इसलिए doctor ने उसे 5mg Paracetamol और एक ब्लड टेस्ट कराने के लिए कहा।",ने,O
+7,"Patient को तेज़ सिर दर्द और बुखार था, इसलिए doctor ने उसे 5mg Paracetamol और एक ब्लड टेस्ट कराने के लिए कहा।",उसे,O
+7,"Patient को तेज़ सिर दर्द और बुखार था, इसलिए doctor ने उसे 5mg Paracetamol और एक ब्लड टेस्ट कराने के लिए कहा।",5mg,B-DOSAGE
+7,"Patient को तेज़ सिर दर्द और बुखार था, इसलिए doctor ने उसे 5mg Paracetamol और एक ब्लड टेस्ट कराने के लिए कहा।",Paracetamol,B-MEDICATION
+7,"Patient को तेज़ सिर दर्द और बुखार था, इसलिए doctor ने उसे 5mg Paracetamol और एक ब्लड टेस्ट कराने के लिए कहा।",और,O
+7,"Patient को तेज़ सिर दर्द और बुखार था, इसलिए doctor ने उसे 5mg Paracetamol और एक ब्लड टेस्ट कराने के लिए कहा।",एक,O
+7,"Patient को तेज़ सिर दर्द और बुखार था, इसलिए doctor ने उसे 5mg Paracetamol और एक ब्लड टेस्ट कराने के लिए कहा।",ब्लड,B-TEST
+7,"Patient को तेज़ सिर दर्द और बुखार था, इसलिए doctor ने उसे 5mg Paracetamol और एक ब्लड टेस्ट कराने के लिए कहा।",टेस्ट,I-TEST
+7,"Patient को तेज़ सिर दर्द और बुखार था, इसलिए doctor ने उसे 5mg Paracetamol और एक ब्लड टेस्ट कराने के लिए कहा।",कराने,O
+7,"Patient को तेज़ सिर दर्द और बुखार था, इसलिए doctor ने उसे 5mg Paracetamol और एक ब्लड टेस्ट कराने के लिए कहा।",के,O
+7,"Patient को तेज़ सिर दर्द और बुखार था, इसलिए doctor ने उसे 5mg Paracetamol और एक ब्लड टेस्ट कराने के लिए कहा।",लिए,O
+7,"Patient को तेज़ सिर दर्द और बुखार था, इसलिए doctor ने उसे 5mg Paracetamol और एक ब्लड टेस्ट कराने के लिए कहा।",कहा,O
+7,"Patient को तेज़ सिर दर्द और बुखार था, इसलिए doctor ने उसे 5mg Paracetamol और एक ब्लड टेस्ट कराने के लिए कहा।",।,O
+8,Patient with stage 2 डायबिटीज़ was admitted to ICU for severe हाइपोग्लाइसीमिया after an abnormal लिपिड प्रोफाइल report and was prescribed 5mg Glimepiride twice daily.,Patient,O
+8,Patient with stage 2 डायबिटीज़ was admitted to ICU for severe हाइपोग्लाइसीमिया after an abnormal लिपिड प्रोफाइल report and was prescribed 5mg Glimepiride twice daily.,with,O
+8,Patient with stage 2 डायबिटीज़ was admitted to ICU for severe हाइपोग्लाइसीमिया after an abnormal लिपिड प्रोफाइल report and was prescribed 5mg Glimepiride twice daily.,stage 2,B-CONDITION
+8,Patient with stage 2 डायबिटीज़ was admitted to ICU for severe हाइपोग्लाइसीमिया after an abnormal लिपिड प्रोफाइल report and was prescribed 5mg Glimepiride twice daily.,डायबिटीज़,I-CONDITION
+8,Patient with stage 2 डायबिटीज़ was admitted to ICU for severe हाइपोग्लाइसीमिया after an abnormal लिपिड प्रोफाइल report and was prescribed 5mg Glimepiride twice daily.,was,O
+8,Patient with stage 2 डायबिटीज़ was admitted to ICU for severe हाइपोग्लाइसीमिया after an abnormal लिपिड प्रोफाइल report and was prescribed 5mg Glimepiride twice daily.,admitted,O
+8,Patient with stage 2 डायबिटीज़ was admitted to ICU for severe हाइपोग्लाइसीमिया after an abnormal लिपिड प्रोफाइल report and was prescribed 5mg Glimepiride twice daily.,to,O
+8,Patient with stage 2 डायबिटीज़ was admitted to ICU for severe हाइपोग्लाइसीमिया after an abnormal लिपिड प्रोफाइल report and was prescribed 5mg Glimepiride twice daily.,ICU,O
+8,Patient with stage 2 डायबिटीज़ was admitted to ICU for severe हाइपोग्लाइसीमिया after an abnormal लिपिड प्रोफाइल report and was prescribed 5mg Glimepiride twice daily.,for,O
+8,Patient with stage 2 डायबिटीज़ was admitted to ICU for severe हाइपोग्लाइसीमिया after an abnormal लिपिड प्रोफाइल report and was prescribed 5mg Glimepiride twice daily.,severe,O
+8,Patient with stage 2 डायबिटीज़ was admitted to ICU for severe हाइपोग्लाइसीमिया after an abnormal लिपिड प्रोफाइल report and was prescribed 5mg Glimepiride twice daily.,हाइपोग्लाइसीमिया,B-CONDITION
+8,Patient with stage 2 डायबिटीज़ was admitted to ICU for severe हाइपोग्लाइसीमिया after an abnormal लिपिड प्रोफाइल report and was prescribed 5mg Glimepiride twice daily.,after,O
+8,Patient with stage 2 डायबिटीज़ was admitted to ICU for severe हाइपोग्लाइसीमिया after an abnormal लिपिड प्रोफाइल report and was prescribed 5mg Glimepiride twice daily.,an,O
+8,Patient with stage 2 डायबिटीज़ was admitted to ICU for severe हाइपोग्लाइसीमिया after an abnormal लिपिड प्रोफाइल report and was prescribed 5mg Glimepiride twice daily.,abnormal,O
+8,Patient with stage 2 डायबिटीज़ was admitted to ICU for severe हाइपोग्लाइसीमिया after an abnormal लिपिड प्रोफाइल report and was prescribed 5mg Glimepiride twice daily.,लिपिड प्रोफाइल,B-TEST
+8,Patient with stage 2 डायबिटीज़ was admitted to ICU for severe हाइपोग्लाइसीमिया after an abnormal लिपिड प्रोफाइल report and was prescribed 5mg Glimepiride twice daily.,report,O
+8,Patient with stage 2 डायबिटीज़ was admitted to ICU for severe हाइपोग्लाइसीमिया after an abnormal लिपिड प्रोफाइल report and was prescribed 5mg Glimepiride twice daily.,and,O
+8,Patient with stage 2 डायबिटीज़ was admitted to ICU for severe हाइपोग्लाइसीमिया after an abnormal लिपिड प्रोफाइल report and was prescribed 5mg Glimepiride twice daily.,was,O
+8,Patient with stage 2 डायबिटीज़ was admitted to ICU for severe हाइपोग्लाइसीमिया after an abnormal लिपिड प्रोफाइल report and was prescribed 5mg Glimepiride twice daily.,prescribed,O
+8,Patient with stage 2 डायबिटीज़ was admitted to ICU for severe हाइपोग्लाइसीमिया after an abnormal लिपिड प्रोफाइल report and was prescribed 5mg Glimepiride twice daily.,5mg,B-DOSAGE
+8,Patient with stage 2 डायबिटीज़ was admitted to ICU for severe हाइपोग्लाइसीमिया after an abnormal लिपिड प्रोफाइल report and was prescribed 5mg Glimepiride twice daily.,Glimepiride,B-MEDICATION
+8,Patient with stage 2 डायबिटीज़ was admitted to ICU for severe हाइपोग्लाइसीमिया after an abnormal लिपिड प्रोफाइल report and was prescribed 5mg Glimepiride twice daily.,twice,B-DOSAGE
+8,Patient with stage 2 डायबिटीज़ was admitted to ICU for severe हाइपोग्लाइसीमिया after an abnormal लिपिड प्रोफाइल report and was prescribed 5mg Glimepiride twice daily.,daily,I-DOSAGE
+8,Patient with stage 2 डायबिटीज़ was admitted to ICU for severe हाइपोग्लाइसीमिया after an abnormal लिपिड प्रोफाइल report and was prescribed 5mg Glimepiride twice daily.,.,O
+9,A patient with chronic हृदय रोग underwent an emergency angioplasty due to severe chest pain and तेज़ बुखार after a series of ECG and blood tests.,A,O
+9,A patient with chronic हृदय रोग underwent an emergency angioplasty due to severe chest pain and तेज़ बुखार after a series of ECG and blood tests.,patient,O
+9,A patient with chronic हृदय रोग underwent an emergency angioplasty due to severe chest pain and तेज़ बुखार after a series of ECG and blood tests.,with,O
+9,A patient with chronic हृदय रोग underwent an emergency angioplasty due to severe chest pain and तेज़ बुखार after a series of ECG and blood tests.,chronic,O
+9,A patient with chronic हृदय रोग underwent an emergency angioplasty due to severe chest pain and तेज़ बुखार after a series of ECG and blood tests.,हृदय रोग,B-CONDITION
+9,A patient with chronic हृदय रोग underwent an emergency angioplasty due to severe chest pain and तेज़ बुखार after a series of ECG and blood tests.,underwent,O
+9,A patient with chronic हृदय रोग underwent an emergency angioplasty due to severe chest pain and तेज़ बुखार after a series of ECG and blood tests.,an,O
+9,A patient with chronic हृदय रोग underwent an emergency angioplasty due to severe chest pain and तेज़ बुखार after a series of ECG and blood tests.,emergency,O
+9,A patient with chronic हृदय रोग underwent an emergency angioplasty due to severe chest pain and तेज़ बुखार after a series of ECG and blood tests.,angiplasty,B-PROCEDURE
+9,A patient with chronic हृदय रोग underwent an emergency angioplasty due to severe chest pain and तेज़ बुखार after a series of ECG and blood tests.,due,O
+9,A patient with chronic हृदय रोग underwent an emergency angioplasty due to severe chest pain and तेज़ बुखार after a series of ECG and blood tests.,to,O
+9,A patient with chronic हृदय रोग underwent an emergency angioplasty due to severe chest pain and तेज़ बुखार after a series of ECG and blood tests.,severe,O
+9,A patient with chronic हृदय रोग underwent an emergency angioplasty due to severe chest pain and तेज़ बुखार after a series of ECG and blood tests.,chest pain,B-SYMPTOM
+9,A patient with chronic हृदय रोग underwent an emergency angioplasty due to severe chest pain and तेज़ बुखार after a series of ECG and blood tests.,and,O
+9,A patient with chronic हृदय रोग underwent an emergency angioplasty due to severe chest pain and तेज़ बुखार after a series of ECG and blood tests.,तेज़,B-SYMPTOM
+9,A patient with chronic हृदय रोग underwent an emergency angioplasty due to severe chest pain and तेज़ बुखार after a series of ECG and blood tests.,बुखार,I-SYMPTOM
+9,A patient with chronic हृदय रोग underwent an emergency angioplasty due to severe chest pain and तेज़ बुखार after a series of ECG and blood tests.,after,O
+9,A patient with chronic हृदय रोग underwent an emergency angioplasty due to severe chest pain and तेज़ बुखार after a series of ECG and blood tests.,a,O
+9,A patient with chronic हृदय रोग underwent an emergency angioplasty due to severe chest pain and तेज़ बुखार after a series of ECG and blood tests.,series,O
+9,A patient with chronic हृदय रोग underwent an emergency angioplasty due to severe chest pain and तेज़ बुखार after a series of ECG and blood tests.,of,O
+9,A patient with chronic हृदय रोग underwent an emergency angioplasty due to severe chest pain and तेज़ बुखार after a series of ECG and blood tests.,ECG,B-TEST
+9,A patient with chronic हृदय रोग underwent an emergency angioplasty due to severe chest pain and तेज़ बुखार after a series of ECG and blood tests.,and,O
+9,A patient with chronic हृदय रोग underwent an emergency angioplasty due to severe chest pain and तेज़ बुखार after a series of ECG and blood tests.,blood tests,I-TEST
+9,A patient with chronic हृदय रोग underwent an emergency angioplasty due to severe chest pain and तेज़ बुखार after a series of ECG and blood tests.,.,O
+10,Patient को तेज़ बुखार और सिरदर्द के बाद emergency ward में भर्ती किया गया और immediate परीक्षण के लिए 200mL ब्लड सैंपल लिया गया जिसमें ECG और Lipid Profile भी शामिल था।,Patient,O
+10,Patient को तेज़ बुखार और सिरदर्द के बाद emergency ward में भर्ती किया गया और immediate परीक्षण के लिए 200mL ब्लड सैंपल लिया गया जिसमें ECG और Lipid Profile भी शामिल था।,को,O
+10,Patient को तेज़ बुखार और सिरदर्द के बाद emergency ward में भर्ती किया गया और immediate परीक्षण के लिए 200mL ब्लड सैंपल लिया गया जिसमें ECG और Lipid Profile भी शामिल था।,तेज़,B-SYMPTOM
+10,Patient को तेज़ बुखार और सिरदर्द के बाद emergency ward में भर्ती किया गया और immediate परीक्षण के लिए 200mL ब्लड सैंपल लिया गया जिसमें ECG और Lipid Profile भी शामिल था।,बुखार,I-SYMPTOM
+10,Patient को तेज़ बुखार और सिरदर्द के बाद emergency ward में भर्ती किया गया और immediate परीक्षण के लिए 200mL ब्लड सैंपल लिया गया जिसमें ECG और Lipid Profile भी शामिल था।,और,O
+10,Patient को तेज़ बुखार और सिरदर्द के बाद emergency ward में भर्ती किया गया और immediate परीक्षण के लिए 200mL ब्लड सैंपल लिया गया जिसमें ECG और Lipid Profile भी शामिल था।,सिरदर्द,B-SYMPTOM
+10,Patient को तेज़ बुखार और सिरदर्द के बाद emergency ward में भर्ती किया गया और immediate परीक्षण के लिए 200mL ब्लड सैंपल लिया गया जिसमें ECG और Lipid Profile भी शामिल था।,के,O
+10,Patient को तेज़ बुखार और सिरदर्द के बाद emergency ward में भर्ती किया गया और immediate परीक्षण के लिए 200mL ब्लड सैंपल लिया गया जिसमें ECG और Lipid Profile भी शामिल था।,बाद,O
+10,Patient को तेज़ बुखार और सिरदर्द के बाद emergency ward में भर्ती किया गया और immediate परीक्षण के लिए 200mL ब्लड सैंपल लिया गया जिसमें ECG और Lipid Profile भी शामिल था।,emergency,B-PROCEDURE
+10,Patient को तेज़ बुखार और सिरदर्द के बाद emergency ward में भर्ती किया गया और immediate परीक्षण के लिए 200mL ब्लड सैंपल लिया गया जिसमें ECG और Lipid Profile भी शामिल था।,ward,I-PROCEDURE
+10,Patient को तेज़ बुखार और सिरदर्द के बाद emergency ward में भर्ती किया गया और immediate परीक्षण के लिए 200mL ब्लड सैंपल लिया गया जिसमें ECG और Lipid Profile भी शामिल था।,में,O
+10,Patient को तेज़ बुखार और सिरदर्द के बाद emergency ward में भर्ती किया गया और immediate परीक्षण के लिए 200mL ब्लड सैंपल लिया गया जिसमें ECG और Lipid Profile भी शामिल था।,भर्ती,O
+10,Patient को तेज़ बुखार और सिरदर्द के बाद emergency ward में भर्ती किया गया और immediate परीक्षण के लिए 200mL ब्लड सैंपल लिया गया जिसमें ECG और Lipid Profile भी शामिल था।,किया,O
+10,Patient को तेज़ बुखार और सिरदर्द के बाद emergency ward में भर्ती किया गया और immediate परीक्षण के लिए 200mL ब्लड सैंपल लिया गया जिसमें ECG और Lipid Profile भी शामिल था।,गया,O
+10,Patient को तेज़ बुखार और सिरदर्द के बाद emergency ward में भर्ती किया गया और immediate परीक्षण के लिए 200mL ब्लड सैंपल लिया गया जिसमें ECG और Lipid Profile भी शामिल था।,और,O
+10,Patient को तेज़ बुखार और सिरदर्द के बाद emergency ward में भर्ती किया गया और immediate परीक्षण के लिए 200mL ब्लड सैंपल लिया गया जिसमें ECG और Lipid Profile भी शामिल था।,immediate,O
+10,Patient को तेज़ बुखार और सिरदर्द के बाद emergency ward में भर्ती किया गया और immediate परीक्षण के लिए 200mL ब्लड सैंपल लिया गया जिसमें ECG और Lipid Profile भी शामिल था।,परीक्षण,B-TEST
+10,Patient को तेज़ बुखार और सिरदर्द के बाद emergency ward में भर्ती किया गया और immediate परीक्षण के लिए 200mL ब्लड सैंपल लिया गया जिसमें ECG और Lipid Profile भी शामिल था।,के,O
+10,Patient को तेज़ बुखार और सिरदर्द के बाद emergency ward में भर्ती किया गया और immediate परीक्षण के लिए 200mL ब्लड सैंपल लिया गया जिसमें ECG और Lipid Profile भी शामिल था।,लिए,O
+10,Patient को तेज़ बुखार और सिरदर्द के बाद emergency ward में भर्ती किया गया और immediate परीक्षण के लिए 200mL ब्लड सैंपल लिया गया जिसमें ECG और Lipid Profile भी शामिल था।,200mL,B-DOSAGE
+10,Patient को तेज़ बुखार और सिरदर्द के बाद emergency ward में भर्ती किया गया और immediate परीक्षण के लिए 200mL ब्लड सैंपल लिया गया जिसमें ECG और Lipid Profile भी शामिल था।,ब्लड,B-TEST
+10,Patient को तेज़ बुखार और सिरदर्द के बाद emergency ward में भर्ती किया गया और immediate परीक्षण के लिए 200mL ब्लड सैंपल लिया गया जिसमें ECG और Lipid Profile भी शामिल था।,सैंपल,I-TEST
+10,Patient को तेज़ बुखार और सिरदर्द के बाद emergency ward में भर्ती किया गया और immediate परीक्षण के लिए 200mL ब्लड सैंपल लिया गया जिसमें ECG और Lipid Profile भी शामिल था।,लिया,O
+10,Patient को तेज़ बुखार और सिरदर्द के बाद emergency ward में भर्ती किया गया और immediate परीक्षण के लिए 200mL ब्लड सैंपल लिया गया जिसमें ECG और Lipid Profile भी शामिल था।,गया,O
+10,Patient को तेज़ बुखार और सिरदर्द के बाद emergency ward में भर्ती किया गया और immediate परीक्षण के लिए 200mL ब्लड सैंपल लिया गया जिसमें ECG और Lipid Profile भी शामिल था।,जिसमें,O
+10,Patient को तेज़ बुखार और सिरदर्द के बाद emergency ward में भर्ती किया गया और immediate परीक्षण के लिए 200mL ब्लड सैंपल लिया गया जिसमें ECG और Lipid Profile भी शामिल था।,ECG,B-TEST
+10,Patient को तेज़ बुखार और सिरदर्द के बाद emergency ward में भर्ती किया गया और immediate परीक्षण के लिए 200mL ब्लड सैंपल लिया गया जिसमें ECG और Lipid Profile भी शामिल था।,और,O
+10,Patient को तेज़ बुखार और सिरदर्द के बाद emergency ward में भर्ती किया गया और immediate परीक्षण के लिए 200mL ब्लड सैंपल लिया गया जिसमें ECG और Lipid Profile भी शामिल था।,Lipid,B-TEST
+10,Patient को तेज़ बुखार और सिरदर्द के बाद emergency ward में भर्ती किया गया और immediate परीक्षण के लिए 200mL ब्लड सैंपल लिया गया जिसमें ECG और Lipid Profile भी शामिल था।,Profile,I-TEST
+10,Patient को तेज़ बुखार और सिरदर्द के बाद emergency ward में भर्ती किया गया और immediate परीक्षण के लिए 200mL ब्लड सैंपल लिया गया जिसमें ECG और Lipid Profile भी शामिल था।,भी,O
+10,Patient को तेज़ बुखार और सिरदर्द के बाद emergency ward में भर्ती किया गया और immediate परीक्षण के लिए 200mL ब्लड सैंपल लिया गया जिसमें ECG और Lipid Profile भी शामिल था।,शामिल,O
+10,Patient को तेज़ बुखार और सिरदर्द के बाद emergency ward में भर्ती किया गया और immediate परीक्षण के लिए 200mL ब्लड सैंपल लिया गया जिसमें ECG और Lipid Profile भी शामिल था।,था।,O
+11,"A patient with stage 2 मधुमेह was advised to undergo an Angioplasty procedure after a series of tests, including a ब्लड टेस्ट and ECG, revealed abnormal results, and was prescribed 20mg Atorvastatin and 10 units of Insulin daily.",A,O
+11,"A patient with stage 2 मधुमेह was advised to undergo an Angioplasty procedure after a series of tests, including a ब्लड टेस्ट and ECG, revealed abnormal results, and was prescribed 20mg Atorvastatin and 10 units of Insulin daily.",patient,O
+11,"A patient with stage 2 मधुमेह was advised to undergo an Angioplasty procedure after a series of tests, including a ब्लड टेस्ट and ECG, revealed abnormal results, and was prescribed 20mg Atorvastatin and 10 units of Insulin daily.",with,O
+11,"A patient with stage 2 मधुमेह was advised to undergo an Angioplasty procedure after a series of tests, including a ब्लड टेस्ट and ECG, revealed abnormal results, and was prescribed 20mg Atorvastatin and 10 units of Insulin daily.",stage 2,B-CONDITION
+11,"A patient with stage 2 मधुमेह was advised to undergo an Angioplasty procedure after a series of tests, including a ब्लड टेस्ट and ECG, revealed abnormal results, and was prescribed 20mg Atorvastatin and 10 units of Insulin daily.",मधुमेह,I-CONDITION
+11,"A patient with stage 2 मधुमेह was advised to undergo an Angioplasty procedure after a series of tests, including a ब्लड टेस्ट and ECG, revealed abnormal results, and was prescribed 20mg Atorvastatin and 10 units of Insulin daily.",was,O
+11,"A patient with stage 2 मधुमेह was advised to undergo an Angioplasty procedure after a series of tests, including a ब्लड टेस्ट and ECG, revealed abnormal results, and was prescribed 20mg Atorvastatin and 10 units of Insulin daily.",advised,O
+11,"A patient with stage 2 मधुमेह was advised to undergo an Angioplasty procedure after a series of tests, including a ब्लड टेस्ट and ECG, revealed abnormal results, and was prescribed 20mg Atorvastatin and 10 units of Insulin daily.",to,O
+11,"A patient with stage 2 मधुमेह was advised to undergo an Angioplasty procedure after a series of tests, including a ब्लड टेस्ट and ECG, revealed abnormal results, and was prescribed 20mg Atorvastatin and 10 units of Insulin daily.",undergo,O
+11,"A patient with stage 2 मधुमेह was advised to undergo an Angioplasty procedure after a series of tests, including a ब्लड टेस्ट and ECG, revealed abnormal results, and was prescribed 20mg Atorvastatin and 10 units of Insulin daily.",an,O
+11,"A patient with stage 2 मधुमेह was advised to undergo an Angioplasty procedure after a series of tests, including a ब्लड टेस्ट and ECG, revealed abnormal results, and was prescribed 20mg Atorvastatin and 10 units of Insulin daily.",Angioplasty,B-PROCEDURE
+11,"A patient with stage 2 मधुमेह was advised to undergo an Angioplasty procedure after a series of tests, including a ब्लड टेस्ट and ECG, revealed abnormal results, and was prescribed 20mg Atorvastatin and 10 units of Insulin daily.",procedure,I-PROCEDURE
+11,"A patient with stage 2 मधुमेह was advised to undergo an Angioplasty procedure after a series of tests, including a ब्लड टेस्ट and ECG, revealed abnormal results, and was prescribed 20mg Atorvastatin and 10 units of Insulin daily.",after,O
+11,"A patient with stage 2 मधुमेह was advised to undergo an Angioplasty procedure after a series of tests, including a ब्लड टेस्ट and ECG, revealed abnormal results, and was prescribed 20mg Atorvastatin and 10 units of Insulin daily.",a,O
+11,"A patient with stage 2 मधुमेह was advised to undergo an Angioplasty procedure after a series of tests, including a ब्लड टेस्ट and ECG, revealed abnormal results, and was prescribed 20mg Atorvastatin and 10 units of Insulin daily.",series,O
+11,"A patient with stage 2 मधुमेह was advised to undergo an Angioplasty procedure after a series of tests, including a ब्लड टेस्ट and ECG, revealed abnormal results, and was prescribed 20mg Atorvastatin and 10 units of Insulin daily.",of,O
+11,"A patient with stage 2 मधुमेह was advised to undergo an Angioplasty procedure after a series of tests, including a ब्लड टेस्ट and ECG, revealed abnormal results, and was prescribed 20mg Atorvastatin and 10 units of Insulin daily.",tests,O
+11,"A patient with stage 2 मधुमेह was advised to undergo an Angioplasty procedure after a series of tests, including a ब्लड टेस्ट and ECG, revealed abnormal results, and was prescribed 20mg Atorvastatin and 10 units of Insulin daily.",",",O
+11,"A patient with stage 2 मधुमेह was advised to undergo an Angioplasty procedure after a series of tests, including a ब्लड टेस्ट and ECG, revealed abnormal results, and was prescribed 20mg Atorvastatin and 10 units of Insulin daily.",including,O
+11,"A patient with stage 2 मधुमेह was advised to undergo an Angioplasty procedure after a series of tests, including a ब्लड टेस्ट and ECG, revealed abnormal results, and was prescribed 20mg Atorvastatin and 10 units of Insulin daily.",a,O
+11,"A patient with stage 2 मधुमेह was advised to undergo an Angioplasty procedure after a series of tests, including a ब्लड टेस्ट and ECG, revealed abnormal results, and was prescribed 20mg Atorvastatin and 10 units of Insulin daily.",ब्लड,B-TEST
+11,"A patient with stage 2 मधुमेह was advised to undergo an Angioplasty procedure after a series of tests, including a ब्लड टेस्ट and ECG, revealed abnormal results, and was prescribed 20mg Atorvastatin and 10 units of Insulin daily.",टेस्ट,I-TEST
+11,"A patient with stage 2 मधुमेह was advised to undergo an Angioplasty procedure after a series of tests, including a ब्लड टेस्ट and ECG, revealed abnormal results, and was prescribed 20mg Atorvastatin and 10 units of Insulin daily.",and,O
+11,"A patient with stage 2 मधुमेह was advised to undergo an Angioplasty procedure after a series of tests, including a ब्लड टेस्ट and ECG, revealed abnormal results, and was prescribed 20mg Atorvastatin and 10 units of Insulin daily.",ECG,B-TEST
+11,"A patient with stage 2 मधुमेह was advised to undergo an Angioplasty procedure after a series of tests, including a ब्लड टेस्ट and ECG, revealed abnormal results, and was prescribed 20mg Atorvastatin and 10 units of Insulin daily.",",",O
+11,"A patient with stage 2 मधुमेह was advised to undergo an Angioplasty procedure after a series of tests, including a ब्लड टेस्ट and ECG, revealed abnormal results, and was prescribed 20mg Atorvastatin and 10 units of Insulin daily.",revealed,O
+11,"A patient with stage 2 मधुमेह was advised to undergo an Angioplasty procedure after a series of tests, including a ब्लड टेस्ट and ECG, revealed abnormal results, and was prescribed 20mg Atorvastatin and 10 units of Insulin daily.",abnormal,O
+11,"A patient with stage 2 मधुमेह was advised to undergo an Angioplasty procedure after a series of tests, including a ब्लड टेस्ट and ECG, revealed abnormal results, and was prescribed 20mg Atorvastatin and 10 units of Insulin daily.",results,O
+11,"A patient with stage 2 मधुमेह was advised to undergo an Angioplasty procedure after a series of tests, including a ब्लड टेस्ट and ECG, revealed abnormal results, and was prescribed 20mg Atorvastatin and 10 units of Insulin daily.",",",O
+11,"A patient with stage 2 मधुमेह was advised to undergo an Angioplasty procedure after a series of tests, including a ब्लड टेस्ट and ECG, revealed abnormal results, and was prescribed 20mg Atorvastatin and 10 units of Insulin daily.",and,O
+11,"A patient with stage 2 मधुमेह was advised to undergo an Angioplasty procedure after a series of tests, including a ब्लड टेस्ट and ECG, revealed abnormal results, and was prescribed 20mg Atorvastatin and 10 units of Insulin daily.",was,O
+11,"A patient with stage 2 मधुमेह was advised to undergo an Angioplasty procedure after a series of tests, including a ब्लड टेस्ट and ECG, revealed abnormal results, and was prescribed 20mg Atorvastatin and 10 units of Insulin daily.",prescribed,O
+11,"A patient with stage 2 मधुमेह was advised to undergo an Angioplasty procedure after a series of tests, including a ब्लड टेस्ट and ECG, revealed abnormal results, and was prescribed 20mg Atorvastatin and 10 units of Insulin daily.",20mg,B-DOSAGE
+11,"A patient with stage 2 मधुमेह was advised to undergo an Angioplasty procedure after a series of tests, including a ब्लड टेस्ट and ECG, revealed abnormal results, and was prescribed 20mg Atorvastatin and 10 units of Insulin daily.",Atorvastatin,B-MEDICATION
+11,"A patient with stage 2 मधुमेह was advised to undergo an Angioplasty procedure after a series of tests, including a ब्लड टेस्ट and ECG, revealed abnormal results, and was prescribed 20mg Atorvastatin and 10 units of Insulin daily.",and,O
+11,"A patient with stage 2 मधुमेह was advised to undergo an Angioplasty procedure after a series of tests, including a ब्लड टेस्ट and ECG, revealed abnormal results, and was prescribed 20mg Atorvastatin and 10 units of Insulin daily.",10,B-DOSAGE
+11,"A patient with stage 2 मधुमेह was advised to undergo an Angioplasty procedure after a series of tests, including a ब्लड टेस्ट and ECG, revealed abnormal results, and was prescribed 20mg Atorvastatin and 10 units of Insulin daily.",units,O
+11,"A patient with stage 2 मधुमेह was advised to undergo an Angioplasty procedure after a series of tests, including a ब्लड टेस्ट and ECG, revealed abnormal results, and was prescribed 20mg Atorvastatin and 10 units of Insulin daily.",of,O
+11,"A patient with stage 2 मधुमेह was advised to undergo an Angioplasty procedure after a series of tests, including a ब्लड टेस्ट and ECG, revealed abnormal results, and was prescribed 20mg Atorvastatin and 10 units of Insulin daily.",Insulin,B-MEDICATION
+11,"A patient with stage 2 मधुमेह was advised to undergo an Angioplasty procedure after a series of tests, including a ब्लड टेस्ट and ECG, revealed abnormal results, and was prescribed 20mg Atorvastatin and 10 units of Insulin daily.",daily,B-DOSAGE
+11,"A patient with stage 2 मधुमेह was advised to undergo an Angioplasty procedure after a series of tests, including a ब्लड टेस्ट and ECG, revealed abnormal results, and was prescribed 20mg Atorvastatin and 10 units of Insulin daily.",.,O
+12,"The patient with दिल की बीमारी underwent an emergency Angioplasty procedure after a series of abnormal ECG and ब्लड टेस्ट reports, and was prescribed 20mg Atorvastatin twice daily for high cholesterol.",The,O
+12,"The patient with दिल की बीमारी underwent an emergency Angioplasty procedure after a series of abnormal ECG and ब्लड टेस्ट reports, and was prescribed 20mg Atorvastatin twice daily for high cholesterol.",patient,O
+12,"The patient with दिल की बीमारी underwent an emergency Angioplasty procedure after a series of abnormal ECG and ब्लड टेस्ट reports, and was prescribed 20mg Atorvastatin twice daily for high cholesterol.",with,O
+12,"The patient with दिल की बीमारी underwent an emergency Angioplasty procedure after a series of abnormal ECG and ब्लड टेस्ट reports, and was prescribed 20mg Atorvastatin twice daily for high cholesterol.",दिल,B-CONDITION
+12,"The patient with दिल की बीमारी underwent an emergency Angioplasty procedure after a series of abnormal ECG and ब्लड टेस्ट reports, and was prescribed 20mg Atorvastatin twice daily for high cholesterol.",की,I-CONDITION
+12,"The patient with दिल की बीमारी underwent an emergency Angioplasty procedure after a series of abnormal ECG and ब्लड टेस्ट reports, and was prescribed 20mg Atorvastatin twice daily for high cholesterol.",बीमारी,I-CONDITION
+12,"The patient with दिल की बीमारी underwent an emergency Angioplasty procedure after a series of abnormal ECG and ब्लड टेस्ट reports, and was prescribed 20mg Atorvastatin twice daily for high cholesterol.",underwent,O
+12,"The patient with दिल की बीमारी underwent an emergency Angioplasty procedure after a series of abnormal ECG and ब्लड टेस्ट reports, and was prescribed 20mg Atorvastatin twice daily for high cholesterol.",an,O
+12,"The patient with दिल की बीमारी underwent an emergency Angioplasty procedure after a series of abnormal ECG and ब्लड टेस्ट reports, and was prescribed 20mg Atorvastatin twice daily for high cholesterol.",emergency,O
+12,"The patient with दिल की बीमारी underwent an emergency Angioplasty procedure after a series of abnormal ECG and ब्लड टेस्ट reports, and was prescribed 20mg Atorvastatin twice daily for high cholesterol.",Angioplasty,B-PROCEDURE
+12,"The patient with दिल की बीमारी underwent an emergency Angioplasty procedure after a series of abnormal ECG and ब्लड टेस्ट reports, and was prescribed 20mg Atorvastatin twice daily for high cholesterol.",procedure,I-PROCEDURE
+12,"The patient with दिल की बीमारी underwent an emergency Angioplasty procedure after a series of abnormal ECG and ब्लड टेस्ट reports, and was prescribed 20mg Atorvastatin twice daily for high cholesterol.",after,O
+12,"The patient with दिल की बीमारी underwent an emergency Angioplasty procedure after a series of abnormal ECG and ब्लड टेस्ट reports, and was prescribed 20mg Atorvastatin twice daily for high cholesterol.",a,O
+12,"The patient with दिल की बीमारी underwent an emergency Angioplasty procedure after a series of abnormal ECG and ब्लड टेस्ट reports, and was prescribed 20mg Atorvastatin twice daily for high cholesterol.",series,O
+12,"The patient with दिल की बीमारी underwent an emergency Angioplasty procedure after a series of abnormal ECG and ब्लड टेस्ट reports, and was prescribed 20mg Atorvastatin twice daily for high cholesterol.",of,O
+12,"The patient with दिल की बीमारी underwent an emergency Angioplasty procedure after a series of abnormal ECG and ब्लड टेस्ट reports, and was prescribed 20mg Atorvastatin twice daily for high cholesterol.",abnormal,O
+12,"The patient with दिल की बीमारी underwent an emergency Angioplasty procedure after a series of abnormal ECG and ब्लड टेस्ट reports, and was prescribed 20mg Atorvastatin twice daily for high cholesterol.",ECG,B-TEST
+12,"The patient with दिल की बीमारी underwent an emergency Angioplasty procedure after a series of abnormal ECG and ब्लड टेस्ट reports, and was prescribed 20mg Atorvastatin twice daily for high cholesterol.",and,O
+12,"The patient with दिल की बीमारी underwent an emergency Angioplasty procedure after a series of abnormal ECG and ब्लड टेस्ट reports, and was prescribed 20mg Atorvastatin twice daily for high cholesterol.",ब्लड,B-TEST
+12,"The patient with दिल की बीमारी underwent an emergency Angioplasty procedure after a series of abnormal ECG and ब्लड टेस्ट reports, and was prescribed 20mg Atorvastatin twice daily for high cholesterol.",टेस्ट,I-TEST
+12,"The patient with दिल की बीमारी underwent an emergency Angioplasty procedure after a series of abnormal ECG and ब्लड टेस्ट reports, and was prescribed 20mg Atorvastatin twice daily for high cholesterol.",reports,O
+12,"The patient with दिल की बीमारी underwent an emergency Angioplasty procedure after a series of abnormal ECG and ब्लड टेस्ट reports, and was prescribed 20mg Atorvastatin twice daily for high cholesterol.",and,O
+12,"The patient with दिल की बीमारी underwent an emergency Angioplasty procedure after a series of abnormal ECG and ब्लड टेस्ट reports, and was prescribed 20mg Atorvastatin twice daily for high cholesterol.",was,O
+12,"The patient with दिल की बीमारी underwent an emergency Angioplasty procedure after a series of abnormal ECG and ब्लड टेस्ट reports, and was prescribed 20mg Atorvastatin twice daily for high cholesterol.",prescribed,O
+12,"The patient with दिल की बीमारी underwent an emergency Angioplasty procedure after a series of abnormal ECG and ब्लड टेस्ट reports, and was prescribed 20mg Atorvastatin twice daily for high cholesterol.",20mg,B-DOSAGE
+12,"The patient with दिल की बीमारी underwent an emergency Angioplasty procedure after a series of abnormal ECG and ब्लड टेस्ट reports, and was prescribed 20mg Atorvastatin twice daily for high cholesterol.",Atorvastatin,B-MEDICATION
+12,"The patient with दिल की बीमारी underwent an emergency Angioplasty procedure after a series of abnormal ECG and ब्लड टेस्ट reports, and was prescribed 20mg Atorvastatin twice daily for high cholesterol.",twice,O
+12,"The patient with दिल की बीमारी underwent an emergency Angioplasty procedure after a series of abnormal ECG and ब्लड टेस्ट reports, and was prescribed 20mg Atorvastatin twice daily for high cholesterol.",daily,O
+12,"The patient with दिल की बीमारी underwent an emergency Angioplasty procedure after a series of abnormal ECG and ब्लड टेस्ट reports, and was prescribed 20mg Atorvastatin twice daily for high cholesterol.",for,O
+12,"The patient with दिल की बीमारी underwent an emergency Angioplasty procedure after a series of abnormal ECG and ब्लड टेस्ट reports, and was prescribed 20mg Atorvastatin twice daily for high cholesterol.",high,B-CONDITION
+12,"The patient with दिल की बीमारी underwent an emergency Angioplasty procedure after a series of abnormal ECG and ब्लड टेस्ट reports, and was prescribed 20mg Atorvastatin twice daily for high cholesterol.",cholesterol,I-CONDITION
+12,"The patient with दिल की बीमारी underwent an emergency Angioplasty procedure after a series of abnormal ECG and ब्लड टेस्ट reports, and was prescribed 20mg Atorvastatin twice daily for high cholesterol.",.,O
+13,The patient with तेज़ बुखार and सिर दर्द underwent an emergency सीटी स्कैन and was prescribed 500mg Paracetamol twice daily for 5 days.,The,O
+13,The patient with तेज़ बुखार and सिर दर्द underwent an emergency सीटी स्कैन and was prescribed 500mg Paracetamol twice daily for 5 days.,patient,O
+13,The patient with तेज़ बुखार and सिर दर्द underwent an emergency सीटी स्कैन and was prescribed 500mg Paracetamol twice daily for 5 days.,with,O
+13,The patient with तेज़ बुखार and सिर दर्द underwent an emergency सीटी स्कैन and was prescribed 500mg Paracetamol twice daily for 5 days.,तेज़,B-SYMPTOM
+13,The patient with तेज़ बुखार and सिर दर्द underwent an emergency सीटी स्कैन and was prescribed 500mg Paracetamol twice daily for 5 days.,बुखार,I-SYMPTOM
+13,The patient with तेज़ बुखार and सिर दर्द underwent an emergency सीटी स्कैन and was prescribed 500mg Paracetamol twice daily for 5 days.,and,O
+13,The patient with तेज़ बुखार and सिर दर्द underwent an emergency सीटी स्कैन and was prescribed 500mg Paracetamol twice daily for 5 days.,सिर,B-SYMPTOM
+13,The patient with तेज़ बुखार and सिर दर्द underwent an emergency सीटी स्कैन and was prescribed 500mg Paracetamol twice daily for 5 days.,दर्द,I-SYMPTOM
+13,The patient with तेज़ बुखार and सिर दर्द underwent an emergency सीटी स्कैन and was prescribed 500mg Paracetamol twice daily for 5 days.,underwent,O
+13,The patient with तेज़ बुखार and सिर दर्द underwent an emergency सीटी स्कैन and was prescribed 500mg Paracetamol twice daily for 5 days.,an,O
+13,The patient with तेज़ बुखार and सिर दर्द underwent an emergency सीटी स्कैन and was prescribed 500mg Paracetamol twice daily for 5 days.,emergency,O
+13,The patient with तेज़ बुखार and सिर दर्द underwent an emergency सीटी स्कैन and was prescribed 500mg Paracetamol twice daily for 5 days.,सीटी,B-PROCEDURE
+13,The patient with तेज़ बुखार and सिर दर्द underwent an emergency सीटी स्कैन and was prescribed 500mg Paracetamol twice daily for 5 days.,स्कैन,I-PROCEDURE
+13,The patient with तेज़ बुखार and सिर दर्द underwent an emergency सीटी स्कैन and was prescribed 500mg Paracetamol twice daily for 5 days.,and,O
+13,The patient with तेज़ बुखार and सिर दर्द underwent an emergency सीटी स्कैन and was prescribed 500mg Paracetamol twice daily for 5 days.,was,O
+13,The patient with तेज़ बुखार and सिर दर्द underwent an emergency सीटी स्कैन and was prescribed 500mg Paracetamol twice daily for 5 days.,prescribed,O
+13,The patient with तेज़ बुखार and सिर दर्द underwent an emergency सीटी स्कैन and was prescribed 500mg Paracetamol twice daily for 5 days.,500mg,B-DOSAGE
+13,The patient with तेज़ बुखार and सिर दर्द underwent an emergency सीटी स्कैन and was prescribed 500mg Paracetamol twice daily for 5 days.,Paracetamol,B-MEDICATION
+13,The patient with तेज़ बुखार and सिर दर्द underwent an emergency सीटी स्कैन and was prescribed 500mg Paracetamol twice daily for 5 days.,twice,B-DOSAGE
+13,The patient with तेज़ बुखार and सिर दर्द underwent an emergency सीटी स्कैन and was prescribed 500mg Paracetamol twice daily for 5 days.,daily,I-DOSAGE
+13,The patient with तेज़ बुखार and सिर दर्द underwent an emergency सीटी स्कैन and was prescribed 500mg Paracetamol twice daily for 5 days.,for,O
+13,The patient with तेज़ बुखार and सिर दर्द underwent an emergency सीटी स्कैन and was prescribed 500mg Paracetamol twice daily for 5 days.,5,B-DOSAGE
+13,The patient with तेज़ बुखार and सिर दर्द underwent an emergency सीटी स्कैन and was prescribed 500mg Paracetamol twice daily for 5 days.,days,I-DOSAGE
+13,The patient with तेज़ बुखार and सिर दर्द underwent an emergency सीटी स्कैन and was prescribed 500mg Paracetamol twice daily for 5 days.,.,O
+14,"The patient with acute myocardial infarction, also known as दिल का दौरा, underwent an emergency coronary angiography and was prescribed 40mg Atorvastatin twice daily for high cholesterol.",The,O
+14,"The patient with acute myocardial infarction, also known as दिल का दौरा, underwent an emergency coronary angiography and was prescribed 40mg Atorvastatin twice daily for high cholesterol.",patient,O
+14,"The patient with acute myocardial infarction, also known as दिल का दौरा, underwent an emergency coronary angiography and was prescribed 40mg Atorvastatin twice daily for high cholesterol.",with,O
+14,"The patient with acute myocardial infarction, also known as दिल का दौरा, underwent an emergency coronary angiography and was prescribed 40mg Atorvastatin twice daily for high cholesterol.",acute,B-CONDITION
+14,"The patient with acute myocardial infarction, also known as दिल का दौरा, underwent an emergency coronary angiography and was prescribed 40mg Atorvastatin twice daily for high cholesterol.",myocardial,I-CONDITION
+14,"The patient with acute myocardial infarction, also known as दिल का दौरा, underwent an emergency coronary angiography and was prescribed 40mg Atorvastatin twice daily for high cholesterol.",infarction,I-CONDITION
+14,"The patient with acute myocardial infarction, also known as दिल का दौरा, underwent an emergency coronary angiography and was prescribed 40mg Atorvastatin twice daily for high cholesterol.",",",O
+14,"The patient with acute myocardial infarction, also known as दिल का दौरा, underwent an emergency coronary angiography and was prescribed 40mg Atorvastatin twice daily for high cholesterol.",also,O
+14,"The patient with acute myocardial infarction, also known as दिल का दौरा, underwent an emergency coronary angiography and was prescribed 40mg Atorvastatin twice daily for high cholesterol.",known,O
+14,"The patient with acute myocardial infarction, also known as दिल का दौरा, underwent an emergency coronary angiography and was prescribed 40mg Atorvastatin twice daily for high cholesterol.",as,O
+14,"The patient with acute myocardial infarction, also known as दिल का दौरा, underwent an emergency coronary angiography and was prescribed 40mg Atorvastatin twice daily for high cholesterol.",दिल,B-CONDITION
+14,"The patient with acute myocardial infarction, also known as दिल का दौरा, underwent an emergency coronary angiography and was prescribed 40mg Atorvastatin twice daily for high cholesterol.",का,I-CONDITION
+14,"The patient with acute myocardial infarction, also known as दिल का दौरा, underwent an emergency coronary angiography and was prescribed 40mg Atorvastatin twice daily for high cholesterol.",दौरा,I-CONDITION
+14,"The patient with acute myocardial infarction, also known as दिल का दौरा, underwent an emergency coronary angiography and was prescribed 40mg Atorvastatin twice daily for high cholesterol.",",",O
+14,"The patient with acute myocardial infarction, also known as दिल का दौरा, underwent an emergency coronary angiography and was prescribed 40mg Atorvastatin twice daily for high cholesterol.",underwent,O
+14,"The patient with acute myocardial infarction, also known as दिल का दौरा, underwent an emergency coronary angiography and was prescribed 40mg Atorvastatin twice daily for high cholesterol.",an,O
+14,"The patient with acute myocardial infarction, also known as दिल का दौरा, underwent an emergency coronary angiography and was prescribed 40mg Atorvastatin twice daily for high cholesterol.",emergency,O
+14,"The patient with acute myocardial infarction, also known as दिल का दौरा, underwent an emergency coronary angiography and was prescribed 40mg Atorvastatin twice daily for high cholesterol.",coronary,B-PROCEDURE
+14,"The patient with acute myocardial infarction, also known as दिल का दौरा, underwent an emergency coronary angiography and was prescribed 40mg Atorvastatin twice daily for high cholesterol.",angiography,I-PROCEDURE
+14,"The patient with acute myocardial infarction, also known as दिल का दौरा, underwent an emergency coronary angiography and was prescribed 40mg Atorvastatin twice daily for high cholesterol.",and,O
+14,"The patient with acute myocardial infarction, also known as दिल का दौरा, underwent an emergency coronary angiography and was prescribed 40mg Atorvastatin twice daily for high cholesterol.",was,O
+14,"The patient with acute myocardial infarction, also known as दिल का दौरा, underwent an emergency coronary angiography and was prescribed 40mg Atorvastatin twice daily for high cholesterol.",prescribed,O
+14,"The patient with acute myocardial infarction, also known as दिल का दौरा, underwent an emergency coronary angiography and was prescribed 40mg Atorvastatin twice daily for high cholesterol.",40mg,B-DOSAGE
+14,"The patient with acute myocardial infarction, also known as दिल का दौरा, underwent an emergency coronary angiography and was prescribed 40mg Atorvastatin twice daily for high cholesterol.",Atorvastatin,B-MEDICATION
+14,"The patient with acute myocardial infarction, also known as दिल का दौरा, underwent an emergency coronary angiography and was prescribed 40mg Atorvastatin twice daily for high cholesterol.",twice,O
+14,"The patient with acute myocardial infarction, also known as दिल का दौरा, underwent an emergency coronary angiography and was prescribed 40mg Atorvastatin twice daily for high cholesterol.",daily,O
+14,"The patient with acute myocardial infarction, also known as दिल का दौरा, underwent an emergency coronary angiography and was prescribed 40mg Atorvastatin twice daily for high cholesterol.",for,O
+14,"The patient with acute myocardial infarction, also known as दिल का दौरा, underwent an emergency coronary angiography and was prescribed 40mg Atorvastatin twice daily for high cholesterol.",high,B-CONDITION
+14,"The patient with acute myocardial infarction, also known as दिल का दौरा, underwent an emergency coronary angiography and was prescribed 40mg Atorvastatin twice daily for high cholesterol.",cholesterol,I-CONDITION
+14,"The patient with acute myocardial infarction, also known as दिल का दौरा, underwent an emergency coronary angiography and was prescribed 40mg Atorvastatin twice daily for high cholesterol.",.,O
+15,The patient with severe हृदय रोग underwent an emergency Angioplasty procedure after a critical ECG report showed abnormal heart rhythms and was prescribed 100mg Aspirin daily.,The,O
+15,The patient with severe हृदय रोग underwent an emergency Angioplasty procedure after a critical ECG report showed abnormal heart rhythms and was prescribed 100mg Aspirin daily.,patient,O
+15,The patient with severe हृदय रोग underwent an emergency Angioplasty procedure after a critical ECG report showed abnormal heart rhythms and was prescribed 100mg Aspirin daily.,with,O
+15,The patient with severe हृदय रोग underwent an emergency Angioplasty procedure after a critical ECG report showed abnormal heart rhythms and was prescribed 100mg Aspirin daily.,severe,O
+15,The patient with severe हृदय रोग underwent an emergency Angioplasty procedure after a critical ECG report showed abnormal heart rhythms and was prescribed 100mg Aspirin daily.,हृदय,B-CONDITION
+15,The patient with severe हृदय रोग underwent an emergency Angioplasty procedure after a critical ECG report showed abnormal heart rhythms and was prescribed 100mg Aspirin daily.,रोग,I-CONDITION
+15,The patient with severe हृदय रोग underwent an emergency Angioplasty procedure after a critical ECG report showed abnormal heart rhythms and was prescribed 100mg Aspirin daily.,underwent,O
+15,The patient with severe हृदय रोग underwent an emergency Angioplasty procedure after a critical ECG report showed abnormal heart rhythms and was prescribed 100mg Aspirin daily.,an,O
+15,The patient with severe हृदय रोग underwent an emergency Angioplasty procedure after a critical ECG report showed abnormal heart rhythms and was prescribed 100mg Aspirin daily.,emergency,O
+15,The patient with severe हृदय रोग underwent an emergency Angioplasty procedure after a critical ECG report showed abnormal heart rhythms and was prescribed 100mg Aspirin daily.,Angioplasty,B-PROCEDURE
+15,The patient with severe हृदय रोग underwent an emergency Angioplasty procedure after a critical ECG report showed abnormal heart rhythms and was prescribed 100mg Aspirin daily.,procedure,I-PROCEDURE
+15,The patient with severe हृदय रोग underwent an emergency Angioplasty procedure after a critical ECG report showed abnormal heart rhythms and was prescribed 100mg Aspirin daily.,after,O
+15,The patient with severe हृदय रोग underwent an emergency Angioplasty procedure after a critical ECG report showed abnormal heart rhythms and was prescribed 100mg Aspirin daily.,a,O
+15,The patient with severe हृदय रोग underwent an emergency Angioplasty procedure after a critical ECG report showed abnormal heart rhythms and was prescribed 100mg Aspirin daily.,critical,O
+15,The patient with severe हृदय रोग underwent an emergency Angioplasty procedure after a critical ECG report showed abnormal heart rhythms and was prescribed 100mg Aspirin daily.,ECG,B-TEST
+15,The patient with severe हृदय रोग underwent an emergency Angioplasty procedure after a critical ECG report showed abnormal heart rhythms and was prescribed 100mg Aspirin daily.,report,I-TEST
+15,The patient with severe हृदय रोग underwent an emergency Angioplasty procedure after a critical ECG report showed abnormal heart rhythms and was prescribed 100mg Aspirin daily.,showed,O
+15,The patient with severe हृदय रोग underwent an emergency Angioplasty procedure after a critical ECG report showed abnormal heart rhythms and was prescribed 100mg Aspirin daily.,abnormal,O
+15,The patient with severe हृदय रोग underwent an emergency Angioplasty procedure after a critical ECG report showed abnormal heart rhythms and was prescribed 100mg Aspirin daily.,heart,B-SYMPTOM
+15,The patient with severe हृदय रोग underwent an emergency Angioplasty procedure after a critical ECG report showed abnormal heart rhythms and was prescribed 100mg Aspirin daily.,rhythms,I-SYMPTOM
+15,The patient with severe हृदय रोग underwent an emergency Angioplasty procedure after a critical ECG report showed abnormal heart rhythms and was prescribed 100mg Aspirin daily.,and,O
+15,The patient with severe हृदय रोग underwent an emergency Angioplasty procedure after a critical ECG report showed abnormal heart rhythms and was prescribed 100mg Aspirin daily.,was,O
+15,The patient with severe हृदय रोग underwent an emergency Angioplasty procedure after a critical ECG report showed abnormal heart rhythms and was prescribed 100mg Aspirin daily.,prescribed,O
+15,The patient with severe हृदय रोग underwent an emergency Angioplasty procedure after a critical ECG report showed abnormal heart rhythms and was prescribed 100mg Aspirin daily.,100mg,B-DOSAGE
+15,The patient with severe हृदय रोग underwent an emergency Angioplasty procedure after a critical ECG report showed abnormal heart rhythms and was prescribed 100mg Aspirin daily.,Aspirin,B-MEDICATION
+15,The patient with severe हृदय रोग underwent an emergency Angioplasty procedure after a critical ECG report showed abnormal heart rhythms and was prescribed 100mg Aspirin daily.,daily,B-DOSAGE
+15,The patient with severe हृदय रोग underwent an emergency Angioplasty procedure after a critical ECG report showed abnormal heart rhythms and was prescribed 100mg Aspirin daily.,.,O
+16,The patient with तेज़ बुखार and सिर दर्द was prescribed 200mg Crocin after an abnormal ब्लड टेस्ट report.,The,O
+16,The patient with तेज़ बुखार and सिर दर्द was prescribed 200mg Crocin after an abnormal ब्लड टेस्ट report.,patient,O
+16,The patient with तेज़ बुखार and सिर दर्द was prescribed 200mg Crocin after an abnormal ब्लड टेस्ट report.,with,O
+16,The patient with तेज़ बुखार and सिर दर्द was prescribed 200mg Crocin after an abnormal ब्लड टेस्ट report.,तेज़,B-SYMPTOM
+16,The patient with तेज़ बुखार and सिर दर्द was prescribed 200mg Crocin after an abnormal ब्लड टेस्ट report.,बुखार,I-SYMPTOM
+16,The patient with तेज़ बुखार and सिर दर्द was prescribed 200mg Crocin after an abnormal ब्लड टेस्ट report.,and,O
+16,The patient with तेज़ बुखार and सिर दर्द was prescribed 200mg Crocin after an abnormal ब्लड टेस्ट report.,सिर,B-SYMPTOM
+16,The patient with तेज़ बुखार and सिर दर्द was prescribed 200mg Crocin after an abnormal ब्लड टेस्ट report.,दर्द,I-SYMPTOM
+16,The patient with तेज़ बुखार and सिर दर्द was prescribed 200mg Crocin after an abnormal ब्लड टेस्ट report.,was,O
+16,The patient with तेज़ बुखार and सिर दर्द was prescribed 200mg Crocin after an abnormal ब्लड टेस्ट report.,prescribed,O
+16,The patient with तेज़ बुखार and सिर दर्द was prescribed 200mg Crocin after an abnormal ब्लड टेस्ट report.,200mg,B-DOSAGE
+16,The patient with तेज़ बुखार and सिर दर्द was prescribed 200mg Crocin after an abnormal ब्लड टेस्ट report.,Crocin,B-MEDICATION
+16,The patient with तेज़ बुखार and सिर दर्द was prescribed 200mg Crocin after an abnormal ब्लड टेस्ट report.,after,O
+16,The patient with तेज़ बुखार and सिर दर्द was prescribed 200mg Crocin after an abnormal ब्लड टेस्ट report.,an,O
+16,The patient with तेज़ बुखार and सिर दर्द was prescribed 200mg Crocin after an abnormal ब्लड टेस्ट report.,abnormal,O
+16,The patient with तेज़ बुखार and सिर दर्द was prescribed 200mg Crocin after an abnormal ब्लड टेस्ट report.,ब्लड,B-TEST
+16,The patient with तेज़ बुखार and सिर दर्द was prescribed 200mg Crocin after an abnormal ब्लड टेस्ट report.,टेस्ट,I-TEST
+16,The patient with तेज़ बुखार and सिर दर्द was prescribed 200mg Crocin after an abnormal ब्लड टेस्ट report.,report,O
+16,The patient with तेज़ बुखार and सिर दर्द was prescribed 200mg Crocin after an abnormal ब्लड टेस्ट report.,.,O
+17,The patient with क्रोनिक हृदय रोग underwent an emergency Angioplasty procedure after a chest pain attack and was prescribed 25mg Aspirin and Metformin for life.,The,O
+17,The patient with क्रोनिक हृदय रोग underwent an emergency Angioplasty procedure after a chest pain attack and was prescribed 25mg Aspirin and Metformin for life.,patient,O
+17,The patient with क्रोनिक हृदय रोग underwent an emergency Angioplasty procedure after a chest pain attack and was prescribed 25mg Aspirin and Metformin for life.,with,O
+17,The patient with क्रोनिक हृदय रोग underwent an emergency Angioplasty procedure after a chest pain attack and was prescribed 25mg Aspirin and Metformin for life.,क्रोनिक,B-CONDITION
+17,The patient with क्रोनिक हृदय रोग underwent an emergency Angioplasty procedure after a chest pain attack and was prescribed 25mg Aspirin and Metformin for life.,हृदय,I-CONDITION
+17,The patient with क्रोनिक हृदय रोग underwent an emergency Angioplasty procedure after a chest pain attack and was prescribed 25mg Aspirin and Metformin for life.,रोग,I-CONDITION
+17,The patient with क्रोनिक हृदय रोग underwent an emergency Angioplasty procedure after a chest pain attack and was prescribed 25mg Aspirin and Metformin for life.,underwent,O
+17,The patient with क्रोनिक हृदय रोग underwent an emergency Angioplasty procedure after a chest pain attack and was prescribed 25mg Aspirin and Metformin for life.,an,O
+17,The patient with क्रोनिक हृदय रोग underwent an emergency Angioplasty procedure after a chest pain attack and was prescribed 25mg Aspirin and Metformin for life.,emergency,O
+17,The patient with क्रोनिक हृदय रोग underwent an emergency Angioplasty procedure after a chest pain attack and was prescribed 25mg Aspirin and Metformin for life.,Angioplasty,B-PROCEDURE
+17,The patient with क्रोनिक हृदय रोग underwent an emergency Angioplasty procedure after a chest pain attack and was prescribed 25mg Aspirin and Metformin for life.,procedure,I-PROCEDURE
+17,The patient with क्रोनिक हृदय रोग underwent an emergency Angioplasty procedure after a chest pain attack and was prescribed 25mg Aspirin and Metformin for life.,after,O
+17,The patient with क्रोनिक हृदय रोग underwent an emergency Angioplasty procedure after a chest pain attack and was prescribed 25mg Aspirin and Metformin for life.,a,O
+17,The patient with क्रोनिक हृदय रोग underwent an emergency Angioplasty procedure after a chest pain attack and was prescribed 25mg Aspirin and Metformin for life.,chest,B-SYMPTOM
+17,The patient with क्रोनिक हृदय रोग underwent an emergency Angioplasty procedure after a chest pain attack and was prescribed 25mg Aspirin and Metformin for life.,pain,I-SYMPTOM
+17,The patient with क्रोनिक हृदय रोग underwent an emergency Angioplasty procedure after a chest pain attack and was prescribed 25mg Aspirin and Metformin for life.,attack,I-SYMPTOM
+17,The patient with क्रोनिक हृदय रोग underwent an emergency Angioplasty procedure after a chest pain attack and was prescribed 25mg Aspirin and Metformin for life.,and,O
+17,The patient with क्रोनिक हृदय रोग underwent an emergency Angioplasty procedure after a chest pain attack and was prescribed 25mg Aspirin and Metformin for life.,was,O
+17,The patient with क्रोनिक हृदय रोग underwent an emergency Angioplasty procedure after a chest pain attack and was prescribed 25mg Aspirin and Metformin for life.,prescribed,O
+17,The patient with क्रोनिक हृदय रोग underwent an emergency Angioplasty procedure after a chest pain attack and was prescribed 25mg Aspirin and Metformin for life.,25mg,B-DOSAGE
+17,The patient with क्रोनिक हृदय रोग underwent an emergency Angioplasty procedure after a chest pain attack and was prescribed 25mg Aspirin and Metformin for life.,Aspirin,B-MEDICATION
+17,The patient with क्रोनिक हृदय रोग underwent an emergency Angioplasty procedure after a chest pain attack and was prescribed 25mg Aspirin and Metformin for life.,and,O
+17,The patient with क्रोनिक हृदय रोग underwent an emergency Angioplasty procedure after a chest pain attack and was prescribed 25mg Aspirin and Metformin for life.,Metformin,B-MEDICATION
+17,The patient with क्रोनिक हृदय रोग underwent an emergency Angioplasty procedure after a chest pain attack and was prescribed 25mg Aspirin and Metformin for life.,for,O
+17,The patient with क्रोनिक हृदय रोग underwent an emergency Angioplasty procedure after a chest pain attack and was prescribed 25mg Aspirin and Metformin for life.,life,O
+17,The patient with क्रोनिक हृदय रोग underwent an emergency Angioplasty procedure after a chest pain attack and was prescribed 25mg Aspirin and Metformin for life.,.,O
+18,The patient with stage 2 मधुमेह was prescribed 10 units of Insulin after an abnormal Lipid Profile report and ECG test to monitor तेज़ सिर दर्द and बुखार symptoms.,The,O
+18,The patient with stage 2 मधुमेह was prescribed 10 units of Insulin after an abnormal Lipid Profile report and ECG test to monitor तेज़ सिर दर्द and बुखार symptoms.,patient,O
+18,The patient with stage 2 मधुमेह was prescribed 10 units of Insulin after an abnormal Lipid Profile report and ECG test to monitor तेज़ सिर दर्द and बुखार symptoms.,with,O
+18,The patient with stage 2 मधुमेह was prescribed 10 units of Insulin after an abnormal Lipid Profile report and ECG test to monitor तेज़ सिर दर्द and बुखार symptoms.,stage 2,B-CONDITION
+18,The patient with stage 2 मधुमेह was prescribed 10 units of Insulin after an abnormal Lipid Profile report and ECG test to monitor तेज़ सिर दर्द and बुखार symptoms.,मधुमेह,I-CONDITION
+18,The patient with stage 2 मधुमेह was prescribed 10 units of Insulin after an abnormal Lipid Profile report and ECG test to monitor तेज़ सिर दर्द and बुखार symptoms.,was,O
+18,The patient with stage 2 मधुमेह was prescribed 10 units of Insulin after an abnormal Lipid Profile report and ECG test to monitor तेज़ सिर दर्द and बुखार symptoms.,prescribed,O
+18,The patient with stage 2 मधुमेह was prescribed 10 units of Insulin after an abnormal Lipid Profile report and ECG test to monitor तेज़ सिर दर्द and बुखार symptoms.,10 units,B-DOSAGE
+18,The patient with stage 2 मधुमेह was prescribed 10 units of Insulin after an abnormal Lipid Profile report and ECG test to monitor तेज़ सिर दर्द and बुखार symptoms.,of,O
+18,The patient with stage 2 मधुमेह was prescribed 10 units of Insulin after an abnormal Lipid Profile report and ECG test to monitor तेज़ सिर दर्द and बुखार symptoms.,Insulin,B-MEDICATION
+18,The patient with stage 2 मधुमेह was prescribed 10 units of Insulin after an abnormal Lipid Profile report and ECG test to monitor तेज़ सिर दर्द and बुखार symptoms.,after,O
+18,The patient with stage 2 मधुमेह was prescribed 10 units of Insulin after an abnormal Lipid Profile report and ECG test to monitor तेज़ सिर दर्द and बुखार symptoms.,an,O
+18,The patient with stage 2 मधुमेह was prescribed 10 units of Insulin after an abnormal Lipid Profile report and ECG test to monitor तेज़ सिर दर्द and बुखार symptoms.,abnormal,O
+18,The patient with stage 2 मधुमेह was prescribed 10 units of Insulin after an abnormal Lipid Profile report and ECG test to monitor तेज़ सिर दर्द and बुखार symptoms.,Lipid Profile,B-TEST
+18,The patient with stage 2 मधुमेह was prescribed 10 units of Insulin after an abnormal Lipid Profile report and ECG test to monitor तेज़ सिर दर्द and बुखार symptoms.,report,O
+18,The patient with stage 2 मधुमेह was prescribed 10 units of Insulin after an abnormal Lipid Profile report and ECG test to monitor तेज़ सिर दर्द and बुखार symptoms.,and,O
+18,The patient with stage 2 मधुमेह was prescribed 10 units of Insulin after an abnormal Lipid Profile report and ECG test to monitor तेज़ सिर दर्द and बुखार symptoms.,ECG,B-TEST
+18,The patient with stage 2 मधुमेह was prescribed 10 units of Insulin after an abnormal Lipid Profile report and ECG test to monitor तेज़ सिर दर्द and बुखार symptoms.,test,I-TEST
+18,The patient with stage 2 मधुमेह was prescribed 10 units of Insulin after an abnormal Lipid Profile report and ECG test to monitor तेज़ सिर दर्द and बुखार symptoms.,to,O
+18,The patient with stage 2 मधुमेह was prescribed 10 units of Insulin after an abnormal Lipid Profile report and ECG test to monitor तेज़ सिर दर्द and बुखार symptoms.,monitor,O
+18,The patient with stage 2 मधुमेह was prescribed 10 units of Insulin after an abnormal Lipid Profile report and ECG test to monitor तेज़ सिर दर्द and बुखार symptoms.,तेज़,B-SYMPTOM
+18,The patient with stage 2 मधुमेह was prescribed 10 units of Insulin after an abnormal Lipid Profile report and ECG test to monitor तेज़ सिर दर्द and बुखार symptoms.,सिर,I-SYMPTOM
+18,The patient with stage 2 मधुमेह was prescribed 10 units of Insulin after an abnormal Lipid Profile report and ECG test to monitor तेज़ सिर दर्द and बुखार symptoms.,दर्द,I-SYMPTOM
+18,The patient with stage 2 मधुमेह was prescribed 10 units of Insulin after an abnormal Lipid Profile report and ECG test to monitor तेज़ सिर दर्द and बुखार symptoms.,and,O
+18,The patient with stage 2 मधुमेह was prescribed 10 units of Insulin after an abnormal Lipid Profile report and ECG test to monitor तेज़ सिर दर्द and बुखार symptoms.,बुखार,B-SYMPTOM
+18,The patient with stage 2 मधुमेह was prescribed 10 units of Insulin after an abnormal Lipid Profile report and ECG test to monitor तेज़ सिर दर्द and बुखार symptoms.,symptoms,O
+18,The patient with stage 2 मधुमेह was prescribed 10 units of Insulin after an abnormal Lipid Profile report and ECG test to monitor तेज़ सिर दर्द and बुखार symptoms.,.,O
+19,The patient with stage 2 मधुमेह was prescribed 20mg Metformin twice daily after an abnormal Lipid Profile report and was advised to undergo एक एमआरआई scan.,The,O
+19,The patient with stage 2 मधुमेह was prescribed 20mg Metformin twice daily after an abnormal Lipid Profile report and was advised to undergo एक एमआरआई scan.,patient,O
+19,The patient with stage 2 मधुमेह was prescribed 20mg Metformin twice daily after an abnormal Lipid Profile report and was advised to undergo एक एमआरआई scan.,with,O
+19,The patient with stage 2 मधुमेह was prescribed 20mg Metformin twice daily after an abnormal Lipid Profile report and was advised to undergo एक एमआरआई scan.,stage 2,B-CONDITION
+19,The patient with stage 2 मधुमेह was prescribed 20mg Metformin twice daily after an abnormal Lipid Profile report and was advised to undergo एक एमआरआई scan.,मधुमेह,I-CONDITION
+19,The patient with stage 2 मधुमेह was prescribed 20mg Metformin twice daily after an abnormal Lipid Profile report and was advised to undergo एक एमआरआई scan.,was,O
+19,The patient with stage 2 मधुमेह was prescribed 20mg Metformin twice daily after an abnormal Lipid Profile report and was advised to undergo एक एमआरआई scan.,prescribed,O
+19,The patient with stage 2 मधुमेह was prescribed 20mg Metformin twice daily after an abnormal Lipid Profile report and was advised to undergo एक एमआरआई scan.,20mg,B-DOSAGE
+19,The patient with stage 2 मधुमेह was prescribed 20mg Metformin twice daily after an abnormal Lipid Profile report and was advised to undergo एक एमआरआई scan.,Metformin,B-MEDICATION
+19,The patient with stage 2 मधुमेह was prescribed 20mg Metformin twice daily after an abnormal Lipid Profile report and was advised to undergo एक एमआरआई scan.,twice daily,B-DOSAGE
+19,The patient with stage 2 मधुमेह was prescribed 20mg Metformin twice daily after an abnormal Lipid Profile report and was advised to undergo एक एमआरआई scan.,after,O
+19,The patient with stage 2 मधुमेह was prescribed 20mg Metformin twice daily after an abnormal Lipid Profile report and was advised to undergo एक एमआरआई scan.,an,O
+19,The patient with stage 2 मधुमेह was prescribed 20mg Metformin twice daily after an abnormal Lipid Profile report and was advised to undergo एक एमआरआई scan.,abnormal,O
+19,The patient with stage 2 मधुमेह was prescribed 20mg Metformin twice daily after an abnormal Lipid Profile report and was advised to undergo एक एमआरआई scan.,Lipid Profile,B-TEST
+19,The patient with stage 2 मधुमेह was prescribed 20mg Metformin twice daily after an abnormal Lipid Profile report and was advised to undergo एक एमआरआई scan.,report,O
+19,The patient with stage 2 मधुमेह was prescribed 20mg Metformin twice daily after an abnormal Lipid Profile report and was advised to undergo एक एमआरआई scan.,and,O
+19,The patient with stage 2 मधुमेह was prescribed 20mg Metformin twice daily after an abnormal Lipid Profile report and was advised to undergo एक एमआरआई scan.,was,O
+19,The patient with stage 2 मधुमेह was prescribed 20mg Metformin twice daily after an abnormal Lipid Profile report and was advised to undergo एक एमआरआई scan.,advised,O
+19,The patient with stage 2 मधुमेह was prescribed 20mg Metformin twice daily after an abnormal Lipid Profile report and was advised to undergo एक एमआरआई scan.,to,O
+19,The patient with stage 2 मधुमेह was prescribed 20mg Metformin twice daily after an abnormal Lipid Profile report and was advised to undergo एक एमआरआई scan.,undergo,O
+19,The patient with stage 2 मधुमेह was prescribed 20mg Metformin twice daily after an abnormal Lipid Profile report and was advised to undergo एक एमआरआई scan.,एक,O
+19,The patient with stage 2 मधुमेह was prescribed 20mg Metformin twice daily after an abnormal Lipid Profile report and was advised to undergo एक एमआरआई scan.,एमआरआई,B-PROCEDURE
+19,The patient with stage 2 मधुमेह was prescribed 20mg Metformin twice daily after an abnormal Lipid Profile report and was advised to undergo एक एमआरआई scan.,scan,I-PROCEDURE
+19,The patient with stage 2 मधुमेह was prescribed 20mg Metformin twice daily after an abnormal Lipid Profile report and was advised to undergo एक एमआरआई scan.,।,O
+20,The patient with तेज़ सिर दर्द and stage 2 मधुमेह was prescribed 20mg Metformin and advised to undergo a Lipid Profile test after an abnormal ECG report.,The,O
+20,The patient with तेज़ सिर दर्द and stage 2 मधुमेह was prescribed 20mg Metformin and advised to undergo a Lipid Profile test after an abnormal ECG report.,patient,O
+20,The patient with तेज़ सिर दर्द and stage 2 मधुमेह was prescribed 20mg Metformin and advised to undergo a Lipid Profile test after an abnormal ECG report.,with,O
+20,The patient with तेज़ सिर दर्द and stage 2 मधुमेह was prescribed 20mg Metformin and advised to undergo a Lipid Profile test after an abnormal ECG report.,तेज़,B-SYMPTOM
+20,The patient with तेज़ सिर दर्द and stage 2 मधुमेह was prescribed 20mg Metformin and advised to undergo a Lipid Profile test after an abnormal ECG report.,सिर,I-SYMPTOM
+20,The patient with तेज़ सिर दर्द and stage 2 मधुमेह was prescribed 20mg Metformin and advised to undergo a Lipid Profile test after an abnormal ECG report.,दर्द,I-SYMPTOM
+20,The patient with तेज़ सिर दर्द and stage 2 मधुमेह was prescribed 20mg Metformin and advised to undergo a Lipid Profile test after an abnormal ECG report.,and,O
+20,The patient with तेज़ सिर दर्द and stage 2 मधुमेह was prescribed 20mg Metformin and advised to undergo a Lipid Profile test after an abnormal ECG report.,stage,B-CONDITION
+20,The patient with तेज़ सिर दर्द and stage 2 मधुमेह was prescribed 20mg Metformin and advised to undergo a Lipid Profile test after an abnormal ECG report.,2,I-CONDITION
+20,The patient with तेज़ सिर दर्द and stage 2 मधुमेह was prescribed 20mg Metformin and advised to undergo a Lipid Profile test after an abnormal ECG report.,मधुमेह,I-CONDITION
+20,The patient with तेज़ सिर दर्द and stage 2 मधुमेह was prescribed 20mg Metformin and advised to undergo a Lipid Profile test after an abnormal ECG report.,was,O
+20,The patient with तेज़ सिर दर्द and stage 2 मधुमेह was prescribed 20mg Metformin and advised to undergo a Lipid Profile test after an abnormal ECG report.,prescribed,O
+20,The patient with तेज़ सिर दर्द and stage 2 मधुमेह was prescribed 20mg Metformin and advised to undergo a Lipid Profile test after an abnormal ECG report.,20mg,B-DOSAGE
+20,The patient with तेज़ सिर दर्द and stage 2 मधुमेह was prescribed 20mg Metformin and advised to undergo a Lipid Profile test after an abnormal ECG report.,Metformin,B-MEDICATION
+20,The patient with तेज़ सिर दर्द and stage 2 मधुमेह was prescribed 20mg Metformin and advised to undergo a Lipid Profile test after an abnormal ECG report.,and,O
+20,The patient with तेज़ सिर दर्द and stage 2 मधुमेह was prescribed 20mg Metformin and advised to undergo a Lipid Profile test after an abnormal ECG report.,advised,O
+20,The patient with तेज़ सिर दर्द and stage 2 मधुमेह was prescribed 20mg Metformin and advised to undergo a Lipid Profile test after an abnormal ECG report.,to,O
+20,The patient with तेज़ सिर दर्द and stage 2 मधुमेह was prescribed 20mg Metformin and advised to undergo a Lipid Profile test after an abnormal ECG report.,undergo,O
+20,The patient with तेज़ सिर दर्द and stage 2 मधुमेह was prescribed 20mg Metformin and advised to undergo a Lipid Profile test after an abnormal ECG report.,a,O
+20,The patient with तेज़ सिर दर्द and stage 2 मधुमेह was prescribed 20mg Metformin and advised to undergo a Lipid Profile test after an abnormal ECG report.,Lipid,B-TEST
+20,The patient with तेज़ सिर दर्द and stage 2 मधुमेह was prescribed 20mg Metformin and advised to undergo a Lipid Profile test after an abnormal ECG report.,Profile,I-TEST
+20,The patient with तेज़ सिर दर्द and stage 2 मधुमेह was prescribed 20mg Metformin and advised to undergo a Lipid Profile test after an abnormal ECG report.,test,I-TEST
+20,The patient with तेज़ सिर दर्द and stage 2 मधुमेह was prescribed 20mg Metformin and advised to undergo a Lipid Profile test after an abnormal ECG report.,after,O
+20,The patient with तेज़ सिर दर्द and stage 2 मधुमेह was prescribed 20mg Metformin and advised to undergo a Lipid Profile test after an abnormal ECG report.,an,O
+20,The patient with तेज़ सिर दर्द and stage 2 मधुमेह was prescribed 20mg Metformin and advised to undergo a Lipid Profile test after an abnormal ECG report.,abnormal,O
+20,The patient with तेज़ सिर दर्द and stage 2 मधुमेह was prescribed 20mg Metformin and advised to undergo a Lipid Profile test after an abnormal ECG report.,ECG,B-TEST
+20,The patient with तेज़ सिर दर्द and stage 2 मधुमेह was prescribed 20mg Metformin and advised to undergo a Lipid Profile test after an abnormal ECG report.,report,O
+20,The patient with तेज़ सिर दर्द and stage 2 मधुमेह was prescribed 20mg Metformin and advised to undergo a Lipid Profile test after an abnormal ECG report.,.,O
+21,"The patient was admitted to the ICU with severe बुखार and दर्द in the chest, and underwent an emergency Angioplasty after a abnormal ECG report, and was prescribed 200mL of डोक्सिसाइक्लिन thrice daily.",The,O
+21,"The patient was admitted to the ICU with severe बुखार and दर्द in the chest, and underwent an emergency Angioplasty after a abnormal ECG report, and was prescribed 200mL of डोक्सिसाइक्लिन thrice daily.",patient,O
+21,"The patient was admitted to the ICU with severe बुखार and दर्द in the chest, and underwent an emergency Angioplasty after a abnormal ECG report, and was prescribed 200mL of डोक्सिसाइक्लिन thrice daily.",was,O
+21,"The patient was admitted to the ICU with severe बुखार and दर्द in the chest, and underwent an emergency Angioplasty after a abnormal ECG report, and was prescribed 200mL of डोक्सिसाइक्लिन thrice daily.",admitted,O
+21,"The patient was admitted to the ICU with severe बुखार and दर्द in the chest, and underwent an emergency Angioplasty after a abnormal ECG report, and was prescribed 200mL of डोक्सिसाइक्लिन thrice daily.",to,O
+21,"The patient was admitted to the ICU with severe बुखार and दर्द in the chest, and underwent an emergency Angioplasty after a abnormal ECG report, and was prescribed 200mL of डोक्सिसाइक्लिन thrice daily.",the,O
+21,"The patient was admitted to the ICU with severe बुखार and दर्द in the chest, and underwent an emergency Angioplasty after a abnormal ECG report, and was prescribed 200mL of डोक्सिसाइक्लिन thrice daily.",ICU,O
+21,"The patient was admitted to the ICU with severe बुखार and दर्द in the chest, and underwent an emergency Angioplasty after a abnormal ECG report, and was prescribed 200mL of डोक्सिसाइक्लिन thrice daily.",with,O
+21,"The patient was admitted to the ICU with severe बुखार and दर्द in the chest, and underwent an emergency Angioplasty after a abnormal ECG report, and was prescribed 200mL of डोक्सिसाइक्लिन thrice daily.",severe,O
+21,"The patient was admitted to the ICU with severe बुखार and दर्द in the chest, and underwent an emergency Angioplasty after a abnormal ECG report, and was prescribed 200mL of डोक्सिसाइक्लिन thrice daily.",बुखार,B-SYMPTOM
+21,"The patient was admitted to the ICU with severe बुखार and दर्द in the chest, and underwent an emergency Angioplasty after a abnormal ECG report, and was prescribed 200mL of डोक्सिसाइक्लिन thrice daily.",and,O
+21,"The patient was admitted to the ICU with severe बुखार and दर्द in the chest, and underwent an emergency Angioplasty after a abnormal ECG report, and was prescribed 200mL of डोक्सिसाइक्लिन thrice daily.",दर्द,B-SYMPTOM
+21,"The patient was admitted to the ICU with severe बुखार and दर्द in the chest, and underwent an emergency Angioplasty after a abnormal ECG report, and was prescribed 200mL of डोक्सिसाइक्लिन thrice daily.",in,O
+21,"The patient was admitted to the ICU with severe बुखार and दर्द in the chest, and underwent an emergency Angioplasty after a abnormal ECG report, and was prescribed 200mL of डोक्सिसाइक्लिन thrice daily.",the,O
+21,"The patient was admitted to the ICU with severe बुखार and दर्द in the chest, and underwent an emergency Angioplasty after a abnormal ECG report, and was prescribed 200mL of डोक्सिसाइक्लिन thrice daily.",chest,O
+21,"The patient was admitted to the ICU with severe बुखार and दर्द in the chest, and underwent an emergency Angioplasty after a abnormal ECG report, and was prescribed 200mL of डोक्सिसाइक्लिन thrice daily.",",",O
+21,"The patient was admitted to the ICU with severe बुखार and दर्द in the chest, and underwent an emergency Angioplasty after a abnormal ECG report, and was prescribed 200mL of डोक्सिसाइक्लिन thrice daily.",and,O
+21,"The patient was admitted to the ICU with severe बुखार and दर्द in the chest, and underwent an emergency Angioplasty after a abnormal ECG report, and was prescribed 200mL of डोक्सिसाइक्लिन thrice daily.",underwent,O
+21,"The patient was admitted to the ICU with severe बुखार and दर्द in the chest, and underwent an emergency Angioplasty after a abnormal ECG report, and was prescribed 200mL of डोक्सिसाइक्लिन thrice daily.",an,O
+21,"The patient was admitted to the ICU with severe बुखार and दर्द in the chest, and underwent an emergency Angioplasty after a abnormal ECG report, and was prescribed 200mL of डोक्सिसाइक्लिन thrice daily.",emergency,O
+21,"The patient was admitted to the ICU with severe बुखार and दर्द in the chest, and underwent an emergency Angioplasty after a abnormal ECG report, and was prescribed 200mL of डोक्सिसाइक्लिन thrice daily.",Angioplasty,B-PROCEDURE
+21,"The patient was admitted to the ICU with severe बुखार and दर्द in the chest, and underwent an emergency Angioplasty after a abnormal ECG report, and was prescribed 200mL of डोक्सिसाइक्लिन thrice daily.",after,O
+21,"The patient was admitted to the ICU with severe बुखार and दर्द in the chest, and underwent an emergency Angioplasty after a abnormal ECG report, and was prescribed 200mL of डोक्सिसाइक्लिन thrice daily.",a,O
+21,"The patient was admitted to the ICU with severe बुखार and दर्द in the chest, and underwent an emergency Angioplasty after a abnormal ECG report, and was prescribed 200mL of डोक्सिसाइक्लिन thrice daily.",abnormal,O
+21,"The patient was admitted to the ICU with severe बुखार and दर्द in the chest, and underwent an emergency Angioplasty after a abnormal ECG report, and was prescribed 200mL of डोक्सिसाइक्लिन thrice daily.",ECG,B-TEST
+21,"The patient was admitted to the ICU with severe बुखार and दर्द in the chest, and underwent an emergency Angioplasty after a abnormal ECG report, and was prescribed 200mL of डोक्सिसाइक्लिन thrice daily.",report,O
+21,"The patient was admitted to the ICU with severe बुखार and दर्द in the chest, and underwent an emergency Angioplasty after a abnormal ECG report, and was prescribed 200mL of डोक्सिसाइक्लिन thrice daily.",",",O
+21,"The patient was admitted to the ICU with severe बुखार and दर्द in the chest, and underwent an emergency Angioplasty after a abnormal ECG report, and was prescribed 200mL of डोक्सिसाइक्लिन thrice daily.",and,O
+21,"The patient was admitted to the ICU with severe बुखार and दर्द in the chest, and underwent an emergency Angioplasty after a abnormal ECG report, and was prescribed 200mL of डोक्सिसाइक्लिन thrice daily.",was,O
+21,"The patient was admitted to the ICU with severe बुखार and दर्द in the chest, and underwent an emergency Angioplasty after a abnormal ECG report, and was prescribed 200mL of डोक्सिसाइक्लिन thrice daily.",prescribed,O
+21,"The patient was admitted to the ICU with severe बुखार and दर्द in the chest, and underwent an emergency Angioplasty after a abnormal ECG report, and was prescribed 200mL of डोक्सिसाइक्लिन thrice daily.",200mL,B-DOSAGE
+21,"The patient was admitted to the ICU with severe बुखार and दर्द in the chest, and underwent an emergency Angioplasty after a abnormal ECG report, and was prescribed 200mL of डोक्सिसाइक्लिन thrice daily.",of,O
+21,"The patient was admitted to the ICU with severe बुखार and दर्द in the chest, and underwent an emergency Angioplasty after a abnormal ECG report, and was prescribed 200mL of डोक्सिसाइक्लिन thrice daily.",डोक्सिसाइक्लिन,B-MEDICATION
+21,"The patient was admitted to the ICU with severe बुखार and दर्द in the chest, and underwent an emergency Angioplasty after a abnormal ECG report, and was prescribed 200mL of डोक्सिसाइक्लिन thrice daily.",thrice,B-DOSAGE
+21,"The patient was admitted to the ICU with severe बुखार and दर्द in the chest, and underwent an emergency Angioplasty after a abnormal ECG report, and was prescribed 200mL of डोक्सिसाइक्लिन thrice daily.",daily,B-DOSAGE
+21,"The patient was admitted to the ICU with severe बुखार and दर्द in the chest, and underwent an emergency Angioplasty after a abnormal ECG report, and was prescribed 200mL of डोक्सिसाइक्लिन thrice daily.",.,O
+22,"The patient with stage 2 मधुमेह was prescribed 10mg Metformin twice daily after an abnormal Lipid Profile report, and was advised to undergo डायलिसिस due to severe तेज़ बुखार and पेट दर्द.",The,O
+22,"The patient with stage 2 मधुमेह was prescribed 10mg Metformin twice daily after an abnormal Lipid Profile report, and was advised to undergo डायलिसिस due to severe तेज़ बुखार and पेट दर्द.",patient,O
+22,"The patient with stage 2 मधुमेह was prescribed 10mg Metformin twice daily after an abnormal Lipid Profile report, and was advised to undergo डायलिसिस due to severe तेज़ बुखार and पेट दर्द.",with,O
+22,"The patient with stage 2 मधुमेह was prescribed 10mg Metformin twice daily after an abnormal Lipid Profile report, and was advised to undergo डायलिसिस due to severe तेज़ बुखार and पेट दर्द.",stage 2,B-CONDITION
+22,"The patient with stage 2 मधुमेह was prescribed 10mg Metformin twice daily after an abnormal Lipid Profile report, and was advised to undergo डायलिसिस due to severe तेज़ बुखार and पेट दर्द.",मधुमेह,I-CONDITION
+22,"The patient with stage 2 मधुमेह was prescribed 10mg Metformin twice daily after an abnormal Lipid Profile report, and was advised to undergo डायलिसिस due to severe तेज़ बुखार and पेट दर्द.",was,O
+22,"The patient with stage 2 मधुमेह was prescribed 10mg Metformin twice daily after an abnormal Lipid Profile report, and was advised to undergo डायलिसिस due to severe तेज़ बुखार and पेट दर्द.",prescribed,O
+22,"The patient with stage 2 मधुमेह was prescribed 10mg Metformin twice daily after an abnormal Lipid Profile report, and was advised to undergo डायलिसिस due to severe तेज़ बुखार and पेट दर्द.",10mg,B-DOSAGE
+22,"The patient with stage 2 मधुमेह was prescribed 10mg Metformin twice daily after an abnormal Lipid Profile report, and was advised to undergo डायलिसिस due to severe तेज़ बुखार and पेट दर्द.",Metformin,B-MEDICATION
+22,"The patient with stage 2 मधुमेह was prescribed 10mg Metformin twice daily after an abnormal Lipid Profile report, and was advised to undergo डायलिसिस due to severe तेज़ बुखार and पेट दर्द.",twice,B-DOSAGE
+22,"The patient with stage 2 मधुमेह was prescribed 10mg Metformin twice daily after an abnormal Lipid Profile report, and was advised to undergo डायलिसिस due to severe तेज़ बुखार and पेट दर्द.",daily,B-DOSAGE
+22,"The patient with stage 2 मधुमेह was prescribed 10mg Metformin twice daily after an abnormal Lipid Profile report, and was advised to undergo डायलिसिस due to severe तेज़ बुखार and पेट दर्द.",after,O
+22,"The patient with stage 2 मधुमेह was prescribed 10mg Metformin twice daily after an abnormal Lipid Profile report, and was advised to undergo डायलिसिस due to severe तेज़ बुखार and पेट दर्द.",an,O
+22,"The patient with stage 2 मधुमेह was prescribed 10mg Metformin twice daily after an abnormal Lipid Profile report, and was advised to undergo डायलिसिस due to severe तेज़ बुखार and पेट दर्द.",abnormal,O
+22,"The patient with stage 2 मधुमेह was prescribed 10mg Metformin twice daily after an abnormal Lipid Profile report, and was advised to undergo डायलिसिस due to severe तेज़ बुखार and पेट दर्द.",Lipid,B-TEST
+22,"The patient with stage 2 मधुमेह was prescribed 10mg Metformin twice daily after an abnormal Lipid Profile report, and was advised to undergo डायलिसिस due to severe तेज़ बुखार and पेट दर्द.",Profile,I-TEST
+22,"The patient with stage 2 मधुमेह was prescribed 10mg Metformin twice daily after an abnormal Lipid Profile report, and was advised to undergo डायलिसिस due to severe तेज़ बुखार and पेट दर्द.",report,O
+22,"The patient with stage 2 मधुमेह was prescribed 10mg Metformin twice daily after an abnormal Lipid Profile report, and was advised to undergo डायलिसिस due to severe तेज़ बुखार and पेट दर्द.",",",O
+22,"The patient with stage 2 मधुमेह was prescribed 10mg Metformin twice daily after an abnormal Lipid Profile report, and was advised to undergo डायलिसिस due to severe तेज़ बुखार and पेट दर्द.",and,O
+22,"The patient with stage 2 मधुमेह was prescribed 10mg Metformin twice daily after an abnormal Lipid Profile report, and was advised to undergo डायलिसिस due to severe तेज़ बुखार and पेट दर्द.",was,O
+22,"The patient with stage 2 मधुमेह was prescribed 10mg Metformin twice daily after an abnormal Lipid Profile report, and was advised to undergo डायलिसिस due to severe तेज़ बुखार and पेट दर्द.",advised,O
+22,"The patient with stage 2 मधुमेह was prescribed 10mg Metformin twice daily after an abnormal Lipid Profile report, and was advised to undergo डायलिसिस due to severe तेज़ बुखार and पेट दर्द.",to,O
+22,"The patient with stage 2 मधुमेह was prescribed 10mg Metformin twice daily after an abnormal Lipid Profile report, and was advised to undergo डायलिसिस due to severe तेज़ बुखार and पेट दर्द.",undergo,O
+22,"The patient with stage 2 मधुमेह was prescribed 10mg Metformin twice daily after an abnormal Lipid Profile report, and was advised to undergo डायलिसिस due to severe तेज़ बुखार and पेट दर्द.",डायलिसिस,B-PROCEDURE
+22,"The patient with stage 2 मधुमेह was prescribed 10mg Metformin twice daily after an abnormal Lipid Profile report, and was advised to undergo डायलिसिस due to severe तेज़ बुखार and पेट दर्द.",due,O
+22,"The patient with stage 2 मधुमेह was prescribed 10mg Metformin twice daily after an abnormal Lipid Profile report, and was advised to undergo डायलिसिस due to severe तेज़ बुखार and पेट दर्द.",to,O
+22,"The patient with stage 2 मधुमेह was prescribed 10mg Metformin twice daily after an abnormal Lipid Profile report, and was advised to undergo डायलिसिस due to severe तेज़ बुखार and पेट दर्द.",severe,O
+22,"The patient with stage 2 मधुमेह was prescribed 10mg Metformin twice daily after an abnormal Lipid Profile report, and was advised to undergo डायलिसिस due to severe तेज़ बुखार and पेट दर्द.",तेज़,B-SYMPTOM
+22,"The patient with stage 2 मधुमेह was prescribed 10mg Metformin twice daily after an abnormal Lipid Profile report, and was advised to undergo डायलिसिस due to severe तेज़ बुखार and पेट दर्द.",बुखार,I-SYMPTOM
+22,"The patient with stage 2 मधुमेह was prescribed 10mg Metformin twice daily after an abnormal Lipid Profile report, and was advised to undergo डायलिसिस due to severe तेज़ बुखार and पेट दर्द.",and,O
+22,"The patient with stage 2 मधुमेह was prescribed 10mg Metformin twice daily after an abnormal Lipid Profile report, and was advised to undergo डायलिसिस due to severe तेज़ बुखार and पेट दर्द.",पेट,B-SYMPTOM
+22,"The patient with stage 2 मधुमेह was prescribed 10mg Metformin twice daily after an abnormal Lipid Profile report, and was advised to undergo डायलिसिस due to severe तेज़ बुखार and पेट दर्द.",दर्द,I-SYMPTOM
+22,"The patient with stage 2 मधुमेह was prescribed 10mg Metformin twice daily after an abnormal Lipid Profile report, and was advised to undergo डायलिसिस due to severe तेज़ बुखार and पेट दर्द.",.,O
+23,Patient with stage 2 तेज़ बुखार and severe सिर दर्द underwent an emergency CT scan and was prescribed 500mg Paracetamol thrice daily.,Patient,O
+23,Patient with stage 2 तेज़ बुखार and severe सिर दर्द underwent an emergency CT scan and was prescribed 500mg Paracetamol thrice daily.,with,O
+23,Patient with stage 2 तेज़ बुखार and severe सिर दर्द underwent an emergency CT scan and was prescribed 500mg Paracetamol thrice daily.,stage 2,B-CONDITION
+23,Patient with stage 2 तेज़ बुखार and severe सिर दर्द underwent an emergency CT scan and was prescribed 500mg Paracetamol thrice daily.,तेज़,B-SYMPTOM
+23,Patient with stage 2 तेज़ बुखार and severe सिर दर्द underwent an emergency CT scan and was prescribed 500mg Paracetamol thrice daily.,बुखार,I-SYMPTOM
+23,Patient with stage 2 तेज़ बुखार and severe सिर दर्द underwent an emergency CT scan and was prescribed 500mg Paracetamol thrice daily.,and,O
+23,Patient with stage 2 तेज़ बुखार and severe सिर दर्द underwent an emergency CT scan and was prescribed 500mg Paracetamol thrice daily.,severe,O
+23,Patient with stage 2 तेज़ बुखार and severe सिर दर्द underwent an emergency CT scan and was prescribed 500mg Paracetamol thrice daily.,सिर,B-SYMPTOM
+23,Patient with stage 2 तेज़ बुखार and severe सिर दर्द underwent an emergency CT scan and was prescribed 500mg Paracetamol thrice daily.,दर्द,I-SYMPTOM
+23,Patient with stage 2 तेज़ बुखार and severe सिर दर्द underwent an emergency CT scan and was prescribed 500mg Paracetamol thrice daily.,underwent,O
+23,Patient with stage 2 तेज़ बुखार and severe सिर दर्द underwent an emergency CT scan and was prescribed 500mg Paracetamol thrice daily.,an,O
+23,Patient with stage 2 तेज़ बुखार and severe सिर दर्द underwent an emergency CT scan and was prescribed 500mg Paracetamol thrice daily.,emergency,O
+23,Patient with stage 2 तेज़ बुखार and severe सिर दर्द underwent an emergency CT scan and was prescribed 500mg Paracetamol thrice daily.,CT,B-TEST
+23,Patient with stage 2 तेज़ बुखार and severe सिर दर्द underwent an emergency CT scan and was prescribed 500mg Paracetamol thrice daily.,scan,I-TEST
+23,Patient with stage 2 तेज़ बुखार and severe सिर दर्द underwent an emergency CT scan and was prescribed 500mg Paracetamol thrice daily.,and,O
+23,Patient with stage 2 तेज़ बुखार and severe सिर दर्द underwent an emergency CT scan and was prescribed 500mg Paracetamol thrice daily.,was,O
+23,Patient with stage 2 तेज़ बुखार and severe सिर दर्द underwent an emergency CT scan and was prescribed 500mg Paracetamol thrice daily.,prescribed,O
+23,Patient with stage 2 तेज़ बुखार and severe सिर दर्द underwent an emergency CT scan and was prescribed 500mg Paracetamol thrice daily.,500mg,B-DOSAGE
+23,Patient with stage 2 तेज़ बुखार and severe सिर दर्द underwent an emergency CT scan and was prescribed 500mg Paracetamol thrice daily.,Paracetamol,B-MEDICATION
+23,Patient with stage 2 तेज़ बुखार and severe सिर दर्द underwent an emergency CT scan and was prescribed 500mg Paracetamol thrice daily.,thrice,O
+23,Patient with stage 2 तेज़ बुखार and severe सिर दर्द underwent an emergency CT scan and was prescribed 500mg Paracetamol thrice daily.,daily,O
+23,Patient with stage 2 तेज़ बुखार and severe सिर दर्द underwent an emergency CT scan and was prescribed 500mg Paracetamol thrice daily.,.,O
+24,"The patient was diagnosed with हृदय रोग and Diabetes, and was prescribed 10mg Atorvastatin and 5 units of Insulin after an abnormal Lipid Profile and ECG report due to तेज़ सिर दर्द and chest pain.",The,O
+24,"The patient was diagnosed with हृदय रोग and Diabetes, and was prescribed 10mg Atorvastatin and 5 units of Insulin after an abnormal Lipid Profile and ECG report due to तेज़ सिर दर्द and chest pain.",patient,O
+24,"The patient was diagnosed with हृदय रोग and Diabetes, and was prescribed 10mg Atorvastatin and 5 units of Insulin after an abnormal Lipid Profile and ECG report due to तेज़ सिर दर्द and chest pain.",was,O
+24,"The patient was diagnosed with हृदय रोग and Diabetes, and was prescribed 10mg Atorvastatin and 5 units of Insulin after an abnormal Lipid Profile and ECG report due to तेज़ सिर दर्द and chest pain.",diagnosed,O
+24,"The patient was diagnosed with हृदय रोग and Diabetes, and was prescribed 10mg Atorvastatin and 5 units of Insulin after an abnormal Lipid Profile and ECG report due to तेज़ सिर दर्द and chest pain.",with,O
+24,"The patient was diagnosed with हृदय रोग and Diabetes, and was prescribed 10mg Atorvastatin and 5 units of Insulin after an abnormal Lipid Profile and ECG report due to तेज़ सिर दर्द and chest pain.",हृदय,B-CONDITION
+24,"The patient was diagnosed with हृदय रोग and Diabetes, and was prescribed 10mg Atorvastatin and 5 units of Insulin after an abnormal Lipid Profile and ECG report due to तेज़ सिर दर्द and chest pain.",रोग,I-CONDITION
+24,"The patient was diagnosed with हृदय रोग and Diabetes, and was prescribed 10mg Atorvastatin and 5 units of Insulin after an abnormal Lipid Profile and ECG report due to तेज़ सिर दर्द and chest pain.",and,O
+24,"The patient was diagnosed with हृदय रोग and Diabetes, and was prescribed 10mg Atorvastatin and 5 units of Insulin after an abnormal Lipid Profile and ECG report due to तेज़ सिर दर्द and chest pain.",Diabetes,B-CONDITION
+24,"The patient was diagnosed with हृदय रोग and Diabetes, and was prescribed 10mg Atorvastatin and 5 units of Insulin after an abnormal Lipid Profile and ECG report due to तेज़ सिर दर्द and chest pain.",",",O
+24,"The patient was diagnosed with हृदय रोग and Diabetes, and was prescribed 10mg Atorvastatin and 5 units of Insulin after an abnormal Lipid Profile and ECG report due to तेज़ सिर दर्द and chest pain.",and,O
+24,"The patient was diagnosed with हृदय रोग and Diabetes, and was prescribed 10mg Atorvastatin and 5 units of Insulin after an abnormal Lipid Profile and ECG report due to तेज़ सिर दर्द and chest pain.",was,O
+24,"The patient was diagnosed with हृदय रोग and Diabetes, and was prescribed 10mg Atorvastatin and 5 units of Insulin after an abnormal Lipid Profile and ECG report due to तेज़ सिर दर्द and chest pain.",prescribed,O
+24,"The patient was diagnosed with हृदय रोग and Diabetes, and was prescribed 10mg Atorvastatin and 5 units of Insulin after an abnormal Lipid Profile and ECG report due to तेज़ सिर दर्द and chest pain.",10mg,B-DOSAGE
+24,"The patient was diagnosed with हृदय रोग and Diabetes, and was prescribed 10mg Atorvastatin and 5 units of Insulin after an abnormal Lipid Profile and ECG report due to तेज़ सिर दर्द and chest pain.",Atorvastatin,B-MEDICATION
+24,"The patient was diagnosed with हृदय रोग and Diabetes, and was prescribed 10mg Atorvastatin and 5 units of Insulin after an abnormal Lipid Profile and ECG report due to तेज़ सिर दर्द and chest pain.",and,O
+24,"The patient was diagnosed with हृदय रोग and Diabetes, and was prescribed 10mg Atorvastatin and 5 units of Insulin after an abnormal Lipid Profile and ECG report due to तेज़ सिर दर्द and chest pain.",5,B-DOSAGE
+24,"The patient was diagnosed with हृदय रोग and Diabetes, and was prescribed 10mg Atorvastatin and 5 units of Insulin after an abnormal Lipid Profile and ECG report due to तेज़ सिर दर्द and chest pain.",units,B-DOSAGE
+24,"The patient was diagnosed with हृदय रोग and Diabetes, and was prescribed 10mg Atorvastatin and 5 units of Insulin after an abnormal Lipid Profile and ECG report due to तेज़ सिर दर्द and chest pain.",of,O
+24,"The patient was diagnosed with हृदय रोग and Diabetes, and was prescribed 10mg Atorvastatin and 5 units of Insulin after an abnormal Lipid Profile and ECG report due to तेज़ सिर दर्द and chest pain.",Insulin,B-MEDICATION
+24,"The patient was diagnosed with हृदय रोग and Diabetes, and was prescribed 10mg Atorvastatin and 5 units of Insulin after an abnormal Lipid Profile and ECG report due to तेज़ सिर दर्द and chest pain.",after,O
+24,"The patient was diagnosed with हृदय रोग and Diabetes, and was prescribed 10mg Atorvastatin and 5 units of Insulin after an abnormal Lipid Profile and ECG report due to तेज़ सिर दर्द and chest pain.",an,O
+24,"The patient was diagnosed with हृदय रोग and Diabetes, and was prescribed 10mg Atorvastatin and 5 units of Insulin after an abnormal Lipid Profile and ECG report due to तेज़ सिर दर्द and chest pain.",abnormal,O
+24,"The patient was diagnosed with हृदय रोग and Diabetes, and was prescribed 10mg Atorvastatin and 5 units of Insulin after an abnormal Lipid Profile and ECG report due to तेज़ सिर दर्द and chest pain.",Lipid,B-TEST
+24,"The patient was diagnosed with हृदय रोग and Diabetes, and was prescribed 10mg Atorvastatin and 5 units of Insulin after an abnormal Lipid Profile and ECG report due to तेज़ सिर दर्द and chest pain.",Profile,I-TEST
+24,"The patient was diagnosed with हृदय रोग and Diabetes, and was prescribed 10mg Atorvastatin and 5 units of Insulin after an abnormal Lipid Profile and ECG report due to तेज़ सिर दर्द and chest pain.",and,O
+24,"The patient was diagnosed with हृदय रोग and Diabetes, and was prescribed 10mg Atorvastatin and 5 units of Insulin after an abnormal Lipid Profile and ECG report due to तेज़ सिर दर्द and chest pain.",ECG,B-TEST
+24,"The patient was diagnosed with हृदय रोग and Diabetes, and was prescribed 10mg Atorvastatin and 5 units of Insulin after an abnormal Lipid Profile and ECG report due to तेज़ सिर दर्द and chest pain.",report,O
+24,"The patient was diagnosed with हृदय रोग and Diabetes, and was prescribed 10mg Atorvastatin and 5 units of Insulin after an abnormal Lipid Profile and ECG report due to तेज़ सिर दर्द and chest pain.",due,O
+24,"The patient was diagnosed with हृदय रोग and Diabetes, and was prescribed 10mg Atorvastatin and 5 units of Insulin after an abnormal Lipid Profile and ECG report due to तेज़ सिर दर्द and chest pain.",to,O
+24,"The patient was diagnosed with हृदय रोग and Diabetes, and was prescribed 10mg Atorvastatin and 5 units of Insulin after an abnormal Lipid Profile and ECG report due to तेज़ सिर दर्द and chest pain.",तेज़,B-SYMPTOM
+24,"The patient was diagnosed with हृदय रोग and Diabetes, and was prescribed 10mg Atorvastatin and 5 units of Insulin after an abnormal Lipid Profile and ECG report due to तेज़ सिर दर्द and chest pain.",सिर,I-SYMPTOM
+24,"The patient was diagnosed with हृदय रोग and Diabetes, and was prescribed 10mg Atorvastatin and 5 units of Insulin after an abnormal Lipid Profile and ECG report due to तेज़ सिर दर्द and chest pain.",दर्द,I-SYMPTOM
+24,"The patient was diagnosed with हृदय रोग and Diabetes, and was prescribed 10mg Atorvastatin and 5 units of Insulin after an abnormal Lipid Profile and ECG report due to तेज़ सिर दर्द and chest pain.",and,O
+24,"The patient was diagnosed with हृदय रोग and Diabetes, and was prescribed 10mg Atorvastatin and 5 units of Insulin after an abnormal Lipid Profile and ECG report due to तेज़ सिर दर्द and chest pain.",chest,B-SYMPTOM
+24,"The patient was diagnosed with हृदय रोग and Diabetes, and was prescribed 10mg Atorvastatin and 5 units of Insulin after an abnormal Lipid Profile and ECG report due to तेज़ सिर दर्द and chest pain.",pain,I-SYMPTOM
+24,"The patient was diagnosed with हृदय रोग and Diabetes, and was prescribed 10mg Atorvastatin and 5 units of Insulin after an abnormal Lipid Profile and ECG report due to तेज़ सिर दर्द and chest pain.",.,O
+25,Patient को तेज़ बुखार और सिर दर्द के कारण emergency ward में भर्ती किया गया और डॉक्टर ने 500mg Paracetamol और 200mL IV fluid के साथ CPR और ECG टेस्ट किया।,Patient,O
+25,Patient को तेज़ बुखार और सिर दर्द के कारण emergency ward में भर्ती किया गया और डॉक्टर ने 500mg Paracetamol और 200mL IV fluid के साथ CPR और ECG टेस्ट किया।,को,O
+25,Patient को तेज़ बुखार और सिर दर्द के कारण emergency ward में भर्ती किया गया और डॉक्टर ने 500mg Paracetamol और 200mL IV fluid के साथ CPR और ECG टेस्ट किया।,तेज़,B-SYMPTOM
+25,Patient को तेज़ बुखार और सिर दर्द के कारण emergency ward में भर्ती किया गया और डॉक्टर ने 500mg Paracetamol और 200mL IV fluid के साथ CPR और ECG टेस्ट किया।,बुखार,I-SYMPTOM
+25,Patient को तेज़ बुखार और सिर दर्द के कारण emergency ward में भर्ती किया गया और डॉक्टर ने 500mg Paracetamol और 200mL IV fluid के साथ CPR और ECG टेस्ट किया।,और,O
+25,Patient को तेज़ बुखार और सिर दर्द के कारण emergency ward में भर्ती किया गया और डॉक्टर ने 500mg Paracetamol और 200mL IV fluid के साथ CPR और ECG टेस्ट किया।,सिर,B-SYMPTOM
+25,Patient को तेज़ बुखार और सिर दर्द के कारण emergency ward में भर्ती किया गया और डॉक्टर ने 500mg Paracetamol और 200mL IV fluid के साथ CPR और ECG टेस्ट किया।,दर्द,I-SYMPTOM
+25,Patient को तेज़ बुखार और सिर दर्द के कारण emergency ward में भर्ती किया गया और डॉक्टर ने 500mg Paracetamol और 200mL IV fluid के साथ CPR और ECG टेस्ट किया।,के,O
+25,Patient को तेज़ बुखार और सिर दर्द के कारण emergency ward में भर्ती किया गया और डॉक्टर ने 500mg Paracetamol और 200mL IV fluid के साथ CPR और ECG टेस्ट किया।,कारण,O
+25,Patient को तेज़ बुखार और सिर दर्द के कारण emergency ward में भर्ती किया गया और डॉक्टर ने 500mg Paracetamol और 200mL IV fluid के साथ CPR और ECG टेस्ट किया।,emergency,B-CONDITION
+25,Patient को तेज़ बुखार और सिर दर्द के कारण emergency ward में भर्ती किया गया और डॉक्टर ने 500mg Paracetamol और 200mL IV fluid के साथ CPR और ECG टेस्ट किया।,ward,I-CONDITION
+25,Patient को तेज़ बुखार और सिर दर्द के कारण emergency ward में भर्ती किया गया और डॉक्टर ने 500mg Paracetamol और 200mL IV fluid के साथ CPR और ECG टेस्ट किया।,में,O
+25,Patient को तेज़ बुखार और सिर दर्द के कारण emergency ward में भर्ती किया गया और डॉक्टर ने 500mg Paracetamol और 200mL IV fluid के साथ CPR और ECG टेस्ट किया।,भर्ती,O
+25,Patient को तेज़ बुखार और सिर दर्द के कारण emergency ward में भर्ती किया गया और डॉक्टर ने 500mg Paracetamol और 200mL IV fluid के साथ CPR और ECG टेस्ट किया।,किया,O
+25,Patient को तेज़ बुखार और सिर दर्द के कारण emergency ward में भर्ती किया गया और डॉक्टर ने 500mg Paracetamol और 200mL IV fluid के साथ CPR और ECG टेस्ट किया।,गया,O
+25,Patient को तेज़ बुखार और सिर दर्द के कारण emergency ward में भर्ती किया गया और डॉक्टर ने 500mg Paracetamol और 200mL IV fluid के साथ CPR और ECG टेस्ट किया।,और,O
+25,Patient को तेज़ बुखार और सिर दर्द के कारण emergency ward में भर्ती किया गया और डॉक्टर ने 500mg Paracetamol और 200mL IV fluid के साथ CPR और ECG टेस्ट किया।,डॉक्टर,O
+25,Patient को तेज़ बुखार और सिर दर्द के कारण emergency ward में भर्ती किया गया और डॉक्टर ने 500mg Paracetamol और 200mL IV fluid के साथ CPR और ECG टेस्ट किया।,ने,O
+25,Patient को तेज़ बुखार और सिर दर्द के कारण emergency ward में भर्ती किया गया और डॉक्टर ने 500mg Paracetamol और 200mL IV fluid के साथ CPR और ECG टेस्ट किया।,500mg,B-DOSAGE
+25,Patient को तेज़ बुखार और सिर दर्द के कारण emergency ward में भर्ती किया गया और डॉक्टर ने 500mg Paracetamol और 200mL IV fluid के साथ CPR और ECG टेस्ट किया।,Paracetamol,B-MEDICATION
+25,Patient को तेज़ बुखार और सिर दर्द के कारण emergency ward में भर्ती किया गया और डॉक्टर ने 500mg Paracetamol और 200mL IV fluid के साथ CPR और ECG टेस्ट किया।,और,O
+25,Patient को तेज़ बुखार और सिर दर्द के कारण emergency ward में भर्ती किया गया और डॉक्टर ने 500mg Paracetamol और 200mL IV fluid के साथ CPR और ECG टेस्ट किया।,200mL,B-DOSAGE
+25,Patient को तेज़ बुखार और सिर दर्द के कारण emergency ward में भर्ती किया गया और डॉक्टर ने 500mg Paracetamol और 200mL IV fluid के साथ CPR और ECG टेस्ट किया।,IV,B-PROCEDURE
+25,Patient को तेज़ बुखार और सिर दर्द के कारण emergency ward में भर्ती किया गया और डॉक्टर ने 500mg Paracetamol और 200mL IV fluid के साथ CPR और ECG टेस्ट किया।,fluid,I-PROCEDURE
+25,Patient को तेज़ बुखार और सिर दर्द के कारण emergency ward में भर्ती किया गया और डॉक्टर ने 500mg Paracetamol और 200mL IV fluid के साथ CPR और ECG टेस्ट किया।,के,O
+25,Patient को तेज़ बुखार और सिर दर्द के कारण emergency ward में भर्ती किया गया और डॉक्टर ने 500mg Paracetamol और 200mL IV fluid के साथ CPR और ECG टेस्ट किया।,साथ,O
+25,Patient को तेज़ बुखार और सिर दर्द के कारण emergency ward में भर्ती किया गया और डॉक्टर ने 500mg Paracetamol और 200mL IV fluid के साथ CPR और ECG टेस्ट किया।,CPR,B-PROCEDURE
+25,Patient को तेज़ बुखार और सिर दर्द के कारण emergency ward में भर्ती किया गया और डॉक्टर ने 500mg Paracetamol और 200mL IV fluid के साथ CPR और ECG टेस्ट किया।,और,O
+25,Patient को तेज़ बुखार और सिर दर्द के कारण emergency ward में भर्ती किया गया और डॉक्टर ने 500mg Paracetamol और 200mL IV fluid के साथ CPR और ECG टेस्ट किया।,ECG,B-TEST
+25,Patient को तेज़ बुखार और सिर दर्द के कारण emergency ward में भर्ती किया गया और डॉक्टर ने 500mg Paracetamol और 200mL IV fluid के साथ CPR और ECG टेस्ट किया।,टेस्ट,I-TEST
+25,Patient को तेज़ बुखार और सिर दर्द के कारण emergency ward में भर्ती किया गया और डॉक्टर ने 500mg Paracetamol और 200mL IV fluid के साथ CPR और ECG टेस्ट किया।,किया,O
+25,Patient को तेज़ बुखार और सिर दर्द के कारण emergency ward में भर्ती किया गया और डॉक्टर ने 500mg Paracetamol और 200mL IV fluid के साथ CPR और ECG टेस्ट किया।,।,O
+26,Patient को तेज़ बुखार और सिर दर्द के कारण emergency ward में admit किया गया और 500mg Paracetamol दिया गया और एक abnormal किडनी फंक्शन टेस्ट के बाद डॉक्टर ने Angioplasty की सलाह दी।,Patient,O
+26,Patient को तेज़ बुखार और सिर दर्द के कारण emergency ward में admit किया गया और 500mg Paracetamol दिया गया और एक abnormal किडनी फंक्शन टेस्ट के बाद डॉक्टर ने Angioplasty की सलाह दी।,को,O
+26,Patient को तेज़ बुखार और सिर दर्द के कारण emergency ward में admit किया गया और 500mg Paracetamol दिया गया और एक abnormal किडनी फंक्शन टेस्ट के बाद डॉक्टर ने Angioplasty की सलाह दी।,तेज़,B-SYMPTOM
+26,Patient को तेज़ बुखार और सिर दर्द के कारण emergency ward में admit किया गया और 500mg Paracetamol दिया गया और एक abnormal किडनी फंक्शन टेस्ट के बाद डॉक्टर ने Angioplasty की सलाह दी।,बुखार,I-SYMPTOM
+26,Patient को तेज़ बुखार और सिर दर्द के कारण emergency ward में admit किया गया और 500mg Paracetamol दिया गया और एक abnormal किडनी फंक्शन टेस्ट के बाद डॉक्टर ने Angioplasty की सलाह दी।,और,O
+26,Patient को तेज़ बुखार और सिर दर्द के कारण emergency ward में admit किया गया और 500mg Paracetamol दिया गया और एक abnormal किडनी फंक्शन टेस्ट के बाद डॉक्टर ने Angioplasty की सलाह दी।,सिर,B-SYMPTOM
+26,Patient को तेज़ बुखार और सिर दर्द के कारण emergency ward में admit किया गया और 500mg Paracetamol दिया गया और एक abnormal किडनी फंक्शन टेस्ट के बाद डॉक्टर ने Angioplasty की सलाह दी।,दर्द,I-SYMPTOM
+26,Patient को तेज़ बुखार और सिर दर्द के कारण emergency ward में admit किया गया और 500mg Paracetamol दिया गया और एक abnormal किडनी फंक्शन टेस्ट के बाद डॉक्टर ने Angioplasty की सलाह दी।,के,O
+26,Patient को तेज़ बुखार और सिर दर्द के कारण emergency ward में admit किया गया और 500mg Paracetamol दिया गया और एक abnormal किडनी फंक्शन टेस्ट के बाद डॉक्टर ने Angioplasty की सलाह दी।,कारण,O
+26,Patient को तेज़ बुखार और सिर दर्द के कारण emergency ward में admit किया गया और 500mg Paracetamol दिया गया और एक abnormal किडनी फंक्शन टेस्ट के बाद डॉक्टर ने Angioplasty की सलाह दी।,emergency,B-PROCEDURE
+26,Patient को तेज़ बुखार और सिर दर्द के कारण emergency ward में admit किया गया और 500mg Paracetamol दिया गया और एक abnormal किडनी फंक्शन टेस्ट के बाद डॉक्टर ने Angioplasty की सलाह दी।,ward,I-PROCEDURE
+26,Patient को तेज़ बुखार और सिर दर्द के कारण emergency ward में admit किया गया और 500mg Paracetamol दिया गया और एक abnormal किडनी फंक्शन टेस्ट के बाद डॉक्टर ने Angioplasty की सलाह दी।,में,O
+26,Patient को तेज़ बुखार और सिर दर्द के कारण emergency ward में admit किया गया और 500mg Paracetamol दिया गया और एक abnormal किडनी फंक्शन टेस्ट के बाद डॉक्टर ने Angioplasty की सलाह दी।,admit,O
+26,Patient को तेज़ बुखार और सिर दर्द के कारण emergency ward में admit किया गया और 500mg Paracetamol दिया गया और एक abnormal किडनी फंक्शन टेस्ट के बाद डॉक्टर ने Angioplasty की सलाह दी।,किया,O
+26,Patient को तेज़ बुखार और सिर दर्द के कारण emergency ward में admit किया गया और 500mg Paracetamol दिया गया और एक abnormal किडनी फंक्शन टेस्ट के बाद डॉक्टर ने Angioplasty की सलाह दी।,गया,O
+26,Patient को तेज़ बुखार और सिर दर्द के कारण emergency ward में admit किया गया और 500mg Paracetamol दिया गया और एक abnormal किडनी फंक्शन टेस्ट के बाद डॉक्टर ने Angioplasty की सलाह दी।,और,O
+26,Patient को तेज़ बुखार और सिर दर्द के कारण emergency ward में admit किया गया और 500mg Paracetamol दिया गया और एक abnormal किडनी फंक्शन टेस्ट के बाद डॉक्टर ने Angioplasty की सलाह दी।,500mg,B-DOSAGE
+26,Patient को तेज़ बुखार और सिर दर्द के कारण emergency ward में admit किया गया और 500mg Paracetamol दिया गया और एक abnormal किडनी फंक्शन टेस्ट के बाद डॉक्टर ने Angioplasty की सलाह दी।,Paracetamol,B-MEDICATION
+26,Patient को तेज़ बुखार और सिर दर्द के कारण emergency ward में admit किया गया और 500mg Paracetamol दिया गया और एक abnormal किडनी फंक्शन टेस्ट के बाद डॉक्टर ने Angioplasty की सलाह दी।,दिया,O
+26,Patient को तेज़ बुखार और सिर दर्द के कारण emergency ward में admit किया गया और 500mg Paracetamol दिया गया और एक abnormal किडनी फंक्शन टेस्ट के बाद डॉक्टर ने Angioplasty की सलाह दी।,गया,O
+26,Patient को तेज़ बुखार और सिर दर्द के कारण emergency ward में admit किया गया और 500mg Paracetamol दिया गया और एक abnormal किडनी फंक्शन टेस्ट के बाद डॉक्टर ने Angioplasty की सलाह दी।,और,O
+26,Patient को तेज़ बुखार और सिर दर्द के कारण emergency ward में admit किया गया और 500mg Paracetamol दिया गया और एक abnormal किडनी फंक्शन टेस्ट के बाद डॉक्टर ने Angioplasty की सलाह दी।,एक,O
+26,Patient को तेज़ बुखार और सिर दर्द के कारण emergency ward में admit किया गया और 500mg Paracetamol दिया गया और एक abnormal किडनी फंक्शन टेस्ट के बाद डॉक्टर ने Angioplasty की सलाह दी।,abnormal,O
+26,Patient को तेज़ बुखार और सिर दर्द के कारण emergency ward में admit किया गया और 500mg Paracetamol दिया गया और एक abnormal किडनी फंक्शन टेस्ट के बाद डॉक्टर ने Angioplasty की सलाह दी।,किडनी,B-TEST
+26,Patient को तेज़ बुखार और सिर दर्द के कारण emergency ward में admit किया गया और 500mg Paracetamol दिया गया और एक abnormal किडनी फंक्शन टेस्ट के बाद डॉक्टर ने Angioplasty की सलाह दी।,फंक्शन,I-TEST
+26,Patient को तेज़ बुखार और सिर दर्द के कारण emergency ward में admit किया गया और 500mg Paracetamol दिया गया और एक abnormal किडनी फंक्शन टेस्ट के बाद डॉक्टर ने Angioplasty की सलाह दी।,टेस्ट,I-TEST
+26,Patient को तेज़ बुखार और सिर दर्द के कारण emergency ward में admit किया गया और 500mg Paracetamol दिया गया और एक abnormal किडनी फंक्शन टेस्ट के बाद डॉक्टर ने Angioplasty की सलाह दी।,के,O
+26,Patient को तेज़ बुखार और सिर दर्द के कारण emergency ward में admit किया गया और 500mg Paracetamol दिया गया और एक abnormal किडनी फंक्शन टेस्ट के बाद डॉक्टर ने Angioplasty की सलाह दी।,बाद,O
+26,Patient को तेज़ बुखार और सिर दर्द के कारण emergency ward में admit किया गया और 500mg Paracetamol दिया गया और एक abnormal किडनी फंक्शन टेस्ट के बाद डॉक्टर ने Angioplasty की सलाह दी।,डॉक्टर,O
+26,Patient को तेज़ बुखार और सिर दर्द के कारण emergency ward में admit किया गया और 500mg Paracetamol दिया गया और एक abnormal किडनी फंक्शन टेस्ट के बाद डॉक्टर ने Angioplasty की सलाह दी।,ने,O
+26,Patient को तेज़ बुखार और सिर दर्द के कारण emergency ward में admit किया गया और 500mg Paracetamol दिया गया और एक abnormal किडनी फंक्शन टेस्ट के बाद डॉक्टर ने Angioplasty की सलाह दी।,Angioplasty,B-PROCEDURE
+26,Patient को तेज़ बुखार और सिर दर्द के कारण emergency ward में admit किया गया और 500mg Paracetamol दिया गया और एक abnormal किडनी फंक्शन टेस्ट के बाद डॉक्टर ने Angioplasty की सलाह दी।,की,O
+26,Patient को तेज़ बुखार और सिर दर्द के कारण emergency ward में admit किया गया और 500mg Paracetamol दिया गया और एक abnormal किडनी फंक्शन टेस्ट के बाद डॉक्टर ने Angioplasty की सलाह दी।,सलाह,O
+26,Patient को तेज़ बुखार और सिर दर्द के कारण emergency ward में admit किया गया और 500mg Paracetamol दिया गया और एक abnormal किडनी फंक्शन टेस्ट के बाद डॉक्टर ने Angioplasty की सलाह दी।,दी,O
+26,Patient को तेज़ बुखार और सिर दर्द के कारण emergency ward में admit किया गया और 500mg Paracetamol दिया गया और एक abnormal किडनी फंक्शन टेस्ट के बाद डॉक्टर ने Angioplasty की सलाह दी।,।,O
+27,"Patient को तेज़ सिर दर्द और chest pain के कारण emergency ward में भर्ती किया गया और उसे ECG, ब्लड टेस्ट और 325mg Aspirin दिया गया।",Patient,O
+27,"Patient को तेज़ सिर दर्द और chest pain के कारण emergency ward में भर्ती किया गया और उसे ECG, ब्लड टेस्ट और 325mg Aspirin दिया गया।",को,O
+27,"Patient को तेज़ सिर दर्द और chest pain के कारण emergency ward में भर्ती किया गया और उसे ECG, ब्लड टेस्ट और 325mg Aspirin दिया गया।",तेज़,B-SYMPTOM
+27,"Patient को तेज़ सिर दर्द और chest pain के कारण emergency ward में भर्ती किया गया और उसे ECG, ब्लड टेस्ट और 325mg Aspirin दिया गया।",सिर,I-SYMPTOM
+27,"Patient को तेज़ सिर दर्द और chest pain के कारण emergency ward में भर्ती किया गया और उसे ECG, ब्लड टेस्ट और 325mg Aspirin दिया गया।",दर्द,I-SYMPTOM
+27,"Patient को तेज़ सिर दर्द और chest pain के कारण emergency ward में भर्ती किया गया और उसे ECG, ब्लड टेस्ट और 325mg Aspirin दिया गया।",और,O
+27,"Patient को तेज़ सिर दर्द और chest pain के कारण emergency ward में भर्ती किया गया और उसे ECG, ब्लड टेस्ट और 325mg Aspirin दिया गया।",chest,B-SYMPTOM
+27,"Patient को तेज़ सिर दर्द और chest pain के कारण emergency ward में भर्ती किया गया और उसे ECG, ब्लड टेस्ट और 325mg Aspirin दिया गया।",pain,I-SYMPTOM
+27,"Patient को तेज़ सिर दर्द और chest pain के कारण emergency ward में भर्ती किया गया और उसे ECG, ब्लड टेस्ट और 325mg Aspirin दिया गया।",के,O
+27,"Patient को तेज़ सिर दर्द और chest pain के कारण emergency ward में भर्ती किया गया और उसे ECG, ब्लड टेस्ट और 325mg Aspirin दिया गया।",कारण,O
+27,"Patient को तेज़ सिर दर्द और chest pain के कारण emergency ward में भर्ती किया गया और उसे ECG, ब्लड टेस्ट और 325mg Aspirin दिया गया।",emergency,B-PROCEDURE
+27,"Patient को तेज़ सिर दर्द और chest pain के कारण emergency ward में भर्ती किया गया और उसे ECG, ब्लड टेस्ट और 325mg Aspirin दिया गया।",ward,I-PROCEDURE
+27,"Patient को तेज़ सिर दर्द और chest pain के कारण emergency ward में भर्ती किया गया और उसे ECG, ब्लड टेस्ट और 325mg Aspirin दिया गया।",में,O
+27,"Patient को तेज़ सिर दर्द और chest pain के कारण emergency ward में भर्ती किया गया और उसे ECG, ब्लड टेस्ट और 325mg Aspirin दिया गया।",भर्ती,O
+27,"Patient को तेज़ सिर दर्द और chest pain के कारण emergency ward में भर्ती किया गया और उसे ECG, ब्लड टेस्ट और 325mg Aspirin दिया गया।",किया,O
+27,"Patient को तेज़ सिर दर्द और chest pain के कारण emergency ward में भर्ती किया गया और उसे ECG, ब्लड टेस्ट और 325mg Aspirin दिया गया।",गया,O
+27,"Patient को तेज़ सिर दर्द और chest pain के कारण emergency ward में भर्ती किया गया और उसे ECG, ब्लड टेस्ट और 325mg Aspirin दिया गया।",और,O
+27,"Patient को तेज़ सिर दर्द और chest pain के कारण emergency ward में भर्ती किया गया और उसे ECG, ब्लड टेस्ट और 325mg Aspirin दिया गया।",उसे,O
+27,"Patient को तेज़ सिर दर्द और chest pain के कारण emergency ward में भर्ती किया गया और उसे ECG, ब्लड टेस्ट और 325mg Aspirin दिया गया।",ECG,B-TEST
+27,"Patient को तेज़ सिर दर्द और chest pain के कारण emergency ward में भर्ती किया गया और उसे ECG, ब्लड टेस्ट और 325mg Aspirin दिया गया।",",",O
+27,"Patient को तेज़ सिर दर्द और chest pain के कारण emergency ward में भर्ती किया गया और उसे ECG, ब्लड टेस्ट और 325mg Aspirin दिया गया।",ब्लड,B-TEST
+27,"Patient को तेज़ सिर दर्द और chest pain के कारण emergency ward में भर्ती किया गया और उसे ECG, ब्लड टेस्ट और 325mg Aspirin दिया गया।",टेस्ट,I-TEST
+27,"Patient को तेज़ सिर दर्द और chest pain के कारण emergency ward में भर्ती किया गया और उसे ECG, ब्लड टेस्ट और 325mg Aspirin दिया गया।",और,O
+27,"Patient को तेज़ सिर दर्द और chest pain के कारण emergency ward में भर्ती किया गया और उसे ECG, ब्लड टेस्ट और 325mg Aspirin दिया गया।",325mg,B-DOSAGE
+27,"Patient को तेज़ सिर दर्द और chest pain के कारण emergency ward में भर्ती किया गया और उसे ECG, ब्लड टेस्ट और 325mg Aspirin दिया गया।",Aspirin,B-MEDICATION
+27,"Patient को तेज़ सिर दर्द और chest pain के कारण emergency ward में भर्ती किया गया और उसे ECG, ब्लड टेस्ट और 325mg Aspirin दिया गया।",दिया,O
+27,"Patient को तेज़ सिर दर्द और chest pain के कारण emergency ward में भर्ती किया गया और उसे ECG, ब्लड टेस्ट और 325mg Aspirin दिया गया।",गया,O
+27,"Patient को तेज़ सिर दर्द और chest pain के कारण emergency ward में भर्ती किया गया और उसे ECG, ब्लड टेस्ट और 325mg Aspirin दिया गया।",।,O
+28,The patient with acute तेज़ सिर दर्द was given 200mL IV fluids after an abnormal MRI स्कैन report showed signs of इस्केमिक स्ट्रोक.,The,O
+28,The patient with acute तेज़ सिर दर्द was given 200mL IV fluids after an abnormal MRI स्कैन report showed signs of इस्केमिक स्ट्रोक.,patient,O
+28,The patient with acute तेज़ सिर दर्द was given 200mL IV fluids after an abnormal MRI स्कैन report showed signs of इस्केमिक स्ट्रोक.,with,O
+28,The patient with acute तेज़ सिर दर्द was given 200mL IV fluids after an abnormal MRI स्कैन report showed signs of इस्केमिक स्ट्रोक.,acute,O
+28,The patient with acute तेज़ सिर दर्द was given 200mL IV fluids after an abnormal MRI स्कैन report showed signs of इस्केमिक स्ट्रोक.,तेज़,B-SYMPTOM
+28,The patient with acute तेज़ सिर दर्द was given 200mL IV fluids after an abnormal MRI स्कैन report showed signs of इस्केमिक स्ट्रोक.,सिर,I-SYMPTOM
+28,The patient with acute तेज़ सिर दर्द was given 200mL IV fluids after an abnormal MRI स्कैन report showed signs of इस्केमिक स्ट्रोक.,दर्द,I-SYMPTOM
+28,The patient with acute तेज़ सिर दर्द was given 200mL IV fluids after an abnormal MRI स्कैन report showed signs of इस्केमिक स्ट्रोक.,was,O
+28,The patient with acute तेज़ सिर दर्द was given 200mL IV fluids after an abnormal MRI स्कैन report showed signs of इस्केमिक स्ट्रोक.,given,O
+28,The patient with acute तेज़ सिर दर्द was given 200mL IV fluids after an abnormal MRI स्कैन report showed signs of इस्केमिक स्ट्रोक.,200mL,B-DOSAGE
+28,The patient with acute तेज़ सिर दर्द was given 200mL IV fluids after an abnormal MRI स्कैन report showed signs of इस्केमिक स्ट्रोक.,IV,O
+28,The patient with acute तेज़ सिर दर्द was given 200mL IV fluids after an abnormal MRI स्कैन report showed signs of इस्केमिक स्ट्रोक.,fluids,B-MEDICATION
+28,The patient with acute तेज़ सिर दर्द was given 200mL IV fluids after an abnormal MRI स्कैन report showed signs of इस्केमिक स्ट्रोक.,after,O
+28,The patient with acute तेज़ सिर दर्द was given 200mL IV fluids after an abnormal MRI स्कैन report showed signs of इस्केमिक स्ट्रोक.,an,O
+28,The patient with acute तेज़ सिर दर्द was given 200mL IV fluids after an abnormal MRI स्कैन report showed signs of इस्केमिक स्ट्रोक.,abnormal,O
+28,The patient with acute तेज़ सिर दर्द was given 200mL IV fluids after an abnormal MRI स्कैन report showed signs of इस्केमिक स्ट्रोक.,MRI,B-TEST
+28,The patient with acute तेज़ सिर दर्द was given 200mL IV fluids after an abnormal MRI स्कैन report showed signs of इस्केमिक स्ट्रोक.,स्कैन,I-TEST
+28,The patient with acute तेज़ सिर दर्द was given 200mL IV fluids after an abnormal MRI स्कैन report showed signs of इस्केमिक स्ट्रोक.,report,O
+28,The patient with acute तेज़ सिर दर्द was given 200mL IV fluids after an abnormal MRI स्कैन report showed signs of इस्केमिक स्ट्रोक.,showed,O
+28,The patient with acute तेज़ सिर दर्द was given 200mL IV fluids after an abnormal MRI स्कैन report showed signs of इस्केमिक स्ट्रोक.,signs,O
+28,The patient with acute तेज़ सिर दर्द was given 200mL IV fluids after an abnormal MRI स्कैन report showed signs of इस्केमिक स्ट्रोक.,of,O
+28,The patient with acute तेज़ सिर दर्द was given 200mL IV fluids after an abnormal MRI स्कैन report showed signs of इस्केमिक स्ट्रोक.,इस्केमिक,B-CONDITION
+28,The patient with acute तेज़ सिर दर्द was given 200mL IV fluids after an abnormal MRI स्कैन report showed signs of इस्केमिक स्ट्रोक.,स्ट्रोक,I-CONDITION
+28,The patient with acute तेज़ सिर दर्द was given 200mL IV fluids after an abnormal MRI स्कैन report showed signs of इस्केमिक स्ट्रोक.,.,O
+29,"The patient with acute myocardial infarction (दिल का दौरा) underwent अन्गिओप्लास्टी after a series of tests including ECG, ब्लड टेस्ट, and Troponin levels were found abnormal, and was prescribed 300mg Aspirin and 20mg Atorvastatin twice daily.",The,O
+29,"The patient with acute myocardial infarction (दिल का दौरा) underwent अन्गिओप्लास्टी after a series of tests including ECG, ब्लड टेस्ट, and Troponin levels were found abnormal, and was prescribed 300mg Aspirin and 20mg Atorvastatin twice daily.",patient,O
+29,"The patient with acute myocardial infarction (दिल का दौरा) underwent अन्गिओप्लास्टी after a series of tests including ECG, ब्लड टेस्ट, and Troponin levels were found abnormal, and was prescribed 300mg Aspirin and 20mg Atorvastatin twice daily.",with,O
+29,"The patient with acute myocardial infarction (दिल का दौरा) underwent अन्गिओप्लास्टी after a series of tests including ECG, ब्लड टेस्ट, and Troponin levels were found abnormal, and was prescribed 300mg Aspirin and 20mg Atorvastatin twice daily.",acute,B-CONDITION
+29,"The patient with acute myocardial infarction (दिल का दौरा) underwent अन्गिओप्लास्टी after a series of tests including ECG, ब्लड टेस्ट, and Troponin levels were found abnormal, and was prescribed 300mg Aspirin and 20mg Atorvastatin twice daily.",myocardial,I-CONDITION
+29,"The patient with acute myocardial infarction (दिल का दौरा) underwent अन्गिओप्लास्टी after a series of tests including ECG, ब्लड टेस्ट, and Troponin levels were found abnormal, and was prescribed 300mg Aspirin and 20mg Atorvastatin twice daily.",infarction,I-CONDITION
+29,"The patient with acute myocardial infarction (दिल का दौरा) underwent अन्गिओप्लास्टी after a series of tests including ECG, ब्लड टेस्ट, and Troponin levels were found abnormal, and was prescribed 300mg Aspirin and 20mg Atorvastatin twice daily.",(दिल,I-CONDITION
+29,"The patient with acute myocardial infarction (दिल का दौरा) underwent अन्गिओप्लास्टी after a series of tests including ECG, ब्लड टेस्ट, and Troponin levels were found abnormal, and was prescribed 300mg Aspirin and 20mg Atorvastatin twice daily.",का,I-CONDITION
+29,"The patient with acute myocardial infarction (दिल का दौरा) underwent अन्गिओप्लास्टी after a series of tests including ECG, ब्लड टेस्ट, and Troponin levels were found abnormal, and was prescribed 300mg Aspirin and 20mg Atorvastatin twice daily.",दौरा),I-CONDITION
+29,"The patient with acute myocardial infarction (दिल का दौरा) underwent अन्गिओप्लास्टी after a series of tests including ECG, ब्लड टेस्ट, and Troponin levels were found abnormal, and was prescribed 300mg Aspirin and 20mg Atorvastatin twice daily.",underwent,O
+29,"The patient with acute myocardial infarction (दिल का दौरा) underwent अन्गिओप्लास्टी after a series of tests including ECG, ब्लड टेस्ट, and Troponin levels were found abnormal, and was prescribed 300mg Aspirin and 20mg Atorvastatin twice daily.",अन्गिओप्लास्टी,B-PROCEDURE
+29,"The patient with acute myocardial infarction (दिल का दौरा) underwent अन्गिओप्लास्टी after a series of tests including ECG, ब्लड टेस्ट, and Troponin levels were found abnormal, and was prescribed 300mg Aspirin and 20mg Atorvastatin twice daily.",after,O
+29,"The patient with acute myocardial infarction (दिल का दौरा) underwent अन्गिओप्लास्टी after a series of tests including ECG, ब्लड टेस्ट, and Troponin levels were found abnormal, and was prescribed 300mg Aspirin and 20mg Atorvastatin twice daily.",a,O
+29,"The patient with acute myocardial infarction (दिल का दौरा) underwent अन्गिओप्लास्टी after a series of tests including ECG, ब्लड टेस्ट, and Troponin levels were found abnormal, and was prescribed 300mg Aspirin and 20mg Atorvastatin twice daily.",series,O
+29,"The patient with acute myocardial infarction (दिल का दौरा) underwent अन्गिओप्लास्टी after a series of tests including ECG, ब्लड टेस्ट, and Troponin levels were found abnormal, and was prescribed 300mg Aspirin and 20mg Atorvastatin twice daily.",of,O
+29,"The patient with acute myocardial infarction (दिल का दौरा) underwent अन्गिओप्लास्टी after a series of tests including ECG, ब्लड टेस्ट, and Troponin levels were found abnormal, and was prescribed 300mg Aspirin and 20mg Atorvastatin twice daily.",tests,O
+29,"The patient with acute myocardial infarction (दिल का दौरा) underwent अन्गिओप्लास्टी after a series of tests including ECG, ब्लड टेस्ट, and Troponin levels were found abnormal, and was prescribed 300mg Aspirin and 20mg Atorvastatin twice daily.",including,O
+29,"The patient with acute myocardial infarction (दिल का दौरा) underwent अन्गिओप्लास्टी after a series of tests including ECG, ब्लड टेस्ट, and Troponin levels were found abnormal, and was prescribed 300mg Aspirin and 20mg Atorvastatin twice daily.",ECG,B-TEST
+29,"The patient with acute myocardial infarction (दिल का दौरा) underwent अन्गिओप्लास्टी after a series of tests including ECG, ब्लड टेस्ट, and Troponin levels were found abnormal, and was prescribed 300mg Aspirin and 20mg Atorvastatin twice daily.",",",O
+29,"The patient with acute myocardial infarction (दिल का दौरा) underwent अन्गिओप्लास्टी after a series of tests including ECG, ब्लड टेस्ट, and Troponin levels were found abnormal, and was prescribed 300mg Aspirin and 20mg Atorvastatin twice daily.",ब्लड,B-TEST
+29,"The patient with acute myocardial infarction (दिल का दौरा) underwent अन्गिओप्लास्टी after a series of tests including ECG, ब्लड टेस्ट, and Troponin levels were found abnormal, and was prescribed 300mg Aspirin and 20mg Atorvastatin twice daily.",टेस्ट,I-TEST
+29,"The patient with acute myocardial infarction (दिल का दौरा) underwent अन्गिओप्लास्टी after a series of tests including ECG, ब्लड टेस्ट, and Troponin levels were found abnormal, and was prescribed 300mg Aspirin and 20mg Atorvastatin twice daily.",",",O
+29,"The patient with acute myocardial infarction (दिल का दौरा) underwent अन्गिओप्लास्टी after a series of tests including ECG, ब्लड टेस्ट, and Troponin levels were found abnormal, and was prescribed 300mg Aspirin and 20mg Atorvastatin twice daily.",and,O
+29,"The patient with acute myocardial infarction (दिल का दौरा) underwent अन्गिओप्लास्टी after a series of tests including ECG, ब्लड टेस्ट, and Troponin levels were found abnormal, and was prescribed 300mg Aspirin and 20mg Atorvastatin twice daily.",Troponin,B-TEST
+29,"The patient with acute myocardial infarction (दिल का दौरा) underwent अन्गिओप्लास्टी after a series of tests including ECG, ब्लड टेस्ट, and Troponin levels were found abnormal, and was prescribed 300mg Aspirin and 20mg Atorvastatin twice daily.",levels,O
+29,"The patient with acute myocardial infarction (दिल का दौरा) underwent अन्गिओप्लास्टी after a series of tests including ECG, ब्लड टेस्ट, and Troponin levels were found abnormal, and was prescribed 300mg Aspirin and 20mg Atorvastatin twice daily.",were,O
+29,"The patient with acute myocardial infarction (दिल का दौरा) underwent अन्गिओप्लास्टी after a series of tests including ECG, ब्लड टेस्ट, and Troponin levels were found abnormal, and was prescribed 300mg Aspirin and 20mg Atorvastatin twice daily.",found,O
+29,"The patient with acute myocardial infarction (दिल का दौरा) underwent अन्गिओप्लास्टी after a series of tests including ECG, ब्लड टेस्ट, and Troponin levels were found abnormal, and was prescribed 300mg Aspirin and 20mg Atorvastatin twice daily.",abnormal,O
+29,"The patient with acute myocardial infarction (दिल का दौरा) underwent अन्गिओप्लास्टी after a series of tests including ECG, ब्लड टेस्ट, and Troponin levels were found abnormal, and was prescribed 300mg Aspirin and 20mg Atorvastatin twice daily.",",",O
+29,"The patient with acute myocardial infarction (दिल का दौरा) underwent अन्गिओप्लास्टी after a series of tests including ECG, ब्लड टेस्ट, and Troponin levels were found abnormal, and was prescribed 300mg Aspirin and 20mg Atorvastatin twice daily.",and,O
+29,"The patient with acute myocardial infarction (दिल का दौरा) underwent अन्गिओप्लास्टी after a series of tests including ECG, ब्लड टेस्ट, and Troponin levels were found abnormal, and was prescribed 300mg Aspirin and 20mg Atorvastatin twice daily.",was,O
+29,"The patient with acute myocardial infarction (दिल का दौरा) underwent अन्गिओप्लास्टी after a series of tests including ECG, ब्लड टेस्ट, and Troponin levels were found abnormal, and was prescribed 300mg Aspirin and 20mg Atorvastatin twice daily.",prescribed,O
+29,"The patient with acute myocardial infarction (दिल का दौरा) underwent अन्गिओप्लास्टी after a series of tests including ECG, ब्लड टेस्ट, and Troponin levels were found abnormal, and was prescribed 300mg Aspirin and 20mg Atorvastatin twice daily.",300mg,B-DOSAGE
+29,"The patient with acute myocardial infarction (दिल का दौरा) underwent अन्गिओप्लास्टी after a series of tests including ECG, ब्लड टेस्ट, and Troponin levels were found abnormal, and was prescribed 300mg Aspirin and 20mg Atorvastatin twice daily.",Aspirin,B-MEDICATION
+29,"The patient with acute myocardial infarction (दिल का दौरा) underwent अन्गिओप्लास्टी after a series of tests including ECG, ब्लड टेस्ट, and Troponin levels were found abnormal, and was prescribed 300mg Aspirin and 20mg Atorvastatin twice daily.",and,O
+29,"The patient with acute myocardial infarction (दिल का दौरा) underwent अन्गिओप्लास्टी after a series of tests including ECG, ब्लड टेस्ट, and Troponin levels were found abnormal, and was prescribed 300mg Aspirin and 20mg Atorvastatin twice daily.",20mg,B-DOSAGE
+29,"The patient with acute myocardial infarction (दिल का दौरा) underwent अन्गिओप्लास्टी after a series of tests including ECG, ब्लड टेस्ट, and Troponin levels were found abnormal, and was prescribed 300mg Aspirin and 20mg Atorvastatin twice daily.",Atorvastatin,B-MEDICATION
+29,"The patient with acute myocardial infarction (दिल का दौरा) underwent अन्गिओप्लास्टी after a series of tests including ECG, ब्लड टेस्ट, and Troponin levels were found abnormal, and was prescribed 300mg Aspirin and 20mg Atorvastatin twice daily.",twice,O
+29,"The patient with acute myocardial infarction (दिल का दौरा) underwent अन्गिओप्लास्टी after a series of tests including ECG, ब्लड टेस्ट, and Troponin levels were found abnormal, and was prescribed 300mg Aspirin and 20mg Atorvastatin twice daily.",daily,B-DOSAGE
+29,"The patient with acute myocardial infarction (दिल का दौरा) underwent अन्गिओप्लास्टी after a series of tests including ECG, ब्लड टेस्ट, and Troponin levels were found abnormal, and was prescribed 300mg Aspirin and 20mg Atorvastatin twice daily.",.,O
